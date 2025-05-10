@@ -1,0 +1,404 @@
+.hand-history-page {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    height: calc(100vh - 40px); /* Subtract padding */
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.hand-history-content {
+    background: #1a1a1a;
+    border-radius: 8px;
+    padding: 20px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Prevent double scrollbars */
+    width: 100%;
+}
+
+.hand-history-content h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    flex-shrink: 0; /* Prevent header from shrinking */
+}
+
+.filters-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+    background: #2a2a2a;
+    padding: 15px;
+    border-radius: 6px;
+    flex-shrink: 0;
+    width: 100%;
+}
+
+.filter-group {
+    flex: 1;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.filter-group label {
+    color: #fff;
+    font-size: 0.9em;
+}
+
+.filter-group select,
+.filter-group input {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #444;
+    background: #333;
+    color: #fff;
+}
+
+.stack-range {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px 0;
+    width: 100%;
+}
+
+.stack-range input[type="range"] {
+    width: 100%;
+    height: 2px;
+    background: #444;
+    border-radius: 1px;
+    outline: none;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.stack-range input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 12px;
+    height: 12px;
+    background: #666;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.stack-range input[type="range"]::-webkit-slider-thumb:hover {
+    background: #888;
+}
+
+.stack-values {
+    display: flex;
+    justify-content: space-between;
+    color: #888;
+    font-size: 0.8em;
+}
+
+.hands-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    overflow-y: auto;
+    padding-right: 10px;
+    width: 100%;
+    min-height: 0;
+    overflow: visible;
+}
+
+.hands-grid:empty {
+    display: block; /* Change display when empty to prevent grid layout */
+}
+
+/* Style the scrollbar */
+.hands-grid::-webkit-scrollbar {
+    width: 8px;
+}
+
+.hands-grid::-webkit-scrollbar-track {
+    background: #2a2a2a;
+    border-radius: 4px;
+}
+
+.hands-grid::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 4px;
+}
+
+.hands-grid::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.hand-card {
+    background: #2a2a2a;
+    border-radius: 8px;
+    padding: 15px;
+    color: #fff;
+    position: relative;
+    transition: all 0.2s ease;
+    overflow: visible;
+}
+
+.hand-card:hover {
+    background: #333;
+}
+
+.hand-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #444;
+}
+
+.hand-date {
+    color: #888;
+    font-size: 0.9em;
+}
+
+.hand-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.hand-game-type {
+    background: #444;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+.hand-game-type.clickable {
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.hand-game-type.clickable:hover {
+    background: #555;
+}
+
+.tournament-name-input {
+    background: #444;
+    border: 1px solid #666;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.8em;
+    width: 150px;
+    outline: none;
+}
+
+.tournament-name-input:focus {
+    border-color: #50a2d9;
+    box-shadow: 0 0 0 2px rgba(80, 162, 217, 0.2);
+}
+
+.delete-button {
+    background: none;
+    border: none;
+    color: #ff4444;
+    font-size: 1.2em;
+    cursor: pointer;
+    padding: 0 5px;
+}
+
+.delete-button:hover {
+    color: #ff6666;
+}
+
+.hand-details {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 0.9em;
+}
+
+.detail-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.detail-label {
+    color: #888;
+    font-size: 0.8em;
+}
+
+.detail-value {
+    color: #fff;
+}
+
+.cards-display {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 30px;
+}
+
+.card {
+    width: 20px;
+    height: 30px;
+    background: #fff;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.card.red {
+    color: #ff0000;
+}
+
+.card.diamonds {
+    color: #326dc1;
+}
+
+.card.clubs {
+    color: #2fa92f;
+}
+
+.card-rank {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.card-suit {
+    font-size: 2em;
+    line-height: 1;
+}
+
+.hand-hover-details {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #333;
+    border-radius: 0 0 8px 8px;
+    padding: 15px;
+    display: none;
+    z-index: 10;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    margin-top: 5px;
+}
+
+.hand-card:hover .hand-hover-details {
+    display: block;
+}
+
+.hover-detail-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.hover-detail-row:last-child {
+    margin-bottom: 0;
+}
+
+.hover-detail-label {
+    color: #888;
+    font-size: 0.8em;
+    min-width: 120px;
+}
+
+.hover-detail-value {
+    color: #fff;
+}
+
+.community-cards-display {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+}
+
+.community-cards-display .card {
+    width: 18px;
+    height: 27px;
+}
+
+.community-cards-display .card-rank {
+    font-size: 0.7em;
+    line-height: 4;
+}
+
+.community-cards-display .card-suit {
+    font-size: 1em;
+}
+
+.error-message {
+    background: #ff4444;
+    color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.loading-message,
+.no-hands-message {
+    text-align: center;
+    color: #888;
+    padding: 20px;
+    font-size: 1.1em;
+    width: 100%;
+}
+
+.hole-cards-input {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
+.hole-cards-input input {
+    width: 70px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #444;
+    background: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.hole-cards-input input:focus {
+    outline: none;
+    border-color: #666;
+}
+
+.card-format-hint {
+    font-size: 0.8em;
+    color: #888;
+    margin-top: 4px;
+    text-align: center;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hands-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hand-details {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .filters-section {
+        flex-wrap: wrap;
+    }
+} 

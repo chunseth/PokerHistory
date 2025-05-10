@@ -1,0 +1,224 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2d2d2d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4CAF50;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #45a049;
+}
+
+/* Selection styling */
+::selection {
+  background: #4CAF50;
+  color: #ffffff;
+}
+
+/* Link styling */
+a {
+  color: #4CAF50;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #45a049;
+}
+
+/* Button styling */
+button {
+  background-color: #4CAF50;
+  color: #ffffff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:disabled {
+  background-color: #666;
+  cursor: not-allowed;
+}
+
+/* Input styling */
+input {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  border: 1px solid #404040;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+input:focus {
+  outline: none;
+  border-color: #4CAF50;
+}
+
+/* Card styling */
+.card {
+  background-color: #2d2d2d;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Table styling */
+table {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #404040;
+  padding: 0.5rem;
+}
+
+th {
+  background-color: #333;
+}
+
+/* Modal/Overlay styling */
+.modal, .overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+  background-color: #2d2d2d;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.app {
+  min-height: 100vh;
+  background: #121212;
+  color: #fff;
+}
+
+.app-header {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 2rem;
+  color: #4CAF50;
+}
+
+.app-main {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 4rem);
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.tabs button {
+  background: none;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1.1em;
+  position: relative;
+}
+
+.tabs button.active {
+  font-weight: bold;
+}
+
+.tabs button.active::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #3498db;
+}
+
+.app-content {
+  flex: 1;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Card styling */
+.card {
+  display: inline-block;
+  width: 40px;
+  height: 60px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 60px;
+  font-family: monospace;
+  font-size: 1.2em;
+  margin: 0 2px;
+}
+
+.card.red {
+  color: #e74c3c;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .app-header {
+    padding: 15px;
+  }
+
+  .app-header h1 {
+    font-size: 1.5em;
+  }
+
+  .tabs {
+    gap: 10px;
+  }
+
+  .tabs button {
+    padding: 8px 15px;
+    font-size: 1em;
+  }
+
+  .app-content {
+    padding: 15px;
+  }
+} 

@@ -1,0 +1,111 @@
+.hand-input {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hand-input h2 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: #34495e;
+    font-weight: 500;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1em;
+    margin-bottom: 8px;
+}
+
+input:focus, select:focus {
+    outline: none;
+    border-color: #3498db;
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.hole-cards-input,
+.community-cards-input {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.flop {
+    display: flex;
+    gap: 10px;
+}
+
+.hole-cards-input input,
+.community-cards-input input {
+    width: 60px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.betting-input {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 1fr;
+    gap: 10px;
+    align-items: start;
+}
+
+.betting-input input,
+.betting-input select {
+    margin: 0;
+}
+
+button {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background: #2980b9;
+}
+
+.save-button {
+    width: 100%;
+    background: #27ae60;
+    margin-top: 20px;
+    padding: 12px;
+}
+
+.save-button:hover {
+    background: #219a52;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .betting-input {
+        grid-template-columns: 1fr;
+    }
+
+    .community-cards-input {
+        flex-direction: column;
+    }
+
+    .flop {
+        justify-content: center;
+    }
+} 

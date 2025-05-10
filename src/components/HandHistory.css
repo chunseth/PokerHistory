@@ -1,0 +1,164 @@
+.hand-history {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.hand-history-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.hand-history-header h1 {
+    margin: 0;
+    color: #333;
+}
+
+.hand-history-controls {
+    display: flex;
+    gap: 10px;
+}
+
+.view-hand-button {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.view-hand-button:hover {
+    background-color: #1976d2;
+}
+
+.message {
+    display: flex;
+    align-items: flex-start;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.message-icon {
+    font-size: 24px;
+    margin-right: 16px;
+}
+
+.message-content {
+    flex: 1;
+}
+
+.message-content h3 {
+    margin: 0 0 8px 0;
+    font-size: 16px;
+}
+
+.message-content p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.error-message {
+    background-color: #ffebee;
+    color: #c62828;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #ef9a9a;
+}
+
+.success-message {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #a5d6a7;
+}
+
+.saving-message {
+    background-color: #e3f2fd;
+    color: #1565c0;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 1px solid #90caf9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.saving-message::after {
+    content: '';
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    border: 2px solid #1565c0;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.poker-table-container {
+    position: relative;
+    min-height: 400px;
+}
+
+.loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.loading-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid #e3f2fd;
+    border-top-color: #2196f3;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.loading-text {
+    text-align: center;
+}
+
+.loading-text h3 {
+    margin: 0 0 8px 0;
+    color: #1565c0;
+}
+
+.loading-text p {
+    margin: 0;
+    color: #666;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+} 

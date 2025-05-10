@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poker History Tracker</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        input[type="date"], input[type="number"] {
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid #e5e7eb;
+            border-radius: 0.375rem;
+            outline: none;
+            margin-top: 0.25rem;
+        }
+        input[type="date"]:focus, input[type="number"]:focus {
+            border-color: #6366f1;
+            box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-800">Poker History Tracker</h1>
+            <p class="text-gray-600 mt-2">Track and analyze your poker hands</p>
+            <div class="mt-4 text-lg">
+                <span id="currentTime" class="font-mono"></span>
+                <span id="currentDate" class="ml-2"></span>
+            </div>
+        </header>
+
+        <main class="bg-white rounded-lg shadow-lg p-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <section class="border rounded-lg p-4">
+                    <h2 class="text-xl font-semibold mb-4">Add New Hand</h2>
+                    <form id="handForm" class="space-y-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700" for="date">Date</label>
+                            <input type="date" id="date" name="date" required class="mt-1">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700" for="buyIn">Buy-in Amount</label>
+                            <input type="number" id="buyIn" name="buyIn" step="0.01" required class="mt-1">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700" for="cashOut">Cash-out Amount</label>
+                            <input type="number" id="cashOut" name="cashOut" step="0.01" required class="mt-1">
+                        </div>
+                        <button type="submit" class="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+                            Add Hand
+                        </button>
+                    </form>
+                </section>
+
+                <section class="border rounded-lg p-4">
+                    <h2 class="text-xl font-semibold mb-4">Recent Hands</h2>
+                    <div id="handsList" class="space-y-4">
+                        <div class="text-center text-gray-500">
+                            No hands recorded yet
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <script src="/assets/js/app.js"></script>
+</body>
+</html>
