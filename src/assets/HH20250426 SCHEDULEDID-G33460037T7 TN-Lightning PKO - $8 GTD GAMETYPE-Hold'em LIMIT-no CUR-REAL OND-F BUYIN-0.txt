@@ -1,0 +1,60 @@
+Game Hand #2449392532 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:33:04 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: slavikickflip (67040.00)
+Seat 2: Understood508 (99300.00)
+Seat 3: nairobe24 (187464.00)
+Seat 4: mesmerr (323063.00)
+Seat 5: Fedordisciple (123337.00)
+Seat 6: grotle (278424.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+Understood508 posts the small blind 1400.00
+nairobe24 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qh Th]
+mesmerr folds
+Fedordisciple raises 5600.00 to 5600.00
+grotle calls 5600.00
+slavikickflip folds
+Understood508 calls 4200.00
+nairobe24 calls 2800.00
+*** FLOP *** [7h 6h Kh]
+Main pot 24500.00
+Understood508 checks
+nairobe24 bets 12250.00
+Fedordisciple calls 12250.00
+grotle calls 12250.00
+Understood508 calls 12250.00
+*** TURN *** [7h 6h Kh] [8h]
+Main pot 73500.00
+Understood508 checks
+nairobe24 bets 36750.00
+Fedordisciple folds
+grotle calls 36750.00
+Understood508 calls 36750.00
+*** RIVER *** [7h 6h Kh 8h] [4h]
+Main pot 183750.00
+Understood508 checks
+nairobe24 checks
+grotle bets 45938.00
+Understood508 folds
+nairobe24 calls 45938.00
+*** SHOW DOWN ***
+Main pot 275626.00
+nairobe24 shows [2h Jh] (a flush, King high [Kh Jh 8h 7h 6h])
+grotle shows [Qh Th] (a flush, King high [Kh Qh Th 8h 7h])
+grotle collected 275626.00 from main pot
+*** SUMMARY ***
+Total pot 275626.00
+Board [7h 6h Kh 8h 4h]
+Seat 1: slavikickflip (button) folded on the Pre-Flop
+Seat 2: Understood508 (small blind) folded on the River
+Seat 3: nairobe24 (big blind) showed [2h Jh] and lost with a flush, King high [Kh Jh 8h 7h 6h]
+Seat 4: mesmerr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Turn
+Seat 6: grotle showed [Qh Th] and won 275626.00 with a flush, King high [Kh Qh Th 8h 7h]

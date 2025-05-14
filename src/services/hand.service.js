@@ -5,23 +5,22 @@ class HandService {
     constructor() {
         this.isConnected = false;
         this.MONGODB_URI = 'mongodb://localhost:27017/pokerHistory';
-    }
-
-    async connect() {
-        if (!this.isConnected) {
-            try {
-                await mongoose.connect(this.MONGODB_URI, {
-                    dbName: 'pokerHistory',
-                    compressors: ['zlib'],
-                    zlibCompressionLevel: 7
-                });
-                this.isConnected = true;
-                console.log('Connected to MongoDB for hand service');
-            } catch (error) {
-                console.error('Failed to connect to MongoDB:', error);
-                throw error;
+        this.connect = async () => {
+            if (!this.isConnected) {
+                try {
+                    await mongoose.connect(this.MONGODB_URI, {
+                        dbName: 'pokerHistory',
+                        compressors: ['zlib'],
+                        zlibCompressionLevel: 7
+                    });
+                    this.isConnected = true;
+                    console.log('Connected to MongoDB for hand service');
+                } catch (error) {
+                    console.error('Failed to connect to MongoDB:', error);
+                    throw error;
+                }
             }
-        }
+        };
     }
 
     async disconnect() {

@@ -177,7 +177,7 @@ const userSchema = new Schema({
         type: String, 
         required: true, 
         unique: true,
-        index: true  // This is the preferred way to define indexes
+        index: true
     },
     sessions: [{ type: String, ref: 'Session' }],
     statistics: userStatisticsSchema
