@@ -372,6 +372,9 @@ const PokerTable = ({ onHandComplete }) => {
     };
 
     const getPlayerPosition = (index) => {
+        if (hand.playerPositions) {
+            return hand.playerPositions[index];
+        }
         const positions = {
             2: ['BTN/SB', 'BB'],
             3: ['BTN', 'SB', 'BB'],

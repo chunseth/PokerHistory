@@ -21,8 +21,8 @@ const HandReplay = ({ handData }) => {
     useEffect(() => {
         if (handData) {
             // Set initial blinds
-            const sbPosition = (handData.buttonPosition - 1 + handData.numPlayers) % handData.numPlayers;
-            const bbPosition = (handData.buttonPosition - 2 + handData.numPlayers) % handData.numPlayers;
+            const sbPosition = (handData.buttonPosition + 1 + handData.numPlayers) % handData.numPlayers;
+            const bbPosition = (handData.buttonPosition + 2 + handData.numPlayers) % handData.numPlayers;
             
             setPlayerBets({
                 [sbPosition]: 0.5,
@@ -40,6 +40,9 @@ const HandReplay = ({ handData }) => {
     }, [handData]);
 
     const getPlayerPosition = (index) => {
+        if (handData.playerPositions) {
+            return handData.playerPositions[index];
+        }
         const positions = {
             2: ['BTN/SB', 'BB'],
             3: ['BTN', 'SB', 'BB'],
@@ -57,7 +60,8 @@ const HandReplay = ({ handData }) => {
         }
 
         const basePositions = positions[handData.numPlayers];
-        const distanceFromButton = (handData.buttonPosition - index + handData.numPlayers) % handData.numPlayers;
+        // Calculate clockwise distance from button
+        const distanceFromButton = (index - handData.buttonPosition + handData.numPlayers) % handData.numPlayers;
         return basePositions[distanceFromButton];
     };
 
@@ -156,6 +160,7 @@ const HandReplay = ({ handData }) => {
             // Update pot size
             setPotSize(prev => prev + actionAmount);
 
+            // Move to next action
             setCurrentActionIndex(prev => prev + 1);
             
             // Start slide in animation
@@ -376,7 +381,8 @@ const HandReplay = ({ handData }) => {
         for (let i = 0; i < handData.numPlayers; i++) {
             const totalSeats = handData.numPlayers;
             const angleStep = (2 * Math.PI) / totalSeats;
-            const angle = -((angleStep * i) - Math.PI/2);
+            // Mirror the angle calculation but keep hero at bottom
+            const angle = ((angleStep * i) + Math.PI/2);
             
             const x = centerX + 1.6 * radius * Math.cos(angle);
             const y = centerY + 0.8 * radius * Math.sin(angle);

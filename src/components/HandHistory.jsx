@@ -29,6 +29,30 @@ const HandHistory = () => {
         }
     };
 
+    // Add a helper for future-proofing if position display is needed
+    const getPlayerPosition = (hand, index) => {
+        if (hand.playerPositions) {
+            return hand.playerPositions[index];
+        }
+        const positions = {
+            2: ['BTN/SB', 'BB'],
+            3: ['BTN', 'SB', 'BB'],
+            4: ['BTN', 'SB', 'BB', 'UTG'],
+            5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
+            6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
+            7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
+            8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
+            9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
+            10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
+        };
+        if (hand.numPlayers === 2) {
+            return positions[2][index];
+        }
+        const basePositions = positions[hand.numPlayers];
+        const distanceFromButton = (hand.buttonPosition - index + hand.numPlayers) % hand.numPlayers;
+        return basePositions[distanceFromButton];
+    };
+
     return (
         <div className="hand-history">
             <div className="hand-history-header">
