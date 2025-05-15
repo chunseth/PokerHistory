@@ -47,6 +47,29 @@ const apiService = {
         }
     },
 
+    // Upload hand history file
+    uploadHandHistory: async (formData, onProgress) => {
+        try {
+            const response = await axios.post(`${API_BASE_URL}/hands/upload`, formData, {
+                headers: {
+                    'Content-Type': 'multipart/form-data'
+                },
+                onUploadProgress: (progressEvent) => {
+                    if (onProgress) {
+                        onProgress({
+                            processedHands: progressEvent.loaded,
+                            totalHands: progressEvent.total
+                        });
+                    }
+                }
+            });
+            return response.data;
+        } catch (error) {
+            console.error('Error uploading hand history:', error);
+            throw error;
+        }
+    },
+
     async getHandsByDateRange(startDate, endDate) {
         try {
             const response = await axios.get(`${API_BASE_URL}/hands`, {

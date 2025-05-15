@@ -58,3 +58,198 @@ Seat 3: nairobe24 (big blind) showed [2h Jh] and lost with a flush, King high [K
 Seat 4: mesmerr folded on the Pre-Flop and did not bet
 Seat 5: Fedordisciple folded on the Turn
 Seat 6: grotle showed [Qh Th] and won 275626.00 with a flush, King high [Kh Qh Th 8h 7h]
+
+Game Hand #2449394095 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:37:06 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (65990.00)
+Seat 2: Understood508 (43650.00)
+Seat 3: nairobe24 (84476.00)
+Seat 4: mesmerr (315013.00)
+Seat 5: Fedordisciple (107937.00)
+Seat 6: grotle (461562.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+Fedordisciple posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Kh Ah]
+slavikickflip folds
+Understood508 calls 2800.00
+nairobe24 calls 2800.00
+mesmerr folds
+Fedordisciple folds
+grotle raises 2800.00 to 5600.00
+Understood508 calls 2800.00
+nairobe24 calls 2800.00
+*** FLOP *** [2c Qs 5c]
+Main pot 20300.00
+grotle bets 4200.00
+Understood508 calls 4200.00
+nairobe24 folds
+*** TURN *** [2c Qs 5c] [Qd]
+Main pot 28700.00
+grotle checks
+Understood508 bets 7175.00
+grotle calls 7175.00
+*** RIVER *** [2c Qs 5c Qd] [Js]
+Main pot 43050.00
+grotle checks
+Understood508 bets 26325.00 and is all-in
+grotle folds
+Uncalled bet (26325.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 43050.00
+Board [2c Qs 5c Qd Js]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 did not show and won 43050.00
+Seat 3: nairobe24 folded on the Flop
+Seat 4: mesmerr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the River
+
+Game Hand #2449397908 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:46:59 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (57140.00)
+Seat 4: mesmerr (449213.00)
+Seat 5: Fedordisciple (140137.00)
+Seat 6: grotle (353612.00)
+slavikickflip posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Fedordisciple posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Ks Qs]
+slavikickflip folds
+mesmerr raises 8000.00 to 8000.00
+Fedordisciple folds
+grotle raises 19200.00 to 22400.00
+mesmerr calls 14400.00
+*** FLOP *** [8s Qd 4h]
+Main pot 48000.00
+grotle bets 24000.00
+mesmerr calls 24000.00
+*** TURN *** [8s Qd 4h] [Ts]
+Main pot 96000.00
+grotle bets 72000.00
+mesmerr calls 72000.00
+*** RIVER *** [8s Qd 4h Ts] [9h]
+Main pot 240000.00
+grotle bets 234812.00 and is all-in
+mesmerr calls 234812.00
+*** SHOW DOWN ***
+Main pot 709624.00
+mesmerr shows [Qh Js] (a straight, Queen high [Qh Js Ts 9h 8s])
+grotle shows [Ks Qs] (a pair of Queens [Qs Qd Ks Ts 9h])
+mesmerr collected 709624.00 from main pot
+*** SUMMARY ***
+Total pot 709624.00
+Board [8s Qd 4h Ts 9h]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 4: mesmerr (button) showed [Qh Js] and won 709624.00 with a straight, Queen high [Qh Js Ts 9h 8s]
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) showed [Ks Qs] and lost with a pair of Queens [Qs Qd Ks Ts 9h]
+
+Game Hand #2449397283 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:45:19 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: slavikickflip (57940.00)
+Seat 2: Understood508 (66450.00)
+Seat 4: mesmerr (339763.00)
+Seat 5: Fedordisciple (144137.00)
+Seat 6: grotle (391812.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Understood508 posts the small blind 1600.00
+mesmerr posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ts Qh]
+Fedordisciple folds
+grotle raises 6400.00 to 6400.00
+slavikickflip folds
+Understood508 folds
+mesmerr calls 3200.00
+*** FLOP *** [As Tc 3c]
+Main pot 16400.00
+mesmerr checks
+grotle checks
+*** TURN *** [As Tc 3c] [Kh]
+Main pot 16400.00
+mesmerr bets 8200.00
+grotle calls 8200.00
+*** RIVER *** [As Tc 3c Kh] [Jc]
+Main pot 32800.00
+mesmerr checks
+grotle bets 16400.00
+mesmerr calls 16400.00
+*** SHOW DOWN ***
+Main pot 65600.00
+mesmerr shows [6c 8c] (a flush, Jack high [Jc Tc 8c 6c 3c])
+grotle shows [Ts Qh] (a straight, Ace high [As Kh Qh Jc Ts])
+mesmerr collected 65600.00 from main pot
+*** SUMMARY ***
+Total pot 65600.00
+Board [As Tc 3c Kh Jc]
+Seat 1: slavikickflip (button) folded on the Pre-Flop
+Seat 2: Understood508 (small blind) folded on the Pre-Flop
+Seat 4: mesmerr (big blind) showed [6c 8c] and won 65600.00 with a flush, Jack high [Jc Tc 8c 6c 3c]
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: grotle showed [Ts Qh] and lost with a straight, Ace high [As Kh Qh Jc Ts]
+
+Game Hand #2449396097 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:42:16 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (68740.00)
+Seat 2: Understood508 (55925.00)
+Seat 4: mesmerr (329363.00)
+Seat 5: Fedordisciple (95937.00)
+Seat 6: grotle (450137.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Fedordisciple posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7d Qd]
+slavikickflip folds
+Understood508 calls 3200.00
+mesmerr folds
+Fedordisciple folds
+grotle checks
+*** FLOP *** [Kc Qc 8s]
+Main pot 10000.00
+grotle checks
+Understood508 checks
+*** TURN *** [Kc Qc 8s] [Jh]
+Main pot 10000.00
+grotle checks
+Understood508 bets 52325.00 and is all-in
+grotle calls 52325.00
+*** RIVER *** [Kc Qc 8s Jh] [Js]
+Main pot 114650.00
+*** SHOW DOWN ***
+Main pot 114650.00
+Understood508 shows [3s Ks] (two pair, Kings and Jacks [Ks Kc Js Jh Qc])
+grotle shows [7d Qd] (two pair, Queens and Jacks [Qd Qc Js Jh Kc])
+Understood508 collected 114650.00 from main pot
+*** SUMMARY ***
+Total pot 114650.00
+Board [Kc Qc 8s Jh Js]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 showed [3s Ks] and won 114650.00 with two pair, Kings and Jacks [Ks Kc Js Jh Qc]
+Seat 4: mesmerr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) showed [7d Qd] and lost with two pair, Queens and Jacks [Qd Qc Js Jh Kc]

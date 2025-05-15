@@ -26,6 +26,14 @@ const Home = () => {
                         <p>Review your saved poker hands</p>
                         <div className="card-icon">📊</div>
                     </div>
+                    <div 
+                        className="nav-card"
+                        onClick={() => navigate('/import-hands')}
+                    >
+                        <h2>Import Hands</h2>
+                        <p>Upload hand history text files</p>
+                        <div className="card-icon">📤</div>
+                    </div>
                 </div>
             </div>
         </div>

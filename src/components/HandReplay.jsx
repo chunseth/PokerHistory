@@ -4,38 +4,42 @@ import './HandReplay.css';
 import cardBack from '../assets/BackOfCard.png';
 
 const HandReplay = ({ handData }) => {
+    // Log hand ID on mount
+    useEffect(() => {
+        if (handData?.id) {
+            console.log('Hand ID:', handData.id);
+        }
+    }, [handData?.id]);
+
     const [currentActionIndex, setCurrentActionIndex] = useState(-1);
     const [currentStreet, setCurrentStreet] = useState('preflop');
-    const [foldedPlayers, setFoldedPlayers] = useState(new Set());
+    const [isStreetTransition, setIsStreetTransition] = useState(false);
+    const [actionAnimation, setActionAnimation] = useState('visible');
+    const [streetBets, setStreetBets] = useState({});
     const [currentBet, setCurrentBet] = useState(0);
     const [lastRaise, setLastRaise] = useState(0);
-    const [playerBets, setPlayerBets] = useState({});
-    const [streetBets, setStreetBets] = useState({});
     const [lastRaiser, setLastRaiser] = useState(null);
+    const [foldedPlayers, setFoldedPlayers] = useState(new Set());
     const [potSize, setPotSize] = useState(0);
-    const [actionAnimation, setActionAnimation] = useState('visible');
+    const [playerBets, setPlayerBets] = useState({});
+    const [allInPlayers, setAllInPlayers] = useState(new Set());
     const [revealedVillains, setRevealedVillains] = useState(new Set());
-    const [isStreetTransition, setIsStreetTransition] = useState(false);
 
-    // Initialize the hand state
+    // Reset state when hand data changes
     useEffect(() => {
         if (handData) {
-            // Set initial blinds
-            const sbPosition = (handData.buttonPosition + 1 + handData.numPlayers) % handData.numPlayers;
-            const bbPosition = (handData.buttonPosition + 2 + handData.numPlayers) % handData.numPlayers;
-            
-            setPlayerBets({
-                [sbPosition]: 0.5,
-                [bbPosition]: 1
-            });
-            
-            setStreetBets({
-                [sbPosition]: 0.5,
-                [bbPosition]: 1
-            });
-            
-            setCurrentBet(1);
-            setPotSize(1.5);
+            setCurrentActionIndex(-1);
+            setCurrentStreet('preflop');
+            setIsStreetTransition(false);
+            setActionAnimation('visible');
+            setStreetBets({});
+            setCurrentBet(0);
+            setLastRaise(0);
+            setLastRaiser(null);
+            setFoldedPlayers(new Set());
+            setPotSize(0);
+            setPlayerBets({});
+            setAllInPlayers(new Set());
         }
     }, [handData]);
 
@@ -91,30 +95,37 @@ const HandReplay = ({ handData }) => {
                 setCurrentActionIndex(prev => prev + 1);
                 setIsStreetTransition(true);
                 setActionAnimation('visible');
-                return;
-            }
-        }
+                
+                // Process the next action immediately after transition
+                const playerIndex = nextAction.playerIndex;
+                const actionAmount = nextAction.amount || 0;
 
-        // If we've reached the end of betting actions but haven't shown all streets
-        if (currentActionIndex === handData.bettingActions.length - 1) {
-            const currentAction = handData.bettingActions[currentActionIndex];
-            if (currentAction.street === 'preflop') {
-                setCurrentStreet('flop');
-                setIsStreetTransition(true);
-                setActionAnimation('visible');
-                return;
-            } else if (currentAction.street === 'flop') {
-                setCurrentStreet('turn');
-                setIsStreetTransition(true);
-                setActionAnimation('visible');
-                return;
-            } else if (currentAction.street === 'turn') {
-                setCurrentStreet('river');
-                setIsStreetTransition(true);
-                setActionAnimation('visible');
-                return;
-            } else if (currentAction.street === 'river') {
-                // If we're at the river, we're done with the hand
+                if (nextAction.action === 'bet') {
+                    setCurrentBet(actionAmount);
+                    setLastRaise(actionAmount);
+                    setLastRaiser(playerIndex);
+                }
+
+                // Update player bets
+                setPlayerBets(prev => ({
+                    ...prev,
+                    [playerIndex]: (prev[playerIndex] || 0) + actionAmount
+                }));
+
+                // Update street bets
+                setStreetBets(prev => ({
+                    ...prev,
+                    [playerIndex]: (prev[playerIndex] || 0) + actionAmount
+                }));
+
+                // Update pot size
+                setPotSize(prev => prev + actionAmount);
+
+                // Update all-in status
+                if (nextAction.isAllIn) {
+                    setAllInPlayers(prev => new Set([...prev, playerIndex]));
+                }
+
                 return;
             }
         }
@@ -124,15 +135,6 @@ const HandReplay = ({ handData }) => {
             setActionAnimation('slide-out');
 
             const nextAction = handData.bettingActions[currentActionIndex + 1];
-            
-            // Skip blind posting actions
-            if (nextAction.action === 'post' && nextAction.street === 'preflop') {
-                setCurrentActionIndex(prev => prev + 1);
-                setActionAnimation('visible');
-                return;
-            }
-
-            // Update player bets and pot size
             const playerIndex = nextAction.playerIndex;
             const actionAmount = nextAction.amount || 0;
             
@@ -143,6 +145,17 @@ const HandReplay = ({ handData }) => {
                 setLastRaise(actionAmount);
                 setCurrentBet(totalBet);
                 setLastRaiser(playerIndex);
+            } else if (nextAction.action === 'bet') {
+                setCurrentBet(actionAmount);
+                setLastRaise(actionAmount);
+                setLastRaiser(playerIndex);
+            } else if (nextAction.action === 'post') {
+                // For blind posts, update the current bet
+                if (nextAction.position === 'BB') {
+                    setCurrentBet(1);
+                } else if (nextAction.position === 'SB') {
+                    setCurrentBet(0.5);
+                }
             }
 
             // Update player bets
@@ -160,6 +173,11 @@ const HandReplay = ({ handData }) => {
             // Update pot size
             setPotSize(prev => prev + actionAmount);
 
+            // Update all-in status
+            if (nextAction.isAllIn) {
+                setAllInPlayers(prev => new Set([...prev, playerIndex]));
+            }
+
             // Move to next action
             setCurrentActionIndex(prev => prev + 1);
             
@@ -171,82 +189,66 @@ const HandReplay = ({ handData }) => {
     };
 
     const handlePreviousAction = () => {
-        // If we're in a street transition, go back to the last action of the previous street
-        if (isStreetTransition) {
-            setIsStreetTransition(false);
-            setActionAnimation('visible');
+        if (currentActionIndex < 0) {
             return;
         }
 
-        if (currentActionIndex >= 0) {
-            // Start slide out animation
-            setActionAnimation('slide-out');
-
+        // If we're in a street transition, go back to the previous street
+        if (isStreetTransition) {
             const currentAction = handData.bettingActions[currentActionIndex];
+            const prevAction = handData.bettingActions[currentActionIndex - 1];
             
-            // If we're at the start of a street, go back to the previous street's last action
-            if (currentActionIndex > 0) {
-                const prevAction = handData.bettingActions[currentActionIndex - 1];
-                if (prevAction.street !== currentAction.street) {
-                    setCurrentStreet(prevAction.street);
-                    setStreetBets({});
-                    setCurrentBet(0);
-                    setLastRaise(0);
-                    setCurrentActionIndex(prev => prev - 1);
-                    setActionAnimation('visible');
-                    return;
-                }
+            if (prevAction && prevAction.street !== currentAction.street) {
+                setCurrentStreet(prevAction.street);
+                setIsStreetTransition(false);
+                setActionAnimation('visible');
+                return;
             }
-
-            // Update player bets and pot size
-            const playerIndex = currentAction.playerIndex;
-            const actionAmount = currentAction.amount || 0;
-
-            if (currentAction.action === 'fold') {
-                setFoldedPlayers(prev => {
-                    const newFolded = new Set(prev);
-                    newFolded.delete(playerIndex);
-                    return newFolded;
-                });
-            } else if (currentAction.action === 'raise') {
-                const prevRaises = handData.bettingActions
-                    .slice(0, currentActionIndex)
-                    .filter(action => action.action === 'raise' && action.street === currentAction.street)
-                    .reverse();
-                
-                if (prevRaises.length > 0) {
-                    setLastRaise(prevRaises[0].amount);
-                    setCurrentBet(prevRaises[0].amount);
-                } else {
-                    setLastRaise(0);
-                    setCurrentBet(0);
-                }
-                
-                setLastRaiser(prevRaises.length > 0 ? prevRaises[0].playerIndex : null);
-            }
-
-            // Update player bets
-            setPlayerBets(prev => ({
-                ...prev,
-                [playerIndex]: Math.max(0, (prev[playerIndex] || 0) - actionAmount)
-            }));
-
-            // Update street bets
-            setStreetBets(prev => ({
-                ...prev,
-                [playerIndex]: Math.max(0, (prev[playerIndex] || 0) - actionAmount)
-            }));
-
-            // Update pot size
-            setPotSize(prev => prev - actionAmount);
-
-            setCurrentActionIndex(prev => prev - 1);
-            
-            // Start slide in animation
-            setActionAnimation('slide-in');
-            
-            setActionAnimation('visible');
         }
+
+        const currentAction = handData.bettingActions[currentActionIndex];
+        const playerIndex = currentAction.playerIndex;
+        const actionAmount = currentAction.amount || 0;
+
+        // Undo the action
+        if (currentAction.action === 'fold') {
+            setFoldedPlayers(prev => {
+                const newSet = new Set(prev);
+                newSet.delete(playerIndex);
+                return newSet;
+            });
+        } else if (currentAction.action === 'raise' || currentAction.action === 'bet') {
+            setCurrentBet(prev => prev - actionAmount);
+            setLastRaise(prev => prev - actionAmount);
+        }
+
+        // Undo player bets
+        setPlayerBets(prev => ({
+            ...prev,
+            [playerIndex]: (prev[playerIndex] || 0) - actionAmount
+        }));
+
+        // Undo street bets
+        setStreetBets(prev => ({
+            ...prev,
+            [playerIndex]: (prev[playerIndex] || 0) - actionAmount
+        }));
+
+        // Undo pot size
+        setPotSize(prev => prev - actionAmount);
+
+        // Undo all-in status
+        if (currentAction.isAllIn) {
+            setAllInPlayers(prev => {
+                const newSet = new Set(prev);
+                newSet.delete(playerIndex);
+                return newSet;
+            });
+        }
+
+        // Move to previous action
+        setCurrentActionIndex(prev => prev - 1);
+        setActionAnimation('visible');
     };
 
     const handleVillainCardClick = (playerIndex) => {
@@ -396,9 +398,19 @@ const HandReplay = ({ handData }) => {
             const playerBet = streetBets[i] || 0;
             const isVillain = !foldedPlayers.has(i) && i !== handData.heroPosition;
 
+            // Get all actions for this player in the current street
+            const currentStreetActions = handData.bettingActions.filter(action => 
+                action.street === currentStreet && 
+                action.playerIndex === i
+            );
+            
+            // Check if any action in current street was all-in
+            const isAllIn = currentStreetActions.some(action => action.isAllIn === true);
+
             // Get the last action for this player in the current street
             const lastAction = currentActionIndex >= 0 ? 
                 handData.bettingActions[currentActionIndex] : null;
+
             const showCheck = lastAction && 
                 lastAction.playerIndex === i && 
                 lastAction.action === 'check' &&
@@ -414,7 +426,7 @@ const HandReplay = ({ handData }) => {
             seats.push(
                 <div
                     key={i}
-                    className={`seat ${isButton ? 'button' : ''}`}
+                    className={`seat ${isButton ? 'button' : ''} ${isAllIn ? 'all-in' : ''}`}
                     style={{
                         position: 'absolute',
                         left: `${x - 30}px`,
@@ -434,6 +446,7 @@ const HandReplay = ({ handData }) => {
                     {playerBet > 0 && (
                         <div className="bet-amount">
                             {playerBet}BB
+                            {isAllIn && <span className="all-in-indicator"> ALL IN</span>}
                         </div>
                     )}
                     {showCheck && (
@@ -470,7 +483,9 @@ const HandReplay = ({ handData }) => {
         return (
             <div className={`last-action ${actionAnimation}`}>
                 <span className="position">{action.position}:</span>
-                <span className="action">{action.action}</span>
+                <span className="action">
+                    {action.action}
+                </span>
                 {action.amount > 0 && (
                     <span className="amount">{action.amount}BB</span>
                 )}

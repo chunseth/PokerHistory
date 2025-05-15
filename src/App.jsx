@@ -4,6 +4,7 @@ import Home from './components/Home';
 import NewHandPage from './components/NewHandPage';
 import HandHistoryPage from './components/HandHistoryPage';
 import HandReplayPage from './components/HandReplayPage';
+import ImportHandsPage from './components/ImportHandsPage';
 import Navbar from './components/Navbar';
 import './App.css';
 
@@ -17,6 +18,7 @@ function App() {
                     <Route path="/new-hand" element={<NewHandPage />} />
                     <Route path="/hand-history" element={<HandHistoryPage />} />
                     <Route path="/hand-replay/:handId" element={<HandReplayPage />} />
+                    <Route path="/import-hands" element={<ImportHandsPage />} />
                 </Routes>
             </div>
         </Router>

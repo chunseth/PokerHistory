@@ -85,7 +85,7 @@
     white-space: nowrap;
     text-align: center;
     transform: translateX(-12%);
-} 
+}
 
 @keyframes fadeIn {
     from {
@@ -128,7 +128,7 @@
 .navigation-buttons button.disabled {
     background-color: #666;
     cursor: not-allowed;
-} 
+}
 
 .bet-amount {
     position: absolute;
@@ -381,4 +381,62 @@
 
 .action-option:hover .action-details {
     color: #ffffff;
+}
+
+.all-in {
+    color: #ff4444;
+    font-weight: bold;
+    margin-left: 4px;
+    text-shadow: 0 0 5px rgba(255, 68, 68, 0.5);
+    animation: allInPulse 1.5s ease-in-out infinite;
+}
+
+.all-in-indicator {
+    color: #ff4444;
+    font-weight: bold;
+    margin-left: 4px;
+    font-size: 0.9em;
+    text-shadow: 0 0 5px rgba(255, 68, 68, 0.5);
+    animation: allInPulse 1.5s ease-in-out infinite;
+}
+
+.seat.all-in {
+    border: 2px solid #ff4444;
+    box-shadow: 0 0 10px rgba(255, 68, 68, 0.5);
+    animation: allInPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes allInPulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 68, 68, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(255, 68, 68, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 68, 68, 0);
+    }
+}
+
+.card-container {
+    position: relative;
+    margin: 0 2px;
+}
+
+.seat.all-in .card-container {
+    box-shadow: 0 0 15px rgba(255, 68, 68, 0.8);
+    border-radius: 5px;
+    animation: cardAllInPulse 1.5s ease-in-out infinite;
+}
+
+@keyframes cardAllInPulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 68, 68, 0.8);
+    }
+    70% {
+        box-shadow: 0 0 20px 5px rgba(255, 68, 68, 0.4);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 68, 68, 0.8);
+    }
 } 

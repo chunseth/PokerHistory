@@ -16,7 +16,7 @@ const bettingActionSchema = new mongoose.Schema({
     action: { 
         type: String, 
         required: true,
-        enum: ['fold', 'check', 'call', 'raise', 'post']
+        enum: ['fold', 'check', 'call', 'raise', 'post', 'bet']
     },
     amount: { 
         type: Number, 
@@ -32,6 +32,10 @@ const bettingActionSchema = new mongoose.Schema({
         type: Date, 
         required: true,
         default: Date.now
+    },
+    isAllIn: {
+        type: Boolean,
+        default: false
     }
 }, { _id: false });
 

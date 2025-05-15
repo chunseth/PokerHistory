@@ -1,0 +1,1529 @@
+Game Hand #2449377444 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:38:23 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: KITADOL (100000.00)
+Seat 2: grotle (100175.00)
+Seat 3: flexdll (84287.00)
+Seat 4: Dominoplayerrr (154630.00)
+KITADOL posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+grotle posts the small blind 700.00
+flexdll posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [3d 5s]
+Dominoplayerrr raises 3500.00 to 3500.00
+KITADOL folds
+grotle folds
+flexdll calls 2100.00
+*** FLOP *** [4c Kc Ah]
+Main pot 8400.00
+flexdll checks
+Dominoplayerrr bets 6300.00
+flexdll folds
+Uncalled bet (6300.00) returned to Dominoplayerrr
+Dominoplayerrr does not show
+*** SUMMARY ***
+Total pot 8400.00
+Board [4c Kc Ah]
+Seat 1: KITADOL (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: flexdll (big blind) folded on the Flop
+Seat 4: Dominoplayerrr did not show and won 8400.00
+
+Game Hand #2449377613 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:39:13 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 2: grotle (99300.00)
+Seat 3: flexdll (80612.00)
+Seat 4: Dominoplayerrr (159355.00)
+Seat 5: Fedordisciple (100000.00)
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+flexdll posts the small blind 700.00
+Dominoplayerrr posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [3d Ts]
+Fedordisciple raises 2800.00 to 2800.00
+grotle folds
+flexdll calls 2100.00
+Dominoplayerrr calls 1400.00
+*** FLOP *** [Qd 7d 3h]
+Main pot 9100.00
+flexdll checks
+Dominoplayerrr checks
+Fedordisciple checks
+*** TURN *** [Qd 7d 3h] [4h]
+Main pot 9100.00
+flexdll checks
+Dominoplayerrr checks
+Fedordisciple checks
+*** RIVER *** [Qd 7d 3h 4h] [6c]
+Main pot 9100.00
+flexdll bets 11375.00
+Dominoplayerrr folds
+Fedordisciple folds
+Uncalled bet (11375.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 9100.00
+Board [Qd 7d 3h 4h 6c]
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: flexdll did not show and won 9100.00
+Seat 4: Dominoplayerrr (big blind) folded on the River
+Seat 5: Fedordisciple folded on the River
+
+Game Hand #2449377898 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:40:37 UTC
+Table '5' 6-max Seat #3 is the button
+Seat 2: grotle (99125.00)
+Seat 3: flexdll (86737.00)
+Seat 4: Dominoplayerrr (156380.00)
+Seat 5: Fedordisciple (97025.00)
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+Dominoplayerrr posts the small blind 700.00
+Fedordisciple posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [2d 9d]
+grotle folds
+flexdll raises 2800.00 to 2800.00
+Dominoplayerrr raises 15400.00 to 16100.00
+Fedordisciple folds
+flexdll folds
+Uncalled bet (13300.00) returned to Dominoplayerrr
+Dominoplayerrr does not show
+*** SUMMARY ***
+Total pot 7700.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll (button) folded on the Pre-Flop
+Seat 4: Dominoplayerrr did not show and won 7700.00
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+
+Game Hand #2449378017 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:41:10 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: ricardovinog (100000.00)
+Seat 2: grotle (98950.00)
+Seat 3: flexdll (83762.00)
+Seat 4: Dominoplayerrr (161105.00)
+Seat 5: Fedordisciple (95450.00)
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+Fedordisciple posts the small blind 700.00
+ricardovinog posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [Tc Qh]
+grotle folds
+flexdll raises 2800.00 to 2800.00
+Dominoplayerrr folds
+Fedordisciple folds
+ricardovinog folds
+Uncalled bet (1400.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 4375.00
+Seat 1: ricardovinog (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll did not show and won 4375.00
+Seat 4: Dominoplayerrr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+
+Game Hand #2449378106 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:41:40 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: ricardovinog (98425.00)
+Seat 2: grotle (98775.00)
+Seat 3: flexdll (86562.00)
+Seat 4: Dominoplayerrr (160930.00)
+Seat 5: Fedordisciple (94575.00)
+Seat 6: batkq will be allowed to play after the button
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+ricardovinog posts the small blind 700.00
+grotle posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [2d 7h]
+flexdll raises 2800.00 to 2800.00
+Dominoplayerrr folds
+Fedordisciple folds
+ricardovinog folds
+grotle folds
+Uncalled bet (1400.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 4375.00
+Seat 1: ricardovinog (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: flexdll did not show and won 4375.00
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+
+Game Hand #2449378171 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:41:58 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: ricardovinog (97550.00)
+Seat 2: grotle (97200.00)
+Seat 3: flexdll (89362.00)
+Seat 4: Dominoplayerrr (160755.00)
+Seat 5: Fedordisciple (94400.00)
+Seat 6: batkq (100000.00)
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+batkq posts ante 175.00
+grotle posts the small blind 700.00
+flexdll posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [9s Tc]
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 2800.00 to 2800.00
+ricardovinog folds
+grotle calls 2100.00
+flexdll raises 13300.00 to 14700.00
+batkq folds
+grotle folds
+Uncalled bet (11900.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 9450.00
+Seat 1: ricardovinog (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: flexdll did not show and won 9450.00
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449378364 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:42:55 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: ricardovinog (97375.00)
+Seat 2: grotle (94225.00)
+Seat 3: flexdll (95837.00)
+Seat 4: Dominoplayerrr (160580.00)
+Seat 5: Fedordisciple (94225.00)
+Seat 6: batkq (97025.00)
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+batkq posts ante 175.00
+flexdll posts the small blind 700.00
+Dominoplayerrr posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [Th 5s]
+Fedordisciple raises 2800.00 to 2800.00
+batkq folds
+ricardovinog folds
+grotle folds
+flexdll calls 2100.00
+Dominoplayerrr folds
+*** FLOP *** [9h 6c 8d]
+Main pot 8050.00
+flexdll checks
+Fedordisciple checks
+*** TURN *** [9h 6c 8d] [Qs]
+Main pot 8050.00
+flexdll checks
+Fedordisciple checks
+*** RIVER *** [9h 6c 8d Qs] [Qh]
+Main pot 8050.00
+flexdll bets 4025.00
+Fedordisciple folds
+Uncalled bet (4025.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 8050.00
+Board [9h 6c 8d Qs Qh]
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: flexdll did not show and won 8050.00
+Seat 4: Dominoplayerrr (big blind) folded on the Pre-Flop
+Seat 5: Fedordisciple folded on the River
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449378603 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:44:05 UTC
+Table '5' 6-max Seat #3 is the button
+Seat 1: ricardovinog (97200.00)
+Seat 2: grotle (94050.00)
+Seat 3: flexdll (100912.00)
+Seat 4: Dominoplayerrr (159005.00)
+Seat 5: Fedordisciple (91250.00)
+Seat 6: batkq (96850.00)
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+batkq posts ante 175.00
+Dominoplayerrr posts the small blind 700.00
+Fedordisciple posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [3s 8s]
+batkq folds
+ricardovinog folds
+grotle folds
+flexdll raises 2800.00 to 2800.00
+Dominoplayerrr folds
+Fedordisciple folds
+Uncalled bet (1400.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 4550.00
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll did not show and won 4550.00
+Seat 4: Dominoplayerrr (small blind) folded on the Pre-Flop
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449378720 - Tournament #33493054 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/05/07 12:44:40 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: ricardovinog (97025.00)
+Seat 2: grotle (93875.00)
+Seat 3: flexdll (103887.00)
+Seat 4: Dominoplayerrr (158130.00)
+Seat 5: Fedordisciple (89675.00)
+Seat 6: batkq (96675.00)
+ricardovinog posts ante 175.00
+grotle posts ante 175.00
+flexdll posts ante 175.00
+Dominoplayerrr posts ante 175.00
+Fedordisciple posts ante 175.00
+batkq posts ante 175.00
+Fedordisciple posts the small blind 700.00
+batkq posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [3h Ks]
+ricardovinog folds
+grotle folds
+flexdll raises 2800.00 to 2800.00
+Dominoplayerrr folds
+Fedordisciple calls 2100.00
+batkq folds
+*** FLOP *** [8c Kh Th]
+Main pot 8050.00
+Fedordisciple checks
+flexdll bets 4025.00
+Fedordisciple folds
+Uncalled bet (4025.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 8050.00
+Board [8c Kh Th]
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll did not show and won 8050.00
+Seat 4: Dominoplayerrr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Flop
+Seat 6: batkq (big blind) folded on the Pre-Flop
+
+Game Hand #2449378952 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:45:38 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: ricardovinog (96850.00)
+Seat 2: grotle (93700.00)
+Seat 3: flexdll (108962.00)
+Seat 4: Dominoplayerrr (157955.00)
+Seat 5: Fedordisciple (86700.00)
+Seat 6: batkq (95100.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+batkq posts the small blind 800.00
+ricardovinog posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [4s Ad]
+grotle folds
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 4000.00 to 4800.00
+ricardovinog folds
+Uncalled bet (3200.00) returned to batkq
+batkq does not show
+*** SUMMARY ***
+Total pot 4400.00
+Seat 1: ricardovinog (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+Seat 6: batkq did not show and won 4400.00
+
+Game Hand #2449379145 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:46:29 UTC
+Table '5' 6-max Seat #6 is the button
+Seat 1: ricardovinog (95050.00)
+Seat 2: grotle (93500.00)
+Seat 3: flexdll (108762.00)
+Seat 4: Dominoplayerrr (157755.00)
+Seat 5: Fedordisciple (86500.00)
+Seat 6: batkq (97700.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+ricardovinog posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Tc Ad]
+flexdll raises 3200.00 to 3200.00
+Dominoplayerrr folds
+Fedordisciple folds
+batkq folds
+ricardovinog folds
+grotle raises 8700.00 to 10300.00
+flexdll folds
+Uncalled bet (7100.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 8400.00
+Seat 1: ricardovinog (small blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 8400.00
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: batkq (button) folded on the Pre-Flop
+
+Game Hand #2449379323 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:47:20 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: ricardovinog (94050.00)
+Seat 2: grotle (98500.00)
+Seat 3: flexdll (105362.00)
+Seat 4: Dominoplayerrr (157555.00)
+Seat 5: Fedordisciple (86300.00)
+Seat 6: batkq (97500.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+grotle posts the small blind 800.00
+flexdll posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [3c 5s]
+Dominoplayerrr raises 4000.00 to 4000.00
+Fedordisciple calls 4000.00
+batkq folds
+ricardovinog folds
+grotle folds
+flexdll folds
+*** FLOP *** [Th As 9s]
+Main pot 11600.00
+Dominoplayerrr bets 2900.00
+Fedordisciple calls 2900.00
+*** TURN *** [Th As 9s] [3h]
+Main pot 17400.00
+Dominoplayerrr checks
+Fedordisciple bets 4350.00
+Dominoplayerrr calls 4350.00
+*** RIVER *** [Th As 9s 3h] [7s]
+Main pot 26100.00
+Dominoplayerrr checks
+Fedordisciple bets 13050.00
+Dominoplayerrr calls 13050.00
+*** SHOW DOWN ***
+Main pot 52200.00
+Dominoplayerrr shows [Jd Js] (a pair of Jacks [Js Jd As Th 9s])
+Fedordisciple shows [8h Ah] (a pair of Aces [As Ah Th 9s 8h])
+Fedordisciple collected 52200.00 from main pot
+*** SUMMARY ***
+Total pot 52200.00
+Board [Th As 9s 3h 7s]
+Seat 1: ricardovinog (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: flexdll (big blind) folded on the Pre-Flop
+Seat 4: Dominoplayerrr showed [Jd Js] and lost with a pair of Jacks [Js Jd As Th 9s]
+Seat 5: Fedordisciple showed [8h Ah] and won 52200.00 with a pair of Aces [As Ah Th 9s 8h]
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449379672 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:48:49 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: ricardovinog (93850.00)
+Seat 2: grotle (97500.00)
+Seat 3: flexdll (103562.00)
+Seat 4: Dominoplayerrr (133055.00)
+Seat 5: Fedordisciple (114000.00)
+Seat 6: batkq (97300.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+flexdll posts the small blind 800.00
+Dominoplayerrr posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [7h Td]
+Fedordisciple folds
+batkq folds
+ricardovinog raises 4000.00 to 4000.00
+grotle folds
+flexdll folds
+Dominoplayerrr folds
+Uncalled bet (2400.00) returned to ricardovinog
+ricardovinog does not show
+*** SUMMARY ***
+Total pot 5200.00
+Seat 1: ricardovinog did not show and won 5200.00
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: flexdll (small blind) folded on the Pre-Flop
+Seat 4: Dominoplayerrr (big blind) folded on the Pre-Flop
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449380008 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:50:16 UTC
+Table '5' 6-max Seat #3 is the button
+Seat 1: ricardovinog (97250.00)
+Seat 2: grotle (97300.00)
+Seat 3: flexdll (102562.00)
+Seat 4: Dominoplayerrr (131255.00)
+Seat 5: Fedordisciple (113800.00)
+Seat 6: batkq (97100.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+Dominoplayerrr posts the small blind 800.00
+Fedordisciple posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [As Kh]
+batkq folds
+ricardovinog folds
+grotle raises 3200.00 to 3200.00
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple folds
+Uncalled bet (1600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 5200.00
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 5200.00
+Seat 3: flexdll (button) folded on the Pre-Flop
+Seat 4: Dominoplayerrr (small blind) folded on the Pre-Flop
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449380130 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:50:45 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: ricardovinog (97050.00)
+Seat 2: grotle (100700.00)
+Seat 3: flexdll (102362.00)
+Seat 4: Dominoplayerrr (130255.00)
+Seat 5: Fedordisciple (112000.00)
+Seat 6: batkq (96900.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+Fedordisciple posts the small blind 800.00
+batkq posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [2s Jh]
+ricardovinog folds
+grotle folds
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple raises 2400.00 to 3200.00
+batkq calls 1600.00
+*** FLOP *** [9c 4c 3s]
+Main pot 7600.00
+Fedordisciple checks
+batkq bets 1600.00
+Fedordisciple folds
+Uncalled bet (1600.00) returned to batkq
+batkq does not show
+*** SUMMARY ***
+Total pot 7600.00
+Board [9c 4c 3s]
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Flop
+Seat 6: batkq did not show and won 7600.00
+
+Game Hand #2449380350 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:51:43 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: ricardovinog (96850.00)
+Seat 2: grotle (100500.00)
+Seat 3: flexdll (102162.00)
+Seat 4: Dominoplayerrr (130055.00)
+Seat 5: Fedordisciple (108600.00)
+Seat 6: batkq (101100.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+batkq posts the small blind 800.00
+ricardovinog posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Th 6s]
+grotle folds
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 4800.00 to 5600.00
+ricardovinog calls 4000.00
+*** FLOP *** [Kd 7c 6d]
+Main pot 12400.00
+batkq bets 4216.00
+ricardovinog folds
+Uncalled bet (4216.00) returned to batkq
+batkq does not show
+*** SUMMARY ***
+Total pot 12400.00
+Board [Kd 7c 6d]
+Seat 1: ricardovinog (big blind) folded on the Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+Seat 6: batkq did not show and won 12400.00
+
+Game Hand #2449380559 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:52:41 UTC
+Table '5' 6-max Seat #6 is the button
+Seat 1: ricardovinog (91050.00)
+Seat 2: grotle (100300.00)
+Seat 3: flexdll (101962.00)
+Seat 4: Dominoplayerrr (129855.00)
+Seat 5: Fedordisciple (108400.00)
+Seat 6: batkq (107700.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+ricardovinog posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Qs 8s]
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 3200.00 to 3200.00
+ricardovinog folds
+grotle calls 1600.00
+*** FLOP *** [Ac 8c 4d]
+Main pot 8400.00
+grotle checks
+batkq bets 2856.00
+grotle raises 5712.00 to 5712.00
+batkq folds
+Uncalled bet (2856.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 14112.00
+Board [Ac 8c 4d]
+Seat 1: ricardovinog (small blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 14112.00
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: batkq (button) folded on the Flop
+
+Game Hand #2449380755 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:53:30 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: ricardovinog (90050.00)
+Seat 2: grotle (108156.00)
+Seat 3: flexdll (101762.00)
+Seat 4: Dominoplayerrr (129655.00)
+Seat 5: Fedordisciple (108200.00)
+Seat 6: batkq (101444.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+grotle posts the small blind 800.00
+flexdll posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [8c 9s]
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 3200.00 to 3200.00
+ricardovinog folds
+grotle folds
+flexdll calls 1600.00
+*** FLOP *** [2s 2c Jd]
+Main pot 8400.00
+flexdll checks
+batkq bets 2100.00
+flexdll calls 2100.00
+*** TURN *** [2s 2c Jd] [Ac]
+Main pot 12600.00
+flexdll checks
+batkq checks
+*** RIVER *** [2s 2c Jd Ac] [Kh]
+Main pot 12600.00
+flexdll bets 6300.00
+batkq calls 6300.00
+*** SHOW DOWN ***
+Main pot 25200.00
+flexdll shows [8d 7d] (a pair of Deuces [2s 2c Ac Kh Jd])
+batkq shows [3h As] (two pair, Aces and Deuces [As Ac 2s 2c Kh])
+batkq collected 25200.00 from main pot
+*** SUMMARY ***
+Total pot 25200.00
+Board [2s 2c Jd Ac Kh]
+Seat 1: ricardovinog (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: flexdll (big blind) showed [8d 7d] and lost with a pair of Deuces [2s 2c Ac Kh Jd]
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: batkq showed [3h As] and won 25200.00 with two pair, Aces and Deuces [As Ac 2s 2c Kh]
+
+Game Hand #2449380991 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 12:54:32 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: ricardovinog (89850.00)
+Seat 2: grotle (107156.00)
+Seat 3: flexdll (89962.00)
+Seat 4: Dominoplayerrr (129455.00)
+Seat 5: Fedordisciple (108000.00)
+Seat 6: batkq (114844.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+flexdll posts the small blind 800.00
+Dominoplayerrr posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Kd 5c]
+Fedordisciple raises 3200.00 to 3200.00
+batkq folds
+ricardovinog folds
+grotle folds
+flexdll folds
+Dominoplayerrr calls 1600.00
+*** FLOP *** [5s 9c Kh]
+Main pot 8400.00
+Dominoplayerrr checks
+Fedordisciple checks
+*** TURN *** [5s 9c Kh] [Qh]
+Main pot 8400.00
+Dominoplayerrr checks
+Fedordisciple bets 4200.00
+Dominoplayerrr calls 4200.00
+*** RIVER *** [5s 9c Kh Qh] [5h]
+Main pot 16800.00
+Dominoplayerrr checks
+Fedordisciple bets 8400.00
+Dominoplayerrr calls 8400.00
+*** SHOW DOWN ***
+Main pot 33600.00
+Dominoplayerrr shows [Th Qs] (two pair, Queens and Fives [Qs Qh 5s 5h Kh])
+Fedordisciple shows [As Tc] (a pair of Fives [5s 5h As Kh Qh])
+Dominoplayerrr collected 33600.00 from main pot
+*** SUMMARY ***
+Total pot 33600.00
+Board [5s 9c Kh Qh 5h]
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: flexdll (small blind) folded on the Pre-Flop
+Seat 4: Dominoplayerrr (big blind) showed [Th Qs] and won 33600.00 with two pair, Queens and Fives [Qs Qh 5s 5h Kh]
+Seat 5: Fedordisciple showed [As Tc] and lost with a pair of Fives [5s 5h As Kh Qh]
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449381794 - Tournament #33493054 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/05/07 13:00:46 UTC
+Table '5' 6-max Seat #3 is the button
+Seat 1: ricardovinog (89650.00)
+Seat 2: grotle (106956.00)
+Seat 3: flexdll (88962.00)
+Seat 4: Dominoplayerrr (147055.00)
+Seat 5: Fedordisciple (92000.00)
+Seat 6: batkq (114644.00)
+ricardovinog posts ante 200.00
+grotle posts ante 200.00
+flexdll posts ante 200.00
+Dominoplayerrr posts ante 200.00
+Fedordisciple posts ante 200.00
+batkq posts ante 200.00
+Dominoplayerrr posts the small blind 800.00
+Fedordisciple posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [5s 4d]
+batkq folds
+ricardovinog raises 3680.00 to 3680.00
+grotle folds
+flexdll folds
+Dominoplayerrr calls 2880.00
+Fedordisciple folds
+*** FLOP *** [Kh 3d Qh]
+Main pot 10160.00
+Dominoplayerrr checks
+ricardovinog checks
+*** TURN *** [Kh 3d Qh] [4c]
+Main pot 10160.00
+Dominoplayerrr bets 8280.00
+ricardovinog folds
+Uncalled bet (8280.00) returned to Dominoplayerrr
+Dominoplayerrr does not show
+*** SUMMARY ***
+Total pot 10160.00
+Board [Kh 3d Qh 4c]
+Seat 1: ricardovinog folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll (button) folded on the Pre-Flop
+Seat 4: Dominoplayerrr did not show and won 10160.00
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+Seat 6: batkq folded on the Pre-Flop and did not bet
+
+Game Hand #2449382100 - Tournament #33493054 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/05/07 13:02:09 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: ricardovinog (85770.00)
+Seat 2: grotle (106756.00)
+Seat 3: flexdll (88762.00)
+Seat 4: Dominoplayerrr (153335.00)
+Seat 5: Fedordisciple (90200.00)
+Seat 6: batkq (114444.00)
+ricardovinog posts ante 225.00
+grotle posts ante 225.00
+flexdll posts ante 225.00
+Dominoplayerrr posts ante 225.00
+Fedordisciple posts ante 225.00
+batkq posts ante 225.00
+Fedordisciple posts the small blind 900.00
+batkq posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Ts 2h]
+ricardovinog folds
+grotle folds
+flexdll raises 3600.00 to 3600.00
+Dominoplayerrr folds
+Fedordisciple folds
+batkq calls 1800.00
+*** FLOP *** [2c 8d 9c]
+Main pot 9450.00
+batkq checks
+flexdll bets 6525.00
+batkq calls 6525.00
+*** TURN *** [2c 8d 9c] [8c]
+Main pot 22500.00
+batkq checks
+flexdll bets 16650.00
+batkq folds
+Uncalled bet (16650.00) returned to flexdll
+flexdll does not show
+*** SUMMARY ***
+Total pot 22500.00
+Board [2c 8d 9c 8c]
+Seat 1: ricardovinog folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll did not show and won 22500.00
+Seat 4: Dominoplayerrr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: batkq (big blind) folded on the Turn
+
+Game Hand #2449382437 - Tournament #33493054 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/05/07 13:03:27 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: ricardovinog (85545.00)
+Seat 2: grotle (106531.00)
+Seat 3: flexdll (100912.00)
+Seat 4: Dominoplayerrr (153110.00)
+Seat 5: Fedordisciple (89075.00)
+Seat 6: batkq (104094.00)
+ricardovinog posts ante 225.00
+grotle posts ante 225.00
+flexdll posts ante 225.00
+Dominoplayerrr posts ante 225.00
+Fedordisciple posts ante 225.00
+batkq posts ante 225.00
+batkq posts the small blind 900.00
+ricardovinog posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Jd Qh]
+grotle folds
+flexdll folds
+Dominoplayerrr folds
+Fedordisciple folds
+batkq raises 4500.00 to 5400.00
+ricardovinog calls 3600.00
+*** FLOP *** [9s 9d 5s]
+Main pot 12150.00
+batkq checks
+ricardovinog checks
+*** TURN *** [9s 9d 5s] [9h]
+Main pot 12150.00
+batkq bets 4131.00
+ricardovinog folds
+Uncalled bet (4131.00) returned to batkq
+batkq does not show
+*** SUMMARY ***
+Total pot 12150.00
+Board [9s 9d 5s 9h]
+Seat 1: ricardovinog (big blind) folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: flexdll folded on the Pre-Flop and did not bet
+Seat 4: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+Seat 6: batkq did not show and won 12150.00
+
+Game Hand #2449392532 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:33:04 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: slavikickflip (67040.00)
+Seat 2: Understood508 (99300.00)
+Seat 3: nairobe24 (187464.00)
+Seat 4: mesmerr (323063.00)
+Seat 5: Fedordisciple (123337.00)
+Seat 6: grotle (278424.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+Understood508 posts the small blind 1400.00
+nairobe24 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qh Th]
+mesmerr folds
+Fedordisciple raises 5600.00 to 5600.00
+grotle calls 5600.00
+slavikickflip folds
+Understood508 calls 4200.00
+nairobe24 calls 2800.00
+*** FLOP *** [7h 6h Kh]
+Main pot 24500.00
+Understood508 checks
+nairobe24 bets 12250.00
+Fedordisciple calls 12250.00
+grotle calls 12250.00
+Understood508 calls 12250.00
+*** TURN *** [7h 6h Kh] [8h]
+Main pot 73500.00
+Understood508 checks
+nairobe24 bets 36750.00
+Fedordisciple folds
+grotle calls 36750.00
+Understood508 calls 36750.00
+*** RIVER *** [7h 6h Kh 8h] [4h]
+Main pot 183750.00
+Understood508 checks
+nairobe24 checks
+grotle bets 45938.00
+Understood508 folds
+nairobe24 calls 45938.00
+*** SHOW DOWN ***
+Main pot 275626.00
+nairobe24 shows [2h Jh] (a flush, King high [Kh Jh 8h 7h 6h])
+grotle shows [Qh Th] (a flush, King high [Kh Qh Th 8h 7h])
+grotle collected 275626.00 from main pot
+*** SUMMARY ***
+Total pot 275626.00
+Board [7h 6h Kh 8h 4h]
+Seat 1: slavikickflip (button) folded on the Pre-Flop
+Seat 2: Understood508 (small blind) folded on the River
+Seat 3: nairobe24 (big blind) showed [2h Jh] and lost with a flush, King high [Kh Jh 8h 7h 6h]
+Seat 4: mesmerr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Turn
+Seat 6: grotle showed [Qh Th] and won 275626.00 with a flush, King high [Kh Qh Th 8h 7h]
+
+Game Hand #2449393535 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:35:39 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: slavikickflip (66690.00)
+Seat 2: Understood508 (44350.00)
+Seat 3: nairobe24 (86576.00)
+Seat 4: mesmerr (322713.00)
+Seat 5: Fedordisciple (105137.00)
+Seat 6: grotle (453162.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+nairobe24 posts the small blind 1400.00
+mesmerr posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Jd Kh]
+Fedordisciple folds
+grotle raises 5600.00 to 5600.00
+slavikickflip folds
+Understood508 folds
+nairobe24 folds
+mesmerr calls 2800.00
+*** FLOP *** [4c Th Qd]
+Main pot 14700.00
+mesmerr checks
+grotle bets 4200.00
+mesmerr folds
+Uncalled bet (4200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 14700.00
+Board [4c Th Qd]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 (button) folded on the Pre-Flop
+Seat 3: nairobe24 (small blind) folded on the Pre-Flop
+Seat 4: mesmerr (big blind) folded on the Flop
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 14700.00
+
+Game Hand #2449393919 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:36:37 UTC
+Table '5' 6-max Seat #3 is the button
+Seat 1: slavikickflip (66340.00)
+Seat 2: Understood508 (44000.00)
+Seat 3: nairobe24 (84826.00)
+Seat 4: mesmerr (316763.00)
+Seat 5: Fedordisciple (104787.00)
+Seat 6: grotle (461912.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+mesmerr posts the small blind 1400.00
+Fedordisciple posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qc 8d]
+grotle folds
+slavikickflip folds
+Understood508 folds
+nairobe24 folds
+mesmerr folds
+Fedordisciple does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 folded on the Pre-Flop and did not bet
+Seat 3: nairobe24 (button) folded on the Pre-Flop
+Seat 4: mesmerr (small blind) folded on the Pre-Flop
+Seat 5: Fedordisciple did not show and won 6300.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2449394095 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:37:06 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (65990.00)
+Seat 2: Understood508 (43650.00)
+Seat 3: nairobe24 (84476.00)
+Seat 4: mesmerr (315013.00)
+Seat 5: Fedordisciple (107937.00)
+Seat 6: grotle (461562.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+nairobe24 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+Fedordisciple posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Kh Ah]
+slavikickflip folds
+Understood508 calls 2800.00
+nairobe24 calls 2800.00
+mesmerr folds
+Fedordisciple folds
+grotle raises 2800.00 to 5600.00
+Understood508 calls 2800.00
+nairobe24 calls 2800.00
+*** FLOP *** [2c Qs 5c]
+Main pot 20300.00
+grotle bets 4200.00
+Understood508 calls 4200.00
+nairobe24 folds
+*** TURN *** [2c Qs 5c] [Qd]
+Main pot 28700.00
+grotle checks
+Understood508 bets 7175.00
+grotle calls 7175.00
+*** RIVER *** [2c Qs 5c Qd] [Js]
+Main pot 43050.00
+grotle checks
+Understood508 bets 26325.00 and is all-in
+grotle folds
+Uncalled bet (26325.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 43050.00
+Board [2c Qs 5c Qd Js]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 did not show and won 43050.00
+Seat 3: nairobe24 folded on the Flop
+Seat 4: mesmerr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the River
+
+Game Hand #2449394847 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:39:00 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: slavikickflip (65640.00)
+Seat 2: Understood508 (69375.00)
+Seat 4: mesmerr (314663.00)
+Seat 5: Fedordisciple (106187.00) is sitting out
+Seat 6: grotle (444237.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+grotle posts the small blind 1400.00
+slavikickflip posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [As 4c]
+Understood508 folds
+mesmerr folds
+Fedordisciple folds
+grotle raises 4200.00 to 5600.00
+slavikickflip calls 2800.00
+*** FLOP *** [Jd Qd Js]
+Main pot 12950.00
+grotle bets 4200.00
+slavikickflip folds
+Uncalled bet (4200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12950.00
+Board [Jd Qd Js]
+Seat 1: slavikickflip (big blind) folded on the Flop
+Seat 2: Understood508 folded on the Pre-Flop and did not bet
+Seat 4: mesmerr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+Seat 6: grotle did not show and won 12950.00
+
+Game Hand #2449395100 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:39:42 UTC
+Table '5' 6-max Seat #6 is the button
+Seat 1: slavikickflip (59690.00)
+Seat 2: Understood508 (69025.00)
+Seat 4: mesmerr (314313.00)
+Seat 5: Fedordisciple (105837.00)
+Seat 6: grotle (451237.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+slavikickflip posts the small blind 1400.00
+Understood508 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [Qc 3d]
+mesmerr folds
+Fedordisciple raises 5600.00 to 5600.00
+grotle folds
+slavikickflip raises 14000.00 to 15400.00
+Understood508 folds
+Fedordisciple folds
+Uncalled bet (9800.00) returned to slavikickflip
+slavikickflip does not show
+*** SUMMARY ***
+Total pot 15750.00
+Seat 1: slavikickflip did not show and won 15750.00
+Seat 2: Understood508 (big blind) folded on the Pre-Flop
+Seat 4: mesmerr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Pre-Flop
+
+Game Hand #2449395462 - Tournament #33493054 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/05/07 13:40:39 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: slavikickflip (69490.00)
+Seat 2: Understood508 (65875.00)
+Seat 4: mesmerr (313963.00)
+Seat 5: Fedordisciple (99887.00) is sitting out
+Seat 6: grotle (450887.00)
+slavikickflip posts ante 350.00
+Understood508 posts ante 350.00
+mesmerr posts ante 350.00
+Fedordisciple posts ante 350.00
+grotle posts ante 350.00
+Understood508 posts the small blind 1400.00
+mesmerr posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [7h 6c]
+Fedordisciple folds
+grotle folds
+slavikickflip folds
+Understood508 calls 1400.00
+mesmerr checks
+*** FLOP *** [Qc Kh 2h]
+Main pot 7350.00
+Understood508 checks
+mesmerr checks
+*** TURN *** [Qc Kh 2h] [6s]
+Main pot 7350.00
+Understood508 checks
+mesmerr checks
+*** RIVER *** [Qc Kh 2h 6s] [9c]
+Main pot 7350.00
+Understood508 checks
+mesmerr checks
+*** SHOW DOWN ***
+Main pot 7350.00
+Understood508 shows [4c Js] (a high card, King high [Kh Qc Js 9c 6s])
+mesmerr shows [2c 3d] (a pair of Deuces [2h 2c Kh Qc 9c])
+mesmerr collected 7350.00 from main pot
+*** SUMMARY ***
+Total pot 7350.00
+Board [Qc Kh 2h 6s 9c]
+Seat 1: slavikickflip (button) folded on the Pre-Flop
+Seat 2: Understood508 (small blind) showed [4c Js] and lost with a high card, King high [Kh Qc Js 9c 6s]
+Seat 4: mesmerr (big blind) showed [2c 3d] and won 7350.00 with a pair of Deuces [2h 2c Kh Qc 9c]
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2449395859 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:41:39 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: slavikickflip (69140.00)
+Seat 2: Understood508 (62725.00)
+Seat 4: mesmerr (318163.00)
+Seat 5: Fedordisciple (99537.00)
+Seat 6: grotle (450537.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+mesmerr posts the small blind 1600.00
+Fedordisciple posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [5c 3h]
+grotle folds
+slavikickflip folds
+Understood508 raises 6400.00 to 6400.00
+mesmerr raises 18241.00 to 19841.00
+Fedordisciple folds
+Understood508 folds
+Uncalled bet (13441.00) returned to mesmerr
+mesmerr does not show
+*** SUMMARY ***
+Total pot 18000.00
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 (button) folded on the Pre-Flop
+Seat 4: mesmerr did not show and won 18000.00
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2449396097 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:42:16 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (68740.00)
+Seat 2: Understood508 (55925.00)
+Seat 4: mesmerr (329363.00)
+Seat 5: Fedordisciple (95937.00)
+Seat 6: grotle (450137.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Fedordisciple posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7d Qd]
+slavikickflip folds
+Understood508 calls 3200.00
+mesmerr folds
+Fedordisciple folds
+grotle checks
+*** FLOP *** [Kc Qc 8s]
+Main pot 10000.00
+grotle checks
+Understood508 checks
+*** TURN *** [Kc Qc 8s] [Jh]
+Main pot 10000.00
+grotle checks
+Understood508 bets 52325.00 and is all-in
+grotle calls 52325.00
+*** RIVER *** [Kc Qc 8s Jh] [Js]
+Main pot 114650.00
+*** SHOW DOWN ***
+Main pot 114650.00
+Understood508 shows [3s Ks] (two pair, Kings and Jacks [Ks Kc Js Jh Qc])
+grotle shows [7d Qd] (two pair, Queens and Jacks [Qd Qc Js Jh Kc])
+Understood508 collected 114650.00 from main pot
+*** SUMMARY ***
+Total pot 114650.00
+Board [Kc Qc 8s Jh Js]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 showed [3s Ks] and won 114650.00 with two pair, Kings and Jacks [Ks Kc Js Jh Qc]
+Seat 4: mesmerr (button) folded on the Pre-Flop
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) showed [7d Qd] and lost with two pair, Queens and Jacks [Qd Qc Js Jh Kc]
+
+Game Hand #2449396447 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:43:09 UTC
+Table '5' 6-max Seat #5 is the button
+Seat 1: slavikickflip (68340.00)
+Seat 2: Understood508 (114650.00)
+Seat 4: mesmerr (328963.00)
+Seat 5: Fedordisciple (93937.00)
+Seat 6: grotle (394212.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+grotle posts the small blind 1600.00
+slavikickflip posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7h 8c]
+Understood508 folds
+mesmerr raises 8000.00 to 8000.00
+Fedordisciple folds
+grotle folds
+slavikickflip calls 4800.00
+*** FLOP *** [6c 9h 5d]
+Main pot 19600.00
+slavikickflip checks
+mesmerr checks
+*** TURN *** [6c 9h 5d] [Ah]
+Main pot 19600.00
+slavikickflip checks
+mesmerr checks
+*** RIVER *** [6c 9h 5d Ah] [9s]
+Main pot 19600.00
+slavikickflip checks
+mesmerr checks
+*** SHOW DOWN ***
+Main pot 19600.00
+slavikickflip shows [8h Kh] (a pair of Nines [9s 9h Ah Kh 8h])
+mesmerr shows [2d 2c] (two pair, Nines and Deuces [9s 9h 2d 2c Ah])
+mesmerr collected 19600.00 from main pot
+*** SUMMARY ***
+Total pot 19600.00
+Board [6c 9h 5d Ah 9s]
+Seat 1: slavikickflip (big blind) showed [8h Kh] and lost with a pair of Nines [9s 9h Ah Kh 8h]
+Seat 2: Understood508 folded on the Pre-Flop and did not bet
+Seat 4: mesmerr showed [2d 2c] and won 19600.00 with two pair, Nines and Deuces [9s 9h 2d 2c Ah]
+Seat 5: Fedordisciple (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2449396879 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:44:20 UTC
+Table '5' 6-max Seat #6 is the button
+Seat 1: slavikickflip (59940.00)
+Seat 2: Understood508 (114250.00)
+Seat 4: mesmerr (340163.00)
+Seat 5: Fedordisciple (93537.00)
+Seat 6: grotle (392212.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+slavikickflip posts the small blind 1600.00
+Understood508 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [9s 5c]
+mesmerr folds
+Fedordisciple raises 6400.00 to 6400.00
+grotle folds
+slavikickflip folds
+Understood508 calls 3200.00
+*** FLOP *** [5h 4d Ah]
+Main pot 16400.00
+Understood508 bets 4100.00
+Fedordisciple calls 4100.00
+*** TURN *** [5h 4d Ah] [2h]
+Main pot 24600.00
+Understood508 checks
+Fedordisciple bets 12300.00
+Understood508 calls 12300.00
+*** RIVER *** [5h 4d Ah 2h] [Ad]
+Main pot 49200.00
+Understood508 bets 24600.00
+Fedordisciple calls 24600.00
+*** SHOW DOWN ***
+Main pot 98400.00
+Understood508 shows [7s 6s] (a pair of Aces [Ah Ad 7s 6s 5h])
+Fedordisciple shows [3c 3h] (a straight, Five high [5h 4d 3h 2h Ah])
+Fedordisciple collected 98400.00 from main pot
+*** SUMMARY ***
+Total pot 98400.00
+Board [5h 4d Ah 2h Ad]
+Seat 1: slavikickflip (small blind) folded on the Pre-Flop
+Seat 2: Understood508 (big blind) showed [7s 6s] and lost with a pair of Aces [Ah Ad 7s 6s 5h]
+Seat 4: mesmerr folded on the Pre-Flop and did not bet
+Seat 5: Fedordisciple showed [3c 3h] and won 98400.00 with a straight, Five high [5h 4d 3h 2h Ah]
+Seat 6: grotle (button) folded on the Pre-Flop
+
+Game Hand #2449397283 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:45:19 UTC
+Table '5' 6-max Seat #1 is the button
+Seat 1: slavikickflip (57940.00)
+Seat 2: Understood508 (66450.00)
+Seat 4: mesmerr (339763.00)
+Seat 5: Fedordisciple (144137.00)
+Seat 6: grotle (391812.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Understood508 posts the small blind 1600.00
+mesmerr posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ts Qh]
+Fedordisciple folds
+grotle raises 6400.00 to 6400.00
+slavikickflip folds
+Understood508 folds
+mesmerr calls 3200.00
+*** FLOP *** [As Tc 3c]
+Main pot 16400.00
+mesmerr checks
+grotle checks
+*** TURN *** [As Tc 3c] [Kh]
+Main pot 16400.00
+mesmerr bets 8200.00
+grotle calls 8200.00
+*** RIVER *** [As Tc 3c Kh] [Jc]
+Main pot 32800.00
+mesmerr checks
+grotle bets 16400.00
+mesmerr calls 16400.00
+*** SHOW DOWN ***
+Main pot 65600.00
+mesmerr shows [6c 8c] (a flush, Jack high [Jc Tc 8c 6c 3c])
+grotle shows [Ts Qh] (a straight, Ace high [As Kh Qh Jc Ts])
+mesmerr collected 65600.00 from main pot
+*** SUMMARY ***
+Total pot 65600.00
+Board [As Tc 3c Kh Jc]
+Seat 1: slavikickflip (button) folded on the Pre-Flop
+Seat 2: Understood508 (small blind) folded on the Pre-Flop
+Seat 4: mesmerr (big blind) showed [6c 8c] and won 65600.00 with a flush, Jack high [Jc Tc 8c 6c 3c]
+Seat 5: Fedordisciple folded on the Pre-Flop and did not bet
+Seat 6: grotle showed [Ts Qh] and lost with a straight, Ace high [As Kh Qh Jc Ts]
+
+Game Hand #2449397586 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:46:08 UTC
+Table '5' 6-max Seat #2 is the button
+Seat 1: slavikickflip (57540.00)
+Seat 2: Understood508 (64450.00)
+Seat 4: mesmerr (373963.00)
+Seat 5: Fedordisciple (143737.00)
+Seat 6: grotle (360412.00)
+slavikickflip posts ante 400.00
+Understood508 posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+mesmerr posts the small blind 1600.00
+Fedordisciple posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [3d 3s]
+grotle raises 6400.00 to 6400.00
+slavikickflip folds
+Understood508 raises 64050.00 to 64050.00 and is all-in
+mesmerr calls 62450.00
+Fedordisciple folds
+grotle folds
+*** FLOP *** [Js 8d 6c]
+Main pot 139700.00
+*** TURN *** [Js 8d 6c] [5d]
+Main pot 139700.00
+*** RIVER *** [Js 8d 6c 5d] [Ac]
+Main pot 139700.00
+*** SHOW DOWN ***
+Main pot 139700.00
+Understood508 shows [Td Tc] (a pair of Tens [Td Tc Ac Js 8d])
+mesmerr shows [As Jh] (two pair, Aces and Jacks [As Ac Js Jh 8d])
+mesmerr collected 139700.00 from main pot
+*** SUMMARY ***
+Total pot 139700.00
+Board [Js 8d 6c 5d Ac]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 2: Understood508 (button) showed [Td Tc] and lost with a pair of Tens [Td Tc Ac Js 8d]
+Seat 4: mesmerr (small blind) showed [As Jh] and won 139700.00 with two pair, Aces and Jacks [As Ac Js Jh 8d]
+Seat 5: Fedordisciple (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2449397908 - Tournament #33493054 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/07 13:46:59 UTC
+Table '5' 6-max Seat #4 is the button
+Seat 1: slavikickflip (57140.00)
+Seat 4: mesmerr (449213.00)
+Seat 5: Fedordisciple (140137.00)
+Seat 6: grotle (353612.00)
+slavikickflip posts ante 400.00
+mesmerr posts ante 400.00
+Fedordisciple posts ante 400.00
+grotle posts ante 400.00
+Fedordisciple posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Ks Qs]
+slavikickflip folds
+mesmerr raises 8000.00 to 8000.00
+Fedordisciple folds
+grotle raises 19200.00 to 22400.00
+mesmerr calls 14400.00
+*** FLOP *** [8s Qd 4h]
+Main pot 48000.00
+grotle bets 24000.00
+mesmerr calls 24000.00
+*** TURN *** [8s Qd 4h] [Ts]
+Main pot 96000.00
+grotle bets 72000.00
+mesmerr calls 72000.00
+*** RIVER *** [8s Qd 4h Ts] [9h]
+Main pot 240000.00
+grotle bets 234812.00 and is all-in
+mesmerr calls 234812.00
+*** SHOW DOWN ***
+Main pot 709624.00
+mesmerr shows [Qh Js] (a straight, Queen high [Qh Js Ts 9h 8s])
+grotle shows [Ks Qs] (a pair of Queens [Qs Qd Ks Ts 9h])
+mesmerr collected 709624.00 from main pot
+*** SUMMARY ***
+Total pot 709624.00
+Board [8s Qd 4h Ts 9h]
+Seat 1: slavikickflip folded on the Pre-Flop and did not bet
+Seat 4: mesmerr (button) showed [Qh Js] and won 709624.00 with a straight, Queen high [Qh Js Ts 9h 8s]
+Seat 5: Fedordisciple (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) showed [Ks Qs] and lost with a pair of Queens [Qs Qd Ks Ts 9h]
+

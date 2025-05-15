@@ -8,6 +8,8 @@ const HandHistory = () => {
     const [error, setError] = useState(null);
     const [success, setSuccess] = useState(false);
     const [savedHandId, setSavedHandId] = useState(null);
+    const [tournamentName, setTournamentName] = useState('');
+    const [isEditingTournament, setIsEditingTournament] = useState(false);
 
     const handleHandComplete = async (handData) => {
         setIsSaving(true);
@@ -16,6 +18,11 @@ const HandHistory = () => {
         setSavedHandId(null);
 
         try {
+            // Add tournament name if it exists
+            if (tournamentName) {
+                handData.tournamentName = tournamentName;
+            }
+
             // Save the hand to MongoDB
             const savedHand = await handService.saveHand(handData);
             console.log('Hand saved successfully:', savedHand);
@@ -53,6 +60,20 @@ const HandHistory = () => {
         return basePositions[distanceFromButton];
     };
 
+    const handleTournamentNameChange = (e) => {
+        setTournamentName(e.target.value);
+    };
+
+    const handleTournamentNameKeyPress = (e) => {
+        if (e.key === 'Enter') {
+            setIsEditingTournament(false);
+        }
+    };
+
+    const handleTournamentNameBlur = () => {
+        setIsEditingTournament(false);
+    };
+
     return (
         <div className="hand-history">
             <div className="hand-history-header">
@@ -88,6 +109,36 @@ const HandHistory = () => {
                     </div>
                 </div>
             )}
+
+            <div className="tournament-name-section">
+                {isEditingTournament ? (
+                    <input
+                        type="text"
+                        value={tournamentName}
+                        onChange={handleTournamentNameChange}
+                        onKeyPress={handleTournamentNameKeyPress}
+                        onBlur={handleTournamentNameBlur}
+                        placeholder="Enter tournament name"
+                        className="tournament-name-input"
+                        autoFocus
+                    />
+                ) : (
+                    <div 
+                        className="tournament-name-display"
+                        onClick={() => setIsEditingTournament(true)}
+                    >
+                        {tournamentName ? (
+                            <>
+                                <span className="tournament-label">Tournament:</span>
+                                <span className="tournament-value">{tournamentName}</span>
+                                <span className="edit-hint">(click to edit)</span>
+                            </>
+                        ) : (
+                            <span className="add-tournament-hint">Click to add tournament name</span>
+                        )}
+                    </div>
+                )}
+            </div>
             
             <div className="poker-table-container">
                 <PokerTable onHandComplete={handleHandComplete} />

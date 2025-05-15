@@ -5,26 +5,25 @@ import './Navbar.css';
 const Navbar = () => {
     const location = useLocation();
 
+    const isActive = (path) => {
+        return location.pathname === path;
+    };
+
     return (
         <nav className="navbar">
             <div className="nav-content">
-                <Link to="/" className="nav-logo">
-                    Poker History
+                <Link to="/" className={`nav-link ${isActive('/') ? 'active' : ''}`}>
+                    Home
                 </Link>
-                <div className="nav-links">
-                    <Link 
-                        to="/hand-history" 
-                        className={`nav-link ${location.pathname === '/hand-history' ? 'active' : ''}`}
-                    >
-                        Hand History
-                    </Link>
-                    <Link 
-                        to="/new-hand" 
-                        className={`nav-link ${location.pathname === '/new-hand' ? 'active' : ''}`}
-                    >
-                        New Hand
-                    </Link>
-                </div>
+                <Link to="/new-hand" className={`nav-link ${isActive('/new-hand') ? 'active' : ''}`}>
+                    New Hand
+                </Link>
+                <Link to="/hand-history" className={`nav-link ${isActive('/hand-history') ? 'active' : ''}`}>
+                    Hand History
+                </Link>
+                <Link to="/import-hands" className={`nav-link ${isActive('/import-hands') ? 'active' : ''}`}>
+                    Import Hands
+                </Link>
             </div>
         </nav>
     );

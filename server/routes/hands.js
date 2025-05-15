@@ -12,13 +12,33 @@ router.get('/', async (req, res) => {
             minStackSize,
             maxStackSize,
             holeCards,
-            gameType
+            gameType,
+            startDate,
+            endDate
         } = req.query;
 
         console.log('Received query params:', req.query); // Debug log
 
         // Build query
         const query = {};
+        
+        // Add date range filter
+        if (startDate && endDate) {
+            const start = new Date(startDate);
+            const end = new Date(endDate);
+            
+            console.log('Date range:', {
+                startDate,
+                endDate,
+                parsedStart: start.toISOString(),
+                parsedEnd: end.toISOString()
+            });
+
+            query.timestamp = {
+                $gte: start,
+                $lte: end
+            };
+        }
         
         // Add filters if they exist
         if (position) query.heroPosition = position;
@@ -33,59 +53,25 @@ router.get('/', async (req, res) => {
 
         // Hole cards filter
         if (holeCards) {
-            try {
-                const cards = holeCards.split(',')
-                    .map(card => card.toUpperCase().trim())
-                    .filter(card => card.length > 0); // Keep all non-empty cards
-
-                console.log('Processed hole cards:', cards); // Debug log
-
-                if (cards.length > 0) {
-                    // Use $all to ensure all specified cards are present
-                    query.heroHoleCards = {
-                        $all: cards.map(card => {
-                            // If it's a single character (rank only), match any suit
-                            if (card.length === 1) {
-                                return new RegExp(`^${card}[cdhs]$`, 'i');
-                            }
-                            // Otherwise match the exact card
-                            return new RegExp(`^${card}$`, 'i');
-                        })
-                    };
-                }
-            } catch (error) {
-                console.error('Error processing hole cards filter:', error);
-                // Don't apply the filter if there's an error
+            const cards = holeCards.split(',');
+            if (cards.length === 2 && cards[0] && cards[1]) {
+                query.heroHoleCards = { $all: cards };
             }
         }
 
-        // Build sort options
-        const sortOptions = {};
-        switch (sortBy) {
-            case 'stackSize':
-                sortOptions.heroStackSize = -1;
-                break;
-            case 'potSize':
-                sortOptions.potSize = -1;
-                break;
-            default:
-                sortOptions.timestamp = -1;
-        }
+        console.log('MongoDB query:', JSON.stringify(query, null, 2)); // Debug log
 
-        console.log('Final query:', JSON.stringify(query, null, 2)); // Debug log
-        console.log('Sort options:', sortOptions); // Debug log
+        const hands = await Hand.find(query)
+            .sort({ [sortBy]: -1 });
 
-        const hands = await Hand.find(query).sort(sortOptions);
-        console.log('Found hands:', hands.length); // Debug log
-        
+        console.log(`Found ${hands.length} hands`); // Debug log
+
         res.json(hands);
     } catch (error) {
         console.error('Error fetching hands:', error);
-        console.error('Error stack:', error.stack); // Add stack trace
         res.status(500).json({ 
             message: 'Error fetching hands',
-            error: error.message,
-            stack: process.env.NODE_ENV === 'development' ? error.stack : undefined
+            error: error.message 
         });
     }
 });

@@ -1,0 +1,3495 @@
+Hand #2439578325 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:28:55 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.66)
+Seat 2: BcexBCyMKy ($3.25)
+Seat 3: ST97 ($1.82)
+Seat 4: grotle ($2.00)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+grotle posts $0.02
+*** HOLE CARDS ***
+Dealt to grotle [4d 3s]
+grotle checks
+Wollt17 raises $0.08 to $0.08
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+Uncalled bet ($0.06) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.07
+Seat 1: Wollt17 did not show and won $0.07
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+
+Hand #2439578886 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:29:37 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.71)
+Seat 2: BcexBCyMKy ($3.24)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($1.98)
+Seat 6: GeForce969 ($2.00)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+GeForce969 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2d 8d]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.03
+
+Hand #2439579046 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:29:51 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.71)
+Seat 2: BcexBCyMKy ($3.24)
+Seat 3: ST97 ($1.79)
+Seat 4: grotle ($1.99)
+Seat 6: GeForce969 ($2.00)
+grotle posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2s 2d]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.03 to $0.04
+GeForce969 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439579632 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:30:35 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.71)
+Seat 2: BcexBCyMKy ($3.24)
+Seat 3: ST97 ($1.79)
+Seat 4: grotle ($2.01)
+Seat 5: ScrimitzuTV will be allowed to play after the button
+Seat 6: GeForce969 ($2.00)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [3c 6c]
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.05
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439579951 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:31:00 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.69)
+Seat 2: BcexBCyMKy ($3.24)
+Seat 3: ST97 ($1.79)
+Seat 4: grotle ($2.04)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.00)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+ScrimitzuTV waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [5d Ah]
+ST97 folds
+grotle calls $0.02
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy checks
+*** FLOP *** [2h Ts 3h]
+Main pot $0.05 | Rake $0.00
+BcexBCyMKy checks
+grotle bets $0.02
+BcexBCyMKy folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.05
+Board [2h Ts 3h]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Flop
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.05
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439580422 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:31:36 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.68)
+Seat 2: BcexBCyMKy ($3.22)
+Seat 3: ST97 ($1.79)
+Seat 4: grotle ($2.07)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.00)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+ScrimitzuTV waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7d 8c]
+grotle folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy calls $0.01
+ST97 checks
+*** FLOP *** [3d 4d Ac]
+Main pot $0.04 | Rake $0.00
+BcexBCyMKy checks
+ST97 checks
+*** TURN *** [3d 4d Ac] [Qh]
+Main pot $0.04 | Rake $0.00
+BcexBCyMKy checks
+ST97 checks
+*** RIVER *** [3d 4d Ac Qh] [Qd]
+Main pot $0.04 | Rake $0.00
+BcexBCyMKy checks
+ST97 checks
+*** SHOW DOWN ***
+Main pot $0.04 | Rake $0.00
+BcexBCyMKy shows [Jc 5c] (a pair of Queens [Qh Qd Ac Jc 5c])
+ST97 shows [Jh Ts] (a pair of Queens [Qh Qd Ac Jh Ts])
+ST97 collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.04
+Board [3d 4d Ac Qh Qd]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) showed [Jc 5c] and lost with a pair of Queens [Qh Qd Ac Jc 5c]
+Seat 3: ST97 (big blind) showed [Jh Ts] and won $0.04 with a pair of Queens [Qh Qd Ac Jh Ts] with the kicker Ten
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439580983 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:32:19 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.68)
+Seat 2: BcexBCyMKy ($3.20)
+Seat 3: ST97 ($1.81)
+Seat 4: grotle ($2.07)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.00)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+ScrimitzuTV waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [As 6h]
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.03
+*** FLOP *** [Kd 6s 9s]
+Main pot $0.11 | Rake $0.00
+grotle checks
+Wollt17 bets $0.03
+grotle calls $0.03
+*** TURN *** [Kd 6s 9s] [2h]
+Main pot $0.17 | Rake $0.00
+grotle bets $0.06
+Wollt17 folds
+Uncalled bet ($0.06) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.17
+Board [Kd 6s 9s 2h]
+Seat 1: Wollt17 folded on the Turn
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.17
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439582034 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:33:37 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.60)
+Seat 2: BcexBCyMKy ($3.20)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($2.16)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.00)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2h Tc]
+GeForce969 raises $0.04 to $0.04
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+Uncalled bet ($0.02) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $0.05
+
+Hand #2439582277 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:33:57 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.60)
+Seat 2: BcexBCyMKy ($3.20)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.03)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [6c 3s]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV raises $0.05 to $0.06
+GeForce969 folds
+Uncalled bet ($0.04) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439582621 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:34:26 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.60)
+Seat 2: BcexBCyMKy ($3.20)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($2.02)
+Seat 6: GeForce969 ($2.01)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8d Ts]
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 calls $0.05
+Wollt17 folds
+*** FLOP *** [4d 7d Kd]
+Main pot $0.14 | Rake $0.00
+GeForce969 checks
+BcexBCyMKy bets $0.05
+GeForce969 folds
+Uncalled bet ($0.05) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.14
+Board [4d 7d Kd]
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.14
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Flop
+
+Hand #2439583226 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:35:13 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.58)
+Seat 2: BcexBCyMKy ($3.28)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($2.02)
+Seat 6: GeForce969 ($2.00)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [3s Th]
+ST97 folds
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+Uncalled bet ($0.02) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.05
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439583520 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:35:38 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.26)
+Seat 3: ST97 ($1.80)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks Qs]
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 calls $0.02
+*** FLOP *** [Tc As 8h]
+Main pot $0.09 | Rake $0.00
+ST97 checks
+grotle checks
+*** TURN *** [Tc As 8h] [6s]
+Main pot $0.09 | Rake $0.00
+ST97 checks
+grotle bets $0.04
+ST97 folds
+Uncalled bet ($0.04) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Tc As 8h 6s]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 (big blind) folded on the Turn
+Seat 4: grotle did not show and won $0.09
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439584185 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:36:29 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.25)
+Seat 3: ST97 ($1.76)
+Seat 4: grotle ($2.20)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Js 2c]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.03
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439584572 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:37:00 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.25)
+Seat 3: ST97 ($1.75)
+Seat 4: grotle ($2.21)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7s Qd]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+ST97 calls $0.06
+grotle folds
+ScrimitzuTV folds
+*** FLOP *** [Jc Kd 2d]
+Main pot $0.15 | Rake $0.00
+BcexBCyMKy checks
+ST97 checks
+*** TURN *** [Jc Kd 2d] [Tc]
+Main pot $0.15 | Rake $0.00
+BcexBCyMKy bets $0.05
+ST97 calls $0.05
+*** RIVER *** [Jc Kd 2d Tc] [5c]
+Main pot $0.24 | Rake $0.01
+BcexBCyMKy bets $0.18
+ST97 folds
+Uncalled bet ($0.18) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Jc Kd 2d Tc 5c]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy did not show and won $0.24
+Seat 3: ST97 (button) folded on the River
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439585409 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:38:07 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.38)
+Seat 3: ST97 ($1.64)
+Seat 4: grotle ($2.20)
+Seat 5: ScrimitzuTV ($2.03)
+Seat 6: GeForce969 ($2.00)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ad 9h]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV calls $0.03
+GeForce969 folds
+*** FLOP *** [Js 2s 8c]
+Main pot $0.10 | Rake $0.00
+ScrimitzuTV checks
+grotle checks
+*** TURN *** [Js 2s 8c] [3s]
+Main pot $0.10 | Rake $0.00
+ScrimitzuTV checks
+grotle bets $0.07
+ScrimitzuTV folds
+Uncalled bet ($0.07) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.10
+Board [Js 2s 8c 3s]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.10
+Seat 5: ScrimitzuTV (small blind) folded on the Turn
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439586030 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:38:58 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.38)
+Seat 3: ST97 ($1.64)
+Seat 4: grotle ($2.26)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.00)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ad 6s]
+BcexBCyMKy folds
+ST97 raises $0.04 to $0.04
+grotle folds
+ScrimitzuTV folds
+GeForce969 calls $0.03
+Wollt17 folds
+*** FLOP *** [4c 6h 3d]
+Main pot $0.10 | Rake $0.00
+GeForce969 checks
+ST97 bets $0.04
+GeForce969 calls $0.04
+*** TURN *** [4c 6h 3d] [Td]
+Main pot $0.18 | Rake $0.00
+GeForce969 checks
+ST97 checks
+*** RIVER *** [4c 6h 3d Td] [5c]
+Main pot $0.18 | Rake $0.00
+GeForce969 bets $0.18
+ST97 folds
+Uncalled bet ($0.18) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.18
+Board [4c 6h 3d Td 5c]
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the River
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $0.18
+
+Hand #2439586761 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:39:58 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.55)
+Seat 2: BcexBCyMKy ($3.38)
+Seat 3: ST97 ($1.56)
+Seat 4: grotle ($2.26)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.10)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kh 2s]
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.05 to $0.06
+BcexBCyMKy folds
+Uncalled bet ($0.04) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 did not show and won $0.04
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439587124 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:40:27 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.36)
+Seat 3: ST97 ($1.56)
+Seat 4: grotle ($2.26)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.10)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [5c 6h]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy raises $0.05 to $0.06
+ST97 calls $0.04
+*** FLOP *** [7s Kd 3s]
+Main pot $0.12 | Rake $0.00
+BcexBCyMKy bets $0.05
+ST97 calls $0.05
+*** TURN *** [7s Kd 3s] [Qh]
+Main pot $0.21 | Rake $0.01
+BcexBCyMKy checks
+ST97 checks
+*** RIVER *** [7s Kd 3s Qh] [3d]
+Main pot $0.21 | Rake $0.01
+BcexBCyMKy checks
+ST97 checks
+*** SHOW DOWN ***
+Main pot $0.21 | Rake $0.01
+BcexBCyMKy shows [Ts Kc] (two pair, Kings and Threes [Kd Kc 3s 3d Qh])
+ST97 shows [Ac 7d] (two pair, Sevens and Threes [7s 7d 3s 3d Ac])
+BcexBCyMKy collected $0.21 from main pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01
+Board [7s Kd 3s Qh 3d]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) showed [Ts Kc] and won $0.21 with two pair, Kings and Threes [Kd Kc 3s 3d Qh]
+Seat 3: ST97 (big blind) showed [Ac 7d] and lost with two pair, Sevens and Threes [7s 7d 3s 3d Ac]
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439587664 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:41:12 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.57)
+Seat 2: BcexBCyMKy ($3.46)
+Seat 3: ST97 ($1.45)
+Seat 4: grotle ($2.26)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.10)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7h Kd]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.03
+*** FLOP *** [3h 3s 6h]
+Main pot $0.11 | Rake $0.00
+grotle bets $0.02
+Wollt17 calls $0.02
+*** TURN *** [3h 3s 6h] [Jd]
+Main pot $0.15 | Rake $0.00
+grotle checks
+Wollt17 bets $0.11
+grotle folds
+Uncalled bet ($0.11) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.15
+Board [3h 3s 6h Jd]
+Seat 1: Wollt17 did not show and won $0.15
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Turn
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439588564 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:42:23 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.65)
+Seat 2: BcexBCyMKy ($3.46)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($2.19)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.10)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7c Qs]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.03
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439588867 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:42:50 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.65)
+Seat 2: BcexBCyMKy ($3.46)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($2.18)
+Seat 5: ScrimitzuTV ($2.01)
+Seat 6: GeForce969 ($2.10)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ac 2c]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV raises $0.19 to $0.20
+GeForce969 raises $0.51 to $0.53
+grotle calls $0.49
+ScrimitzuTV folds
+*** FLOP *** [Jh 5c Th]
+Main pot $1.20 | Rake $0.06
+GeForce969 bets $1.57 and is all-in
+grotle folds
+Uncalled bet ($1.57) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.04 | JP Fee $0.02
+Board [Jh 5c Th]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Flop
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $1.20
+
+Hand #2439589976 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:44:17 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.65)
+Seat 2: BcexBCyMKy ($3.46)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.65)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.77)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ad Js]
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.05
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439590331 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:44:46 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.63)
+Seat 2: BcexBCyMKy ($3.46)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.68)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.76)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks Ts]
+ST97 folds
+grotle calls $0.02
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy checks
+*** FLOP *** [5c 4h 8h]
+Main pot $0.05 | Rake $0.00
+BcexBCyMKy checks
+grotle checks
+*** TURN *** [5c 4h 8h] [Kd]
+Main pot $0.05 | Rake $0.00
+BcexBCyMKy bets $0.04
+grotle calls $0.04
+*** RIVER *** [5c 4h 8h Kd] [7h]
+Main pot $0.13 | Rake $0.00
+BcexBCyMKy bets $0.10
+grotle calls $0.10
+*** SHOW DOWN ***
+Main pot $0.32 | Rake $0.01
+BcexBCyMKy shows [6d 8d] (a straight, Eight high [8h 7h 6d 5c 4h])
+grotle shows [Ks Ts] (a pair of Kings [Ks Kd Ts 8h 7h])
+BcexBCyMKy collected $0.32 from main pot
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [5c 4h 8h Kd 7h]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) showed [6d 8d] and won $0.32 with a straight, Eight high [8h 7h 6d 5c 4h]
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Ks Ts] and lost with a pair of Kings [Ks Kd Ts 8h 7h]
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439591114 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:45:50 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.62)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.52)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.76)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9h 2c]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 did not show and won $0.03
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439591734 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:46:38 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.62) is sitting out
+Seat 2: BcexBCyMKy ($3.61)
+Seat 3: ST97 ($1.45)
+Seat 4: grotle ($1.52)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.76)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7h Ah]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.02
+*** FLOP *** [6s Jd Ad]
+Main pot $0.09 | Rake $0.00
+grotle checks
+ScrimitzuTV checks
+*** TURN *** [6s Jd Ad] [Ts]
+Main pot $0.09 | Rake $0.00
+grotle checks
+ScrimitzuTV bets $0.06
+grotle calls $0.06
+*** RIVER *** [6s Jd Ad Ts] [Kd]
+Main pot $0.20 | Rake $0.01
+grotle checks
+ScrimitzuTV bets $0.10
+grotle calls $0.10
+*** SHOW DOWN ***
+Main pot $0.39 | Rake $0.02
+grotle shows [7h Ah] (a pair of Aces [Ah Ad Kd Jd Ts])
+ScrimitzuTV shows [Qh Qd] (a straight, Ace high [Ad Kd Qh Jd Ts])
+ScrimitzuTV collected $0.39 from main pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02
+Board [6s Jd Ad Ts Kd]
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) showed [7h Ah] and lost with a pair of Aces [Ah Ad Kd Jd Ts]
+Seat 5: ScrimitzuTV showed [Qh Qd] and won $0.39 with a straight, Ace high [Ad Kd Qh Jd Ts]
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439592820 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:48:01 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.62)
+Seat 2: BcexBCyMKy ($3.61)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.32)
+Seat 5: ScrimitzuTV ($2.19)
+Seat 6: GeForce969 ($2.76)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2c 6s]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.03
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439593005 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:48:16 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.62)
+Seat 2: BcexBCyMKy ($3.61)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.31)
+Seat 5: ScrimitzuTV ($2.20)
+Seat 6: GeForce969 ($2.76)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9c 4d]
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 calls $0.04
+*** FLOP *** [2c 7h Ah]
+Main pot $0.13 | Rake $0.00
+GeForce969 bets $0.06
+BcexBCyMKy calls $0.06
+*** TURN *** [2c 7h Ah] [6d]
+Main pot $0.24 | Rake $0.01
+GeForce969 bets $0.12
+BcexBCyMKy folds
+Uncalled bet ($0.12) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [2c 7h Ah 6d]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Turn
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $0.24
+
+Hand #2439593815 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:49:21 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.62)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: ST97 ($1.44)
+Seat 4: grotle ($1.31)
+Seat 5: ScrimitzuTV ($2.19)
+Seat 6: GeForce969 ($2.88)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [4h 8s]
+BcexBCyMKy folds
+ST97 raises $0.04 to $0.04
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.20 to $0.22
+ST97 folds
+Uncalled bet ($0.18) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.09
+Seat 1: Wollt17 did not show and won $0.09
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439594200 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:49:52 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.67)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: ST97 ($1.40)
+Seat 4: grotle ($1.31)
+Seat 5: ScrimitzuTV ($2.19)
+Seat 6: GeForce969 ($2.87)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2d 8s]
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.03
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439594472 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:50:12 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.66)
+Seat 2: BcexBCyMKy ($3.50)
+Seat 3: ST97 ($1.40)
+Seat 4: grotle ($1.31)
+Seat 5: ScrimitzuTV ($2.19)
+Seat 6: GeForce969 ($2.87)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7s Kh]
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+Uncalled bet ($0.02) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.05
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439595080 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:50:49 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.66)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: ST97 ($1.38)
+Seat 4: grotle ($1.31)
+Seat 5: ScrimitzuTV ($2.22)
+Seat 6: GeForce969 ($2.87)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Qc Qs]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 calls $0.03
+grotle raises $0.13 to $0.15
+ScrimitzuTV folds
+ST97 calls $0.11
+*** FLOP *** [6s 8c Ah]
+Main pot $0.33 | Rake $0.01
+ST97 checks
+grotle bets $0.11
+ST97 raises $0.24 to $0.24
+grotle folds
+Uncalled bet ($0.13) returned to ST97
+ST97 does not show
+*** SUMMARY ***
+Total pot $0.54 | Rake $0.02
+Board [6s 8c Ah]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 did not show and won $0.54
+Seat 4: grotle (big blind) folded on the Flop
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439596018 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:51:50 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.66)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.05)
+Seat 5: ScrimitzuTV ($2.18)
+Seat 6: GeForce969 ($2.87)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Th 8s]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy did not show and won $0.05
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439596448 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:52:18 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.66)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.04)
+Seat 5: ScrimitzuTV ($2.16)
+Seat 6: GeForce969 ($2.87)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8c 9s]
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.05
+ScrimitzuTV folds
+GeForce969 folds
+*** FLOP *** [2c 8s 6c]
+Main pot $0.13 | Rake $0.00
+Wollt17 checks
+grotle bets $0.08
+Wollt17 calls $0.08
+*** TURN *** [2c 8s 6c] [7d]
+Main pot $0.28 | Rake $0.01
+Wollt17 checks
+grotle bets $0.21
+Wollt17 folds
+Uncalled bet ($0.21) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.28 | Rake $0.01
+Board [2c 8s 6c 7d]
+Seat 1: Wollt17 folded on the Turn
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.28
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439597915 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:53:53 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.53)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.19)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.85)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Tc Jh]
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 calls $0.04
+*** FLOP *** [6s Ks As]
+Main pot $0.13 | Rake $0.00
+Wollt17 checks
+BcexBCyMKy bets $0.04
+Wollt17 calls $0.04
+*** TURN *** [6s Ks As] [8h]
+Main pot $0.20 | Rake $0.01
+Wollt17 checks
+BcexBCyMKy bets $0.08
+Wollt17 folds
+Uncalled bet ($0.08) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [6s Ks As 8h]
+Seat 1: Wollt17 (big blind) folded on the Turn
+Seat 2: BcexBCyMKy did not show and won $0.20
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439598927 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:55:13 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.43)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.19)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.84)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2s 9d]
+ST97 raises $0.04 to $0.04
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+Uncalled bet ($0.02) returned to ST97
+ST97 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: ST97 did not show and won $0.05
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439599020 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:55:36 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.60)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.19)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.84)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [6c 3d]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 did not show and won $0.03
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439599105 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:55:53 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.59)
+Seat 3: ST97 ($1.70)
+Seat 4: grotle ($1.19)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.84)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7d Kh]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy did not show and won $0.05
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439599229 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:56:19 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.17)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.84)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kc Ks]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle raises $0.03 to $0.04
+ScrimitzuTV calls $0.02
+*** FLOP *** [6s Ac 3s]
+Main pot $0.08 | Rake $0.00
+grotle bets $0.02
+ScrimitzuTV calls $0.02
+*** TURN *** [6s Ac 3s] [3d]
+Main pot $0.12 | Rake $0.00
+grotle bets $0.09
+ScrimitzuTV folds
+Uncalled bet ($0.09) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [6s Ac 3s 3d]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.12
+Seat 5: ScrimitzuTV (big blind) folded on the Turn
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439599459 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:57:11 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.09)
+Seat 6: GeForce969 ($2.84)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8s Td]
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV raises $0.05 to $0.06
+GeForce969 folds
+Uncalled bet ($0.04) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439599545 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:57:31 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.11)
+Seat 6: GeForce969 ($2.82)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Td 9h]
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 did not show and won $0.03
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439599661 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:57:57 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.43)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.11)
+Seat 6: GeForce969 ($2.81)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ah 4h]
+ST97 folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy calls $0.02
+*** FLOP *** [7s 4s Js]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+grotle checks
+*** TURN *** [7s 4s Js] [8d]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+grotle checks
+*** RIVER *** [7s 4s Js 8d] [9c]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy shows [Ad 4d] (a pair of Fours [4s 4d Ad Js 9c])
+grotle shows [Ah 4h] (a pair of Fours [4s 4h Ah Js 9c])
+BcexBCyMKy collected $0.05 from main pot
+grotle collected $0.04 from main pot
+*** SUMMARY ***
+Total pot $0.09
+Board [7s 4s Js 8d 9c]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) showed [Ad 4d] and won $0.05 with a pair of Fours [4s 4d Ad Js 9c]
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Ah 4h] and won $0.04 with a pair of Fours [4s 4h Ah Js 9c]
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439599896 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:58:50 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.63)
+Seat 3: ST97 ($1.69)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.11)
+Seat 6: GeForce969 ($2.81)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2c 7s]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+Uncalled bet ($0.03) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 did not show and won $0.05
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439600013 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:59:15 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.45)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.67)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.11)
+Seat 6: GeForce969 ($2.81)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9h 4c]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+Uncalled bet ($0.02) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.05
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439600121 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:59:40 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.45)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.21)
+Seat 5: ScrimitzuTV ($2.14)
+Seat 6: GeForce969 ($2.81)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Jh 2s]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.03
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439600190 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 17:59:56 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.45)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.20)
+Seat 5: ScrimitzuTV ($2.15)
+Seat 6: GeForce969 ($2.81)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2c Kc]
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.05
+ScrimitzuTV folds
+GeForce969 folds
+*** FLOP *** [7h Th 8d]
+Main pot $0.13 | Rake $0.00
+Wollt17 bets $0.13
+grotle folds
+Uncalled bet ($0.13) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [7h Th 8d]
+Seat 1: Wollt17 did not show and won $0.13
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Flop
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439600496 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:00:48 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.53)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.15)
+Seat 5: ScrimitzuTV ($2.14)
+Seat 6: GeForce969 ($2.79)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [5c 9c]
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.05
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439601131 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:01:39 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.51)
+Seat 2: BcexBCyMKy ($3.65)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.15)
+Seat 5: ScrimitzuTV ($2.14)
+Seat 6: GeForce969 ($2.78)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8c Jd]
+ST97 folds
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+Uncalled bet ($0.02) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.05
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439601507 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:02:13 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.50)
+Seat 2: BcexBCyMKy ($3.63)
+Seat 3: ST97 ($1.66)
+Seat 4: grotle ($1.15)
+Seat 5: ScrimitzuTV ($2.17)
+Seat 6: GeForce969 ($2.78)
+BcexBCyMKy posts the small blind $0.01
+ST97 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [4d Kd]
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+ST97 calls $0.02
+*** FLOP *** [5s 8c Ac]
+Main pot $0.09 | Rake $0.00
+ST97 checks
+ScrimitzuTV checks
+*** TURN *** [5s 8c Ac] [Ks]
+Main pot $0.09 | Rake $0.00
+ST97 checks
+ScrimitzuTV bets $0.06
+ST97 calls $0.06
+*** RIVER *** [5s 8c Ac Ks] [5h]
+Main pot $0.20 | Rake $0.01
+ST97 checks
+ScrimitzuTV bets $0.10
+ST97 folds
+Uncalled bet ($0.10) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [5s 8c Ac Ks 5h]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: ST97 (big blind) folded on the River
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.20
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439602295 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:03:12 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.50)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.56)
+Seat 4: grotle ($1.15)
+Seat 5: ScrimitzuTV ($2.27)
+Seat 6: GeForce969 ($2.78)
+ST97 posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ts 7d]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle calls $0.03
+*** FLOP *** [5h 9c 7h]
+Main pot $0.11 | Rake $0.00
+grotle checks
+Wollt17 bets $0.03
+grotle raises $0.10 to $0.10
+Wollt17 folds
+Uncalled bet ($0.07) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.17
+Board [5h 9c 7h]
+Seat 1: Wollt17 folded on the Flop
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: ST97 (small blind) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.17
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439603278 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:04:26 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.55)
+Seat 4: grotle ($1.24)
+Seat 5: ScrimitzuTV ($2.27)
+Seat 6: GeForce969 ($2.78)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2d Ah]
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+Uncalled bet ($0.03) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 did not show and won $0.05
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439603635 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:04:53 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.45)
+Seat 2: BcexBCyMKy ($3.62)
+Seat 3: ST97 ($1.55)
+Seat 4: grotle ($1.23)
+Seat 5: ScrimitzuTV ($2.25)
+Seat 6: GeForce969 ($2.78)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks Ad]
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+ST97 folds
+grotle raises $0.19 to $0.19
+ScrimitzuTV folds
+GeForce969 folds
+BcexBCyMKy folds
+Uncalled bet ($0.13) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.15
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439604327 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:05:45 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.45)
+Seat 2: BcexBCyMKy ($3.56)
+Seat 3: ST97 ($1.55)
+Seat 4: grotle ($1.32)
+Seat 5: ScrimitzuTV ($2.24)
+Seat 6: GeForce969 ($2.76)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [3d Ac]
+BcexBCyMKy folds
+ST97 folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 raises $0.03 to $0.04
+Wollt17 folds
+Uncalled bet ($0.02) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: ST97 folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $0.04
+
+Hand #2439604934 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:06:30 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.43)
+Seat 2: BcexBCyMKy ($3.56)
+Seat 4: grotle ($1.32)
+Seat 5: ScrimitzuTV ($2.24)
+Seat 6: GeForce969 ($2.78)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kh 5d]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.03
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439605221 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:06:52 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.57)
+Seat 4: grotle ($1.32)
+Seat 5: ScrimitzuTV ($2.24)
+Seat 6: GeForce969 ($2.78)
+BcexBCyMKy posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [5s Jc]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy raises $0.05 to $0.06
+grotle folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.04
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439605644 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:07:25 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.59)
+Seat 3: debubs will be allowed to play after the button
+Seat 4: grotle ($1.30)
+Seat 5: ScrimitzuTV ($2.24)
+Seat 6: GeForce969 ($2.78)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [As Qs]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+grotle raises $0.03 to $0.04
+ScrimitzuTV raises $0.12 to $0.14
+grotle raises $0.31 to $0.35
+ScrimitzuTV calls $0.21
+*** FLOP *** [2c 7d 4c]
+Main pot $0.67 | Rake $0.03
+grotle checks
+ScrimitzuTV bets $0.16
+grotle calls $0.16
+*** TURN *** [2c 7d 4c] [2h]
+Main pot $0.97 | Rake $0.05
+grotle checks
+ScrimitzuTV bets $0.90
+grotle calls $0.79 and is all-in
+Uncalled bet ($0.11) returned to ScrimitzuTV
+*** RIVER *** [2c 7d 4c 2h] [Qd]
+Main pot $2.47 | Rake $0.13
+*** SHOW DOWN ***
+Main pot $2.47 | Rake $0.13
+grotle shows [As Qs] (two pair, Queens and Deuces [Qs Qd 2h 2c As])
+ScrimitzuTV shows [Ac Qc] (two pair, Queens and Deuces [Qd Qc 2h 2c Ac])
+grotle collected $1.24 from main pot
+ScrimitzuTV collected $1.23 from main pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.09 | JP Fee $0.04
+Board [2c 7d 4c 2h Qd]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) showed [As Qs] and won $1.24 with two pair, Queens and Deuces [Qs Qd 2h 2c As]
+Seat 5: ScrimitzuTV (big blind) showed [Ac Qc] and won $1.23 with two pair, Queens and Deuces [Qd Qc 2h 2c Ac]
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439607366 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:09:37 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.59)
+Seat 3: debubs ($2.00)
+Seat 4: grotle ($1.24)
+Seat 5: ScrimitzuTV ($2.17)
+Seat 6: GeForce969 ($2.78)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+debubs waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Tc 5c]
+Wollt17 folds
+BcexBCyMKy folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV calls $0.03
+GeForce969 folds
+*** FLOP *** [5s 3s Jc]
+Main pot $0.10 | Rake $0.00
+ScrimitzuTV checks
+grotle bets $0.05
+ScrimitzuTV calls $0.05
+*** TURN *** [5s 3s Jc] [5d]
+Main pot $0.19 | Rake $0.01
+ScrimitzuTV checks
+grotle bets $0.09
+ScrimitzuTV calls $0.09
+*** RIVER *** [5s 3s Jc 5d] [6c]
+Main pot $0.37 | Rake $0.01
+ScrimitzuTV checks
+grotle bets $0.54
+ScrimitzuTV folds
+Uncalled bet ($0.54) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.37 | Rake $0.01
+Board [5s 3s Jc 5d 6c]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.37
+Seat 5: ScrimitzuTV (small blind) folded on the River
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439608551 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:11:12 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.59)
+Seat 3: debubs ($2.00)
+Seat 4: grotle ($1.43)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.76)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+debubs waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7h 6d]
+BcexBCyMKy folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 did not show and won $0.03
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439608784 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:11:31 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.43)
+Seat 2: BcexBCyMKy ($3.59)
+Seat 3: debubs ($2.00)
+Seat 4: grotle ($1.43)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.75)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+debubs waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2c Kc]
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy calls $0.02
+*** FLOP *** [8h 3d Qs]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+ScrimitzuTV bets $0.04
+BcexBCyMKy folds
+Uncalled bet ($0.04) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [8h 3d Qs]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.09
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439609564 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:12:37 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.55)
+Seat 3: debubs ($2.00)
+Seat 4: grotle ($1.43)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.75)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kd 5h]
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs calls $0.02
+*** FLOP *** [3h 4c 6d]
+Main pot $0.09 | Rake $0.00
+debubs checks
+ScrimitzuTV bets $0.06
+debubs calls $0.06
+*** TURN *** [3h 4c 6d] [3c]
+Main pot $0.20 | Rake $0.01
+debubs bets $0.02
+ScrimitzuTV raises $0.20 to $0.20
+debubs folds
+Uncalled bet ($0.18) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [3h 4c 6d 3c]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs (big blind) folded on the Turn
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV did not show and won $0.24
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439610438 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:13:47 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.54)
+Seat 3: debubs ($1.88)
+Seat 4: grotle ($1.43)
+Seat 5: ScrimitzuTV ($2.17)
+Seat 6: GeForce969 ($2.75)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kh 9c]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy calls $0.04
+debubs calls $0.03
+grotle folds
+*** FLOP *** [9s 4s Ad]
+Main pot $0.14 | Rake $0.00
+debubs checks
+ScrimitzuTV bets $0.03
+BcexBCyMKy calls $0.03
+debubs calls $0.03
+*** TURN *** [9s 4s Ad] [4c]
+Main pot $0.22 | Rake $0.01
+debubs checks
+ScrimitzuTV checks
+BcexBCyMKy checks
+*** RIVER *** [9s 4s Ad 4c] [3d]
+Main pot $0.22 | Rake $0.01
+debubs checks
+ScrimitzuTV checks
+BcexBCyMKy checks
+*** SHOW DOWN ***
+Main pot $0.22 | Rake $0.01
+BcexBCyMKy shows [6s 6h] (two pair, Sixs and Fours [6s 6h 4s 4c Ad])
+debubs shows [8d 7d] (a pair of Fours [4s 4c Ad 9s 8d])
+ScrimitzuTV shows [Jh Tc] (a pair of Fours [4s 4c Ad Jh Tc])
+BcexBCyMKy collected $0.22 from main pot
+*** SUMMARY ***
+Total pot $0.22 | Rake $0.01
+Board [9s 4s Ad 4c 3d]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) showed [6s 6h] and won $0.22 with two pair, Sixs and Fours [6s 6h 4s 4c Ad]
+Seat 3: debubs (small blind) showed [8d 7d] and lost with a pair of Fours [4s 4c Ad 9s 8d]
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV showed [Jh Tc] and lost with a pair of Fours [4s 4c Ad Jh Tc]
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439611687 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:15:27 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.69)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($1.41)
+Seat 5: ScrimitzuTV ($2.10)
+Seat 6: GeForce969 ($2.75)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ac 3s]
+GeForce969 raises $0.04 to $0.04
+Wollt17 folds
+BcexBCyMKy folds
+debubs folds
+grotle calls $0.03
+ScrimitzuTV calls $0.02
+*** FLOP *** [Ah 3c 2d]
+Main pot $0.12 | Rake $0.00
+grotle checks
+ScrimitzuTV checks
+GeForce969 bets $0.06
+grotle raises $0.14 to $0.14
+ScrimitzuTV folds
+GeForce969 calls $0.08
+*** TURN *** [Ah 3c 2d] [7s]
+Main pot $0.38 | Rake $0.02
+grotle bets $0.20
+GeForce969 calls $0.20
+*** RIVER *** [Ah 3c 2d 7s] [Tc]
+Main pot $0.76 | Rake $0.04
+grotle bets $1.03 and is all-in
+GeForce969 calls $1.03
+*** SHOW DOWN ***
+Main pot $2.72 | Rake $0.14
+grotle shows [Ac 3s] (two pair, Aces and Threes [Ah Ac 3s 3c Tc])
+GeForce969 shows [Ad Kh] (a pair of Aces [Ah Ad Kh Tc 7s])
+grotle collected $2.72 from main pot
+*** SUMMARY ***
+Total pot $2.72 | Rake $0.10 | JP Fee $0.04
+Board [Ah 3c 2d 7s Tc]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) showed [Ac 3s] and won $2.72 with two pair, Aces and Threes [Ah Ac 3s 3c Tc]
+Seat 5: ScrimitzuTV (big blind) folded on the Flop
+Seat 6: GeForce969 showed [Ad Kh] and lost with a pair of Aces [Ah Ad Kh Tc 7s]
+
+Hand #2439612991 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:17:13 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.42)
+Seat 2: BcexBCyMKy ($3.69)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($2.72)
+Seat 5: ScrimitzuTV ($2.06)
+Seat 6: GeForce969 ($2.00)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks Kh]
+Wollt17 raises $0.06 to $0.06
+BcexBCyMKy folds
+debubs folds
+grotle raises $0.18 to $0.18
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.36 to $0.42
+grotle raises $2.54 to $2.72 and is all-in
+Wollt17 folds
+Uncalled bet ($2.30) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.87
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.87
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439613804 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:18:21 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.69)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($3.17)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7h Kc]
+BcexBCyMKy folds
+debubs folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 raises $0.03 to $0.04
+Wollt17 folds
+Uncalled bet ($0.02) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Wollt17 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 did not show and won $0.04
+
+Hand #2439614212 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:18:54 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.69)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($3.17)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.02)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2s 6h]
+debubs raises $0.05 to $0.05
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+Uncalled bet ($0.03) returned to debubs
+debubs does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs did not show and won $0.05
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439614597 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:19:28 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.67)
+Seat 3: debubs ($1.84)
+Seat 4: grotle ($3.17)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.02)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Qc 8h]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+debubs folds
+Uncalled bet ($0.03) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 did not show and won $0.05
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439614852 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:19:50 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.03)
+Seat 2: BcexBCyMKy ($3.66)
+Seat 3: debubs ($1.82)
+Seat 4: grotle ($3.17)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.02)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [5h Jc]
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.08 to $0.08
+BcexBCyMKy calls $0.08
+debubs folds
+grotle folds
+*** FLOP *** [6h 2h 4s]
+Main pot $0.19 | Rake $0.00
+Wollt17 bets $0.06
+BcexBCyMKy calls $0.06
+*** TURN *** [6h 2h 4s] [As]
+Main pot $0.30 | Rake $0.01
+Wollt17 checks
+BcexBCyMKy checks
+*** RIVER *** [6h 2h 4s As] [Ad]
+Main pot $0.30 | Rake $0.01
+Wollt17 bets $0.10
+BcexBCyMKy folds
+Uncalled bet ($0.10) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [6h 2h 4s As Ad]
+Seat 1: Wollt17 did not show and won $0.30
+Seat 2: BcexBCyMKy (button) folded on the River
+Seat 3: debubs (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439615685 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:21:02 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.19)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($3.15)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.02)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Qs 6h]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs folds
+grotle folds
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.03
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439615876 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:21:18 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.19)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($3.14)
+Seat 5: ScrimitzuTV ($2.06)
+Seat 6: GeForce969 ($2.02)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [4s Ts]
+Wollt17 raises $0.05 to $0.05
+BcexBCyMKy folds
+debubs folds
+grotle calls $0.05
+ScrimitzuTV folds
+GeForce969 folds
+*** FLOP *** [Td 6d Kd]
+Main pot $0.13 | Rake $0.00
+Wollt17 bets $0.04
+grotle calls $0.04
+*** TURN *** [Td 6d Kd] [9s]
+Main pot $0.20 | Rake $0.01
+Wollt17 checks
+grotle bets $0.13
+Wollt17 folds
+Uncalled bet ($0.13) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01
+Board [Td 6d Kd 9s]
+Seat 1: Wollt17 folded on the Turn
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.20
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439616745 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:22:30 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.10)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: debubs ($1.81)
+Seat 4: grotle ($3.25)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kc 6d]
+BcexBCyMKy folds
+debubs raises $0.05 to $0.05
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.20 to $0.22
+debubs calls $0.17
+*** FLOP *** [2h Qd 6h]
+Main pot $0.43 | Rake $0.02
+Wollt17 bets $0.14
+debubs folds
+Uncalled bet ($0.14) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [2h Qd 6h]
+Seat 1: Wollt17 did not show and won $0.43
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439617497 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:23:35 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.31)
+Seat 2: BcexBCyMKy ($3.52)
+Seat 3: debubs ($1.59)
+Seat 4: grotle ($3.25)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.00)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8c 7c]
+debubs folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV raises $0.14 to $0.14
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+grotle calls $0.10
+*** FLOP *** [Qd As Qc]
+Main pot $0.30 | Rake $0.01
+grotle checks
+ScrimitzuTV bets $0.07
+grotle folds
+Uncalled bet ($0.07) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board [Qd As Qc]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Flop
+Seat 5: ScrimitzuTV did not show and won $0.30
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439618086 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:24:25 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.30)
+Seat 2: BcexBCyMKy ($3.50)
+Seat 3: debubs ($1.59)
+Seat 4: grotle ($3.11)
+Seat 5: ScrimitzuTV ($2.21)
+Seat 6: GeForce969 ($2.00)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [5d 9d]
+grotle folds
+ScrimitzuTV folds
+GeForce969 raises $0.04 to $0.04
+Wollt17 folds
+BcexBCyMKy folds
+debubs calls $0.02
+*** FLOP *** [9s 8h Tc]
+Main pot $0.09 | Rake $0.00
+debubs checks
+GeForce969 bets $0.04
+debubs calls $0.04
+*** TURN *** [9s 8h Tc] [9h]
+Main pot $0.17 | Rake $0.00
+debubs checks
+GeForce969 bets $0.08
+debubs calls $0.08
+*** RIVER *** [9s 8h Tc 9h] [5c]
+Main pot $0.32 | Rake $0.01
+debubs checks
+GeForce969 bets $0.33
+debubs folds
+Uncalled bet ($0.33) returned to GeForce969
+GeForce969 does not show
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [9s 8h Tc 9h 5c]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs (big blind) folded on the River
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 did not show and won $0.32
+
+Hand #2439618974 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:25:37 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.30)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: debubs ($1.43)
+Seat 4: grotle ($3.11)
+Seat 5: ScrimitzuTV ($2.21)
+Seat 6: GeForce969 ($2.16)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Qh Ts]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs calls $0.03
+grotle calls $0.02
+*** FLOP *** [4c Kc 7h]
+Main pot $0.12 | Rake $0.00
+debubs checks
+grotle checks
+ScrimitzuTV bets $0.09
+debubs folds
+grotle folds
+Uncalled bet ($0.09) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [4c Kc 7h]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: debubs (small blind) folded on the Flop
+Seat 4: grotle (big blind) folded on the Flop
+Seat 5: ScrimitzuTV did not show and won $0.12
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439619701 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:26:32 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.30)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: debubs ($1.39)
+Seat 4: grotle ($3.07)
+Seat 5: ScrimitzuTV ($2.29)
+Seat 6: GeForce969 ($2.16)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Qd Th]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs folds
+grotle raises $0.03 to $0.04
+ScrimitzuTV calls $0.02
+*** FLOP *** [4s 7d 4c]
+Main pot $0.08 | Rake $0.00
+grotle checks
+ScrimitzuTV checks
+*** TURN *** [4s 7d 4c] [2h]
+Main pot $0.08 | Rake $0.00
+grotle checks
+ScrimitzuTV checks
+*** RIVER *** [4s 7d 4c 2h] [5d]
+Main pot $0.08 | Rake $0.00
+grotle checks
+ScrimitzuTV bets $0.24
+grotle folds
+Uncalled bet ($0.24) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.08
+Board [4s 7d 4c 2h 5d]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the River
+Seat 5: ScrimitzuTV did not show and won $0.08
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439620556 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:27:38 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.30)
+Seat 2: BcexBCyMKy ($3.49)
+Seat 3: debubs ($1.39)
+Seat 4: grotle ($3.03)
+Seat 5: ScrimitzuTV ($2.33)
+Seat 6: GeForce969 ($2.16)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks 4h]
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+debubs folds
+grotle folds
+ScrimitzuTV calls $0.05
+GeForce969 folds
+*** FLOP *** [Jc 6d 2h]
+Main pot $0.14 | Rake $0.00
+ScrimitzuTV checks
+BcexBCyMKy bets $0.05
+ScrimitzuTV calls $0.05
+*** TURN *** [Jc 6d 2h] [8c]
+Main pot $0.23 | Rake $0.01
+ScrimitzuTV checks
+BcexBCyMKy checks
+*** RIVER *** [Jc 6d 2h 8c] [Qh]
+Main pot $0.23 | Rake $0.01
+ScrimitzuTV bets $0.17
+BcexBCyMKy folds
+Uncalled bet ($0.17) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.23 | Rake $0.01
+Board [Jc 6d 2h 8c Qh]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the River
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.23
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439621460 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:28:49 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.30)
+Seat 2: BcexBCyMKy ($3.38)
+Seat 3: debubs ($1.39)
+Seat 4: grotle ($3.03)
+Seat 5: ScrimitzuTV ($2.45)
+Seat 6: GeForce969 ($2.14)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9d 8d]
+BcexBCyMKy folds
+debubs folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 raises $0.18 to $0.20
+grotle calls $0.16
+*** FLOP *** [4d 2h Th]
+Main pot $0.39 | Rake $0.02
+Wollt17 bets $0.13
+grotle calls $0.13
+*** TURN *** [4d 2h Th] [Ad]
+Main pot $0.64 | Rake $0.03
+Wollt17 checks
+grotle bets $0.33
+Wollt17 calls $0.33
+*** RIVER *** [4d 2h Th Ad] [8h]
+Main pot $1.27 | Rake $0.06
+Wollt17 checks
+grotle bets $1.00
+Wollt17 folds
+Uncalled bet ($1.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.04 | JP Fee $0.02
+Board [4d 2h Th Ad 8h]
+Seat 1: Wollt17 (big blind) folded on the River
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $1.27
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439622841 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:30:34 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.38)
+Seat 3: debubs ($1.39)
+Seat 4: grotle ($3.64)
+Seat 5: ScrimitzuTV ($2.45)
+Seat 6: GeForce969 ($2.13) is sitting out
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Jd Jh]
+debubs folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV calls $0.04
+Wollt17 folds
+BcexBCyMKy folds
+*** FLOP *** [5s Qs 5h]
+Main pot $0.11 | Rake $0.00
+grotle bets $0.08
+ScrimitzuTV calls $0.08
+*** TURN *** [5s Qs 5h] [Qd]
+Main pot $0.26 | Rake $0.01
+grotle checks
+ScrimitzuTV checks
+*** RIVER *** [5s Qs 5h Qd] [3h]
+Main pot $0.26 | Rake $0.01
+grotle bets $0.20
+ScrimitzuTV calls $0.20
+*** SHOW DOWN ***
+Main pot $0.64 | Rake $0.03
+grotle shows [Jd Jh] (two pair, Queens and Jacks [Qs Qd Jh Jd 5s])
+ScrimitzuTV shows [7c 7d] (two pair, Queens and Sevens [Qs Qd 7d 7c 5s])
+grotle collected $0.64 from main pot
+*** SUMMARY ***
+Total pot $0.64 | Rake $0.03
+Board [5s Qs 5h Qd 3h]
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Jd Jh] and won $0.64 with two pair, Queens and Jacks [Qs Qd Jh Jd 5s]
+Seat 5: ScrimitzuTV showed [7c 7d] and lost with two pair, Queens and Sevens [Qs Qd 7d 7c 5s]
+
+Hand #2439623524 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:31:29 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.36)
+Seat 3: debubs ($1.39)
+Seat 4: grotle ($3.96)
+Seat 5: ScrimitzuTV ($2.13)
+Seat 6: GeForce969 ($2.13) is sitting out
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7d 7s]
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs calls $0.02
+*** FLOP *** [5d Tc Kc]
+Main pot $0.09 | Rake $0.00
+debubs checks
+grotle bets $0.06
+debubs calls $0.06
+*** TURN *** [5d Tc Kc] [Jc]
+Main pot $0.20 | Rake $0.01
+debubs checks
+grotle bets $0.10
+debubs calls $0.10
+*** RIVER *** [5d Tc Kc Jc] [9d]
+Main pot $0.39 | Rake $0.02
+debubs checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $0.39 | Rake $0.02
+debubs shows [6h Kd] (a pair of Kings [Kd Kc Jc Tc 9d])
+grotle shows [7d 7s] (a pair of Sevens [7s 7d Kc Jc Tc])
+debubs collected $0.39 from main pot
+*** SUMMARY ***
+Total pot $0.39 | Rake $0.02
+Board [5d Tc Kc Jc 9d]
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs (big blind) showed [6h Kd] and won $0.39 with a pair of Kings [Kd Kc Jc Tc 9d]
+Seat 4: grotle showed [7d 7s] and lost with a pair of Sevens [7s 7d Kc Jc Tc]
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+
+Hand #2439624048 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:32:09 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.58)
+Seat 4: grotle ($3.76)
+Seat 5: ScrimitzuTV ($2.13)
+Seat 6: GeForce969 ($2.13)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7c As]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+BcexBCyMKy folds
+debubs calls $0.03
+grotle calls $0.02
+*** FLOP *** [Jc Qd 2s]
+Main pot $0.12 | Rake $0.00
+debubs checks
+grotle checks
+ScrimitzuTV checks
+*** TURN *** [Jc Qd 2s] [8c]
+Main pot $0.12 | Rake $0.00
+debubs checks
+grotle checks
+ScrimitzuTV checks
+*** RIVER *** [Jc Qd 2s 8c] [Kc]
+Main pot $0.12 | Rake $0.00
+debubs checks
+grotle bets $0.12
+ScrimitzuTV folds
+debubs calls $0.12
+*** SHOW DOWN ***
+Main pot $0.35 | Rake $0.01
+debubs shows [Ks 9s] (a pair of Kings [Ks Kc Qd Jc 9s])
+grotle shows [7c As] (a high card, Ace high [As Kc Qd Jc 8c])
+debubs collected $0.35 from main pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.01
+Board [Jc Qd 2s 8c Kc]
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: debubs (small blind) showed [Ks 9s] and won $0.35 with a pair of Kings [Ks Kc Qd Jc 9s]
+Seat 4: grotle (big blind) showed [7c As] and lost with a high card, Ace high [As Kc Qd Jc 8c]
+Seat 5: ScrimitzuTV folded on the River
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439625267 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:33:44 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.77)
+Seat 4: grotle ($3.60)
+Seat 5: ScrimitzuTV ($2.09)
+Seat 6: GeForce969 ($2.13)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Jd Ad]
+GeForce969 folds
+BcexBCyMKy folds
+debubs folds
+grotle raises $0.03 to $0.04
+ScrimitzuTV calls $0.02
+*** FLOP *** [2s Jc As]
+Main pot $0.08 | Rake $0.00
+grotle checks
+ScrimitzuTV bets $0.04
+grotle raises $0.12 to $0.12
+ScrimitzuTV folds
+Uncalled bet ($0.08) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.16
+Board [2s Jc As]
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.16
+Seat 5: ScrimitzuTV (big blind) folded on the Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439626023 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:34:42 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.77)
+Seat 4: grotle ($3.68)
+Seat 5: ScrimitzuTV ($2.01)
+Seat 6: GeForce969 ($2.13)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7c Jd]
+BcexBCyMKy folds
+debubs folds
+grotle folds
+ScrimitzuTV raises $0.05 to $0.06
+GeForce969 folds
+Uncalled bet ($0.04) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439626514 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:35:21 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.77)
+Seat 4: grotle ($3.68)
+Seat 5: ScrimitzuTV ($2.03)
+Seat 6: GeForce969 ($2.11)
+GeForce969 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Tc Qh]
+debubs raises $0.05 to $0.05
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+BcexBCyMKy folds
+Uncalled bet ($0.03) returned to debubs
+debubs does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs did not show and won $0.05
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439626822 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:35:46 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.33)
+Seat 3: debubs ($1.80)
+Seat 4: grotle ($3.68)
+Seat 5: ScrimitzuTV ($2.03)
+Seat 6: GeForce969 ($2.10)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7h Kd]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+BcexBCyMKy raises $0.05 to $0.06
+debubs calls $0.04
+*** FLOP *** [Qc 6c Qh]
+Main pot $0.12 | Rake $0.00
+BcexBCyMKy checks
+debubs checks
+*** TURN *** [Qc 6c Qh] [8s]
+Main pot $0.12 | Rake $0.00
+BcexBCyMKy checks
+debubs bets $0.12
+BcexBCyMKy folds
+Uncalled bet ($0.12) returned to debubs
+debubs does not show
+*** SUMMARY ***
+Total pot $0.12
+Board [Qc 6c Qh 8s]
+Seat 2: BcexBCyMKy (small blind) folded on the Turn
+Seat 3: debubs did not show and won $0.12
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439627535 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:36:41 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.27)
+Seat 3: debubs ($1.86)
+Seat 4: grotle ($3.68)
+Seat 5: ScrimitzuTV ($2.03)
+Seat 6: GeForce969 ($2.10)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [8c Tc]
+ScrimitzuTV folds
+GeForce969 folds
+BcexBCyMKy raises $0.06 to $0.06
+debubs folds
+grotle calls $0.04
+*** FLOP *** [Ks As 4s]
+Main pot $0.13 | Rake $0.00
+grotle checks
+BcexBCyMKy bets $0.06
+grotle folds
+Uncalled bet ($0.06) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.13
+Board [Ks As 4s]
+Seat 2: BcexBCyMKy did not show and won $0.13
+Seat 3: debubs (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Flop
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439627914 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:37:14 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.00) is sitting out
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.85)
+Seat 4: grotle ($3.62)
+Seat 5: ScrimitzuTV ($2.03)
+Seat 6: GeForce969 ($2.10)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2s 8c]
+GeForce969 folds
+BcexBCyMKy folds
+debubs raises $0.05 to $0.05
+grotle folds
+ScrimitzuTV folds
+Uncalled bet ($0.03) returned to debubs
+debubs does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs did not show and won $0.05
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439628195 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:37:38 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.88)
+Seat 4: grotle ($3.61)
+Seat 5: ScrimitzuTV ($2.01)
+Seat 6: GeForce969 ($2.10)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+Wollt17 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ad 9c]
+BcexBCyMKy raises $0.06 to $0.06
+debubs folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: BcexBCyMKy did not show and won $0.05
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439628643 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:38:15 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.00)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($1.88)
+Seat 4: grotle ($3.61)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.08)
+GeForce969 posts the small blind $0.01
+Wollt17 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7c 9h]
+BcexBCyMKy folds
+debubs folds
+grotle folds
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 calls $0.02
+*** FLOP *** [6h 9c 3h]
+Main pot $0.09 | Rake $0.00
+Wollt17 checks
+ScrimitzuTV bets $0.04
+Wollt17 raises $0.12 to $0.12
+ScrimitzuTV calls $0.08
+*** TURN *** [6h 9c 3h] [Ac]
+Main pot $0.32 | Rake $0.01
+Wollt17 checks
+ScrimitzuTV checks
+*** RIVER *** [6h 9c 3h Ac] [Ad]
+Main pot $0.32 | Rake $0.01
+Wollt17 bets $0.24
+ScrimitzuTV folds
+Uncalled bet ($0.24) returned to Wollt17
+Wollt17 does not show
+*** SUMMARY ***
+Total pot $0.32 | Rake $0.01
+Board [6h 9c 3h Ac Ad]
+Seat 1: Wollt17 did not show and won $0.32
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV (button) folded on the River
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439629886 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:39:55 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Wollt17 ($2.16)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($1.88)
+Seat 4: grotle ($3.61)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.07)
+Wollt17 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7s 6h]
+debubs raises $0.05 to $0.05
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+Uncalled bet ($0.03) returned to debubs
+debubs does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs did not show and won $0.05
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439630329 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:40:30 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Wollt17 ($2.15)
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.91)
+Seat 4: grotle ($3.61)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.07)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [2d 7s]
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Wollt17 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs did not show and won $0.03
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: ScrimitzuTV folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439630685 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:40:59 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Wollt17 ($2.15)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.92)
+Seat 4: grotle ($3.61)
+Seat 5: ScrimitzuTV ($2.00)
+Seat 6: GeForce969 ($2.07)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [4c Ad]
+ScrimitzuTV raises $0.04 to $0.04
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs folds
+grotle calls $0.02
+*** FLOP *** [7h 2h Jd]
+Main pot $0.09 | Rake $0.00
+grotle checks
+ScrimitzuTV bets $0.06
+grotle folds
+Uncalled bet ($0.06) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [7h 2h Jd]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: debubs (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Flop
+Seat 5: ScrimitzuTV did not show and won $0.09
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439631385 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:41:58 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Wollt17 ($2.15)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.91)
+Seat 4: grotle ($3.57)
+Seat 5: ScrimitzuTV ($2.05)
+Seat 6: GeForce969 ($2.07)
+grotle posts the small blind $0.01
+ScrimitzuTV posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kc 5c]
+GeForce969 folds
+Wollt17 folds
+BcexBCyMKy folds
+debubs folds
+grotle calls $0.01
+ScrimitzuTV raises $0.08 to $0.10
+grotle calls $0.08
+*** FLOP *** [6c 3s Jh]
+Main pot $0.19 | Rake $0.01
+grotle checks
+ScrimitzuTV bets $0.14
+grotle raises $0.38 to $0.38
+ScrimitzuTV calls $0.24
+*** TURN *** [6c 3s Jh] [6h]
+Main pot $0.92 | Rake $0.04
+grotle checks
+ScrimitzuTV bets $0.23
+grotle raises $0.94 to $0.94
+ScrimitzuTV raises $1.34 to $1.57 and is all-in
+grotle folds
+Uncalled bet ($0.63) returned to ScrimitzuTV
+ScrimitzuTV does not show
+*** SUMMARY ***
+Total pot $2.70 | Rake $0.10 | JP Fee $0.04
+Board [6c 3s Jh 6h]
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Turn
+Seat 5: ScrimitzuTV did not show and won $2.70
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439632999 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:44:11 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Wollt17 ($2.15)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.91)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($3.33)
+Seat 6: GeForce969 ($2.07)
+ScrimitzuTV posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9s 4c]
+Wollt17 folds
+BcexBCyMKy raises $0.06 to $0.06
+debubs folds
+grotle folds
+ScrimitzuTV folds
+GeForce969 folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Wollt17 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy did not show and won $0.05
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: ScrimitzuTV (small blind) folded on the Pre-Flop
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439633462 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:44:50 UTC
+Maysville 6-max Seat #5 is the button
+Seat 1: Wollt17 ($2.15)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($1.91)
+Seat 4: grotle ($2.15)
+Seat 5: ScrimitzuTV ($3.32)
+Seat 6: GeForce969 ($2.05)
+GeForce969 posts the small blind $0.01
+Wollt17 sits out
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [9d Td]
+debubs folds
+grotle raises $0.04 to $0.04
+ScrimitzuTV folds
+GeForce969 folds
+BcexBCyMKy folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 2: BcexBCyMKy (big blind) folded on the Pre-Flop
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.05
+Seat 5: ScrimitzuTV (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439633744 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:45:13 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Foxy212 will be allowed to play after the button
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($1.91)
+Seat 4: grotle ($2.18)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.04)
+BcexBCyMKy posts the small blind $0.01
+debubs posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [6h 8d]
+grotle folds
+GeForce969 folds
+BcexBCyMKy folds
+debubs does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 3: debubs did not show and won $0.03
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439633932 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:45:30 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($1.92)
+Seat 4: grotle ($2.18)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.04)
+debubs posts the small blind $0.01
+grotle posts the big blind $0.02
+Foxy212 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2d As]
+GeForce969 folds
+BcexBCyMKy folds
+debubs raises $0.04 to $0.05
+grotle calls $0.03
+*** FLOP *** [Kd 9d 7h]
+Main pot $0.10 | Rake $0.00
+debubs bets $0.02
+grotle calls $0.02
+*** TURN *** [Kd 9d 7h] [8d]
+Main pot $0.14 | Rake $0.00
+debubs bets $0.02
+grotle calls $0.02
+*** RIVER *** [Kd 9d 7h 8d] [Ad]
+Main pot $0.18 | Rake $0.00
+debubs bets $0.02
+grotle calls $0.02
+*** SHOW DOWN ***
+Main pot $0.21 | Rake $0.01
+debubs shows [Ac Qd] (a flush, Ace high [Ad Kd Qd 9d 8d])
+grotle shows [2d As] (a flush, Ace high [Ad Kd 9d 8d 2d])
+debubs collected $0.21 from main pot
+*** SUMMARY ***
+Total pot $0.21 | Rake $0.01
+Board [Kd 9d 7h 8d Ad]
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 3: debubs (small blind) showed [Ac Qd] and won $0.21 with a flush, Ace high [Ad Kd Qd 9d 8d]
+Seat 4: grotle (big blind) showed [2d As] and lost with a flush, Ace high [Ad Kd 9d 8d 2d]
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439634571 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:46:20 UTC
+Maysville 6-max Seat #3 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($2.02)
+Seat 4: grotle ($2.07)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.04)
+grotle posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+Foxy212 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Tc Jh]
+BcexBCyMKy folds
+debubs folds
+grotle calls $0.01
+GeForce969 checks
+*** FLOP *** [Td Ah 4d]
+Main pot $0.04 | Rake $0.00
+grotle checks
+GeForce969 checks
+*** TURN *** [Td Ah 4d] [6h]
+Main pot $0.04 | Rake $0.00
+grotle bets $0.02
+GeForce969 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [Td Ah 4d 6h]
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Turn
+
+Hand #2439635017 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:46:57 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($2.02)
+Seat 4: grotle ($2.09)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.02)
+GeForce969 posts the small blind $0.01
+Foxy212 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [7d Ah]
+BcexBCyMKy folds
+debubs folds
+grotle raises $0.04 to $0.04
+GeForce969 folds
+Foxy212 calls $0.02
+*** FLOP *** [Kh 5c 8c]
+Main pot $0.09 | Rake $0.00
+Foxy212 checks
+grotle bets $0.04
+Foxy212 folds
+Uncalled bet ($0.04) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Kh 5c 8c]
+Seat 1: Foxy212 (big blind) folded on the Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.09
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439635421 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:47:30 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.34)
+Seat 3: debubs ($2.02)
+Seat 4: grotle ($2.14)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.01)
+Foxy212 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Jc 4h]
+debubs folds
+grotle folds
+GeForce969 folds
+Foxy212 folds
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Foxy212 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.03
+Seat 3: debubs folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 6: GeForce969 (button) folded on the Pre-Flop
+
+Hand #2439635627 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:47:46 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.35)
+Seat 3: debubs ($2.02)
+Seat 4: grotle ($2.14)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.01)
+BcexBCyMKy posts the small blind $0.01
+debubs sits out
+grotle posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [3d Qc]
+GeForce969 folds
+Foxy212 folds
+BcexBCyMKy raises $0.05 to $0.06
+grotle folds
+Uncalled bet ($0.04) returned to BcexBCyMKy
+BcexBCyMKy does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Foxy212 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy did not show and won $0.04
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 6: GeForce969 folded on the Pre-Flop and did not bet
+
+Hand #2439635930 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:48:12 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($2.02) is sitting out
+Seat 4: grotle ($2.12)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.01)
+grotle posts the small blind $0.01
+GeForce969 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Kc Ks]
+Foxy212 folds
+BcexBCyMKy folds
+grotle raises $0.03 to $0.04
+GeForce969 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.04
+Seat 1: Foxy212 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.04
+Seat 6: GeForce969 (big blind) folded on the Pre-Flop
+
+Hand #2439636147 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:48:29 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($2.02) is sitting out
+Seat 4: grotle ($2.14)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: GeForce969 ($2.00)
+GeForce969 posts the small blind $0.01
+Foxy212 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Th 2s]
+BcexBCyMKy folds
+grotle folds
+GeForce969 folds
+Foxy212 does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Foxy212 did not show and won $0.03
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 6: GeForce969 (small blind) folded on the Pre-Flop
+
+Hand #2439636356 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:48:45 UTC
+Maysville 6-max Seat #6 is the button
+Seat 1: Foxy212 ($2.01)
+Seat 2: BcexBCyMKy ($3.37)
+Seat 3: debubs ($2.02) is sitting out
+Seat 4: grotle ($2.14)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: C_H_E_W_Y will be allowed to play after the button
+Foxy212 posts the small blind $0.01
+BcexBCyMKy posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [6h 8h]
+grotle raises $0.04 to $0.04
+Foxy212 folds
+BcexBCyMKy calls $0.02
+*** FLOP *** [Kh Ad 3s]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+grotle checks
+*** TURN *** [Kh Ad 3s] [2h]
+Main pot $0.09 | Rake $0.00
+BcexBCyMKy checks
+grotle bets $0.04
+BcexBCyMKy folds
+Uncalled bet ($0.04) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.09
+Board [Kh Ad 3s 2h]
+Seat 1: Foxy212 (small blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (big blind) folded on the Turn
+Seat 4: grotle did not show and won $0.09
+
+Hand #2439636955 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:49:34 UTC
+Maysville 6-max Seat #1 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.33)
+Seat 3: debubs ($2.02) is sitting out
+Seat 4: grotle ($2.19)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: C_H_E_W_Y ($2.00)
+BcexBCyMKy posts the small blind $0.01
+grotle posts the big blind $0.02
+C_H_E_W_Y waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [3s Ts]
+Foxy212 folds
+BcexBCyMKy folds
+grotle does not show
+*** SUMMARY ***
+Total pot $0.03
+Seat 1: Foxy212 (button) folded on the Pre-Flop
+Seat 2: BcexBCyMKy (small blind) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.03
+
+Hand #2439637139 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:49:49 UTC
+Maysville 6-max Seat #2 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.32)
+Seat 3: debubs ($2.02) is sitting out
+Seat 4: grotle ($2.20)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: C_H_E_W_Y ($2.00)
+grotle posts the small blind $0.01
+C_H_E_W_Y posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [Ks 6s]
+Foxy212 folds
+BcexBCyMKy folds
+grotle calls $0.01
+C_H_E_W_Y checks
+*** FLOP *** [5h 9s 6c]
+Main pot $0.04 | Rake $0.00
+grotle bets $0.04
+C_H_E_W_Y folds
+Uncalled bet ($0.04) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.04
+Board [5h 9s 6c]
+Seat 1: Foxy212 folded on the Pre-Flop and did not bet
+Seat 2: BcexBCyMKy (button) folded on the Pre-Flop
+Seat 4: grotle did not show and won $0.04
+Seat 6: C_H_E_W_Y (big blind) folded on the Flop
+
+Hand #2439637508 - Holdem (No Limit) - $0.01/$0.02 - 2025/04/25 18:50:18 UTC
+Maysville 6-max Seat #4 is the button
+Seat 1: Foxy212 ($2.00)
+Seat 2: BcexBCyMKy ($3.32)
+Seat 4: grotle ($2.22)
+Seat 5: ScrimitzuTV ($3.32) is sitting out
+Seat 6: C_H_E_W_Y ($2.00)
+C_H_E_W_Y posts the small blind $0.01
+Foxy212 posts the big blind $0.02
+*** HOLE CARDS ***
+Dealt to grotle [3d Td]
+BcexBCyMKy folds
+grotle raises $0.04 to $0.04
+C_H_E_W_Y folds
+Foxy212 folds
+Uncalled bet ($0.02) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.05
+Seat 1: Foxy212 (big blind) folded on the Pre-Flop
+Seat 2: BcexBCyMKy folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won $0.05
+Seat 6: C_H_E_W_Y (small blind) folded on the Pre-Flop
+

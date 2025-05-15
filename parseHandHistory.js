@@ -8,20 +8,21 @@ function parseCards(cardString) {
     return cardString.replace(/[\[\]]/g, '').split(' ');
 }
 
-// Helper function to calculate position from button
-function calculatePosition(buttonPosition, playerSeat, numPlayers) {
-    const positions = {
-        2: ['BTN/SB', 'BB'],
-        3: ['BTN', 'SB', 'BB'],
-        4: ['BTN', 'SB', 'BB', 'UTG'],
-        5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
-        6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
-        7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
-        8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
-        9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
-        10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
-    };
+// Define positions dictionary at module level
+const positions = {
+    2: ['BTN/SB', 'BB'],
+    3: ['BTN', 'SB', 'BB'],
+    4: ['BTN', 'SB', 'BB', 'UTG'],
+    5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
+    6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
+    7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
+    8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
+    9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
+    10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
+};
 
+// Helper function to calculate position from button
+function calculatePosition(buttonPosition, playerSeat, numPlayers, heroSeat) {
     // For 2 players, positions are fixed
     if (numPlayers === 2) {
         return positions[2][playerSeat - 1];
@@ -31,12 +32,10 @@ function calculatePosition(buttonPosition, playerSeat, numPlayers) {
     const basePositions = positions[numPlayers];
     
     // Calculate the position index based on the distance from the button
-    // Since button is at position 0, we need to calculate counterclockwise distance
-    const playerIndex = playerSeat - 1;
-    const distanceFromButton = (playerIndex - buttonPosition + numPlayers) % numPlayers;
-    const positionIndex = distanceFromButton;
+    // We need to calculate clockwise distance from button
+    const distanceFromButton = (playerSeat - buttonPosition + numPlayers) % numPlayers;
     
-    return basePositions[positionIndex];
+    return basePositions[distanceFromButton];
 }
 
 // Helper function to round to nearest 0.5
@@ -75,17 +74,6 @@ function parseBettingAction(line, playerIndex, position, street) {
 
 // Helper function to get position names array rotated so hero is always at index 0
 function getRotatedPositions(numPlayers, heroTableIndex) {
-    const positions = {
-        2: ['BTN/SB', 'BB'],
-        3: ['BTN', 'SB', 'BB'],
-        4: ['BTN', 'SB', 'BB', 'UTG'],
-        5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
-        6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
-        7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
-        8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
-        9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
-        10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
-    };
     const arr = positions[numPlayers];
     // Rotate so heroTableIndex is at index 0
     return arr.slice(heroTableIndex).concat(arr.slice(0, heroTableIndex));
@@ -134,6 +122,7 @@ async function parseHandHistory(filePath) {
                 let players = new Map(); // Track players and their seats
                 let heroPlayerIndex = null;
                 let heroStackSizeBB = 0;
+                let seatToPlayerIndex = new Map(); // Map seat numbers to player indices
 
                 // First pass: Parse player seats and stack sizes, set heroStackSize
                 for (const line of lines) {
@@ -143,18 +132,27 @@ async function parseHandHistory(filePath) {
                             numPlayers++;
                             const [_, seat, player, stack] = match;
                             const seatNum = parseInt(seat);
+                            const playerIndex = numPlayers - 1; // 0-based player index
+                            seatToPlayerIndex.set(seatNum, playerIndex);
                             players.set(player, {
                                 seat: seatNum,
-                                stack: parseFloat(stack)
+                                stack: parseFloat(stack),
+                                playerIndex: playerIndex
                             });
                             if (player === 'grotle') {
                                 heroSeat = seatNum;
                                 heroStackSize = parseFloat(stack);
-                                heroPlayerIndex = seatNum - 1; // zero-based
+                                heroPlayerIndex = playerIndex;
                             }
                         }
                     }
                 }
+
+                console.log(`Number of players at table: ${numPlayers}`);
+                console.log('Seat to player index mapping:');
+                seatToPlayerIndex.forEach((playerIndex, seat) => {
+                    console.log(`  Seat ${seat} -> Player Index ${playerIndex}`);
+                });
 
                 // Second pass: Parse the rest of the hand
                 for (const line of lines) {
@@ -180,7 +178,12 @@ async function parseHandHistory(filePath) {
 
                     // Parse button position
                     if (line.includes('is the button')) {
-                        buttonPosition = parseInt(line.match(/Seat #(\d+)/)[1]) - 1; // zero-based
+                        const buttonSeat = parseInt(line.match(/Seat #(\d+)/)[1]);
+                        const buttonPlayer = Array.from(players.entries()).find(([_, info]) => info.seat === buttonSeat);
+                        if (buttonPlayer) {
+                            buttonPosition = buttonPlayer[1].playerIndex; // Use playerIndex instead of seat
+                            console.log(`Button player: ${buttonPlayer[0]} (Seat ${buttonSeat}, Index ${buttonPosition})`);
+                        }
                     }
 
                     // Parse hole cards
@@ -229,20 +232,57 @@ async function parseHandHistory(filePath) {
                     // Parse betting actions for all streets
                     if (line.trim() && !line.includes('***') && !line.includes('Main pot') && !line.includes('Dealt to')) {
                         let actionObj = null;
-                        if (line.includes('folds')) {
+                        if (line.includes('posts the small blind')) {
+                            const match = line.match(/^(\w+) posts the small blind ([\d.]+)/);
+                            if (match) {
+                                const [_, player, amount] = match;
+                                const playerInfo = players.get(player);
+                                if (playerInfo) {
+                                    const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
+                                    actionObj = {
+                                        playerIndex: playerInfo.playerIndex,
+                                        position: playerPosition,
+                                        action: 'post',
+                                        amount: parseFloat(amount) / bigBlind,
+                                        street: 'preflop',
+                                        timestamp: new Date(),
+                                        order: hand.bettingActions.length
+                                    };
+                                }
+                            }
+                        } else if (line.includes('posts the big blind')) {
+                            const match = line.match(/^(\w+) posts the big blind ([\d.]+)/);
+                            if (match) {
+                                const [_, player, amount] = match;
+                                const playerInfo = players.get(player);
+                                if (playerInfo) {
+                                    const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
+                                    actionObj = {
+                                        playerIndex: playerInfo.playerIndex,
+                                        position: playerPosition,
+                                        action: 'post',
+                                        amount: parseFloat(amount) / bigBlind,
+                                        street: 'preflop',
+                                        timestamp: new Date(),
+                                        order: hand.bettingActions.length
+                                    };
+                                }
+                            }
+                        } else if (line.includes('folds')) {
                             const player = line.match(/^(\w+)/)[1];
                             const playerInfo = players.get(player);
                             if (playerInfo) {
-                                const position = calculatePosition(buttonPosition, playerInfo.seat, numPlayers);
+                                const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                 actionObj = {
-                                    playerIndex: playerInfo.seat - 1,
-                                    position,
+                                    playerIndex: playerInfo.playerIndex,
+                                    position: playerPosition,
                                     action: 'fold',
                                     amount: 0,
                                     street: currentStreet,
-                                    timestamp: new Date()
+                                    timestamp: new Date(),
+                                    order: hand.bettingActions.length
                                 };
-                                hand.foldedPlayers.push(playerInfo.seat - 1);
+                                hand.foldedPlayers.push(playerInfo.playerIndex);
                             }
                         } else if (line.includes('calls')) {
                             const match = line.match(/^(\w+) calls ([\d.]+)/);
@@ -250,26 +290,34 @@ async function parseHandHistory(filePath) {
                                 const [_, player, amount] = match;
                                 const playerInfo = players.get(player);
                                 if (playerInfo) {
-                                    const position = calculatePosition(buttonPosition, playerInfo.seat, numPlayers);
+                                    const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                     let callAmountBB = parseFloat(amount) / bigBlind;
-                                    // Check for all-in
+                                    
+                                    // For all-in calls, use the actual call amount and mark as all-in
                                     if (line.includes('all-in')) {
-                                        if (callAmountBB < heroStackSizeBB) {
-                                            callAmountBB = heroStackSizeBB;
-                                        } else {
-                                            callAmountBB = heroStackSizeBB;
-                                        }
-                                    } else {
                                         callAmountBB = Math.min(callAmountBB, heroStackSizeBB);
+                                        actionObj = {
+                                            playerIndex: playerInfo.playerIndex,
+                                            position: playerPosition,
+                                            action: 'call',
+                                            amount: roundToNearestHalf(callAmountBB),
+                                            street: currentStreet,
+                                            timestamp: new Date(),
+                                            order: hand.bettingActions.length,
+                                            isAllIn: true
+                                        };
+                                    } else {
+                                        actionObj = {
+                                            playerIndex: playerInfo.playerIndex,
+                                            position: playerPosition,
+                                            action: 'call',
+                                            amount: roundToNearestHalf(callAmountBB),
+                                            street: currentStreet,
+                                            timestamp: new Date(),
+                                            order: hand.bettingActions.length,
+                                            isAllIn: false
+                                        };
                                     }
-                                    actionObj = {
-                                        playerIndex: playerInfo.seat - 1,
-                                        position,
-                                        action: 'call',
-                                        amount: roundToNearestHalf(callAmountBB),
-                                        street: currentStreet,
-                                        timestamp: new Date()
-                                    };
                                 }
                             }
                         } else if (line.includes('raises')) {
@@ -278,25 +326,41 @@ async function parseHandHistory(filePath) {
                                 const [_, player, raiseAmount, totalAmount] = match;
                                 const playerInfo = players.get(player);
                                 if (playerInfo) {
-                                    const position = calculatePosition(buttonPosition, playerInfo.seat, numPlayers);
+                                    const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                     let raiseToAmountBB = parseFloat(totalAmount) / bigBlind;
-                                    if (line.includes('all-in')) {
-                                        if (raiseToAmountBB < heroStackSizeBB) {
-                                            raiseToAmountBB = heroStackSizeBB;
-                                        } else {
-                                            raiseToAmountBB = heroStackSizeBB;
+                                    // Only adjust for blinds on preflop
+                                    if (currentStreet === 'preflop') {
+                                        if (playerPosition === 'BB') {
+                                            raiseToAmountBB -= 1;
+                                        } else if (playerPosition === 'SB') {
+                                            raiseToAmountBB -= 0.5;
                                         }
+                                    }
+                                    if (line.includes('all-in')) {
+                                        raiseToAmountBB = Math.min(raiseToAmountBB, heroStackSizeBB);
+                                        actionObj = {
+                                            playerIndex: playerInfo.playerIndex,
+                                            position: playerPosition,
+                                            action: 'raise',
+                                            amount: roundToNearestHalf(raiseToAmountBB),
+                                            street: currentStreet,
+                                            timestamp: new Date(),
+                                            order: hand.bettingActions.length,
+                                            isAllIn: true
+                                        };
                                     } else {
                                         raiseToAmountBB = Math.min(raiseToAmountBB, heroStackSizeBB);
+                                        actionObj = {
+                                            playerIndex: playerInfo.playerIndex,
+                                            position: playerPosition,
+                                            action: 'raise',
+                                            amount: roundToNearestHalf(raiseToAmountBB),
+                                            street: currentStreet,
+                                            timestamp: new Date(),
+                                            order: hand.bettingActions.length,
+                                            isAllIn: false
+                                        };
                                     }
-                                    actionObj = {
-                                        playerIndex: playerInfo.seat - 1,
-                                        position,
-                                        action: 'raise',
-                                        amount: roundToNearestHalf(raiseToAmountBB),
-                                        street: currentStreet,
-                                        timestamp: new Date()
-                                    };
                                 }
                             }
                         } else if (line.includes('bets')) {
@@ -305,24 +369,24 @@ async function parseHandHistory(filePath) {
                                 const [_, player, amount] = match;
                                 const playerInfo = players.get(player);
                                 if (playerInfo) {
-                                    const position = calculatePosition(buttonPosition, playerInfo.seat, numPlayers);
+                                    const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                     let betAmountBB = parseFloat(amount) / bigBlind;
-                                    if (line.includes('all-in')) {
-                                        if (betAmountBB < heroStackSizeBB) {
-                                            betAmountBB = heroStackSizeBB;
-                                        } else {
-                                            betAmountBB = heroStackSizeBB;
-                                        }
-                                    } else {
+                                    
+                                    // Check for all-in first
+                                    const isAllIn = line.includes('all-in');
+                                    if (isAllIn) {
                                         betAmountBB = Math.min(betAmountBB, heroStackSizeBB);
                                     }
+                                    
                                     actionObj = {
-                                        playerIndex: playerInfo.seat - 1,
-                                        position,
+                                        playerIndex: playerInfo.playerIndex,
+                                        position: playerPosition,
                                         action: 'bet',
                                         amount: roundToNearestHalf(betAmountBB),
                                         street: currentStreet,
-                                        timestamp: new Date()
+                                        timestamp: new Date(),
+                                        order: hand.bettingActions.length,
+                                        isAllIn: isAllIn
                                     };
                                 }
                             }
@@ -330,14 +394,15 @@ async function parseHandHistory(filePath) {
                             const player = line.match(/^(\w+)/)[1];
                             const playerInfo = players.get(player);
                             if (playerInfo) {
-                                const position = calculatePosition(buttonPosition, playerInfo.seat, numPlayers);
+                                const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                 actionObj = {
-                                    playerIndex: playerInfo.seat - 1,
-                                    position,
+                                    playerIndex: playerInfo.playerIndex,
+                                    position: playerPosition,
                                     action: 'check',
                                     amount: 0,
                                     street: currentStreet,
-                                    timestamp: new Date()
+                                    timestamp: new Date(),
+                                    order: hand.bettingActions.length
                                 };
                             }
                         }
@@ -354,10 +419,9 @@ async function parseHandHistory(filePath) {
                             const [_, player, cards] = match;
                             const playerInfo = players.get(player);
                             if (playerInfo) {
-                                const playerIndex = playerInfo.seat - 1;
-                                if (playerIndex !== heroPlayerIndex) { // Exclude hero
+                                if (playerInfo.playerIndex !== heroPlayerIndex) { // Exclude hero
                                     hand.villainCards.push({
-                                        playerIndex,
+                                        playerIndex: playerInfo.playerIndex,
                                         cards: parseCards(cards)
                                     });
                                 }
@@ -375,17 +439,50 @@ async function parseHandHistory(filePath) {
                     }
                 }
 
-                // After parsing all lines, if there are any remaining actions for the last street, push them
-                if (currentStreetActions.length > 0) {
-                    hand.streetBets.push([...currentStreetActions]);
-                }
+                // After parsing all lines, calculate positions based on adjusted button and player order
+                const preflopActions = hand.bettingActions.filter(action => action.street === 'preflop');
+                const uniqueActors = [...new Set(preflopActions.map(action => action.playerIndex))];
+                
+                // Create a mapping of player indices to their positions based on action order
+                const playerIndexToPosition = {};
+                
+                // Get the appropriate position array based on number of players
+                const positionArray = positions[numPlayers] || positions[6]; // Default to 6-max if not found
+
+                // Assign positions based on action order
+                uniqueActors.forEach((playerIndex, index) => {
+                    playerIndexToPosition[playerIndex] = positionArray[index];
+                });
+
+                // Update all preflop actions with the correct positions
+                hand.bettingActions.forEach(action => {
+                    if (action.street === 'preflop') {
+                        action.position = playerIndexToPosition[action.playerIndex];
+                    } else {
+                        // For postflop actions, calculate position based on adjusted button
+                        const adjustedPosition = (action.playerIndex - buttonPosition + numPlayers) % numPlayers;
+                        action.position = positions[numPlayers][adjustedPosition];
+                    }
+                });
+
+                // Create streetBets array with the updated positions
+                hand.streetBets = hand.bettingActions.map(action => ({
+                    playerIndex: action.playerIndex,
+                    position: action.position,
+                    action: action.action,
+                    amount: action.amount,
+                    street: action.street,
+                    timestamp: action.timestamp,
+                    order: action.order,
+                    isAllIn: action.isAllIn
+                }));
 
                 // Find hero's seat number
                 const heroSeatMatch = lines.find(line => line.includes('Seat') && line.includes('grotle'));
                 if (heroSeatMatch) {
                     const heroSeatNum = parseInt(heroSeatMatch.match(/Seat (\d+):/)[1]);
                     // Calculate hero's position relative to button (0-based)
-                    const heroPosRelativeToButton = (heroSeatNum - 1 - buttonPosition + numPlayers) % numPlayers;
+                    const heroPosRelativeToButton = (heroPlayerIndex - buttonPosition + numPlayers) % numPlayers;
                     
                     // Set hero's position to 0 and adjust button position accordingly
                     hand.heroPosition = 0;
@@ -394,25 +491,32 @@ async function parseHandHistory(filePath) {
                     // Get rotated positions so hero is always at index 0
                     const rotatedPositions = getRotatedPositions(numPlayers, heroPosRelativeToButton);
                     
-                    // Adjust all betting actions to be relative to hero's position, in table order
+                    // Create a mapping of original player indices to adjusted indices
+                    const playerIndexToAdjustedIndex = new Map();
+                    Array.from(players.entries()).forEach(([name, info]) => {
+                        const adjustedIndex = (info.playerIndex - heroPlayerIndex + numPlayers) % numPlayers;
+                        playerIndexToAdjustedIndex.set(info.playerIndex, adjustedIndex);
+                    });
+                    
+                    // Adjust all betting actions to be relative to hero's position
                     hand.bettingActions = hand.bettingActions.map(action => {
-                        const adjustedPlayerIndex = (action.playerIndex - heroPosRelativeToButton + numPlayers) % numPlayers;
+                        const adjustedIndex = playerIndexToAdjustedIndex.get(action.playerIndex);
                         return {
                             ...action,
-                            playerIndex: adjustedPlayerIndex,
-                            position: rotatedPositions[adjustedPlayerIndex]
+                            playerIndex: adjustedIndex,
+                            position: rotatedPositions[adjustedIndex]
                         };
                     });
                     
                     // Adjust folded players indices
                     hand.foldedPlayers = hand.foldedPlayers.map(index => 
-                        (index - heroPosRelativeToButton + numPlayers) % numPlayers
+                        playerIndexToAdjustedIndex.get(index)
                     );
                     
                     // Adjust villain cards indices
                     hand.villainCards = hand.villainCards.map(villain => ({
                         ...villain,
-                        playerIndex: (villain.playerIndex - heroPosRelativeToButton + numPlayers) % numPlayers
+                        playerIndex: playerIndexToAdjustedIndex.get(villain.playerIndex)
                     }));
 
                     // Now adjust streetBets after all indices have been adjusted
@@ -428,16 +532,16 @@ async function parseHandHistory(filePath) {
                     const seatOrder = Array.from(players.entries()).sort((a, b) => a[1].seat - b[1].seat);
                     console.log('Original seat order:');
                     seatOrder.forEach(([name, info]) => {
-                        console.log(`  Seat ${info.seat}: ${name}`);
+                        console.log(`  Seat ${info.seat}: ${name} (Player Index ${info.playerIndex})`);
                     });
                     // Print rotated player order
                     const rotatedOrder = seatOrder.map(([name, info]) => {
-                        const rotatedIndex = (info.seat - heroSeatNum + numPlayers) % numPlayers;
-                        return {rotatedIndex, name, seat: info.seat};
-                    }).sort((a, b) => a.rotatedIndex - b.rotatedIndex);
+                        const adjustedIndex = playerIndexToAdjustedIndex.get(info.playerIndex);
+                        return {adjustedIndex, name, seat: info.seat, playerIndex: info.playerIndex};
+                    }).sort((a, b) => a.adjustedIndex - b.adjustedIndex);
                     console.log('Rotated player order (hero at index 0):');
-                    rotatedOrder.forEach(({rotatedIndex, name, seat}) => {
-                        console.log(`  Index ${rotatedIndex}: ${name} (Seat ${seat})`);
+                    rotatedOrder.forEach(({adjustedIndex, name, seat, playerIndex}) => {
+                        console.log(`  Index ${adjustedIndex}: ${name} (Seat ${seat}, Original Player Index ${playerIndex})`);
                     });
                     // Print button and hero positions
                     console.log(`Assigned buttonPosition: ${hand.buttonPosition}`);
@@ -511,19 +615,27 @@ async function processHandHistories(directoryPath) {
                 const hands = await parseHandHistory(filePath);
                 totalHands += hands.length;
                 
-                // Filter out hands where hero folded preflop
+                // Filter out hands that end at preflop or where hero is not involved
                 const playedHands = hands.filter(hand => {
-                    // Find hero's last action
-                    const heroActions = hand.bettingActions.filter(action => 
-                        action.playerIndex === 0  // Hero is always at position 0 now
+                    // Get all streets in the hand
+                    const streets = hand.bettingActions.map(action => action.street);
+                    const uniqueStreets = [...new Set(streets)];
+                    
+                    // Check if hero folded preflop
+                    const heroFoldedPreflop = hand.bettingActions.some(action => 
+                        action.playerIndex === 0 && // hero is always at index 0
+                        action.street === 'preflop' && 
+                        action.action === 'fold'
                     );
                     
-                    if (heroActions.length === 0) return false;
+                    // Check if hero has any actions beyond preflop
+                    const heroPostflopActions = hand.bettingActions.some(action => 
+                        action.playerIndex === 0 && // hero is always at index 0
+                        action.street !== 'preflop' // action is on flop or later
+                    );
                     
-                    const lastHeroAction = heroActions[heroActions.length - 1];
-                    
-                    // Keep the hand if hero didn't fold or folded after preflop
-                    return !(lastHeroAction.action === 'fold' && lastHeroAction.street === 'preflop');
+                    // Keep the hand if it goes beyond preflop AND hero didn't fold preflop AND hero has postflop actions
+                    return uniqueStreets.length > 1 && !heroFoldedPreflop && heroPostflopActions;
                 });
                 
                 handsPlayed += playedHands.length;
@@ -548,7 +660,7 @@ async function processHandHistories(directoryPath) {
                 
                 // Print the parsed hands data
                 console.log(`Successfully parsed ${hands.length} hands from file`);
-                console.log(`Filtered out ${hands.length - playedHands.length} preflop folds`);
+                console.log(`Filtered out ${hands.length - playedHands.length} preflop-only hands`);
                 console.log(`Saved ${playedHands.length} hands to the database`);
                 
             } catch (error) {
@@ -559,9 +671,9 @@ async function processHandHistories(directoryPath) {
         
         console.log('\nSummary:');
         console.log(`Total hands processed: ${totalHands}`);
-        console.log(`Hands played (no preflop fold): ${handsPlayed}`);
+        console.log(`Hands played (beyond preflop): ${handsPlayed}`);
         console.log(`Hands saved to database: ${handsSaved}`);
-        console.log(`Hands folded preflop: ${totalHands - handsPlayed}`);
+        console.log(`Hands ended preflop: ${totalHands - handsPlayed}`);
         console.log(`Percentage played: ${((handsPlayed/totalHands) * 100).toFixed(2)}%`);
         
     } catch (error) {
@@ -585,4 +697,4 @@ async function main() {
     console.log('Disconnected from MongoDB');
 }
 
-main(); 
+main();
