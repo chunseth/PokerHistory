@@ -455,9 +455,19 @@ const HandReplay = ({ handData }) => {
 
         // Show all remaining cards if:
         // 1. We're transitioning and exactly one player hasn't gone all-in or called, OR
-        // 2. All players have acted (folded, all-in, or called all-in)
+        // 2. All players have acted (folded, all-in, or called all-in), OR
+        // 3. The last action is an all-in call
         const showAllRemainingCards = (isTransitioning && remainingActivePlayers === 1) || 
-            (isLastPlayerToAct && allInOrCalledPlayers.size + foldedPlayers.size === handData.numPlayers);
+            (isLastPlayerToAct && allInOrCalledPlayers.size + foldedPlayers.size === handData.numPlayers) ||
+            (currentAction && 
+             currentAction.action === 'call' && 
+             currentActionIndex === handData.bettingActions.length - 1 && 
+             hasAllInAction);
+
+        // Show river card if both players are all-in
+        const showRiverForAllIn = hasAllInAction && 
+            allInOrCalledPlayers.size === 2 && 
+            activePlayers.length === 2;
 
         // Debug logging for all-in and called actions
         const allInActions = actionsUpToNow.filter(action => 
@@ -530,7 +540,7 @@ const HandReplay = ({ handData }) => {
                         {renderCard(handData.communityCards.turn)}
                     </div>
                 )}
-                {(showRiver || showAllRemainingCards) && (
+                {(showRiver || showAllRemainingCards || showRiverForAllIn) && (
                     <div className="card-container">
                         {renderCard(handData.communityCards.river)}
                     </div>
@@ -611,7 +621,11 @@ const HandReplay = ({ handData }) => {
                         >
                             {position}
                         </div>
-                        {isHero && <div className="stack-size">{handData.heroStackSize}BB</div>}
+                        {isHero && (
+                            <div className="stack-size">
+                                {handData.heroStackSize - (playerBets[i] || 0)}BB
+                            </div>
+                        )}
                     </div>
                     {playerBet > 0 && (
                         <div className="bet-amount">

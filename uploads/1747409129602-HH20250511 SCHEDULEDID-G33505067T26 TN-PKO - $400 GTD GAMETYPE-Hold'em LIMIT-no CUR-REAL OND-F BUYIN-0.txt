@@ -1,0 +1,424 @@
+Game Hand #2453379312 - Tournament #33505067 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/12 03:40:29 UTC
+Table '26' 8-max Seat #8 is the button
+Seat 1: CC2K25 (154653.00)
+Seat 2: MashaP (484964.00)
+Seat 3: LandoScando (65525.00)
+Seat 4: JohnnyPoppa (103665.00)
+Seat 5: nymike03 (279233.00)
+Seat 6: DEDULY (322858.00)
+Seat 7: gonzopoker420630 (210003.00)
+Seat 8: grotle will be allowed to play after the button
+CC2K25 posts ante 400.00
+MashaP posts ante 400.00
+LandoScando posts ante 400.00
+JohnnyPoppa posts ante 400.00
+nymike03 posts ante 400.00
+DEDULY posts ante 400.00
+gonzopoker420630 posts ante 400.00
+CC2K25 posts the small blind 1600.00
+MashaP posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+LandoScando folds
+JohnnyPoppa folds
+nymike03 folds
+DEDULY folds
+gonzopoker420630 folds
+CC2K25 raises 4800.00 to 6400.00
+MashaP calls 3200.00
+*** FLOP *** [3h Ad 3c]
+Main pot 15600.00
+CC2K25 bets 3200.00
+MashaP raises 14200.00 to 14200.00
+CC2K25 calls 11000.00
+*** TURN *** [3h Ad 3c] [7s]
+Main pot 44000.00
+CC2K25 bets 3200.00
+MashaP calls 3200.00
+*** RIVER *** [3h Ad 3c 7s] [5h]
+Main pot 50400.00
+CC2K25 bets 3200.00
+MashaP calls 3200.00
+*** SHOW DOWN ***
+Main pot 56800.00
+CC2K25 shows [3s Kd] (three of a kind, Set of Threes [3s 3h 3c Ad Kd])
+MashaP shows [Qh 9s] (a pair of Threes [3h 3c Ad Qh 9s])
+CC2K25 collected 56800.00 from main pot
+*** SUMMARY ***
+Total pot 56800.00
+Board [3h Ad 3c 7s 5h]
+Seat 1: CC2K25 (small blind) showed [3s Kd] and won 56800.00 with three of a kind, Set of Threes [3s 3h 3c Ad Kd]
+Seat 2: MashaP (big blind) showed [Qh 9s] and lost with a pair of Threes [3h 3c Ad Qh 9s]
+Seat 3: LandoScando folded on the Pre-Flop and did not bet
+Seat 4: JohnnyPoppa folded on the Pre-Flop and did not bet
+Seat 5: nymike03 folded on the Pre-Flop and did not bet
+Seat 6: DEDULY folded on the Pre-Flop and did not bet
+Seat 7: gonzopoker420630 folded on the Pre-Flop and did not bet
+
+Game Hand #2453379864 - Tournament #33505067 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/05/12 03:41:21 UTC
+Table '26' 8-max Seat #1 is the button
+Seat 1: CC2K25 (184053.00)
+Seat 2: MashaP (457564.00)
+Seat 3: LandoScando (65125.00)
+Seat 4: JohnnyPoppa (103265.00)
+Seat 6: DEDULY (322458.00)
+Seat 7: gonzopoker420630 (209603.00)
+Seat 8: grotle (100000.00)
+CC2K25 posts ante 400.00
+MashaP posts ante 400.00
+LandoScando posts ante 400.00
+JohnnyPoppa posts ante 400.00
+DEDULY posts ante 400.00
+gonzopoker420630 posts ante 400.00
+grotle posts ante 400.00
+MashaP posts the small blind 1600.00
+LandoScando posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [4s 7h]
+JohnnyPoppa folds
+DEDULY folds
+gonzopoker420630 calls 3200.00
+grotle folds
+CC2K25 calls 3200.00
+MashaP calls 1600.00
+LandoScando checks
+*** FLOP *** [2s 8h Ah]
+Main pot 15600.00
+MashaP checks
+LandoScando checks
+gonzopoker420630 checks
+CC2K25 checks
+*** TURN *** [2s 8h Ah] [Ac]
+Main pot 15600.00
+MashaP checks
+LandoScando checks
+gonzopoker420630 checks
+CC2K25 bets 3200.00
+MashaP calls 3200.00
+LandoScando folds
+gonzopoker420630 folds
+*** RIVER *** [2s 8h Ah Ac] [6d]
+Main pot 22000.00
+MashaP bets 11000.00
+CC2K25 calls 11000.00
+*** SHOW DOWN ***
+Main pot 44000.00
+CC2K25 shows [9c Kc] (a pair of Aces [Ah Ac Kc 9c 8h])
+MashaP shows [2d 2h] (a full house, Deuces full of Aces [2s 2h 2d Ah Ac])
+MashaP collected 44000.00 from main pot
+*** SUMMARY ***
+Total pot 44000.00
+Board [2s 8h Ah Ac 6d]
+Seat 1: CC2K25 (button) showed [9c Kc] and lost with a pair of Aces [Ah Ac Kc 9c 8h]
+Seat 2: MashaP (small blind) showed [2d 2h] and won 44000.00 with a full house, Deuces full of Aces [2s 2h 2d Ah Ac]
+Seat 3: LandoScando (big blind) folded on the Turn
+Seat 4: JohnnyPoppa folded on the Pre-Flop and did not bet
+Seat 6: DEDULY folded on the Pre-Flop and did not bet
+Seat 7: gonzopoker420630 folded on the Turn
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2453380819 - Tournament #33505067 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/05/12 03:42:53 UTC
+Table '26' 8-max Seat #2 is the button
+Seat 1: CC2K25 (166253.00)
+Seat 2: MashaP (483764.00)
+Seat 3: LandoScando (61525.00)
+Seat 4: JohnnyPoppa (102865.00)
+Seat 6: DEDULY (322058.00)
+Seat 7: gonzopoker420630 (206003.00)
+Seat 8: grotle (99600.00)
+CC2K25 posts ante 450.00
+MashaP posts ante 450.00
+LandoScando posts ante 450.00
+JohnnyPoppa posts ante 450.00
+DEDULY posts ante 450.00
+gonzopoker420630 posts ante 450.00
+grotle posts ante 450.00
+LandoScando posts the small blind 1800.00
+JohnnyPoppa posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [4s 7s]
+DEDULY folds
+gonzopoker420630 folds
+grotle folds
+CC2K25 raises 7200.00 to 7200.00
+MashaP raises 30150.00 to 30150.00
+LandoScando calls 28350.00
+JohnnyPoppa calls 26550.00
+CC2K25 folds
+*** FLOP *** [Tc 9h 5c]
+Main pot 100800.00
+LandoScando bets 30925.00 and is all-in
+JohnnyPoppa raises 72265.00 to 72265.00 and is all-in
+MashaP calls 72265.00
+*** TURN *** [Tc 9h 5c] [6s]
+Main pot 193575.00
+Side pot(1) 82680.00
+*** RIVER *** [Tc 9h 5c 6s] [7h]
+Main pot 193575.00
+Side pot(1) 82680.00
+*** SHOW DOWN ***
+Main pot 193575.00
+Side pot(1) 82680.00
+MashaP shows [Qs Ac] (a high card, Ace high [Ac Qs Tc 9h 7h])
+LandoScando shows [8s 8c] (a straight, Ten high [Tc 9h 8s 7h 6s])
+JohnnyPoppa shows [Ah Ad] (a pair of Aces [Ah Ad Tc 9h 7h])
+LandoScando collected 193575.00 from main pot
+JohnnyPoppa collected 82680.00 from side pot-1
+*** SUMMARY ***
+Total pot 276255.00
+Board [Tc 9h 5c 6s 7h]
+Seat 1: CC2K25 folded on the Pre-Flop and did not bet
+Seat 2: MashaP (button) showed [Qs Ac] and lost with a high card, Ace high [Ac Qs Tc 9h 7h]
+Seat 3: LandoScando (small blind) showed [8s 8c] and won 193575.00 with a straight, Ten high [Tc 9h 8s 7h 6s]
+Seat 4: JohnnyPoppa (big blind) showed [Ah Ad] and won 82680.00 with a pair of Aces [Ah Ad Tc 9h 7h]
+Seat 6: DEDULY folded on the Pre-Flop and did not bet
+Seat 7: gonzopoker420630 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2453381590 - Tournament #33505067 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/05/12 03:44:06 UTC
+Table '26' 8-max Seat #3 is the button
+Seat 1: CC2K25 (158603.00)
+Seat 2: MashaP (380899.00)
+Seat 3: LandoScando (193575.00)
+Seat 4: JohnnyPoppa (82680.00)
+Seat 5: greynex (100000.00)
+Seat 6: DEDULY (321608.00)
+Seat 7: gonzopoker420630 (205553.00)
+Seat 8: grotle (99150.00)
+CC2K25 posts ante 450.00
+MashaP posts ante 450.00
+LandoScando posts ante 450.00
+JohnnyPoppa posts ante 450.00
+greynex posts ante 450.00
+DEDULY posts ante 450.00
+gonzopoker420630 posts ante 450.00
+grotle posts ante 450.00
+JohnnyPoppa posts the small blind 1800.00
+greynex posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Js 2c]
+DEDULY folds
+gonzopoker420630 folds
+grotle folds
+CC2K25 raises 7200.00 to 7200.00
+MashaP folds
+LandoScando folds
+JohnnyPoppa calls 5400.00
+greynex calls 3600.00
+*** FLOP *** [9h Jh 5d]
+Main pot 25200.00
+JohnnyPoppa checks
+greynex checks
+CC2K25 checks
+*** TURN *** [9h Jh 5d] [Kh]
+Main pot 25200.00
+JohnnyPoppa checks
+greynex bets 5400.00
+CC2K25 calls 5400.00
+JohnnyPoppa folds
+*** RIVER *** [9h Jh 5d Kh] [Qd]
+Main pot 36000.00
+greynex checks
+CC2K25 checks
+*** SHOW DOWN ***
+Main pot 36000.00
+CC2K25 shows [3d Ah] (a high card, Ace high [Ah Kh Qd Jh 9h])
+greynex shows [Th 9d] (a straight, King high [Kh Qd Jh Th 9h])
+greynex collected 36000.00 from main pot
+*** SUMMARY ***
+Total pot 36000.00
+Board [9h Jh 5d Kh Qd]
+Seat 1: CC2K25 showed [3d Ah] and lost with a high card, Ace high [Ah Kh Qd Jh 9h]
+Seat 2: MashaP folded on the Pre-Flop and did not bet
+Seat 3: LandoScando (button) folded on the Pre-Flop
+Seat 4: JohnnyPoppa (small blind) folded on the Turn
+Seat 5: greynex (big blind) showed [Th 9d] and won 36000.00 with a straight, King high [Kh Qd Jh Th 9h]
+Seat 6: DEDULY folded on the Pre-Flop and did not bet
+Seat 7: gonzopoker420630 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2453382635 - Tournament #33505067 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/05/12 03:45:45 UTC
+Table '26' 8-max Seat #4 is the button
+Seat 1: CC2K25 (145553.00)
+Seat 2: MashaP (380449.00)
+Seat 3: LandoScando (193125.00)
+Seat 4: JohnnyPoppa (75030.00)
+Seat 5: greynex (122950.00)
+Seat 6: DEDULY (321158.00)
+Seat 7: gonzopoker420630 (205103.00)
+Seat 8: grotle (98700.00)
+CC2K25 posts ante 450.00
+MashaP posts ante 450.00
+LandoScando posts ante 450.00
+JohnnyPoppa posts ante 450.00
+greynex posts ante 450.00
+DEDULY posts ante 450.00
+gonzopoker420630 posts ante 450.00
+grotle posts ante 450.00
+greynex posts the small blind 1800.00
+DEDULY posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Tc Js]
+gonzopoker420630 folds
+grotle folds
+CC2K25 folds
+MashaP raises 7200.00 to 7200.00
+LandoScando folds
+JohnnyPoppa folds
+greynex folds
+DEDULY calls 3600.00
+*** FLOP *** [6s 8c Qc]
+Main pot 19800.00
+DEDULY checks
+MashaP checks
+*** TURN *** [6s 8c Qc] [Jh]
+Main pot 19800.00
+DEDULY checks
+MashaP bets 9900.00
+DEDULY calls 9900.00
+*** RIVER *** [6s 8c Qc Jh] [Qs]
+Main pot 39600.00
+DEDULY checks
+MashaP checks
+*** SHOW DOWN ***
+Main pot 39600.00
+MashaP shows [As 9c] (a pair of Queens [Qs Qc As Jh 9c])
+DEDULY shows [7d 5s] (a pair of Queens [Qs Qc Jh 8c 7d])
+MashaP collected 39600.00 from main pot
+*** SUMMARY ***
+Total pot 39600.00
+Board [6s 8c Qc Jh Qs]
+Seat 1: CC2K25 folded on the Pre-Flop and did not bet
+Seat 2: MashaP showed [As 9c] and won 39600.00 with a pair of Queens [Qs Qc As Jh 9c] with the kicker Ace
+Seat 3: LandoScando folded on the Pre-Flop and did not bet
+Seat 4: JohnnyPoppa (button) folded on the Pre-Flop
+Seat 5: greynex (small blind) folded on the Pre-Flop
+Seat 6: DEDULY (big blind) showed [7d 5s] and lost with a pair of Queens [Qs Qc Jh 8c 7d]
+Seat 7: gonzopoker420630 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2453383310 - Tournament #33505067 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/05/12 03:46:49 UTC
+Table '26' 8-max Seat #5 is the button
+Seat 1: CC2K25 (145103.00)
+Seat 2: MashaP (402499.00)
+Seat 3: LandoScando (192675.00)
+Seat 4: JohnnyPoppa (74580.00)
+Seat 5: greynex (120700.00)
+Seat 6: DEDULY (303608.00)
+Seat 7: gonzopoker420630 (204653.00) is sitting out
+Seat 8: grotle (98250.00)
+CC2K25 posts ante 450.00
+MashaP posts ante 450.00
+LandoScando posts ante 450.00
+JohnnyPoppa posts ante 450.00
+greynex posts ante 450.00
+DEDULY posts ante 450.00
+gonzopoker420630 posts ante 450.00
+grotle posts ante 450.00
+DEDULY posts the small blind 1800.00
+gonzopoker420630 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [7s 5h]
+grotle folds
+CC2K25 folds
+MashaP raises 7200.00 to 7200.00
+LandoScando calls 7200.00
+JohnnyPoppa folds
+greynex folds
+DEDULY calls 5400.00
+gonzopoker420630 folds
+*** FLOP *** [8h 2d Qh]
+Main pot 28800.00
+DEDULY checks
+MashaP checks
+LandoScando bets 21459.00
+DEDULY folds
+MashaP calls 21459.00
+*** TURN *** [8h 2d Qh] [2s]
+Main pot 71718.00
+MashaP checks
+LandoScando checks
+*** RIVER *** [8h 2d Qh 2s] [4d]
+Main pot 71718.00
+MashaP bets 35859.00
+LandoScando folds
+Uncalled bet (35859.00) returned to MashaP
+MashaP does not show
+*** SUMMARY ***
+Total pot 71718.00
+Board [8h 2d Qh 2s 4d]
+Seat 1: CC2K25 folded on the Pre-Flop and did not bet
+Seat 2: MashaP did not show and won 71718.00
+Seat 3: LandoScando folded on the River
+Seat 4: JohnnyPoppa folded on the Pre-Flop and did not bet
+Seat 5: greynex (button) folded on the Pre-Flop
+Seat 6: DEDULY (small blind) folded on the Flop
+Seat 7: gonzopoker420630 (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2453384129 - Tournament #33505067 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/05/12 03:48:04 UTC
+Table '26' 8-max Seat #6 is the button
+Seat 1: CC2K25 (144653.00)
+Seat 2: MashaP (445108.00)
+Seat 3: LandoScando (163566.00)
+Seat 4: JohnnyPoppa (74130.00)
+Seat 5: greynex (120250.00)
+Seat 6: DEDULY (295958.00)
+Seat 7: gonzopoker420630 (200603.00) is sitting out
+Seat 8: grotle (97800.00)
+CC2K25 posts ante 450.00
+MashaP posts ante 450.00
+LandoScando posts ante 450.00
+JohnnyPoppa posts ante 450.00
+greynex posts ante 450.00
+DEDULY posts ante 450.00
+gonzopoker420630 posts ante 450.00
+grotle posts ante 450.00
+gonzopoker420630 posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Ks 8d]
+CC2K25 folds
+MashaP raises 7200.00 to 7200.00
+LandoScando folds
+JohnnyPoppa folds
+greynex folds
+DEDULY folds
+gonzopoker420630 folds
+grotle calls 3600.00
+*** FLOP *** [7d Kh 4d]
+Main pot 19800.00
+grotle checks
+MashaP bets 14850.00
+grotle calls 14850.00
+*** TURN *** [7d Kh 4d] [9h]
+Main pot 49500.00
+grotle checks
+MashaP bets 49500.00
+grotle raises 75300.00 to 75300.00 and is all-in
+MashaP calls 25800.00
+*** RIVER *** [7d Kh 4d 9h] [Td]
+Main pot 200100.00
+*** SHOW DOWN ***
+Main pot 200100.00
+MashaP shows [Kc Qd] (a pair of Kings [Kh Kc Qd Td 9h])
+grotle shows [Ks 8d] (a pair of Kings [Ks Kh Td 9h 8d])
+MashaP collected 200100.00 from main pot
+*** SUMMARY ***
+Total pot 200100.00
+Board [7d Kh 4d 9h Td]
+Seat 1: CC2K25 folded on the Pre-Flop and did not bet
+Seat 2: MashaP showed [Kc Qd] and won 200100.00 with a pair of Kings [Kh Kc Qd Td 9h] with the kicker Queen
+Seat 3: LandoScando folded on the Pre-Flop and did not bet
+Seat 4: JohnnyPoppa folded on the Pre-Flop and did not bet
+Seat 5: greynex folded on the Pre-Flop and did not bet
+Seat 6: DEDULY (button) folded on the Pre-Flop
+Seat 7: gonzopoker420630 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) showed [Ks 8d] and lost with a pair of Kings [Ks Kh Td 9h 8d]
+

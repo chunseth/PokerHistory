@@ -234,6 +234,29 @@
     background-color: rgba(255, 68, 68, 0.1);
 }
 
+.username-input-container {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.username-input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+.username-input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.username-input::placeholder {
+    color: #999;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .import-hands-page {

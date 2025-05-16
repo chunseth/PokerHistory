@@ -106,6 +106,17 @@ const apiService = {
             console.error('Error updating hand:', error);
             throw error;
         }
+    },
+
+    // Get unique usernames
+    getUsernames: async () => {
+        try {
+            const response = await axios.get(`${API_BASE_URL}/hands/usernames`);
+            return response.data;
+        } catch (error) {
+            console.error('Error fetching usernames:', error);
+            throw error;
+        }
     }
 };
 

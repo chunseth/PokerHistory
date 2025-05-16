@@ -1,0 +1,219 @@
+Game Hand #2440827695 - Tournament #33460713 - Holdem (No Limit) - Level 11 (2250.00/4500.00) - 2025/04/27 02:44:46 UTC
+Table '25' 8-max Seat #2 is the button
+Seat 1: weedwarrior13 (119050.00)
+Seat 2: ClaraOswald (181550.00)
+Seat 3: kauaidog (45075.00)
+Seat 4: Godzillas (271700.00)
+Seat 5: hino0906 (201950.00)
+Seat 6: Angrytater59 (104112.00)
+Seat 7: DUMPit (260400.00)
+Seat 8: grotle (100000.00)
+weedwarrior13 posts ante 550.00
+ClaraOswald posts ante 550.00
+kauaidog posts ante 550.00
+Godzillas posts ante 550.00
+hino0906 posts ante 550.00
+Angrytater59 posts ante 550.00
+DUMPit posts ante 550.00
+grotle posts ante 550.00
+kauaidog posts the small blind 2250.00
+Godzillas posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [5s Jh]
+hino0906 folds
+Angrytater59 folds
+DUMPit calls 4500.00
+grotle folds
+weedwarrior13 calls 4500.00
+ClaraOswald folds
+kauaidog folds
+Godzillas checks
+*** FLOP *** [6s 2h 5c]
+Main pot 20150.00
+Godzillas checks
+DUMPit bets 15113.00
+weedwarrior13 folds
+Godzillas folds
+Uncalled bet (15113.00) returned to DUMPit
+DUMPit does not show
+*** SUMMARY ***
+Total pot 20150.00
+Board [6s 2h 5c]
+Seat 1: weedwarrior13 folded on the Flop
+Seat 2: ClaraOswald (button) folded on the Pre-Flop
+Seat 3: kauaidog (small blind) folded on the Pre-Flop
+Seat 4: Godzillas (big blind) folded on the Flop
+Seat 5: hino0906 folded on the Pre-Flop and did not bet
+Seat 6: Angrytater59 folded on the Pre-Flop and did not bet
+Seat 7: DUMPit did not show and won 20150.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2440828785 - Tournament #33460713 - Holdem (No Limit) - Level 11 (2250.00/4500.00) - 2025/04/27 02:46:22 UTC
+Table '25' 8-max Seat #3 is the button
+Seat 1: weedwarrior13 (114000.00)
+Seat 2: ClaraOswald (181000.00)
+Seat 3: kauaidog (42275.00)
+Seat 4: Godzillas (266650.00)
+Seat 5: hino0906 (201400.00)
+Seat 6: Angrytater59 (103562.00)
+Seat 7: DUMPit (275500.00)
+Seat 8: grotle (99450.00)
+weedwarrior13 posts ante 550.00
+ClaraOswald posts ante 550.00
+kauaidog posts ante 550.00
+Godzillas posts ante 550.00
+hino0906 posts ante 550.00
+Angrytater59 posts ante 550.00
+DUMPit posts ante 550.00
+grotle posts ante 550.00
+Godzillas posts the small blind 2250.00
+hino0906 posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [4h 9s]
+Angrytater59 folds
+DUMPit calls 4500.00
+grotle folds
+weedwarrior13 folds
+ClaraOswald folds
+kauaidog folds
+Godzillas calls 2250.00
+hino0906 checks
+*** FLOP *** [Kc 3d Jh]
+Main pot 17900.00
+Godzillas checks
+hino0906 checks
+DUMPit checks
+*** TURN *** [Kc 3d Jh] [4s]
+Main pot 17900.00
+Godzillas bets 8950.00
+hino0906 folds
+DUMPit folds
+Uncalled bet (8950.00) returned to Godzillas
+Godzillas does not show
+*** SUMMARY ***
+Total pot 17900.00
+Board [Kc 3d Jh 4s]
+Seat 1: weedwarrior13 folded on the Pre-Flop and did not bet
+Seat 2: ClaraOswald folded on the Pre-Flop and did not bet
+Seat 3: kauaidog (button) folded on the Pre-Flop
+Seat 4: Godzillas did not show and won 17900.00
+Seat 5: hino0906 (big blind) folded on the Turn
+Seat 6: Angrytater59 folded on the Pre-Flop and did not bet
+Seat 7: DUMPit folded on the Turn
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2440829507 - Tournament #33460713 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/04/27 02:47:25 UTC
+Table '25' 8-max Seat #4 is the button
+Seat 1: weedwarrior13 (113450.00)
+Seat 2: ClaraOswald (180450.00)
+Seat 3: kauaidog (41725.00)
+Seat 4: Godzillas (279500.00)
+Seat 5: hino0906 (196350.00)
+Seat 6: Angrytater59 (103012.00)
+Seat 7: DUMPit (270450.00)
+Seat 8: grotle (98900.00)
+weedwarrior13 posts ante 600.00
+ClaraOswald posts ante 600.00
+kauaidog posts ante 600.00
+Godzillas posts ante 600.00
+hino0906 posts ante 600.00
+Angrytater59 posts ante 600.00
+DUMPit posts ante 600.00
+grotle posts ante 600.00
+hino0906 posts the small blind 2500.00
+Angrytater59 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [2s 7s]
+DUMPit folds
+grotle folds
+weedwarrior13 folds
+ClaraOswald folds
+kauaidog folds
+Godzillas folds
+hino0906 calls 2500.00
+Angrytater59 checks
+*** FLOP *** [Jh Td Kh]
+Main pot 14800.00
+hino0906 checks
+Angrytater59 bets 5000.00
+hino0906 calls 5000.00
+*** TURN *** [Jh Td Kh] [8c]
+Main pot 24800.00
+hino0906 bets 5000.00
+Angrytater59 folds
+Uncalled bet (5000.00) returned to hino0906
+hino0906 does not show
+*** SUMMARY ***
+Total pot 24800.00
+Board [Jh Td Kh 8c]
+Seat 1: weedwarrior13 folded on the Pre-Flop and did not bet
+Seat 2: ClaraOswald folded on the Pre-Flop and did not bet
+Seat 3: kauaidog folded on the Pre-Flop and did not bet
+Seat 4: Godzillas (button) folded on the Pre-Flop
+Seat 5: hino0906 did not show and won 24800.00
+Seat 6: Angrytater59 (big blind) folded on the Turn
+Seat 7: DUMPit folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2440830145 - Tournament #33460713 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/04/27 02:48:24 UTC
+Table '25' 8-max Seat #5 is the button
+Seat 1: weedwarrior13 (112850.00)
+Seat 2: ClaraOswald (179850.00)
+Seat 3: kauaidog (41125.00)
+Seat 4: Godzillas (278900.00)
+Seat 5: hino0906 (210550.00)
+Seat 6: Angrytater59 (92412.00)
+Seat 7: DUMPit (269850.00)
+Seat 8: grotle (98300.00)
+weedwarrior13 posts ante 600.00
+ClaraOswald posts ante 600.00
+kauaidog posts ante 600.00
+Godzillas posts ante 600.00
+hino0906 posts ante 600.00
+Angrytater59 posts ante 600.00
+DUMPit posts ante 600.00
+grotle posts ante 600.00
+Angrytater59 posts the small blind 2500.00
+DUMPit posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [8s Qs]
+grotle raises 10000.00 to 10000.00
+weedwarrior13 folds
+ClaraOswald folds
+kauaidog folds
+Godzillas folds
+hino0906 folds
+Angrytater59 folds
+DUMPit calls 5000.00
+*** FLOP *** [2h 8d Th]
+Main pot 27300.00
+DUMPit checks
+grotle bets 5000.00
+DUMPit raises 12500.00 to 12500.00
+grotle raises 82700.00 to 87700.00 and is all-in
+DUMPit calls 75200.00
+*** TURN *** [2h 8d Th] [7d]
+Main pot 202700.00
+*** RIVER *** [2h 8d Th 7d] [9h]
+Main pot 202700.00
+*** SHOW DOWN ***
+Main pot 202700.00
+DUMPit shows [Ts 8h] (two pair, Tens and Eights [Ts Th 8h 8d 9h])
+grotle shows [8s Qs] (a pair of Eights [8s 8d Qs Th 9h])
+DUMPit collected 202700.00 from main pot
+*** SUMMARY ***
+Total pot 202700.00
+Board [2h 8d Th 7d 9h]
+Seat 1: weedwarrior13 folded on the Pre-Flop and did not bet
+Seat 2: ClaraOswald folded on the Pre-Flop and did not bet
+Seat 3: kauaidog folded on the Pre-Flop and did not bet
+Seat 4: Godzillas folded on the Pre-Flop and did not bet
+Seat 5: hino0906 (button) folded on the Pre-Flop
+Seat 6: Angrytater59 (small blind) folded on the Pre-Flop
+Seat 7: DUMPit (big blind) showed [Ts 8h] and won 202700.00 with two pair, Tens and Eights [Ts Th 8h 8d 9h]
+Seat 8: grotle showed [8s Qs] and lost with a pair of Eights [8s 8d Qs Th 9h]
+

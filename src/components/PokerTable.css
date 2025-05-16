@@ -936,4 +936,32 @@
         transform: translate(-50%, 0);
         opacity: 1;
     }
+}
+
+.username-input {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    border: #4a4a4a;
+}
+
+.username-field {
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 2px solid #4a4a4a;
+    border-radius: 5px;
+    background-color: #2a2a2a;
+    color: #fff;
+    width: 250px;
+    text-align: center;
+}
+
+.username-field:focus {
+    outline: none;
+    border-color: #666;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+.username-field::placeholder {
+    color: #888;
 } 

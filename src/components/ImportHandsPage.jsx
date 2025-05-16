@@ -9,6 +9,8 @@ const ImportHandsPage = () => {
     const [uploading, setUploading] = useState(false);
     const [error, setError] = useState(null);
     const [success, setSuccess] = useState(false);
+    const [username, setUsername] = useState('');
+    const [validating, setValidating] = useState(false);
     const [uploadProgress, setUploadProgress] = useState({
         totalFiles: 0,
         processedFiles: 0,
@@ -45,9 +47,48 @@ const ImportHandsPage = () => {
         setFiles(prevFiles => prevFiles.filter((_, i) => i !== index));
     };
 
+    const validateUsernameInFiles = async () => {
+        setValidating(true);
+        setError(null);
+
+        try {
+            for (const fileData of files) {
+                const text = await fileData.file.text();
+                const lines = text.split('\n');
+                
+                // Check if username appears in any line
+                const usernameFound = lines.some(line => 
+                    line.includes(`Seat`) && line.includes(username) ||
+                    line.includes(`Dealt to ${username}`)
+                );
+
+                if (!usernameFound) {
+                    throw new Error(`Username "${username}" not found in file: ${fileData.file.name}`);
+                }
+            }
+            return true;
+        } catch (error) {
+            setError(error.message);
+            return false;
+        } finally {
+            setValidating(false);
+        }
+    };
+
     const handleUpload = async () => {
         if (files.length === 0) {
             setError('Please select at least one file to upload');
+            return;
+        }
+
+        if (!username.trim()) {
+            setError('Please enter your username');
+            return;
+        }
+
+        // Validate username exists in files
+        const isValid = await validateUsernameInFiles();
+        if (!isValid) {
             return;
         }
 
@@ -66,6 +107,7 @@ const ImportHandsPage = () => {
                 const formData = new FormData();
                 formData.append('file', fileData.file);
                 formData.append('tournamentName', fileData.tournamentName);
+                formData.append('username', username);
 
                 const response = await apiService.uploadHandHistory(formData, (progress) => {
                     setUploadProgress(prev => ({
@@ -103,6 +145,17 @@ const ImportHandsPage = () => {
             <div className="import-hands-content">
                 <h1>Import Hand History</h1>
                 
+                <div className="username-input-container">
+                    <input
+                        type="text"
+                        placeholder="Enter your username"
+                        value={username}
+                        onChange={(e) => setUsername(e.target.value)}
+                        className="username-input"
+                        disabled={uploading || validating}
+                    />
+                </div>
+
                 <div className="upload-section">
                     <div className="file-input-container">
                         <input
@@ -150,9 +203,9 @@ const ImportHandsPage = () => {
                     <button 
                         className="upload-button"
                         onClick={handleUpload}
-                        disabled={uploading || files.length === 0}
+                        disabled={uploading || validating || files.length === 0}
                     >
-                        {uploading ? 'Uploading...' : 'Upload Files'}
+                        {validating ? 'Validating...' : uploading ? 'Uploading...' : 'Upload Files'}
                     </button>
                 </div>
 
@@ -205,6 +258,7 @@ const ImportHandsPage = () => {
                 <div className="instructions">
                     <h2>Instructions</h2>
                     <ol>
+                        <li>Enter your ACR username</li>
                         <li>Select one or more hand history text files (.txt)</li>
                         <li>Enter a tournament name for each file</li>
                         <li>Click "Upload Files"</li>

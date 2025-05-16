@@ -1,0 +1,47 @@
+Game Hand #2439567236 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:13:40 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: FrancoFitzpatrick (50000.00)
+Seat 2: grotle (79250.00)
+Seat 3: Rokhd (106090.00)
+Seat 4: ValAnd59 (34148.00)
+Seat 5: poiuytr1 (106960.00)
+Seat 6: theANMATOR (129011.00)
+Seat 7: Memberberries11 (50400.00)
+FrancoFitzpatrick posts ante 100.00
+grotle posts ante 100.00
+Rokhd posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+theANMATOR posts ante 100.00
+Memberberries11 posts ante 100.00
+grotle posts the small blind 450.00
+Rokhd posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [Jc 3h]
+ValAnd59 raises 2375.00 to 2375.00
+poiuytr1 folds
+theANMATOR calls 2375.00
+Memberberries11 folds
+FrancoFitzpatrick folds
+grotle folds
+Rokhd calls 1475.00
+*** FLOP *** [7d Jh 6h]
+Main pot 8275.00
+Rokhd checks
+ValAnd59 bets 6206.00
+theANMATOR folds
+Rokhd folds
+Uncalled bet (6206.00) returned to ValAnd59
+ValAnd59 does not show
+*** SUMMARY ***
+Total pot 8275.00
+Board [7d Jh 6h]
+Seat 1: FrancoFitzpatrick (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Rokhd (big blind) folded on the Flop
+Seat 4: ValAnd59 did not show and won 8275.00
+Seat 5: poiuytr1 folded on the Pre-Flop and did not bet
+Seat 6: theANMATOR folded on the Flop
+Seat 7: Memberberries11 folded on the Pre-Flop and did not bet
+

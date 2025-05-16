@@ -1,0 +1,3168 @@
+Game Hand #2439560814 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:05:12 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (38625.00) is sitting out
+Seat 2: GabrielBP7 (49900.00)
+Seat 3: LearnSkill (53945.00)
+Seat 4: navi (40870.00)
+Seat 5: grotle (49500.00)
+Seat 6: redoak708 (49900.00)
+Seat 7: VSMPZDEC (65378.00)
+Seat 8: Rokhd will be allowed to play after the button
+P19738905 posts ante 100.00
+GabrielBP7 posts ante 100.00
+LearnSkill posts ante 100.00
+navi posts ante 100.00
+grotle posts ante 100.00
+redoak708 posts ante 100.00
+VSMPZDEC posts ante 100.00
+P19738905 posts the small blind 400.00
+GabrielBP7 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [Qh 3h]
+LearnSkill folds
+navi folds
+grotle folds
+redoak708 folds
+VSMPZDEC raises 1600.00 to 1600.00
+P19738905 folds
+GabrielBP7 calls 800.00
+*** FLOP *** [2c 5h Ts]
+Main pot 4300.00
+GabrielBP7 checks
+VSMPZDEC bets 946.00
+GabrielBP7 folds
+Uncalled bet (946.00) returned to VSMPZDEC
+VSMPZDEC does not show
+*** SUMMARY ***
+Total pot 4300.00
+Board [2c 5h Ts]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: GabrielBP7 (big blind) folded on the Flop
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: navi folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: redoak708 folded on the Pre-Flop and did not bet
+Seat 7: VSMPZDEC did not show and won 4300.00
+
+Game Hand #2439561546 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:06:08 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (38125.00)
+Seat 2: GabrielBP7 (48200.00)
+Seat 3: LearnSkill (53845.00)
+Seat 4: navi (40770.00)
+Seat 5: grotle (49400.00)
+Seat 6: redoak708 (49800.00)
+Seat 7: VSMPZDEC (67978.00)
+Seat 8: Rokhd (108190.00)
+P19738905 posts ante 100.00
+GabrielBP7 posts ante 100.00
+LearnSkill posts ante 100.00
+navi posts ante 100.00
+grotle posts ante 100.00
+redoak708 posts ante 100.00
+VSMPZDEC posts ante 100.00
+Rokhd posts ante 100.00
+GabrielBP7 posts the small blind 400.00
+LearnSkill posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [2d 3h]
+navi folds
+grotle folds
+redoak708 raises 2200.00 to 2200.00
+VSMPZDEC folds
+Rokhd folds
+P19738905 folds
+GabrielBP7 calls 1800.00
+LearnSkill folds
+*** FLOP *** [Ks Tc 2c]
+Main pot 6000.00
+GabrielBP7 checks
+redoak708 bets 6000.00
+GabrielBP7 folds
+Uncalled bet (6000.00) returned to redoak708
+redoak708 does not show
+*** SUMMARY ***
+Total pot 6000.00
+Board [Ks Tc 2c]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: GabrielBP7 (small blind) folded on the Flop
+Seat 3: LearnSkill (big blind) folded on the Pre-Flop
+Seat 4: navi folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: redoak708 did not show and won 6000.00
+Seat 7: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439562298 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:07:04 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (38025.00)
+Seat 2: GabrielBP7 (45900.00)
+Seat 3: LearnSkill (52945.00)
+Seat 4: navi (40670.00)
+Seat 5: grotle (49300.00)
+Seat 6: redoak708 (53500.00)
+Seat 7: VSMPZDEC (67878.00)
+Seat 8: Rokhd (108090.00)
+P19738905 posts ante 100.00
+GabrielBP7 posts ante 100.00
+LearnSkill posts ante 100.00
+navi posts ante 100.00
+grotle posts ante 100.00
+redoak708 posts ante 100.00
+VSMPZDEC posts ante 100.00
+Rokhd posts ante 100.00
+LearnSkill posts the small blind 400.00
+navi posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [Ts Qc]
+grotle folds
+redoak708 folds
+VSMPZDEC folds
+Rokhd folds
+P19738905 raises 1600.00 to 1600.00
+GabrielBP7 folds
+LearnSkill raises 5200.00 to 5600.00
+navi folds
+P19738905 folds
+Uncalled bet (4000.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 4800.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: GabrielBP7 (button) folded on the Pre-Flop
+Seat 3: LearnSkill did not show and won 4800.00
+Seat 4: navi (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: redoak708 folded on the Pre-Flop and did not bet
+Seat 7: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439562770 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:07:42 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (36325.00)
+Seat 5: grotle (49200.00)
+Seat 6: redoak708 (53400.00)
+Seat 8: Rokhd (107990.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+redoak708 posts ante 100.00
+Rokhd posts ante 100.00
+grotle posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 400.00
+Dealt to grotle [Qd Ah]
+redoak708 raises 2800.00 to 2800.00
+Rokhd folds
+P19738905 folds
+grotle raises 7200.00 to 8000.00
+redoak708 raises 50500.00 to 53300.00 and is all-in
+grotle calls 41100.00 and is all-in
+Uncalled bet (4200.00) returned to redoak708
+*** FLOP *** [5d 9c 3c]
+Main pot 98600.00
+*** TURN *** [5d 9c 3c] [4d]
+Main pot 98600.00
+*** RIVER *** [5d 9c 3c 4d] [Kc]
+Main pot 98600.00
+*** SHOW DOWN ***
+Main pot 98600.00
+grotle shows [Qd Ah] (a high card, Ace high [Ah Kc Qd 9c 5d])
+redoak708 shows [Jd Ad] (a high card, Ace high [Ad Kc Jd 9c 5d])
+grotle collected 98600.00 from main pot
+*** SUMMARY ***
+Total pot 98600.00
+Board [5d 9c 3c 4d Kc]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 5: grotle (big blind) showed [Qd Ah] and won 98600.00 with a high card, Ace high [Ah Kc Qd 9c 5d] with the kicker Queen
+Seat 6: redoak708 showed [Jd Ad] and lost with a high card, Ace high [Ad Kc Jd 9c 5d]
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439563323 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:08:27 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (36225.00)
+Seat 5: grotle (98600.00)
+Seat 6: redoak708 (4200.00)
+Seat 8: Rokhd (107890.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+redoak708 posts ante 100.00
+Rokhd posts ante 100.00
+grotle posts the small blind 400.00
+redoak708 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 400.00
+Dealt to grotle [2c 2d]
+Rokhd folds
+P19738905 folds
+grotle raises 1200.00 to 1600.00
+redoak708 raises 3300.00 to 4100.00 and is all-in
+grotle calls 2500.00
+*** FLOP *** [3d Jh 7h]
+Main pot 8600.00
+*** TURN *** [3d Jh 7h] [Ts]
+Main pot 8600.00
+*** RIVER *** [3d Jh 7h Ts] [Qs]
+Main pot 8600.00
+*** SHOW DOWN ***
+Main pot 8600.00
+grotle shows [2c 2d] (a pair of Deuces [2d 2c Qs Jh Ts])
+redoak708 shows [8c Ac] (a high card, Ace high [Ac Qs Jh Ts 8c])
+grotle collected 8600.00 from main pot
+*** SUMMARY ***
+Total pot 8600.00
+Board [3d Jh 7h Ts Qs]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 5: grotle (small blind) showed [2c 2d] and won 8600.00 with a pair of Deuces [2d 2c Qs Jh Ts]
+Seat 6: redoak708 (big blind) showed [8c Ac] and lost with a high card, Ace high [Ac Qs Jh Ts 8c]
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439563938 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:09:14 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (36125.00)
+Seat 2: ValAnd59 (30548.00)
+Seat 3: poiuytr1 (108710.00)
+Seat 4: ALENARG (50767.00)
+Seat 5: grotle (103000.00)
+Seat 8: Rokhd (107790.00)
+P19738905 posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+ALENARG posts ante 100.00
+grotle posts ante 100.00
+Rokhd posts ante 100.00
+Rokhd posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 600.00
+Dealt to grotle [6h 3c]
+P19738905 folds
+ValAnd59 folds
+poiuytr1 folds
+ALENARG raises 2000.00 to 2000.00
+grotle folds
+Rokhd folds
+Uncalled bet (1200.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 2200.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 3: poiuytr1 folded on the Pre-Flop and did not bet
+Seat 4: ALENARG did not show and won 2200.00
+Seat 5: grotle (button) folded on the Pre-Flop
+Seat 8: Rokhd (big blind) folded on the Pre-Flop
+
+Game Hand #2439564346 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:09:47 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (36025.00)
+Seat 2: ValAnd59 (30448.00)
+Seat 3: poiuytr1 (108610.00)
+Seat 4: ALENARG (52067.00)
+Seat 5: grotle (102900.00)
+Seat 6: Lab63 will be allowed to play after the button
+Seat 8: Rokhd (106890.00)
+P19738905 posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+ALENARG posts ante 100.00
+grotle posts ante 100.00
+Rokhd posts ante 100.00
+Rokhd posts the small blind 400.00
+P19738905 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 600.00
+Dealt to grotle [Qc 9h]
+ValAnd59 raises 30348.00 to 30348.00 and is all-in
+poiuytr1 folds
+ALENARG folds
+grotle folds
+Rokhd folds
+P19738905 folds
+Uncalled bet (29548.00) returned to ValAnd59
+ValAnd59 does not show
+*** SUMMARY ***
+Total pot 2600.00
+Seat 1: P19738905 (big blind) folded on the Pre-Flop
+Seat 2: ValAnd59 did not show and won 2600.00
+Seat 3: poiuytr1 folded on the Pre-Flop and did not bet
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 8: Rokhd (small blind) folded on the Pre-Flop
+
+Game Hand #2439564711 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:10:13 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: P19738905 (35125.00)
+Seat 2: ValAnd59 (32148.00)
+Seat 3: poiuytr1 (108510.00)
+Seat 4: ALENARG (51967.00)
+Seat 5: grotle (102800.00)
+Seat 6: Lab63 (37450.00)
+Seat 8: Rokhd (106390.00)
+P19738905 posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+ALENARG posts ante 100.00
+grotle posts ante 100.00
+Lab63 posts ante 100.00
+Rokhd posts ante 100.00
+P19738905 posts the small blind 400.00
+ValAnd59 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [Qs 5c]
+poiuytr1 folds
+ALENARG folds
+grotle folds
+Lab63 raises 1600.00 to 1600.00
+Rokhd folds
+P19738905 folds
+ValAnd59 calls 800.00
+*** FLOP *** [Qh 4s 3d]
+Main pot 4300.00
+ValAnd59 checks
+Lab63 checks
+*** TURN *** [Qh 4s 3d] [2c]
+Main pot 4300.00
+ValAnd59 checks
+Lab63 checks
+*** RIVER *** [Qh 4s 3d 2c] [8s]
+Main pot 4300.00
+ValAnd59 checks
+Lab63 checks
+*** SHOW DOWN ***
+Main pot 4300.00
+ValAnd59 shows [Ac 9c] (a high card, Ace high [Ac Qh 9c 8s 4s])
+Lab63 shows [9h Kc] (a high card, King high [Kc Qh 9h 8s 4s])
+ValAnd59 collected 4300.00 from main pot
+*** SUMMARY ***
+Total pot 4300.00
+Board [Qh 4s 3d 2c 8s]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: ValAnd59 (big blind) showed [Ac 9c] and won 4300.00 with a high card, Ace high [Ac Qh 9c 8s 4s]
+Seat 3: poiuytr1 folded on the Pre-Flop and did not bet
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Lab63 showed [9h Kc] and lost with a high card, King high [Kc Qh 9h 8s 4s]
+Seat 8: Rokhd (button) folded on the Pre-Flop
+
+Game Hand #2439565687 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:11:33 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (34625.00)
+Seat 2: ValAnd59 (34748.00)
+Seat 3: poiuytr1 (108410.00)
+Seat 4: ALENARG (51867.00)
+Seat 5: grotle (102700.00)
+Seat 6: Lab63 (35750.00)
+Seat 7: Makentosh88 (74506.00)
+Seat 8: Rokhd (106290.00)
+P19738905 posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+ALENARG posts ante 100.00
+grotle posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Rokhd posts ante 100.00
+ValAnd59 posts the small blind 400.00
+poiuytr1 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [Kd Jd]
+ALENARG folds
+grotle calls 800.00
+Lab63 folds
+Makentosh88 folds
+Rokhd folds
+P19738905 raises 2600.00 to 2600.00
+ValAnd59 folds
+poiuytr1 folds
+grotle calls 1800.00
+*** FLOP *** [Js 3h Ah]
+Main pot 7200.00
+grotle checks
+P19738905 bets 3600.00
+grotle calls 3600.00
+*** TURN *** [Js 3h Ah] [Ac]
+Main pot 14400.00
+grotle checks
+P19738905 bets 7200.00
+grotle raises 19200.00 to 19200.00
+P19738905 raises 21125.00 to 28325.00 and is all-in
+grotle folds
+Uncalled bet (9125.00) returned to P19738905
+P19738905 does not show
+*** SUMMARY ***
+Total pot 52800.00
+Board [Js 3h Ah Ac]
+Seat 1: P19738905 did not show and won 52800.00
+Seat 2: ValAnd59 (small blind) folded on the Pre-Flop
+Seat 3: poiuytr1 (big blind) folded on the Pre-Flop
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Turn
+Seat 6: Lab63 folded on the Pre-Flop and did not bet
+Seat 7: Makentosh88 folded on the Pre-Flop and did not bet
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439566841 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:13:10 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (61925.00)
+Seat 2: ValAnd59 (34248.00)
+Seat 3: poiuytr1 (107510.00)
+Seat 4: ALENARG (51767.00)
+Seat 5: grotle (77200.00)
+Seat 6: Lab63 (35650.00)
+Seat 7: Makentosh88 (74406.00)
+Seat 8: Rokhd (106190.00)
+P19738905 posts ante 100.00
+ValAnd59 posts ante 100.00
+poiuytr1 posts ante 100.00
+ALENARG posts ante 100.00
+grotle posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Rokhd posts ante 100.00
+poiuytr1 posts the small blind 450.00
+ALENARG posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [8c 9c]
+grotle raises 1800.00 to 1800.00
+Lab63 folds
+Makentosh88 folds
+Rokhd folds
+P19738905 folds
+ValAnd59 folds
+poiuytr1 folds
+ALENARG folds
+Uncalled bet (900.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 3050.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: ValAnd59 (button) folded on the Pre-Flop
+Seat 3: poiuytr1 (small blind) folded on the Pre-Flop
+Seat 4: ALENARG (big blind) folded on the Pre-Flop
+Seat 5: grotle did not show and won 3050.00
+Seat 6: Lab63 folded on the Pre-Flop and did not bet
+Seat 7: Makentosh88 folded on the Pre-Flop and did not bet
+Seat 8: Rokhd folded on the Pre-Flop and did not bet
+
+Game Hand #2439568024 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:14:49 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (63375.00)
+Seat 2: grotle (78700.00)
+Seat 3: ValAnd59 (39948.00)
+Seat 4: ALENARG (50117.00)
+Seat 5: theANMATOR (126536.00)
+Seat 6: Lab63 (34000.00)
+Seat 7: Makentosh88 (74956.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+ALENARG posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Makentosh88 posts the small blind 450.00
+P19738905 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [5d Qd]
+grotle folds
+ValAnd59 calls 900.00
+ALENARG folds
+theANMATOR folds
+Lab63 folds
+Makentosh88 folds
+P19738905 checks
+*** FLOP *** [Kd 2s Js]
+Main pot 2950.00
+P19738905 checks
+ValAnd59 checks
+*** TURN *** [Kd 2s Js] [4h]
+Main pot 2950.00
+P19738905 checks
+ValAnd59 checks
+*** RIVER *** [Kd 2s Js 4h] [3h]
+Main pot 2950.00
+P19738905 checks
+ValAnd59 checks
+*** SHOW DOWN ***
+Main pot 2950.00
+P19738905 shows [9h 3s] (a pair of Threes [3s 3h Kd Js 9h])
+ValAnd59 shows [9c As] (a high card, Ace high [As Kd Js 9c 4h])
+P19738905 collected 2950.00 from main pot
+*** SUMMARY ***
+Total pot 2950.00
+Board [Kd 2s Js 4h 3h]
+Seat 1: P19738905 (big blind) showed [9h 3s] and won 2950.00 with a pair of Threes [3s 3h Kd Js 9h]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 showed [9c As] and lost with a high card, Ace high [As Kd Js 9c 4h]
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: Lab63 (button) folded on the Pre-Flop
+Seat 7: Makentosh88 (small blind) folded on the Pre-Flop
+
+Game Hand #2439568737 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:15:49 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (65325.00)
+Seat 2: grotle (78600.00)
+Seat 3: ValAnd59 (38948.00)
+Seat 4: ALENARG (50017.00)
+Seat 5: theANMATOR (126436.00)
+Seat 6: Lab63 (33900.00)
+Seat 7: Makentosh88 (74406.00)
+Seat 8: Mugsystar will be allowed to play after the button
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+ALENARG posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+P19738905 posts the small blind 450.00
+grotle posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [6c Tc]
+ValAnd59 folds
+ALENARG folds
+theANMATOR folds
+Lab63 raises 1800.00 to 1800.00
+Makentosh88 folds
+P19738905 folds
+grotle calls 900.00
+*** FLOP *** [6d 5h 8h]
+Main pot 4750.00
+grotle checks
+Lab63 bets 2375.00
+grotle calls 2375.00
+*** TURN *** [6d 5h 8h] [5s]
+Main pot 9500.00
+grotle bets 4050.00
+Lab63 folds
+Uncalled bet (4050.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 9500.00
+Board [6d 5h 8h 5s]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 9500.00
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: Lab63 folded on the Turn
+Seat 7: Makentosh88 (button) folded on the Pre-Flop
+
+Game Hand #2439569455 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:16:50 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (64775.00)
+Seat 2: grotle (83825.00)
+Seat 3: ValAnd59 (38848.00)
+Seat 4: ALENARG (49917.00)
+Seat 5: theANMATOR (126336.00)
+Seat 6: Lab63 (29625.00)
+Seat 7: Makentosh88 (74306.00)
+Seat 8: Mugsystar (50000.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+ALENARG posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Mugsystar posts ante 100.00
+grotle posts the small blind 450.00
+ValAnd59 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [5s 2h]
+ALENARG folds
+theANMATOR raises 2160.00 to 2160.00
+Lab63 calls 2160.00
+Makentosh88 folds
+Mugsystar folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+*** FLOP *** [7d Ad 8s]
+Main pot 6470.00
+theANMATOR bets 2265.00
+Lab63 calls 2265.00
+*** TURN *** [7d Ad 8s] [Td]
+Main pot 11000.00
+theANMATOR bets 6950.00
+Lab63 folds
+Uncalled bet (6950.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 11000.00
+Board [7d Ad 8s Td]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) folded on the Pre-Flop
+Seat 4: ALENARG folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR did not show and won 11000.00
+Seat 6: Lab63 folded on the Turn
+Seat 7: Makentosh88 folded on the Pre-Flop and did not bet
+Seat 8: Mugsystar folded on the Pre-Flop and did not bet
+
+Game Hand #2439570001 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:17:37 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (64675.00)
+Seat 2: grotle (83275.00)
+Seat 3: ValAnd59 (37848.00)
+Seat 4: ALENARG (49817.00)
+Seat 5: theANMATOR (132811.00)
+Seat 6: Lab63 (25100.00)
+Seat 7: Makentosh88 (74206.00)
+Seat 8: Mugsystar (49900.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+ALENARG posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Mugsystar posts ante 100.00
+ValAnd59 posts the small blind 450.00
+ALENARG posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [3h 5c]
+theANMATOR folds
+Lab63 folds
+Makentosh88 folds
+Mugsystar folds
+P19738905 raises 1800.00 to 1800.00
+grotle raises 6300.00 to 6300.00
+ValAnd59 folds
+ALENARG folds
+P19738905 folds
+Uncalled bet (4500.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 5750.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 5750.00
+Seat 3: ValAnd59 (small blind) folded on the Pre-Flop
+Seat 4: ALENARG (big blind) folded on the Pre-Flop
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: Lab63 folded on the Pre-Flop and did not bet
+Seat 7: Makentosh88 folded on the Pre-Flop and did not bet
+Seat 8: Mugsystar folded on the Pre-Flop and did not bet
+
+Game Hand #2439570524 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:18:21 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (62775.00)
+Seat 2: grotle (87125.00)
+Seat 3: ValAnd59 (37298.00)
+Seat 4: ALENARG (48817.00)
+Seat 5: theANMATOR (132711.00)
+Seat 6: Lab63 (25000.00)
+Seat 7: Makentosh88 (74106.00)
+Seat 8: Mugsystar (49800.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+ALENARG posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Mugsystar posts ante 100.00
+ALENARG posts the small blind 450.00
+theANMATOR posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [7c 9c]
+Lab63 raises 24900.00 to 24900.00 and is all-in
+Makentosh88 folds
+Mugsystar folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+ALENARG folds
+theANMATOR folds
+Uncalled bet (24000.00) returned to Lab63
+Lab63 does not show
+*** SUMMARY ***
+Total pot 3050.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 (button) folded on the Pre-Flop
+Seat 4: ALENARG (small blind) folded on the Pre-Flop
+Seat 5: theANMATOR (big blind) folded on the Pre-Flop
+Seat 6: Lab63 did not show and won 3050.00
+Seat 7: Makentosh88 folded on the Pre-Flop and did not bet
+Seat 8: Mugsystar folded on the Pre-Flop and did not bet
+
+Game Hand #2439570957 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:18:59 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (62675.00)
+Seat 2: grotle (87025.00)
+Seat 3: ValAnd59 (37198.00)
+Seat 5: theANMATOR (131711.00)
+Seat 6: Lab63 (27050.00)
+Seat 7: Makentosh88 (74006.00)
+Seat 8: Mugsystar (49700.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Mugsystar posts ante 100.00
+theANMATOR posts the small blind 450.00
+Lab63 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [5h 3h]
+Makentosh88 raises 1800.00 to 1800.00
+Mugsystar folds
+P19738905 folds
+grotle calls 1800.00
+ValAnd59 calls 1800.00
+theANMATOR folds
+Lab63 folds
+*** FLOP *** [As Td 6s]
+Main pot 7450.00
+Makentosh88 checks
+grotle bets 2250.00
+ValAnd59 folds
+Makentosh88 calls 2250.00
+*** TURN *** [As Td 6s] [Qc]
+Main pot 11950.00
+Makentosh88 checks
+grotle checks
+*** RIVER *** [As Td 6s Qc] [4h]
+Main pot 11950.00
+Makentosh88 bets 5975.00
+grotle folds
+Uncalled bet (5975.00) returned to Makentosh88
+Makentosh88 does not show
+*** SUMMARY ***
+Total pot 11950.00
+Board [As Td 6s Qc 4h]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the River
+Seat 3: ValAnd59 folded on the Flop
+Seat 5: theANMATOR (small blind) folded on the Pre-Flop
+Seat 6: Lab63 (big blind) folded on the Pre-Flop
+Seat 7: Makentosh88 did not show and won 11950.00
+Seat 8: Mugsystar folded on the Pre-Flop and did not bet
+
+Game Hand #2439571978 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:20:26 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (62575.00)
+Seat 2: grotle (82875.00)
+Seat 3: ValAnd59 (35298.00)
+Seat 4: 420jayk420 (50000.00)
+Seat 5: theANMATOR (131161.00)
+Seat 6: Lab63 (26050.00)
+Seat 7: Makentosh88 (81806.00)
+Seat 8: Mugsystar (49600.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+420jayk420 posts ante 100.00
+theANMATOR posts ante 100.00
+Lab63 posts ante 100.00
+Makentosh88 posts ante 100.00
+Mugsystar posts ante 100.00
+Lab63 posts the small blind 450.00
+Makentosh88 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [Js Ad]
+Mugsystar folds
+P19738905 folds
+grotle raises 1800.00 to 1800.00
+ValAnd59 folds
+420jayk420 folds
+theANMATOR folds
+Lab63 folds
+Makentosh88 calls 900.00
+*** FLOP *** [Td 3d Kh]
+Main pot 4850.00
+Makentosh88 checks
+grotle bets 1800.00
+Makentosh88 calls 1800.00
+*** TURN *** [Td 3d Kh] [8c]
+Main pot 8450.00
+Makentosh88 checks
+grotle bets 3600.00
+Makentosh88 folds
+Uncalled bet (3600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 8450.00
+Board [Td 3d Kh 8c]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 8450.00
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: 420jayk420 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: Lab63 (small blind) folded on the Pre-Flop
+Seat 7: Makentosh88 (big blind) folded on the Turn
+Seat 8: Mugsystar folded on the Pre-Flop and did not bet
+
+Game Hand #2439572823 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:21:39 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (62475.00)
+Seat 2: grotle (87625.00)
+Seat 3: ValAnd59 (35198.00)
+Seat 4: 420jayk420 (49900.00)
+Seat 5: theANMATOR (131061.00)
+Seat 8: Mugsystar (49500.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+420jayk420 posts ante 100.00
+theANMATOR posts ante 100.00
+Mugsystar posts ante 100.00
+Mugsystar posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 600.00
+Dealt to grotle [Ac Kc]
+P19738905 folds
+grotle raises 1800.00 to 1800.00
+ValAnd59 calls 1800.00
+420jayk420 folds
+theANMATOR calls 1800.00
+Mugsystar calls 900.00
+*** FLOP *** [Td 5s 5h]
+Main pot 7800.00
+Mugsystar checks
+grotle checks
+ValAnd59 checks
+theANMATOR bets 1800.00
+Mugsystar folds
+grotle calls 1800.00
+ValAnd59 calls 1800.00
+*** TURN *** [Td 5s 5h] [5c]
+Main pot 13200.00
+grotle checks
+ValAnd59 checks
+theANMATOR bets 8610.00
+grotle folds
+ValAnd59 folds
+Uncalled bet (8610.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 13200.00
+Board [Td 5s 5h 5c]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Turn
+Seat 3: ValAnd59 folded on the Turn
+Seat 4: 420jayk420 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR did not show and won 13200.00
+Seat 8: Mugsystar (big blind) folded on the Flop
+
+Game Hand #2439573961 - Tournament #33456182 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/04/25 17:23:16 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (62375.00)
+Seat 2: grotle (83925.00)
+Seat 3: ValAnd59 (31498.00)
+Seat 4: 420jayk420 (49800.00)
+Seat 5: theANMATOR (140561.00)
+Seat 8: Mugsystar (47600.00)
+P19738905 posts ante 100.00
+grotle posts ante 100.00
+ValAnd59 posts ante 100.00
+420jayk420 posts ante 100.00
+theANMATOR posts ante 100.00
+Mugsystar posts ante 100.00
+Mugsystar posts the small blind 450.00
+P19738905 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 600.00
+Dealt to grotle [5d 2d]
+grotle folds
+ValAnd59 folds
+420jayk420 calls 900.00
+theANMATOR calls 900.00
+Mugsystar folds
+P19738905 checks
+*** FLOP *** [Js Jc Tc]
+Main pot 3750.00
+P19738905 checks
+420jayk420 checks
+theANMATOR checks
+*** TURN *** [Js Jc Tc] [8s]
+Main pot 3750.00
+P19738905 checks
+420jayk420 checks
+theANMATOR checks
+*** RIVER *** [Js Jc Tc 8s] [Ac]
+Main pot 3750.00
+P19738905 checks
+420jayk420 checks
+theANMATOR checks
+*** SHOW DOWN ***
+Main pot 3750.00
+P19738905 shows [9d Kd] (a pair of Jacks [Js Jc Ac Kd Tc])
+420jayk420 shows [6h 8h] (two pair, Jacks and Eights [Js Jc 8s 8h Ac])
+theANMATOR shows [9c Ad] (two pair, Aces and Jacks [Ad Ac Js Jc Tc])
+theANMATOR collected 3750.00 from main pot
+*** SUMMARY ***
+Total pot 3750.00
+Board [Js Jc Tc 8s Ac]
+Seat 1: P19738905 (big blind) showed [9d Kd] and lost with a pair of Jacks [Js Jc Ac Kd Tc]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: 420jayk420 showed [6h 8h] and lost with two pair, Jacks and Eights [Js Jc 8s 8h Ac]
+Seat 5: theANMATOR showed [9c Ad] and won 3750.00 with two pair, Aces and Jacks [Ad Ac Js Jc Tc]
+Seat 8: Mugsystar (small blind) folded on the Pre-Flop
+
+Game Hand #2439575247 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:25:08 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: P19738905 (61375.00)
+Seat 2: grotle (83825.00)
+Seat 3: ValAnd59 (31398.00)
+Seat 4: 420jayk420 (48800.00)
+Seat 5: theANMATOR (143311.00)
+Seat 6: jaytaleon (83092.00)
+Seat 8: Mugsystar (47050.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+420jayk420 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+Mugsystar posts ante 125.00
+P19738905 posts the small blind 500.00
+grotle posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [9h 2d]
+ValAnd59 calls 1000.00
+420jayk420 calls 1000.00
+theANMATOR folds
+jaytaleon calls 1000.00
+Mugsystar folds
+P19738905 folds
+grotle checks
+*** FLOP *** [Jd As Kd]
+Main pot 5375.00
+grotle checks
+ValAnd59 checks
+420jayk420 checks
+jaytaleon bets 1494.00
+grotle folds
+ValAnd59 folds
+420jayk420 folds
+Uncalled bet (1494.00) returned to jaytaleon
+jaytaleon does not show
+*** SUMMARY ***
+Total pot 5375.00
+Board [Jd As Kd]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Flop
+Seat 3: ValAnd59 folded on the Flop
+Seat 4: 420jayk420 folded on the Flop
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: jaytaleon did not show and won 5375.00
+Seat 8: Mugsystar (button) folded on the Pre-Flop
+
+Game Hand #2439576260 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:26:24 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (60750.00) is sitting out
+Seat 2: grotle (82700.00)
+Seat 3: ValAnd59 (30273.00)
+Seat 4: 420jayk420 (47675.00)
+Seat 5: theANMATOR (143186.00)
+Seat 6: jaytaleon (87342.00)
+Seat 8: Mugsystar (46925.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+420jayk420 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+Mugsystar posts ante 125.00
+grotle posts the small blind 500.00
+ValAnd59 posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [6h Td]
+420jayk420 folds
+theANMATOR raises 2000.00 to 2000.00
+jaytaleon raises 5003.00 to 5003.00
+Mugsystar raises 46800.00 to 46800.00 and is all-in
+P19738905 folds
+grotle folds
+ValAnd59 folds
+theANMATOR folds
+jaytaleon calls 41797.00
+*** FLOP *** [9h 8h Tc]
+Main pot 97975.00
+*** TURN *** [9h 8h Tc] [4s]
+Main pot 97975.00
+*** RIVER *** [9h 8h Tc 4s] [Ah]
+Main pot 97975.00
+*** SHOW DOWN ***
+Main pot 97975.00
+jaytaleon shows [9c 9s] (three of a kind, Set of Nines [9s 9h 9c Ah Tc])
+Mugsystar shows [Kd Ks] (a pair of Kings [Ks Kd Ah Tc 9h])
+jaytaleon collected 97975.00 from main pot
+*** SUMMARY ***
+Total pot 97975.00
+Board [9h 8h Tc 4s Ah]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) folded on the Pre-Flop
+Seat 4: 420jayk420 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: jaytaleon showed [9c 9s] and won 97975.00 with three of a kind, Set of Nines [9s 9h 9c Ah Tc]
+Seat 8: Mugsystar showed [Kd Ks] and lost with a pair of Kings [Ks Kd Ah Tc 9h]
+
+Game Hand #2439577257 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:27:35 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (60625.00)
+Seat 2: grotle (82075.00)
+Seat 3: ValAnd59 (29148.00)
+Seat 4: 420jayk420 (47550.00)
+Seat 5: theANMATOR (141061.00)
+Seat 6: jaytaleon (138392.00)
+Seat 7: MPA30TA (36360.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+420jayk420 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+MPA30TA posts ante 125.00
+ValAnd59 posts the small blind 500.00
+420jayk420 posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [Ks Ad]
+theANMATOR folds
+jaytaleon calls 1000.00
+MPA30TA folds
+P19738905 folds
+grotle raises 2000.00 to 2000.00
+ValAnd59 raises 28523.00 to 29023.00 and is all-in
+420jayk420 calls 28023.00
+jaytaleon calls 28023.00
+grotle calls 27023.00
+*** FLOP *** [8h 3c 8s]
+Main pot 116967.00
+420jayk420 checks
+jaytaleon bets 109244.00 and is all-in
+grotle calls 52927.00 and is all-in
+420jayk420 calls 18402.00 and is all-in
+Uncalled bet (56317.00) returned to jaytaleon
+*** TURN *** [8h 3c 8s] [5c]
+Main pot 116967.00
+Side pot(1) 55206.00
+Side pot(2) 69050.00
+*** RIVER *** [8h 3c 8s 5c] [7d]
+Main pot 116967.00
+Side pot(1) 55206.00
+Side pot(2) 69050.00
+*** SHOW DOWN ***
+Main pot 116967.00
+Side pot(1) 55206.00
+Side pot(2) 69050.00
+grotle shows [Ks Ad] (a pair of Eights [8s 8h Ad Ks 7d])
+ValAnd59 shows [As Jd] (a pair of Eights [8s 8h As Jd 7d])
+420jayk420 shows [Qc Ah] (a pair of Eights [8s 8h Ah Qc 7d])
+jaytaleon shows [4d Kh] (a pair of Eights [8s 8h Kh 7d 5c])
+grotle collected 116967.00 from main pot
+grotle collected 55206.00 from side pot-1
+grotle collected 69050.00 from side pot-2
+*** SUMMARY ***
+Total pot 241223.00
+Board [8h 3c 8s 5c 7d]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [Ks Ad] and won 241223.00 with a pair of Eights [8s 8h Ad Ks 7d] with the kicker Ace
+Seat 3: ValAnd59 (small blind) showed [As Jd] and lost with a pair of Eights [8s 8h As Jd 7d]
+Seat 4: 420jayk420 (big blind) showed [Qc Ah] and lost with a pair of Eights [8s 8h Ah Qc 7d]
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: jaytaleon showed [4d Kh] and lost with a pair of Eights [8s 8h Kh 7d 5c]
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439578389 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:28:59 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (60500.00)
+Seat 2: grotle (241223.00)
+Seat 5: theANMATOR (140936.00)
+Seat 6: jaytaleon (56317.00)
+Seat 7: MPA30TA (36235.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+MPA30TA posts ante 125.00
+theANMATOR posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 625.00
+Dealt to grotle [9h Qc]
+jaytaleon raises 56192.00 to 56192.00 and is all-in
+MPA30TA folds
+P19738905 folds
+grotle folds
+theANMATOR folds
+Uncalled bet (55192.00) returned to jaytaleon
+jaytaleon does not show
+*** SUMMARY ***
+Total pot 2625.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (big blind) folded on the Pre-Flop
+Seat 6: jaytaleon did not show and won 2625.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439578717 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:29:25 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (60375.00)
+Seat 2: grotle (241098.00)
+Seat 3: ValAnd59 (50000.00)
+Seat 4: Rollingrock1 will be allowed to play after the button
+Seat 5: theANMATOR (139811.00)
+Seat 6: jaytaleon (57817.00)
+Seat 7: MPA30TA (36110.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+MPA30TA posts ante 125.00
+theANMATOR posts the small blind 500.00
+jaytaleon posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 750.00
+Dealt to grotle [As 3s]
+MPA30TA folds
+P19738905 folds
+grotle raises 2000.00 to 2000.00
+ValAnd59 folds
+theANMATOR folds
+jaytaleon raises 6250.00 to 7250.00
+grotle calls 5250.00
+*** FLOP *** [8c Js Tc]
+Main pot 15750.00
+jaytaleon bets 50442.00 and is all-in
+grotle folds
+Uncalled bet (50442.00) returned to jaytaleon
+jaytaleon does not show
+*** SUMMARY ***
+Total pot 15750.00
+Board [8c Js Tc]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Flop
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (small blind) folded on the Pre-Flop
+Seat 6: jaytaleon did not show and won 15750.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439579406 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:30:20 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (60250.00)
+Seat 2: grotle (233723.00)
+Seat 3: ValAnd59 (49875.00)
+Seat 4: Rollingrock1 (34056.00)
+Seat 5: theANMATOR (139186.00)
+Seat 6: jaytaleon (66192.00)
+Seat 7: MPA30TA (35985.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+MPA30TA posts ante 125.00
+jaytaleon posts the small blind 500.00
+MPA30TA posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [7s Kh]
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+jaytaleon raises 3375.00 to 3875.00
+MPA30TA raises 34860.00 to 35860.00 and is all-in
+jaytaleon calls 31985.00
+*** FLOP *** [8h Jd Qs]
+Main pot 72595.00
+*** TURN *** [8h Jd Qs] [Js]
+Main pot 72595.00
+*** RIVER *** [8h Jd Qs Js] [Qc]
+Main pot 72595.00
+*** SHOW DOWN ***
+Main pot 72595.00
+jaytaleon shows [3h 3c] (two pair, Queens and Jacks [Qs Qc Js Jd 8h])
+MPA30TA shows [8c Ah] (two pair, Queens and Jacks [Qs Qc Js Jd Ah])
+MPA30TA collected 72595.00 from main pot
+*** SUMMARY ***
+Total pot 72595.00
+Board [8h Jd Qs Js Qc]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: jaytaleon (small blind) showed [3h 3c] and lost with two pair, Queens and Jacks [Qs Qc Js Jd 8h]
+Seat 7: MPA30TA (big blind) showed [8c Ah] and won 72595.00 with two pair, Queens and Jacks [Qs Qc Js Jd Ah] with the kicker Ace
+
+Game Hand #2439580505 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:31:42 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (60125.00)
+Seat 2: grotle (233598.00)
+Seat 3: ValAnd59 (49750.00)
+Seat 4: Rollingrock1 (33931.00)
+Seat 5: theANMATOR (139061.00)
+Seat 6: jaytaleon (30207.00)
+Seat 7: MPA30TA (72595.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+jaytaleon posts ante 125.00
+MPA30TA posts ante 125.00
+MPA30TA posts the small blind 500.00
+P19738905 posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [2s Qc]
+grotle folds
+ValAnd59 folds
+Rollingrock1 raises 4375.00 to 4375.00
+theANMATOR folds
+jaytaleon calls 4375.00
+MPA30TA folds
+P19738905 folds
+*** FLOP *** [Jh 9s Ah]
+Main pot 11125.00
+Rollingrock1 bets 11125.00
+jaytaleon calls 11125.00
+*** TURN *** [Jh 9s Ah] [Jc]
+Main pot 33375.00
+Rollingrock1 bets 18306.00 and is all-in
+jaytaleon calls 14582.00 and is all-in
+Uncalled bet (3724.00) returned to Rollingrock1
+*** RIVER *** [Jh 9s Ah Jc] [4h]
+Main pot 62539.00
+*** SHOW DOWN ***
+Main pot 62539.00
+Rollingrock1 shows [Kd Ac] (two pair, Aces and Jacks [Ah Ac Jh Jc Kd])
+jaytaleon shows [6s Ks] (a pair of Jacks [Jh Jc Ah Ks 9s])
+Rollingrock1 collected 62539.00 from main pot
+*** SUMMARY ***
+Total pot 62539.00
+Board [Jh 9s Ah Jc 4h]
+Seat 1: P19738905 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 showed [Kd Ac] and won 62539.00 with two pair, Aces and Jacks [Ah Ac Jh Jc Kd]
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: jaytaleon (button) showed [6s Ks] and lost with a pair of Jacks [Jh Jc Ah Ks 9s]
+Seat 7: MPA30TA (small blind) folded on the Pre-Flop
+
+Game Hand #2439581161 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:32:33 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (59000.00)
+Seat 2: grotle (233473.00)
+Seat 3: ValAnd59 (49625.00)
+Seat 4: Rollingrock1 (66263.00)
+Seat 5: theANMATOR (138936.00)
+Seat 7: MPA30TA (71970.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+MPA30TA posts ante 125.00
+P19738905 posts the small blind 500.00
+grotle posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 750.00
+Dealt to grotle [6c Qs]
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+MPA30TA folds
+P19738905 raises 1875.00 to 2375.00
+grotle folds
+Uncalled bet (1375.00) returned to P19738905
+P19738905 does not show
+*** SUMMARY ***
+Total pot 2750.00
+Seat 1: P19738905 did not show and won 2750.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA (button) folded on the Pre-Flop
+
+Game Hand #2439581521 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:33:01 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (60625.00)
+Seat 2: grotle (232348.00)
+Seat 3: ValAnd59 (49500.00)
+Seat 4: Rollingrock1 (66138.00)
+Seat 5: theANMATOR (138811.00)
+Seat 6: ALENARG (55778.00)
+Seat 7: MPA30TA (71845.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+grotle posts the small blind 500.00
+ValAnd59 posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [8h 5d]
+Rollingrock1 calls 1000.00
+theANMATOR folds
+ALENARG raises 2500.00 to 2500.00
+MPA30TA folds
+P19738905 folds
+grotle folds
+ValAnd59 calls 1500.00
+Rollingrock1 calls 1500.00
+*** FLOP *** [9s Ts Ah]
+Main pot 8875.00
+ValAnd59 checks
+Rollingrock1 checks
+ALENARG bets 3438.00
+ValAnd59 calls 3438.00
+Rollingrock1 calls 3438.00
+*** TURN *** [9s Ts Ah] [Qh]
+Main pot 19189.00
+ValAnd59 checks
+Rollingrock1 checks
+ALENARG checks
+*** RIVER *** [9s Ts Ah Qh] [3c]
+Main pot 19189.00
+ValAnd59 bets 1000.00
+Rollingrock1 calls 1000.00
+ALENARG calls 1000.00
+*** SHOW DOWN ***
+Main pot 22189.00
+ValAnd59 shows [Ad 4d] (a pair of Aces [Ah Ad Qh Ts 9s])
+Rollingrock1 shows [Js Qc] (a pair of Queens [Qh Qc Ah Js Ts])
+ALENARG shows [5c Ac] (a pair of Aces [Ah Ac Qh Ts 9s])
+ALENARG collected 11094.00 from main pot
+ValAnd59 collected 11095.00 from main pot
+*** SUMMARY ***
+Total pot 22189.00
+Board [9s Ts Ah Qh 3c]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) showed [Ad 4d] and won 11095.00 with a pair of Aces [Ah Ad Qh Ts 9s]
+Seat 4: Rollingrock1 showed [Js Qc] and lost with a pair of Queens [Qh Qc Ah Js Ts]
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG showed [5c Ac] and won 11094.00 with a pair of Aces [Ah Ac Qh Ts 9s]
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439582753 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:34:36 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (60500.00)
+Seat 2: grotle (231723.00)
+Seat 3: ValAnd59 (53532.00)
+Seat 4: Rollingrock1 (59075.00)
+Seat 5: theANMATOR (138686.00)
+Seat 6: ALENARG (59809.00)
+Seat 7: MPA30TA (71720.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+ValAnd59 posts the small blind 500.00
+Rollingrock1 posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [7c Ts]
+theANMATOR raises 2400.00 to 2400.00
+ALENARG folds
+MPA30TA folds
+P19738905 folds
+grotle raises 5988.00 to 5988.00
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 12600.00 to 15000.00
+grotle folds
+Uncalled bet (9012.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 14351.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: ValAnd59 (small blind) folded on the Pre-Flop
+Seat 4: Rollingrock1 (big blind) folded on the Pre-Flop
+Seat 5: theANMATOR did not show and won 14351.00
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439583319 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:35:21 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (60375.00)
+Seat 2: grotle (225610.00)
+Seat 3: ValAnd59 (52907.00)
+Seat 4: Rollingrock1 (57950.00)
+Seat 5: theANMATOR (146924.00)
+Seat 6: ALENARG (59684.00)
+Seat 7: MPA30TA (71595.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Rollingrock1 posts the small blind 500.00
+theANMATOR posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [8s Qs]
+ALENARG raises 2500.00 to 2500.00
+MPA30TA folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 calls 2000.00
+theANMATOR folds
+*** FLOP *** [5s Kh Js]
+Main pot 6875.00
+Rollingrock1 checks
+ALENARG bets 2938.00
+Rollingrock1 calls 2938.00
+*** TURN *** [5s Kh Js] [7s]
+Main pot 12751.00
+Rollingrock1 checks
+ALENARG checks
+*** RIVER *** [5s Kh Js 7s] [3h]
+Main pot 12751.00
+Rollingrock1 bets 12751.00
+ALENARG folds
+Uncalled bet (12751.00) returned to Rollingrock1
+Rollingrock1 does not show
+*** SUMMARY ***
+Total pot 12751.00
+Board [5s Kh Js 7s 3h]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 (button) folded on the Pre-Flop
+Seat 4: Rollingrock1 did not show and won 12751.00
+Seat 5: theANMATOR (big blind) folded on the Pre-Flop
+Seat 6: ALENARG folded on the River
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439584318 - Tournament #33456182 - Holdem (No Limit) - Level 5 (500.00/1000.00) - 2025/04/25 17:36:39 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (60250.00)
+Seat 2: grotle (225485.00)
+Seat 3: ValAnd59 (52782.00)
+Seat 4: Rollingrock1 (65138.00)
+Seat 5: theANMATOR (145799.00)
+Seat 6: ALENARG (54121.00)
+Seat 7: MPA30TA (71470.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+theANMATOR posts the small blind 500.00
+ALENARG posts the big blind 1000.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [As Qd]
+MPA30TA folds
+P19738905 folds
+grotle raises 2000.00 to 2000.00
+ValAnd59 calls 2000.00
+Rollingrock1 calls 2000.00
+theANMATOR calls 1500.00
+ALENARG calls 1000.00
+*** FLOP *** [2c 3s Jc]
+Main pot 10875.00
+theANMATOR checks
+ALENARG checks
+grotle checks
+ValAnd59 checks
+Rollingrock1 checks
+*** TURN *** [2c 3s Jc] [9d]
+Main pot 10875.00
+theANMATOR checks
+ALENARG bets 3938.00
+grotle folds
+ValAnd59 calls 3938.00
+Rollingrock1 folds
+theANMATOR calls 3938.00
+*** RIVER *** [2c 3s Jc 9d] [9c]
+Main pot 22689.00
+theANMATOR checks
+ALENARG bets 17017.00
+ValAnd59 folds
+theANMATOR folds
+Uncalled bet (17017.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 22689.00
+Board [2c 3s Jc 9d 9c]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Turn
+Seat 3: ValAnd59 folded on the River
+Seat 4: Rollingrock1 (button) folded on the Turn
+Seat 5: theANMATOR (small blind) folded on the River
+Seat 6: ALENARG did not show and won 22689.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439585500 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:38:15 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (60125.00)
+Seat 2: grotle (223360.00)
+Seat 3: ValAnd59 (46719.00)
+Seat 4: Rollingrock1 (63013.00)
+Seat 5: theANMATOR (139736.00)
+Seat 6: ALENARG (70747.00)
+Seat 7: MPA30TA (71345.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+ALENARG posts the small blind 550.00
+MPA30TA posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [Qs 4c]
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 raises 2912.00 to 2912.00
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Uncalled bet (1812.00) returned to Rollingrock1
+Rollingrock1 does not show
+*** SUMMARY ***
+Total pot 3625.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 did not show and won 3625.00
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: ALENARG (small blind) folded on the Pre-Flop
+Seat 7: MPA30TA (big blind) folded on the Pre-Flop
+
+Game Hand #2439585855 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:38:44 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (60000.00)
+Seat 2: grotle (223235.00)
+Seat 3: ValAnd59 (46594.00)
+Seat 4: Rollingrock1 (65413.00)
+Seat 5: theANMATOR (139611.00) is sitting out
+Seat 6: ALENARG (70072.00)
+Seat 7: MPA30TA (70120.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+MPA30TA posts the small blind 550.00
+P19738905 posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [3d 3h]
+grotle raises 2200.00 to 2200.00
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+P19738905 calls 1100.00
+*** FLOP *** [4d Ad Kd]
+Main pot 5825.00
+P19738905 bets 2363.00
+grotle calls 2363.00
+*** TURN *** [4d Ad Kd] [Qc]
+Main pot 10551.00
+P19738905 checks
+grotle checks
+*** RIVER *** [4d Ad Kd Qc] [7h]
+Main pot 10551.00
+P19738905 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 10551.00
+P19738905 shows [2h Ah] (a pair of Aces [Ah Ad Kd Qc 7h])
+grotle shows [3d 3h] (a pair of Threes [3h 3d Ad Kd Qc])
+P19738905 collected 10551.00 from main pot
+*** SUMMARY ***
+Total pot 10551.00
+Board [4d Ad Kd Qc 7h]
+Seat 1: P19738905 (big blind) showed [2h Ah] and won 10551.00 with a pair of Aces [Ah Ad Kd Qc 7h]
+Seat 2: grotle showed [3d 3h] and lost with a pair of Threes [3h 3d Ad Kd Qc]
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG (button) folded on the Pre-Flop
+Seat 7: MPA30TA (small blind) folded on the Pre-Flop
+
+Game Hand #2439586799 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:40:00 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (65863.00)
+Seat 2: grotle (218547.00)
+Seat 3: ValAnd59 (46469.00)
+Seat 4: Rollingrock1 (65288.00)
+Seat 5: theANMATOR (139486.00)
+Seat 6: ALENARG (69947.00)
+Seat 7: MPA30TA (69445.00)
+Seat 8: Dookie11 will be allowed to play after the button
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+P19738905 posts the small blind 550.00
+grotle posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 875.00
+Dealt to grotle [Ac 7s]
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+P19738905 calls 550.00
+grotle checks
+*** FLOP *** [Js 6c 6h]
+Main pot 3075.00
+P19738905 checks
+grotle checks
+*** TURN *** [Js 6c 6h] [8d]
+Main pot 3075.00
+P19738905 checks
+grotle bets 2200.00
+P19738905 folds
+Uncalled bet (2200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 3075.00
+Board [Js 6c 6h 8d]
+Seat 1: P19738905 (small blind) folded on the Turn
+Seat 2: grotle did not show and won 3075.00
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA (button) folded on the Pre-Flop
+
+Game Hand #2439587861 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:41:27 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (64638.00)
+Seat 2: grotle (220397.00)
+Seat 3: ValAnd59 (46344.00)
+Seat 4: Rollingrock1 (65163.00)
+Seat 5: theANMATOR (139361.00)
+Seat 6: ALENARG (69822.00)
+Seat 7: MPA30TA (69320.00)
+Seat 8: Dookie11 (50000.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+grotle posts the small blind 550.00
+ValAnd59 posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [Th 5h]
+Rollingrock1 folds
+theANMATOR folds
+ALENARG raises 2750.00 to 2750.00
+MPA30TA folds
+Dookie11 folds
+P19738905 folds
+grotle folds
+ValAnd59 calls 1650.00
+*** FLOP *** [9h 5c 8h]
+Main pot 7050.00
+ValAnd59 checks
+ALENARG bets 4075.00
+ValAnd59 folds
+Uncalled bet (4075.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 7050.00
+Board [9h 5c 8h]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) folded on the Flop
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG did not show and won 7050.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439588332 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:42:06 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (64513.00)
+Seat 2: grotle (219722.00)
+Seat 3: ValAnd59 (43469.00)
+Seat 4: Rollingrock1 (65038.00)
+Seat 5: theANMATOR (139236.00)
+Seat 6: ALENARG (73997.00)
+Seat 7: MPA30TA (69195.00)
+Seat 8: Dookie11 (49875.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+ValAnd59 posts the small blind 550.00
+Rollingrock1 posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [8d 5c]
+theANMATOR raises 2640.00 to 2640.00
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 8030.00 to 8030.00
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 63360.00 to 66000.00
+Dookie11 folds
+Uncalled bet (57970.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 18710.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: ValAnd59 (small blind) folded on the Pre-Flop
+Seat 4: Rollingrock1 (big blind) folded on the Pre-Flop
+Seat 5: theANMATOR did not show and won 18710.00
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439589511 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:43:41 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (64388.00)
+Seat 2: grotle (219597.00)
+Seat 3: ValAnd59 (42794.00)
+Seat 4: Rollingrock1 (63813.00)
+Seat 5: theANMATOR (149791.00)
+Seat 6: ALENARG (73872.00)
+Seat 7: MPA30TA (69070.00)
+Seat 8: Dookie11 (41720.00) is sitting out
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+Rollingrock1 posts the small blind 550.00
+theANMATOR posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [9c Ac]
+ALENARG folds
+MPA30TA folds
+Dookie11 folds
+P19738905 raises 2975.00 to 2975.00
+grotle calls 2975.00
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR calls 1875.00
+*** FLOP *** [3s 2d 6d]
+Main pot 10475.00
+theANMATOR checks
+P19738905 bets 5238.00
+grotle folds
+theANMATOR calls 5238.00
+*** TURN *** [3s 2d 6d] [Qc]
+Main pot 20951.00
+theANMATOR checks
+P19738905 checks
+*** RIVER *** [3s 2d 6d Qc] [Th]
+Main pot 20951.00
+theANMATOR bets 14025.00
+P19738905 folds
+Uncalled bet (14025.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 20951.00
+Board [3s 2d 6d Qc Th]
+Seat 1: P19738905 folded on the River
+Seat 2: grotle folded on the Flop
+Seat 3: ValAnd59 (button) folded on the Pre-Flop
+Seat 4: Rollingrock1 (small blind) folded on the Pre-Flop
+Seat 5: theANMATOR did not show and won 20951.00
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439590358 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:44:49 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (56050.00)
+Seat 2: grotle (216497.00)
+Seat 3: ValAnd59 (42669.00)
+Seat 4: Rollingrock1 (63138.00)
+Seat 5: theANMATOR (162404.00)
+Seat 6: ALENARG (73747.00)
+Seat 7: MPA30TA (68945.00)
+Seat 8: Dookie11 (41595.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+theANMATOR posts the small blind 550.00
+ALENARG posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [Kc Jd]
+MPA30TA folds
+Dookie11 folds
+P19738905 raises 2975.00 to 2975.00
+grotle folds
+ValAnd59 folds
+Rollingrock1 calls 2975.00
+theANMATOR folds
+ALENARG folds
+*** FLOP *** [Jh 7s 9s]
+Main pot 8600.00
+P19738905 bets 2700.00
+Rollingrock1 calls 2700.00
+*** TURN *** [Jh 7s 9s] [5h]
+Main pot 14000.00
+P19738905 checks
+Rollingrock1 bets 14000.00
+P19738905 folds
+Uncalled bet (14000.00) returned to Rollingrock1
+Rollingrock1 does not show
+*** SUMMARY ***
+Total pot 14000.00
+Board [Jh 7s 9s 5h]
+Seat 1: P19738905 folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 did not show and won 14000.00
+Seat 5: theANMATOR (small blind) folded on the Pre-Flop
+Seat 6: ALENARG (big blind) folded on the Pre-Flop
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439591324 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:46:06 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (50250.00)
+Seat 2: grotle (216372.00)
+Seat 3: ValAnd59 (42544.00)
+Seat 4: Rollingrock1 (71338.00)
+Seat 5: theANMATOR (161729.00)
+Seat 6: ALENARG (72522.00)
+Seat 7: MPA30TA (68820.00)
+Seat 8: Dookie11 (41470.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+ALENARG posts the small blind 550.00
+MPA30TA posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [Qc 7s]
+Dookie11 folds
+P19738905 folds
+grotle folds
+ValAnd59 calls 1100.00
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA checks
+*** FLOP *** [9c 7d Kd]
+Main pot 3750.00
+MPA30TA checks
+ValAnd59 bets 2813.00
+MPA30TA folds
+Uncalled bet (2813.00) returned to ValAnd59
+ValAnd59 does not show
+*** SUMMARY ***
+Total pot 3750.00
+Board [9c 7d Kd]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 did not show and won 3750.00
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: ALENARG (small blind) folded on the Pre-Flop
+Seat 7: MPA30TA (big blind) folded on the Flop
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439592064 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:47:03 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (50125.00)
+Seat 2: grotle (216247.00)
+Seat 3: ValAnd59 (45069.00)
+Seat 4: Rollingrock1 (71213.00)
+Seat 5: theANMATOR (161604.00)
+Seat 6: ALENARG (71847.00)
+Seat 7: MPA30TA (67595.00)
+Seat 8: Dookie11 (41345.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+MPA30TA posts the small blind 550.00
+Dookie11 posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [2c 7h]
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG raises 2200.00 to 2200.00
+MPA30TA folds
+Dookie11 folds
+Uncalled bet (1100.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 3750.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG did not show and won 3750.00
+Seat 7: MPA30TA (small blind) folded on the Pre-Flop
+Seat 8: Dookie11 (big blind) folded on the Pre-Flop
+
+Game Hand #2439593171 - Tournament #33456182 - Holdem (No Limit) - Level 6 (550.00/1100.00) - 2025/04/25 17:48:28 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (50000.00)
+Seat 2: grotle (216122.00)
+Seat 3: ValAnd59 (44944.00)
+Seat 4: Rollingrock1 (71088.00) is sitting out
+Seat 5: theANMATOR (161479.00)
+Seat 6: ALENARG (74372.00)
+Seat 7: MPA30TA (66920.00)
+Seat 8: Dookie11 (40120.00)
+P19738905 posts ante 125.00
+grotle posts ante 125.00
+ValAnd59 posts ante 125.00
+Rollingrock1 posts ante 125.00
+theANMATOR posts ante 125.00
+ALENARG posts ante 125.00
+MPA30TA posts ante 125.00
+Dookie11 posts ante 125.00
+Dookie11 posts the small blind 550.00
+P19738905 posts the big blind 1100.00
+*** HOLE CARDS ***
+Main pot 1000.00
+Dealt to grotle [9d Jh]
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 2200.00 to 2200.00
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 10450.00 to 11000.00
+P19738905 folds
+theANMATOR folds
+Uncalled bet (8800.00) returned to Dookie11
+Dookie11 does not show
+*** SUMMARY ***
+Total pot 6500.00
+Seat 1: P19738905 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA (button) folded on the Pre-Flop
+Seat 8: Dookie11 did not show and won 6500.00
+
+Game Hand #2439594130 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 17:49:45 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: P19738905 (48775.00)
+Seat 2: grotle (215997.00)
+Seat 3: ValAnd59 (44819.00)
+Seat 4: Rollingrock1 (70963.00) is sitting out
+Seat 5: theANMATOR (159154.00)
+Seat 6: ALENARG (74247.00)
+Seat 7: MPA30TA (66795.00)
+Seat 8: Dookie11 (44295.00) is sitting out
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+P19738905 posts the small blind 600.00
+grotle posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Ad 9h]
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG raises 2640.00 to 2640.00
+MPA30TA folds
+Dookie11 folds
+P19738905 folds
+grotle calls 1440.00
+*** FLOP *** [6h 6s 7c]
+Main pot 7080.00
+grotle bets 2400.00
+ALENARG calls 2400.00
+*** TURN *** [6h 6s 7c] [Qd]
+Main pot 11880.00
+grotle checks
+ALENARG checks
+*** RIVER *** [6h 6s 7c Qd] [4h]
+Main pot 11880.00
+grotle checks
+ALENARG checks
+*** SHOW DOWN ***
+Main pot 11880.00
+grotle shows [Ad 9h] (a pair of Sixs [6s 6h Ad Qd 9h])
+ALENARG shows [9d 8d] (a pair of Sixs [6s 6h Qd 9d 8d])
+grotle collected 11880.00 from main pot
+*** SUMMARY ***
+Total pot 11880.00
+Board [6h 6s 7c Qd 4h]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) showed [Ad 9h] and won 11880.00 with a pair of Sixs [6s 6h Ad Qd 9h] with the kicker Ace
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG showed [9d 8d] and lost with a pair of Sixs [6s 6h Qd 9d 8d]
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 (button) folded on the Pre-Flop
+
+Game Hand #2439594917 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 17:50:37 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (48025.00)
+Seat 2: grotle (222687.00)
+Seat 3: ValAnd59 (44669.00)
+Seat 4: Rollingrock1 (70813.00) is sitting out
+Seat 5: theANMATOR (159004.00)
+Seat 6: ALENARG (69057.00)
+Seat 7: MPA30TA (66645.00)
+Seat 8: Dookie11 (44145.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+grotle posts the small blind 600.00
+ValAnd59 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Qs 6c]
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 2640.00 to 2640.00
+P19738905 folds
+grotle folds
+ValAnd59 calls 1440.00
+*** FLOP *** [Jc 3s 5h]
+Main pot 7080.00
+ValAnd59 checks
+Dookie11 bets 2336.00
+ValAnd59 folds
+Uncalled bet (2336.00) returned to Dookie11
+Dookie11 does not show
+*** SUMMARY ***
+Total pot 7080.00
+Board [Jc 3s 5h]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) folded on the Flop
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 did not show and won 7080.00
+
+Game Hand #2439596348 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 17:52:11 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (47875.00)
+Seat 2: grotle (221937.00)
+Seat 3: ValAnd59 (41879.00)
+Seat 4: Rollingrock1 (70663.00) is sitting out
+Seat 5: theANMATOR (158854.00)
+Seat 6: ALENARG (68907.00)
+Seat 7: MPA30TA (66495.00)
+Seat 8: Dookie11 (48435.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+ValAnd59 posts the small blind 600.00
+Rollingrock1 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [9d Ad]
+theANMATOR raises 2400.00 to 2400.00
+ALENARG folds
+MPA30TA folds
+Dookie11 calls 2400.00
+P19738905 folds
+grotle calls 2400.00
+ValAnd59 calls 1800.00
+Rollingrock1 folds
+*** FLOP *** [8s Qd 5d]
+Main pot 12000.00
+ValAnd59 checks
+theANMATOR bets 4800.00
+Dookie11 folds
+grotle calls 4800.00
+ValAnd59 folds
+*** TURN *** [8s Qd 5d] [8h]
+Main pot 21600.00
+theANMATOR checks
+grotle bets 16200.00
+theANMATOR calls 16200.00
+*** RIVER *** [8s Qd 5d 8h] [Ts]
+Main pot 54000.00
+theANMATOR checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 54000.00
+grotle shows [9d Ad] (a pair of Eights [8s 8h Ad Qd Ts])
+theANMATOR shows [Qh As] (two pair, Queens and Eights [Qh Qd 8s 8h As])
+theANMATOR collected 54000.00 from main pot
+*** SUMMARY ***
+Total pot 54000.00
+Board [8s Qd 5d 8h Ts]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [9d Ad] and lost with a pair of Eights [8s 8h Ad Qd Ts]
+Seat 3: ValAnd59 (small blind) folded on the Flop
+Seat 4: Rollingrock1 (big blind) folded on the Pre-Flop
+Seat 5: theANMATOR showed [Qh As] and won 54000.00 with two pair, Queens and Eights [Qh Qd 8s 8h As]
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Flop
+
+Game Hand #2439597543 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 17:53:29 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (47725.00)
+Seat 2: grotle (198387.00)
+Seat 3: ValAnd59 (39329.00)
+Seat 4: Rollingrock1 (69313.00) is sitting out
+Seat 5: theANMATOR (189304.00)
+Seat 6: ALENARG (68757.00)
+Seat 7: MPA30TA (66345.00)
+Seat 8: Dookie11 (45885.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+Rollingrock1 posts the small blind 600.00
+theANMATOR posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [4d Ah]
+ALENARG folds
+MPA30TA folds
+Dookie11 folds
+P19738905 folds
+grotle folds
+ValAnd59 calls 1200.00
+Rollingrock1 folds
+theANMATOR checks
+*** FLOP *** [Ad 6s 5h]
+Main pot 4200.00
+theANMATOR checks
+ValAnd59 checks
+*** TURN *** [Ad 6s 5h] [6h]
+Main pot 4200.00
+theANMATOR checks
+ValAnd59 checks
+*** RIVER *** [Ad 6s 5h 6h] [3s]
+Main pot 4200.00
+theANMATOR bets 3510.00
+ValAnd59 folds
+Uncalled bet (3510.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 4200.00
+Board [Ad 6s 5h 6h 3s]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 (button) folded on the River
+Seat 4: Rollingrock1 (small blind) folded on the Pre-Flop
+Seat 5: theANMATOR did not show and won 4200.00
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439598160 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 17:54:10 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (47575.00)
+Seat 2: grotle (198237.00)
+Seat 3: ValAnd59 (37979.00)
+Seat 4: Rollingrock1 (68563.00) is sitting out
+Seat 5: theANMATOR (192154.00)
+Seat 6: ALENARG (68607.00)
+Seat 7: MPA30TA (66195.00)
+Seat 8: Dookie11 (45735.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+theANMATOR posts the small blind 600.00
+ALENARG posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [4s Kc]
+MPA30TA folds
+Dookie11 folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 1800.00 to 2400.00
+ALENARG calls 1200.00
+*** FLOP *** [3d Qd 5d]
+Main pot 6000.00
+theANMATOR checks
+ALENARG bets 3000.00
+theANMATOR calls 3000.00
+*** TURN *** [3d Qd 5d] [7c]
+Main pot 12000.00
+theANMATOR checks
+ALENARG bets 6000.00
+theANMATOR folds
+Uncalled bet (6000.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 12000.00
+Board [3d Qd 5d 7c]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 (button) folded on the Pre-Flop
+Seat 5: theANMATOR (small blind) folded on the Turn
+Seat 6: ALENARG did not show and won 12000.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439600526 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:00:51 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (47425.00)
+Seat 2: grotle (198087.00)
+Seat 3: ValAnd59 (37829.00)
+Seat 4: Rollingrock1 (68413.00)
+Seat 5: theANMATOR (186604.00)
+Seat 6: ALENARG (75057.00)
+Seat 7: MPA30TA (66045.00)
+Seat 8: Dookie11 (45585.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+ALENARG posts the small blind 600.00
+MPA30TA posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [6c 7s]
+Dookie11 folds
+P19738905 raises 2400.00 to 2400.00
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Uncalled bet (1200.00) returned to P19738905
+P19738905 does not show
+*** SUMMARY ***
+Total pot 4200.00
+Seat 1: P19738905 did not show and won 4200.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: ALENARG (small blind) folded on the Pre-Flop
+Seat 7: MPA30TA (big blind) folded on the Pre-Flop
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439601168 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:01:44 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (50275.00)
+Seat 2: grotle (197937.00)
+Seat 3: ValAnd59 (37679.00)
+Seat 4: Rollingrock1 (68263.00)
+Seat 5: theANMATOR (186454.00)
+Seat 6: ALENARG (74307.00)
+Seat 7: MPA30TA (64695.00)
+Seat 8: Dookie11 (45435.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+MPA30TA posts the small blind 600.00
+Dookie11 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [3c 9h]
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG raises 2400.00 to 2400.00
+MPA30TA folds
+Dookie11 raises 8400.00 to 9600.00
+ALENARG folds
+Uncalled bet (7200.00) returned to Dookie11
+Dookie11 does not show
+*** SUMMARY ***
+Total pot 6600.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG (button) folded on the Pre-Flop
+Seat 7: MPA30TA (small blind) folded on the Pre-Flop
+Seat 8: Dookie11 did not show and won 6600.00
+
+Game Hand #2439602245 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:03:08 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (50125.00)
+Seat 2: grotle (197787.00)
+Seat 3: ValAnd59 (37529.00)
+Seat 4: Rollingrock1 (68113.00)
+Seat 5: theANMATOR (186304.00)
+Seat 6: ALENARG (71757.00)
+Seat 7: MPA30TA (63945.00)
+Seat 8: Dookie11 (49485.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+Dookie11 posts the small blind 600.00
+P19738905 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [9s Qd]
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG raises 2400.00 to 2400.00
+MPA30TA folds
+Dookie11 folds
+P19738905 calls 1200.00
+*** FLOP *** [6c Ks 2c]
+Main pot 6600.00
+P19738905 bets 3300.00
+ALENARG folds
+Uncalled bet (3300.00) returned to P19738905
+P19738905 does not show
+*** SUMMARY ***
+Total pot 6600.00
+Board [6c Ks 2c]
+Seat 1: P19738905 did not show and won 6600.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Flop
+Seat 7: MPA30TA (button) folded on the Pre-Flop
+Seat 8: Dookie11 (small blind) folded on the Pre-Flop
+
+Game Hand #2439602739 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:03:45 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: P19738905 (54175.00)
+Seat 2: grotle (197637.00)
+Seat 3: ValAnd59 (37379.00)
+Seat 4: Rollingrock1 (67963.00)
+Seat 5: theANMATOR (186154.00)
+Seat 6: ALENARG (69207.00)
+Seat 7: MPA30TA (63795.00)
+Seat 8: Dookie11 (48735.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+P19738905 posts the small blind 600.00
+grotle posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Ts Ad]
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 2640.00 to 2640.00
+P19738905 folds
+grotle calls 1440.00
+*** FLOP *** [Kh Ac Qh]
+Main pot 7080.00
+grotle checks
+Dookie11 checks
+*** TURN *** [Kh Ac Qh] [8s]
+Main pot 7080.00
+grotle bets 2400.00
+Dookie11 calls 2400.00
+*** RIVER *** [Kh Ac Qh 8s] [Qd]
+Main pot 11880.00
+grotle bets 15480.00
+Dookie11 raises 43545.00 to 43545.00 and is all-in
+grotle folds
+Uncalled bet (28065.00) returned to Dookie11
+Dookie11 does not show
+*** SUMMARY ***
+Total pot 42840.00
+Board [Kh Ac Qh 8s Qd]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the River
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 did not show and won 42840.00
+
+Game Hand #2439604169 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:05:33 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (53425.00)
+Seat 2: grotle (176967.00)
+Seat 3: ValAnd59 (37229.00)
+Seat 4: Rollingrock1 (67813.00)
+Seat 5: theANMATOR (186004.00)
+Seat 6: ALENARG (69057.00)
+Seat 7: MPA30TA (63645.00)
+Seat 8: Dookie11 (70905.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+grotle posts the small blind 600.00
+ValAnd59 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [2c Js]
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Dookie11 folds
+P19738905 raises 2400.00 to 2400.00
+grotle folds
+ValAnd59 raises 35879.00 to 37079.00 and is all-in
+P19738905 folds
+Uncalled bet (34679.00) returned to ValAnd59
+ValAnd59 shows [Ad -]
+*** SUMMARY ***
+Total pot 6600.00
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) showed [Ad -] and won 6600.00
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Pre-Flop and did not bet
+
+Game Hand #2439604895 - Tournament #33456182 - Holdem (No Limit) - Level 7 (600.00/1200.00) - 2025/04/25 18:06:26 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (50875.00)
+Seat 2: grotle (176217.00)
+Seat 3: ValAnd59 (41279.00)
+Seat 4: Rollingrock1 (67663.00)
+Seat 5: theANMATOR (185854.00)
+Seat 6: ALENARG (68907.00)
+Seat 7: MPA30TA (63495.00)
+Seat 8: Dookie11 (70755.00)
+P19738905 posts ante 150.00
+grotle posts ante 150.00
+ValAnd59 posts ante 150.00
+Rollingrock1 posts ante 150.00
+theANMATOR posts ante 150.00
+ALENARG posts ante 150.00
+MPA30TA posts ante 150.00
+Dookie11 posts ante 150.00
+ValAnd59 posts the small blind 600.00
+Rollingrock1 posts the big blind 1200.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [7d 4d]
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 2640.00 to 2640.00
+P19738905 calls 2640.00
+grotle raises 8700.00 to 8700.00
+ValAnd59 calls 8100.00
+Rollingrock1 calls 7500.00
+Dookie11 calls 6060.00
+P19738905 calls 6060.00
+*** FLOP *** [5s Tc Qd]
+Main pot 44700.00
+ValAnd59 checks
+Rollingrock1 checks
+Dookie11 checks
+P19738905 checks
+grotle bets 22350.00
+ValAnd59 raises 32429.00 to 32429.00 and is all-in
+Rollingrock1 folds
+Dookie11 folds
+P19738905 folds
+grotle folds
+Uncalled bet (10079.00) returned to ValAnd59
+ValAnd59 shows [Qh -]
+*** SUMMARY ***
+Total pot 89400.00
+Board [5s Tc Qd]
+Seat 1: P19738905 folded on the Flop
+Seat 2: grotle (button) folded on the Flop
+Seat 3: ValAnd59 (small blind) showed [Qh -] and won 89400.00
+Seat 4: Rollingrock1 (big blind) folded on the Flop
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 folded on the Flop
+
+Game Hand #2439606502 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:08:31 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (42025.00)
+Seat 2: grotle (145017.00)
+Seat 3: ValAnd59 (99479.00)
+Seat 4: Rollingrock1 (58813.00)
+Seat 5: theANMATOR (185704.00)
+Seat 6: ALENARG (68757.00)
+Seat 7: MPA30TA (63345.00)
+Seat 8: Dookie11 (61905.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+Dookie11 posts ante 175.00
+Rollingrock1 posts the small blind 700.00
+theANMATOR posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Ac Tc]
+ALENARG folds
+MPA30TA folds
+Dookie11 raises 3360.00 to 3360.00
+P19738905 folds
+grotle raises 11025.00 to 11025.00
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+Dookie11 raises 58370.00 to 61730.00 and is all-in
+grotle calls 50705.00
+*** FLOP *** [7h 6c 3c]
+Main pot 126960.00
+*** TURN *** [7h 6c 3c] [9s]
+Main pot 126960.00
+*** RIVER *** [7h 6c 3c 9s] [Ts]
+Main pot 126960.00
+*** SHOW DOWN ***
+Main pot 126960.00
+grotle shows [Ac Tc] (a pair of Tens [Ts Tc Ac 9s 7h])
+Dookie11 shows [Ks As] (a high card, Ace high [As Ks Ts 9s 7h])
+grotle collected 126960.00 from main pot
+*** SUMMARY ***
+Total pot 126960.00
+Board [7h 6c 3c 9s Ts]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Ac Tc] and won 126960.00 with a pair of Tens [Ts Tc Ac 9s 7h]
+Seat 3: ValAnd59 (button) folded on the Pre-Flop
+Seat 4: Rollingrock1 (small blind) folded on the Pre-Flop
+Seat 5: theANMATOR (big blind) folded on the Pre-Flop
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: Dookie11 showed [Ks As] and lost with a high card, Ace high [As Ks Ts 9s 7h]
+
+Game Hand #2439607520 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:09:50 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (41850.00)
+Seat 2: grotle (210072.00)
+Seat 3: ValAnd59 (99304.00)
+Seat 4: Rollingrock1 (57938.00)
+Seat 5: theANMATOR (184129.00)
+Seat 6: ALENARG (68582.00)
+Seat 7: MPA30TA (63170.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+theANMATOR posts the small blind 700.00
+ALENARG posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [4s 6d]
+MPA30TA folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 2100.00 to 2800.00
+ALENARG raises 67007.00 to 68407.00 and is all-in
+theANMATOR folds
+Uncalled bet (65607.00) returned to ALENARG
+ALENARG does not show
+*** SUMMARY ***
+Total pot 6825.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 (button) folded on the Pre-Flop
+Seat 5: theANMATOR (small blind) folded on the Pre-Flop
+Seat 6: ALENARG did not show and won 6825.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+
+Game Hand #2439607851 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:10:17 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (41675.00)
+Seat 2: grotle (209897.00)
+Seat 3: ValAnd59 (99129.00)
+Seat 4: Rollingrock1 (57763.00)
+Seat 5: theANMATOR (181154.00)
+Seat 6: ALENARG (72432.00)
+Seat 7: MPA30TA (62995.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+ALENARG posts the small blind 700.00
+MPA30TA posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Qh 2h]
+P19738905 folds
+grotle folds
+ValAnd59 calls 1400.00
+Rollingrock1 folds
+theANMATOR calls 1400.00
+ALENARG folds
+MPA30TA checks
+*** FLOP *** [5c 8s 7d]
+Main pot 6125.00
+MPA30TA checks
+ValAnd59 checks
+theANMATOR checks
+*** TURN *** [5c 8s 7d] [4c]
+Main pot 6125.00
+MPA30TA checks
+ValAnd59 checks
+theANMATOR checks
+*** RIVER *** [5c 8s 7d 4c] [Ah]
+Main pot 6125.00
+MPA30TA checks
+ValAnd59 bets 2800.00
+theANMATOR calls 2800.00
+MPA30TA folds
+*** SHOW DOWN ***
+Main pot 11725.00
+ValAnd59 shows [Jd As] (a pair of Aces [As Ah Jd 8s 7d])
+theANMATOR shows [Ad Tc] (a pair of Aces [Ah Ad Tc 8s 7d])
+ValAnd59 collected 11725.00 from main pot
+*** SUMMARY ***
+Total pot 11725.00
+Board [5c 8s 7d 4c Ah]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 showed [Jd As] and won 11725.00 with a pair of Aces [As Ah Jd 8s 7d] with the kicker Jack
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) showed [Ad Tc] and lost with a pair of Aces [Ah Ad Tc 8s 7d]
+Seat 6: ALENARG (small blind) folded on the Pre-Flop
+Seat 7: MPA30TA (big blind) folded on the River
+
+Game Hand #2439609083 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:11:56 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (41500.00)
+Seat 2: grotle (209722.00)
+Seat 3: ValAnd59 (106479.00)
+Seat 4: Rollingrock1 (57588.00)
+Seat 5: theANMATOR (176779.00)
+Seat 6: ALENARG (71557.00)
+Seat 7: MPA30TA (61420.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+MPA30TA posts the small blind 700.00
+P19738905 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Td 6s]
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 2800.00 to 2800.00
+ALENARG folds
+MPA30TA folds
+P19738905 calls 1400.00
+*** FLOP *** [8h Kc As]
+Main pot 7525.00
+P19738905 bets 3763.00
+theANMATOR folds
+Uncalled bet (3763.00) returned to P19738905
+P19738905 does not show
+*** SUMMARY ***
+Total pot 7525.00
+Board [8h Kc As]
+Seat 1: P19738905 did not show and won 7525.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR folded on the Flop
+Seat 6: ALENARG (button) folded on the Pre-Flop
+Seat 7: MPA30TA (small blind) folded on the Pre-Flop
+
+Game Hand #2439609645 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:12:43 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: P19738905 (46050.00)
+Seat 2: grotle (209547.00)
+Seat 3: ValAnd59 (106304.00)
+Seat 4: Rollingrock1 (57413.00) is sitting out
+Seat 5: theANMATOR (173804.00)
+Seat 6: ALENARG (71382.00)
+Seat 7: MPA30TA (60545.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+P19738905 posts the small blind 700.00
+grotle posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [6c Js]
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 2800.00 to 2800.00
+ALENARG calls 2800.00
+MPA30TA folds
+P19738905 folds
+grotle folds
+*** FLOP *** [6s 2d 6h]
+Main pot 8925.00
+theANMATOR bets 4909.00
+ALENARG calls 4909.00
+*** TURN *** [6s 2d 6h] [4h]
+Main pot 18743.00
+theANMATOR bets 12409.00
+ALENARG folds
+Uncalled bet (12409.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 18743.00
+Board [6s 2d 6h 4h]
+Seat 1: P19738905 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR did not show and won 18743.00
+Seat 6: ALENARG folded on the Turn
+Seat 7: MPA30TA (button) folded on the Pre-Flop
+
+Game Hand #2439610459 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:13:49 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: P19738905 (45175.00)
+Seat 2: grotle (207972.00)
+Seat 3: ValAnd59 (106129.00)
+Seat 4: Rollingrock1 (57238.00)
+Seat 5: theANMATOR (184663.00)
+Seat 6: ALENARG (63498.00)
+Seat 7: MPA30TA (60370.00)
+Seat 8: bmeloxxx (50000.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+grotle posts the small blind 700.00
+ValAnd59 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [7c 9h]
+Rollingrock1 calls 1400.00
+theANMATOR folds
+ALENARG raises 3500.00 to 3500.00
+MPA30TA folds
+bmeloxxx folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 calls 2100.00
+*** FLOP *** [Tc Qh 4s]
+Main pot 10500.00
+Rollingrock1 checks
+ALENARG bets 3150.00
+Rollingrock1 raises 19950.00 to 19950.00
+ALENARG folds
+Uncalled bet (16800.00) returned to Rollingrock1
+Rollingrock1 does not show
+*** SUMMARY ***
+Total pot 16800.00
+Board [Tc Qh 4s]
+Seat 1: P19738905 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: ValAnd59 (big blind) folded on the Pre-Flop
+Seat 4: Rollingrock1 did not show and won 16800.00
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Flop
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: bmeloxxx folded on the Pre-Flop and did not bet
+
+Game Hand #2439611326 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:14:57 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: P19738905 (45000.00)
+Seat 2: grotle (207097.00)
+Seat 3: ValAnd59 (104554.00)
+Seat 4: Rollingrock1 (67213.00)
+Seat 5: theANMATOR (184488.00)
+Seat 6: ALENARG (56673.00)
+Seat 7: MPA30TA (60195.00)
+Seat 8: bmeloxxx (49825.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+ValAnd59 posts the small blind 700.00
+Rollingrock1 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Th 3c]
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+bmeloxxx folds
+P19738905 folds
+grotle raises 2800.00 to 2800.00
+ValAnd59 folds
+Rollingrock1 calls 1400.00
+*** FLOP *** [Kc 7s Ad]
+Main pot 7700.00
+Rollingrock1 checks
+grotle bets 1400.00
+Rollingrock1 raises 64238.00 to 64238.00 and is all-in
+grotle folds
+Uncalled bet (62838.00) returned to Rollingrock1
+Rollingrock1 does not show
+*** SUMMARY ***
+Total pot 10500.00
+Board [Kc 7s Ad]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Flop
+Seat 3: ValAnd59 (small blind) folded on the Pre-Flop
+Seat 4: Rollingrock1 did not show and won 10500.00
+Seat 5: theANMATOR folded on the Pre-Flop and did not bet
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: bmeloxxx folded on the Pre-Flop and did not bet
+
+Game Hand #2439611969 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:15:50 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: P19738905 (44825.00)
+Seat 2: grotle (202722.00)
+Seat 3: ValAnd59 (103679.00)
+Seat 4: Rollingrock1 (73338.00)
+Seat 5: theANMATOR (184313.00)
+Seat 6: ALENARG (56498.00)
+Seat 7: MPA30TA (60020.00)
+Seat 8: bmeloxxx (49650.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+Rollingrock1 posts the small blind 700.00
+theANMATOR posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Js 7s]
+ALENARG folds
+MPA30TA raises 2800.00 to 2800.00
+bmeloxxx folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+Uncalled bet (1400.00) returned to MPA30TA
+MPA30TA does not show
+*** SUMMARY ***
+Total pot 4900.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 (button) folded on the Pre-Flop
+Seat 4: Rollingrock1 (small blind) folded on the Pre-Flop
+Seat 5: theANMATOR (big blind) folded on the Pre-Flop
+Seat 6: ALENARG folded on the Pre-Flop and did not bet
+Seat 7: MPA30TA did not show and won 4900.00
+Seat 8: bmeloxxx folded on the Pre-Flop and did not bet
+
+Game Hand #2439612387 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:16:24 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: P19738905 (44650.00)
+Seat 2: grotle (202547.00)
+Seat 3: ValAnd59 (103504.00)
+Seat 4: Rollingrock1 (72463.00)
+Seat 5: theANMATOR (182738.00)
+Seat 6: ALENARG (56323.00)
+Seat 7: MPA30TA (63345.00)
+Seat 8: bmeloxxx (49475.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+theANMATOR posts the small blind 700.00
+ALENARG posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [8s 6d]
+MPA30TA folds
+bmeloxxx folds
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR folds
+ALENARG does not show
+*** SUMMARY ***
+Total pot 3500.00
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 (button) folded on the Pre-Flop
+Seat 5: theANMATOR (small blind) folded on the Pre-Flop
+Seat 6: ALENARG did not show and won 3500.00
+Seat 7: MPA30TA folded on the Pre-Flop and did not bet
+Seat 8: bmeloxxx folded on the Pre-Flop and did not bet
+
+Game Hand #2439612978 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:17:12 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: P19738905 (44475.00) is sitting out
+Seat 2: grotle (202372.00)
+Seat 3: ValAnd59 (103329.00)
+Seat 4: Rollingrock1 (72288.00)
+Seat 5: theANMATOR (181863.00)
+Seat 6: ALENARG (58248.00)
+Seat 7: MPA30TA (63170.00)
+Seat 8: bmeloxxx (49300.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+ALENARG posts the small blind 700.00
+MPA30TA posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Qh Ts]
+bmeloxxx raises 2800.00 to 2800.00
+P19738905 folds
+grotle folds
+ValAnd59 calls 2800.00
+Rollingrock1 folds
+theANMATOR folds
+ALENARG folds
+MPA30TA folds
+*** FLOP *** [Ad 4s 4h]
+Main pot 9100.00
+bmeloxxx checks
+ValAnd59 checks
+*** TURN *** [Ad 4s 4h] [7s]
+Main pot 9100.00
+bmeloxxx checks
+ValAnd59 checks
+*** RIVER *** [Ad 4s 4h 7s] [6d]
+Main pot 9100.00
+bmeloxxx checks
+ValAnd59 checks
+*** SHOW DOWN ***
+Main pot 9100.00
+ValAnd59 shows [Jd Kd] (a pair of Fours [4s 4h Ad Kd Jd])
+bmeloxxx shows [Td Th] (two pair, Tens and Fours [Th Td 4s 4h Ad])
+bmeloxxx collected 9100.00 from main pot
+*** SUMMARY ***
+Total pot 9100.00
+Board [Ad 4s 4h 7s 6d]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 showed [Jd Kd] and lost with a pair of Fours [4s 4h Ad Kd Jd]
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR (button) folded on the Pre-Flop
+Seat 6: ALENARG (small blind) folded on the Pre-Flop
+Seat 7: MPA30TA (big blind) folded on the Pre-Flop
+Seat 8: bmeloxxx showed [Td Th] and won 9100.00 with two pair, Tens and Fours [Th Td 4s 4h Ad]
+
+Game Hand #2439613713 - Tournament #33456182 - Holdem (No Limit) - Level 8 (700.00/1400.00) - 2025/04/25 18:18:13 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: P19738905 (44300.00)
+Seat 2: grotle (202197.00)
+Seat 3: ValAnd59 (100354.00)
+Seat 4: Rollingrock1 (72113.00)
+Seat 5: theANMATOR (181688.00)
+Seat 6: ALENARG (57373.00)
+Seat 7: MPA30TA (61595.00)
+Seat 8: bmeloxxx (55425.00)
+P19738905 posts ante 175.00
+grotle posts ante 175.00
+ValAnd59 posts ante 175.00
+Rollingrock1 posts ante 175.00
+theANMATOR posts ante 175.00
+ALENARG posts ante 175.00
+MPA30TA posts ante 175.00
+bmeloxxx posts ante 175.00
+MPA30TA posts the small blind 700.00
+bmeloxxx posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [8c 5s]
+P19738905 folds
+grotle folds
+ValAnd59 folds
+Rollingrock1 folds
+theANMATOR raises 3220.00 to 3220.00
+ALENARG folds
+MPA30TA calls 2520.00
+bmeloxxx calls 1820.00
+*** FLOP *** [8h 5h 3c]
+Main pot 11060.00
+MPA30TA checks
+bmeloxxx checks
+theANMATOR checks
+*** TURN *** [8h 5h 3c] [2c]
+Main pot 11060.00
+MPA30TA bets 8295.00
+bmeloxxx folds
+theANMATOR calls 8295.00
+*** RIVER *** [8h 5h 3c 2c] [Td]
+Main pot 27650.00
+MPA30TA bets 27650.00
+theANMATOR calls 27650.00
+*** SHOW DOWN ***
+Main pot 82950.00
+theANMATOR shows [Jh Ah] (a high card, Ace high [Ah Jh Td 8h 5h])
+MPA30TA shows [3h 3d] (three of a kind, Set of Threes [3h 3d 3c Td 8h])
+MPA30TA collected 82950.00 from main pot
+*** SUMMARY ***
+Total pot 82950.00
+Board [8h 5h 3c 2c Td]
+Seat 1: P19738905 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: ValAnd59 folded on the Pre-Flop and did not bet
+Seat 4: Rollingrock1 folded on the Pre-Flop and did not bet
+Seat 5: theANMATOR showed [Jh Ah] and lost with a high card, Ace high [Ah Jh Td 8h 5h]
+Seat 6: ALENARG (button) folded on the Pre-Flop
+Seat 7: MPA30TA (small blind) showed [3h 3d] and won 82950.00 with three of a kind, Set of Threes [3h 3d 3c Td 8h]
+Seat 8: bmeloxxx (big blind) folded on the Turn
+

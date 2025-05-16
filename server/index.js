@@ -46,7 +46,7 @@ const upload = multer({
 });
 
 // MongoDB connection
-mongoose.connect('mongodb://localhost:27017/pokerHistory')
+mongoose.connect('mongodb://localhost:27017/poker-history')
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => {
         console.error('MongoDB connection error:', err);
@@ -59,12 +59,36 @@ app.use('/api/hands', handsRouter);
 // File upload route
 app.post('/api/hands/upload', upload.single('file'), async (req, res) => {
     try {
+        console.log('Received upload request:', {
+            file: req.file,
+            body: req.body
+        });
+
         if (!req.file) {
             return res.status(400).json({ message: 'No file uploaded' });
         }
 
+        if (!req.body.username) {
+            return res.status(400).json({ message: 'Username is required' });
+        }
+
+        console.log('Processing file:', {
+            path: req.file.path,
+            tournamentName: req.body.tournamentName,
+            username: req.body.username
+        });
+
         // Process the uploaded file
-        const result = await processHandHistories(req.file.path, req.body.tournamentName);
+        const result = await processHandHistories(req.file.path, req.body.tournamentName, req.body.username);
+        
+        console.log('File processing result:', result);
+
+        // Verify hands were saved
+        const savedHands = await mongoose.connection.db.collection('hands').find({}).toArray();
+        console.log('Total hands in database after import:', savedHands.length);
+        if (savedHands.length > 0) {
+            console.log('Sample hand:', JSON.stringify(savedHands[0], null, 2));
+        }
         
         res.json({
             message: 'File processed successfully',

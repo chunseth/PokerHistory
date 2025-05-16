@@ -50,7 +50,7 @@ function getRotatedPositions(numPlayers, heroTableIndex) {
     return arr.slice(heroTableIndex).concat(arr.slice(0, heroTableIndex));
 }
 
-async function parseHandHistory(filePath) {
+async function parseHandHistory(filePath, heroUsername) {
     try {
         const content = fs.readFileSync(filePath, 'utf8');
         
@@ -110,7 +110,7 @@ async function parseHandHistory(filePath) {
                                 stack: parseFloat(stack),
                                 playerIndex: playerIndex
                             });
-                            if (player === 'grotle') {
+                            if (player === heroUsername) {
                                 heroSeat = seatNum;
                                 heroStackSize = parseFloat(stack);
                                 heroPlayerIndex = playerIndex;
@@ -151,7 +151,7 @@ async function parseHandHistory(filePath) {
                     }
 
                     // Parse hole cards
-                    if (line.includes('Dealt to grotle')) {
+                    if (line.includes(`Dealt to ${heroUsername}`)) {
                         const match = line.match(/\[(.*?)\]/);
                         if (match) {
                             hand.heroHoleCards = parseCards(match[1]);
@@ -434,7 +434,7 @@ async function parseHandHistory(filePath) {
                 }));
 
                 // Find hero's seat number
-                const heroSeatMatch = lines.find(line => line.includes('Seat') && line.includes('grotle'));
+                const heroSeatMatch = lines.find(line => line.includes('Seat') && line.includes(heroUsername));
                 if (heroSeatMatch) {
                     const heroSeatNum = parseInt(heroSeatMatch.match(/Seat (\d+):/)[1]);
                     const heroPosRelativeToButton = (heroPlayerIndex - buttonPosition + numPlayers) % numPlayers;
@@ -502,17 +502,19 @@ async function parseHandHistory(filePath) {
 }
 
 // Main function to process all hand history files
-export async function processHandHistories(filePath, tournamentName) {
+export async function processHandHistories(filePath, tournamentName, heroUsername) {
     try {
         console.log(`Processing file: ${filePath}`);
+        console.log('Parameters:', { tournamentName, heroUsername });
         
         let totalHands = 0;
         let handsPlayed = 0;
         let handsSaved = 0;
         
         try {
-            const hands = await parseHandHistory(filePath);
+            const hands = await parseHandHistory(filePath, heroUsername);
             totalHands += hands.length;
+            console.log(`Parsed ${hands.length} hands from file`);
             
             // Filter out hands that end at preflop or where hero is not involved
             const playedHands = hands.filter(hand => {
@@ -534,6 +536,7 @@ export async function processHandHistories(filePath, tournamentName) {
             });
             
             handsPlayed += playedHands.length;
+            console.log(`Filtered to ${playedHands.length} played hands`);
             
             // Save each played hand to the database
             for (const hand of playedHands) {
@@ -543,6 +546,15 @@ export async function processHandHistories(filePath, tournamentName) {
                         hand.tournamentName = tournamentName;
                     }
                     
+                    // Add username
+                    hand.username = heroUsername;
+                    
+                    console.log('Saving hand:', {
+                        id: hand.id,
+                        username: hand.username,
+                        tournamentName: hand.tournamentName
+                    });
+
                     await Hand.updateOne(
                         { id: hand.id },
                         { $set: hand },
@@ -551,6 +563,7 @@ export async function processHandHistories(filePath, tournamentName) {
                     handsSaved++;
                 } catch (err) {
                     if (err.code === 11000) {
+                        console.log('Duplicate hand skipped:', hand.id);
                         continue;
                     }
                     console.error(`Error saving hand ${hand.id}:`, err.message);

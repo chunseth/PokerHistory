@@ -83,6 +83,10 @@ const handSchema = new mongoose.Schema({
         unique: true,
         default: () => Date.now().toString()
     },
+    username: {
+        type: String,
+        required: true
+    },
     timestamp: { 
         type: Date, 
         required: true,

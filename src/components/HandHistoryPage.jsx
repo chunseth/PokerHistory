@@ -12,6 +12,8 @@ const HandHistoryPage = () => {
     const [editingTournamentName, setEditingTournamentName] = useState(null);
     const [tournamentName, setTournamentName] = useState('');
     const [deleteConfirmation, setDeleteConfirmation] = useState({ show: false, handId: null });
+    const [usernames, setUsernames] = useState([]);
+    const [selectedUsername, setSelectedUsername] = useState('grotle');
     const [filters, setFilters] = useState({
         gameType: '',
         minStack: 0,
@@ -21,8 +23,24 @@ const HandHistoryPage = () => {
     });
 
     useEffect(() => {
-        fetchHands();
-    }, [selectedDate, filters.maxStack, filters.holeCards, filters.tournamentName]);
+        fetchUsernames();
+    }, []);
+
+    useEffect(() => {
+        if (selectedUsername) {
+            fetchHands();
+        }
+    }, [selectedDate, filters.maxStack, filters.holeCards, filters.tournamentName, selectedUsername]);
+
+    const fetchUsernames = async () => {
+        try {
+            const response = await apiService.getUsernames();
+            setUsernames(response);
+        } catch (error) {
+            console.error('Error fetching usernames:', error);
+            setError('Failed to load usernames');
+        }
+    };
 
     const fetchHands = async () => {
         try {
@@ -32,7 +50,8 @@ const HandHistoryPage = () => {
                 maxStackSize: filters.maxStack,
                 holeCards: filters.holeCards.join(','),
                 gameType: filters.gameType,
-                tournamentName: filters.tournamentName
+                tournamentName: filters.tournamentName,
+                username: selectedUsername
             };
 
             if (selectedDate) {
@@ -43,6 +62,7 @@ const HandHistoryPage = () => {
                 queryParams.endDate = endDate.toISOString();
             }
 
+            console.log('Selected username:', selectedUsername);
             console.log('Fetching hands with params:', queryParams);
 
             const response = await apiService.getHands(queryParams);
@@ -98,13 +118,36 @@ const HandHistoryPage = () => {
                 }));
                 return;
             }
+
+            // Check for duplicate cards
+            const formattedCard = rank + suit;
+            const otherCard = filters.holeCards[1 - index]; // Get the other card
+            if (otherCard === formattedCard) {
+                // Don't allow duplicate cards
+                setFilters(prev => ({
+                    ...prev,
+                    holeCards: prev.holeCards.map((card, i) => i === index ? '' : card)
+                }));
+                return;
+            }
         }
         
         // If we get here, the input is valid
-        setFilters(prev => ({
-            ...prev,
-            holeCards: prev.holeCards.map((card, i) => i === index ? value : card)
-        }));
+        setFilters(prev => {
+            const newHoleCards = prev.holeCards.map((card, i) => i === index ? value : card);
+            // Check for duplicates after the update
+            if (newHoleCards[0] && newHoleCards[1] && newHoleCards[0] === newHoleCards[1]) {
+                // If duplicates found, revert the change
+                return {
+                    ...prev,
+                    holeCards: prev.holeCards
+                };
+            }
+            return {
+                ...prev,
+                holeCards: newHoleCards
+            };
+        });
     };
 
     const handleDeleteClick = (handId) => {
@@ -154,7 +197,23 @@ const HandHistoryPage = () => {
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
-                <h1>Hand History</h1>
+                <div className="header-section">
+                    <h1>Hand History</h1>
+                    <div className="username-selector">
+                        <select
+                            value={selectedUsername}
+                            onChange={(e) => setSelectedUsername(e.target.value)}
+                            className="username-select"
+                        >
+                            <option value="" disabled>username</option>
+                            {usernames.map(username => (
+                                <option key={username} value={username}>
+                                    {username}
+                                </option>
+                            ))}
+                        </select>
+                    </div>
+                </div>
                 
                 <div className="filters-section">
                     <div className="filters-row">

@@ -1,80 +1,268 @@
 .home-container {
-    min-height: 100vh;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    background-color: #1a1a1a;
+    gap: 2rem;
     padding: 2rem;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    color: #fff;
 }
 
-.home-content {
-    max-width: 1200px;
+.home-poker-table {
+    position: relative;
+    width: 650px;
+    height: 450px;
+    background: linear-gradient(135deg, #2d5a27 0%, #1e3d1a 100%);
+    border-radius: 200px;
+    border: 20px solid #654321;
+    box-shadow: 
+        0 0 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 50px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    background-image: 
+        linear-gradient(135deg, #2d5a27 0%, #1e3d1a 100%),
+        repeating-linear-gradient(
+            45deg,
+            rgba(0, 0, 0, 0.1) 0px,
+            rgba(0, 0, 0, 0.1) 1px,
+            transparent 1px,
+            transparent 10px
+        );
+    margin-top: 25px;
+}
+
+.home-table-container {
+    position: relative;
     width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.1) 0%,
+        transparent 50%,
+        rgba(0, 0, 0, 0.1) 100%
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-table-content {
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+    z-index: 2;
+}
+
+.home-table-content h1 {
+    font-size: 3rem;
+    color: #d0d3d0;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.home-controls {
+    background-color: #1a1a1a;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+}
+
+.action-buttons {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.action-button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    text-align: center;
+    min-width: 120px;
+    position: relative;
+}
+
+.action-button:hover {
+    background-color: #4CAF50;
+    color: black;
+}
+
+.action-button .tooltip {
+    visibility: hidden;
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    margin-bottom: 0.5rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    z-index: 1000;
+}
+
+.action-button .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.9) transparent transparent transparent;
+}
+
+.action-button:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.action-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.action-text {
     text-align: center;
 }
 
-.home-content h1 {
+.action-text h3 {
     color: #4CAF50;
-    font-size: 2.5rem;
-    margin-bottom: 3rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
 }
 
-.navigation-cards {
-    display: flex;
-    gap: 2rem;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.nav-card {
-    background-color: #2d2d2d;
-    border-radius: 12px;
-    padding: 2rem;
-    width: 300px;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.nav-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-    background-color: #333;
-}
-
-.nav-card h2 {
-    color: #4CAF50;
-    margin-bottom: 1rem;
-    font-size: 1.5rem;
-}
-
-.nav-card p {
+.action-text p {
     color: #ccc;
-    margin-bottom: 2rem;
-    font-size: 1rem;
+    font-size: 0.9rem;
+    margin: 0;
 }
 
-.card-icon {
-    font-size: 2.5rem;
-    margin-top: 1rem;
-    opacity: 0.8;
+.home-seat {
+    width: 30px;
+    height: 30px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
 }
 
-.nav-card::after {
-    content: '';
+.home-player-info {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 4px;
-    background-color: #4CAF50;
-    transform: scaleX(0);
-    transition: transform 0.3s ease;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    white-space: nowrap;
 }
 
-.nav-card:hover::after {
-    transform: scaleX(1);
+.home-player-position {
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.home-player-cards {
+    display: flex;
+    gap: 2px;
+    margin-top: 5px;
+    position: absolute;
+    top: -68px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+}
+
+.home-card-container {
+    width: 45px;
+    height: 70px;
+    background: white;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.home-card {
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px;
+    color: #000;
+}
+
+.home-card.red, .home-card.hearts {
+    color: #ff0000;
+}
+
+.home-card.diamonds {
+    color: #0066ff;
+}
+
+.home-card.clubs {
+    color: #269526;
+}
+
+.home-card.s {
+    color: #000;
+}
+
+.home-card-rank {
+    font-size: 1.1rem;
+    position: absolute;
+    left: 9px;
+    top: 8px;
+}
+
+.home-card-suit {
+    font-size: 1.6rem;
+    position: absolute;
+    transform: translate(0, 35%);
+}
+
+.home-card-back {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+@media (max-width: 768px) {
+    .poker-table {
+        width: 90%;
+        height: 300px;
+        border-radius: 150px;
+    }
+
+    .table-content h1 {
+        font-size: 2.5rem;
+    }
+
+    .action-buttons {
+        flex-direction: column;
+    }
+
+    .action-button {
+        width: 100%;
+    }
 } 

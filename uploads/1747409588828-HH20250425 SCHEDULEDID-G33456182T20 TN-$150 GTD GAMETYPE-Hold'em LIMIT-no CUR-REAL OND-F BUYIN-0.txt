@@ -1,0 +1,2246 @@
+Game Hand #2439648584 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:08:18 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: 420jayk420 (50000.00)
+Seat 2: MaruQueen (71590.00)
+Seat 3: Cuse89P13 (56062.00)
+Seat 4: razldazl (55510.00)
+Seat 5: grotle (102527.00)
+420jayk420 posts ante 300.00
+MaruQueen posts ante 300.00
+Cuse89P13 posts ante 300.00
+razldazl posts ante 300.00
+grotle posts ante 300.00
+MaruQueen posts the small blind 1200.00
+Cuse89P13 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1500.00
+Dealt to grotle [Kh 8d]
+razldazl raises 4800.00 to 4800.00
+grotle folds
+420jayk420 folds
+MaruQueen calls 3600.00
+Cuse89P13 calls 2400.00
+*** FLOP *** [5d Qs 4c]
+Main pot 15900.00
+MaruQueen checks
+Cuse89P13 checks
+razldazl bets 3600.00
+MaruQueen raises 14400.00 to 14400.00
+Cuse89P13 folds
+razldazl folds
+Uncalled bet (10800.00) returned to MaruQueen
+MaruQueen does not show
+*** SUMMARY ***
+Total pot 23100.00
+Board [5d Qs 4c]
+Seat 1: 420jayk420 (button) folded on the Pre-Flop
+Seat 2: MaruQueen did not show and won 23100.00
+Seat 3: Cuse89P13 (big blind) folded on the Flop
+Seat 4: razldazl folded on the Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2439649686 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:09:40 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 3: Cuse89P13 (50962.00)
+Seat 4: razldazl (46810.00)
+Seat 5: grotle (102227.00)
+Seat 6: momoboats (39800.00)
+Seat 7: MRCASTAWAY22 (326188.00)
+Seat 8: theANMATOR (50000.00)
+Cuse89P13 posts ante 300.00
+razldazl posts ante 300.00
+grotle posts ante 300.00
+momoboats posts ante 300.00
+MRCASTAWAY22 posts ante 300.00
+theANMATOR posts ante 300.00
+Cuse89P13 posts the small blind 1200.00
+razldazl posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [4d Qh]
+grotle folds
+momoboats raises 39500.00 to 39500.00 and is all-in
+MRCASTAWAY22 folds
+theANMATOR folds
+Cuse89P13 folds
+razldazl folds
+Uncalled bet (37100.00) returned to momoboats
+momoboats does not show
+*** SUMMARY ***
+Total pot 7800.00
+Seat 3: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 4: razldazl (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: momoboats did not show and won 7800.00
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: theANMATOR folded on the Pre-Flop and did not bet
+
+Game Hand #2439650049 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:10:07 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 3: Cuse89P13 (49462.00)
+Seat 4: razldazl (44110.00)
+Seat 5: grotle (101927.00)
+Seat 6: momoboats (44900.00)
+Seat 7: MRCASTAWAY22 (325888.00)
+Seat 8: theANMATOR (49700.00)
+Cuse89P13 posts ante 300.00
+razldazl posts ante 300.00
+grotle posts ante 300.00
+momoboats posts ante 300.00
+MRCASTAWAY22 posts ante 300.00
+theANMATOR posts ante 300.00
+razldazl posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [6c Td]
+momoboats folds
+MRCASTAWAY22 folds
+theANMATOR raises 4800.00 to 4800.00
+Cuse89P13 folds
+razldazl folds
+grotle folds
+Uncalled bet (2400.00) returned to theANMATOR
+theANMATOR does not show
+*** SUMMARY ***
+Total pot 7800.00
+Seat 3: Cuse89P13 (button) folded on the Pre-Flop
+Seat 4: razldazl (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: momoboats folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: theANMATOR did not show and won 7800.00
+
+Game Hand #2439650670 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:10:46 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (94056.00)
+Seat 2: Memberberries11 (120729.00)
+Seat 3: Cuse89P13 (49162.00)
+Seat 4: razldazl (42610.00)
+Seat 5: grotle (99227.00)
+Seat 6: momoboats (44600.00)
+Seat 7: MRCASTAWAY22 (325588.00)
+Seat 8: theANMATOR (54800.00)
+Lab63 posts ante 300.00
+Memberberries11 posts ante 300.00
+Cuse89P13 posts ante 300.00
+razldazl posts ante 300.00
+grotle posts ante 300.00
+momoboats posts ante 300.00
+MRCASTAWAY22 posts ante 300.00
+theANMATOR posts ante 300.00
+grotle posts the small blind 1200.00
+momoboats posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7c Ah]
+MRCASTAWAY22 raises 4800.00 to 4800.00
+theANMATOR folds
+Lab63 folds
+Memberberries11 calls 4800.00
+Cuse89P13 folds
+razldazl calls 4800.00
+grotle calls 3600.00
+momoboats calls 2400.00
+*** FLOP *** [Qs 9c As]
+Main pot 26400.00
+grotle checks
+momoboats checks
+MRCASTAWAY22 checks
+Memberberries11 checks
+razldazl bets 13200.00
+grotle calls 13200.00
+momoboats folds
+MRCASTAWAY22 folds
+Memberberries11 folds
+*** TURN *** [Qs 9c As] [3c]
+Main pot 52800.00
+grotle checks
+razldazl bets 24310.00 and is all-in
+grotle calls 24310.00
+*** RIVER *** [Qs 9c As 3c] [Kd]
+Main pot 101420.00
+*** SHOW DOWN ***
+Main pot 101420.00
+razldazl shows [Qh 8s] (a pair of Queens [Qs Qh As Kd 9c])
+grotle shows [7c Ah] (a pair of Aces [As Ah Kd Qs 9c])
+grotle collected 101420.00 from main pot
+*** SUMMARY ***
+Total pot 101420.00
+Board [Qs 9c As 3c Kd]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Flop
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: razldazl (button) showed [Qh 8s] and lost with a pair of Queens [Qs Qh As Kd 9c]
+Seat 5: grotle (small blind) showed [7c Ah] and won 101420.00 with a pair of Aces [As Ah Kd Qs 9c]
+Seat 6: momoboats (big blind) folded on the Flop
+Seat 7: MRCASTAWAY22 folded on the Flop
+Seat 8: theANMATOR folded on the Pre-Flop and did not bet
+
+Game Hand #2439651914 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:12:02 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (93756.00)
+Seat 2: Memberberries11 (115629.00)
+Seat 3: Cuse89P13 (48862.00)
+Seat 5: grotle (158037.00)
+Seat 6: momoboats (39500.00)
+Seat 7: MRCASTAWAY22 (320488.00)
+Seat 8: theANMATOR (54500.00)
+Lab63 posts ante 300.00
+Memberberries11 posts ante 300.00
+Cuse89P13 posts ante 300.00
+grotle posts ante 300.00
+momoboats posts ante 300.00
+MRCASTAWAY22 posts ante 300.00
+theANMATOR posts ante 300.00
+momoboats posts the small blind 1200.00
+MRCASTAWAY22 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qs Ah]
+theANMATOR folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+grotle raises 8400.00 to 8400.00
+momoboats folds
+MRCASTAWAY22 folds
+Uncalled bet (6000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 8100.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 8100.00
+Seat 6: momoboats (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (big blind) folded on the Pre-Flop
+Seat 8: theANMATOR folded on the Pre-Flop and did not bet
+
+Game Hand #2439652379 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:12:32 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (93456.00)
+Seat 2: Memberberries11 (115329.00)
+Seat 3: Cuse89P13 (48562.00)
+Seat 4: razldazl (50000.00)
+Seat 5: grotle (163437.00)
+Seat 6: momoboats (38000.00)
+Seat 7: MRCASTAWAY22 (317788.00)
+Seat 8: theANMATOR (54200.00)
+Lab63 posts ante 300.00
+Memberberries11 posts ante 300.00
+Cuse89P13 posts ante 300.00
+razldazl posts ante 300.00
+grotle posts ante 300.00
+momoboats posts ante 300.00
+MRCASTAWAY22 posts ante 300.00
+theANMATOR posts ante 300.00
+MRCASTAWAY22 posts the small blind 1200.00
+theANMATOR posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Th Ah]
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+razldazl raises 4800.00 to 4800.00
+grotle calls 4800.00
+momoboats folds
+MRCASTAWAY22 calls 3600.00
+theANMATOR calls 2400.00
+*** FLOP *** [Tc Jd As]
+Main pot 21600.00
+MRCASTAWAY22 checks
+theANMATOR checks
+razldazl bets 4800.00
+grotle calls 4800.00
+MRCASTAWAY22 calls 4800.00
+theANMATOR calls 4800.00
+*** TURN *** [Tc Jd As] [4c]
+Main pot 40800.00
+MRCASTAWAY22 checks
+theANMATOR checks
+razldazl bets 40100.00 and is all-in
+grotle calls 40100.00
+MRCASTAWAY22 folds
+theANMATOR folds
+*** RIVER *** [Tc Jd As 4c] [8c]
+Main pot 121000.00
+*** SHOW DOWN ***
+Main pot 121000.00
+razldazl shows [Qd Qc] (a pair of Queens [Qd Qc As Jd Tc])
+grotle shows [Th Ah] (two pair, Aces and Tens [As Ah Th Tc Jd])
+grotle collected 121000.00 from main pot
+*** SUMMARY ***
+Total pot 121000.00
+Board [Tc Jd As 4c 8c]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: razldazl showed [Qd Qc] and lost with a pair of Queens [Qd Qc As Jd Tc]
+Seat 5: grotle showed [Th Ah] and won 121000.00 with two pair, Aces and Tens [As Ah Th Tc Jd]
+Seat 6: momoboats (button) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (small blind) folded on the Turn
+Seat 8: theANMATOR (big blind) folded on the Turn
+
+Game Hand #2439653587 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:13:48 UTC
+Table '20' 8-max Seat #7 is the button
+Seat 1: Lab63 (93156.00)
+Seat 2: Memberberries11 (115029.00)
+Seat 3: Cuse89P13 (48262.00)
+Seat 5: grotle (234437.00)
+Seat 6: momoboats (37700.00)
+Seat 7: MRCASTAWAY22 (307888.00)
+Seat 8: theANMATOR (44300.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+grotle posts ante 350.00
+momoboats posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+theANMATOR posts ante 350.00
+theANMATOR posts the small blind 1400.00
+Lab63 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [5d Qh]
+Memberberries11 folds
+Cuse89P13 folds
+grotle folds
+momoboats folds
+MRCASTAWAY22 folds
+theANMATOR raises 4200.00 to 5600.00
+Lab63 raises 90006.00 to 92806.00 and is all-in
+theANMATOR calls 38350.00 and is all-in
+Uncalled bet (48856.00) returned to Lab63
+*** FLOP *** [7d Kc Qs]
+Main pot 90350.00
+*** TURN *** [7d Kc Qs] [Ah]
+Main pot 90350.00
+*** RIVER *** [7d Kc Qs Ah] [5c]
+Main pot 90350.00
+*** SHOW DOWN ***
+Main pot 90350.00
+Lab63 shows [Ac As] (three of a kind, Set of Aces [As Ah Ac Kc Qs])
+theANMATOR shows [8h 7h] (a pair of Sevens [7h 7d Ah Kc Qs])
+Lab63 collected 90350.00 from main pot
+*** SUMMARY ***
+Total pot 90350.00
+Board [7d Kc Qs Ah 5c]
+Seat 1: Lab63 (big blind) showed [Ac As] and won 90350.00 with three of a kind, Set of Aces [As Ah Ac Kc Qs]
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: momoboats folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 (button) folded on the Pre-Flop
+Seat 8: theANMATOR (small blind) showed [8h 7h] and lost with a pair of Sevens [7h 7d Ah Kc Qs]
+
+Game Hand #2439654278 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:14:32 UTC
+Table '20' 8-max Seat #8 is the button
+Seat 1: Lab63 (139206.00)
+Seat 2: Memberberries11 (114679.00)
+Seat 3: Cuse89P13 (47912.00)
+Seat 4: olajoaotudobem (50000.00)
+Seat 5: grotle (234087.00)
+Seat 6: momoboats (37350.00)
+Seat 7: MRCASTAWAY22 (307538.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+momoboats posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+Lab63 posts the small blind 1400.00
+Memberberries11 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [9c 3h]
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+momoboats raises 37000.00 to 37000.00 and is all-in
+MRCASTAWAY22 folds
+Lab63 raises 69800.00 to 71200.00
+Memberberries11 folds
+Uncalled bet (34200.00) returned to Lab63
+*** FLOP *** [Kd 7d 9d]
+Main pot 79250.00
+*** TURN *** [Kd 7d 9d] [9s]
+Main pot 79250.00
+*** RIVER *** [Kd 7d 9d 9s] [3c]
+Main pot 79250.00
+*** SHOW DOWN ***
+Main pot 79250.00
+Lab63 shows [Kc As] (two pair, Kings and Nines [Kd Kc 9s 9d As])
+momoboats shows [Ks Ts] (two pair, Kings and Nines [Ks Kd 9s 9d Ts])
+Lab63 collected 79250.00 from main pot
+*** SUMMARY ***
+Total pot 79250.00
+Board [Kd 7d 9d 9s 3c]
+Seat 1: Lab63 (small blind) showed [Kc As] and won 79250.00 with two pair, Kings and Nines [Kd Kc 9s 9d As] with the kicker Ace
+Seat 2: Memberberries11 (big blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: momoboats showed [Ks Ts] and lost with two pair, Kings and Nines [Ks Kd 9s 9d Ts]
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439654986 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:15:18 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: Lab63 (181106.00)
+Seat 2: Memberberries11 (111529.00)
+Seat 3: Cuse89P13 (47562.00)
+Seat 4: olajoaotudobem (49650.00)
+Seat 5: grotle (233737.00)
+Seat 7: MRCASTAWAY22 (307188.00)
+Seat 8: lucygirl69 (50000.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+Memberberries11 posts the small blind 1400.00
+Cuse89P13 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [3s 4s]
+olajoaotudobem folds
+grotle raises 5600.00 to 5600.00
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 calls 2800.00
+*** FLOP *** [Ah 5h 7c]
+Main pot 15050.00
+Cuse89P13 checks
+grotle bets 4200.00
+Cuse89P13 folds
+Uncalled bet (4200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 15050.00
+Board [Ah 5h 7c]
+Seat 1: Lab63 (button) folded on the Pre-Flop
+Seat 2: Memberberries11 (small blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 (big blind) folded on the Flop
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 15050.00
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439655629 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:16:01 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 1: Lab63 (180756.00)
+Seat 2: Memberberries11 (109779.00)
+Seat 3: Cuse89P13 (41612.00)
+Seat 4: olajoaotudobem (49300.00)
+Seat 5: grotle (242837.00)
+Seat 7: MRCASTAWAY22 (306838.00)
+Seat 8: lucygirl69 (49650.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+Cuse89P13 posts the small blind 1400.00
+olajoaotudobem posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [2d 6h]
+grotle folds
+MRCASTAWAY22 raises 5600.00 to 5600.00
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 calls 4200.00
+olajoaotudobem folds
+*** FLOP *** [4h 8s 8h]
+Main pot 16450.00
+Cuse89P13 checks
+MRCASTAWAY22 bets 8225.00
+Cuse89P13 raises 35662.00 to 35662.00 and is all-in
+MRCASTAWAY22 folds
+Uncalled bet (27437.00) returned to Cuse89P13
+Cuse89P13 does not show
+*** SUMMARY ***
+Total pot 32900.00
+Board [4h 8s 8h]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 (button) folded on the Pre-Flop
+Seat 3: Cuse89P13 did not show and won 32900.00
+Seat 4: olajoaotudobem (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Flop
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439657098 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:17:39 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 1: Lab63 (180406.00)
+Seat 2: Memberberries11 (109429.00)
+Seat 3: Cuse89P13 (60337.00)
+Seat 4: olajoaotudobem (46150.00)
+Seat 5: grotle (242487.00)
+Seat 6: 10SWins (50000.00)
+Seat 7: MRCASTAWAY22 (292663.00)
+Seat 8: lucygirl69 (49300.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+olajoaotudobem posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7c 5d]
+10SWins calls 2800.00
+MRCASTAWAY22 calls 2800.00
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle checks
+*** FLOP *** [8s 4d 4h]
+Main pot 12600.00
+grotle checks
+10SWins checks
+MRCASTAWAY22 checks
+*** TURN *** [8s 4d 4h] [3c]
+Main pot 12600.00
+grotle bets 5600.00
+10SWins folds
+MRCASTAWAY22 folds
+Uncalled bet (5600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12600.00
+Board [8s 4d 4h 3c]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 (button) folded on the Pre-Flop
+Seat 4: olajoaotudobem (small blind) folded on the Pre-Flop
+Seat 5: grotle did not show and won 12600.00
+Seat 6: 10SWins folded on the Turn
+Seat 7: MRCASTAWAY22 folded on the Turn
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439658388 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:19:08 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (180056.00)
+Seat 2: Memberberries11 (109079.00)
+Seat 3: Cuse89P13 (59987.00)
+Seat 4: olajoaotudobem (44400.00)
+Seat 5: grotle (251937.00)
+Seat 6: 10SWins (46850.00)
+Seat 7: MRCASTAWAY22 (289513.00)
+Seat 8: lucygirl69 (48950.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+grotle posts the small blind 1400.00
+10SWins posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Qc 6s]
+MRCASTAWAY22 folds
+lucygirl69 raises 5600.00 to 5600.00
+Lab63 raises 19250.00 to 19250.00
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+10SWins folds
+lucygirl69 calls 13650.00
+*** FLOP *** [8s 7h 3c]
+Main pot 45500.00
+lucygirl69 checks
+Lab63 bets 7175.00
+lucygirl69 calls 7175.00
+*** TURN *** [8s 7h 3c] [9s]
+Main pot 59850.00
+lucygirl69 checks
+Lab63 checks
+*** RIVER *** [8s 7h 3c 9s] [Ts]
+Main pot 59850.00
+lucygirl69 bets 22175.00 and is all-in
+Lab63 folds
+Uncalled bet (22175.00) returned to lucygirl69
+lucygirl69 does not show
+*** SUMMARY ***
+Total pot 59850.00
+Board [8s 7h 3c 9s Ts]
+Seat 1: Lab63 folded on the River
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: 10SWins (big blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 did not show and won 59850.00
+
+Game Hand #2439659682 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:20:38 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (153281.00)
+Seat 2: Memberberries11 (108729.00)
+Seat 3: Cuse89P13 (59637.00)
+Seat 4: olajoaotudobem (44050.00)
+Seat 5: grotle (250187.00)
+Seat 6: 10SWins (43700.00)
+Seat 7: MRCASTAWAY22 (289163.00)
+Seat 8: lucygirl69 (82025.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+10SWins posts the small blind 1400.00
+MRCASTAWAY22 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Kc As]
+lucygirl69 folds
+Lab63 raises 5600.00 to 5600.00
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle raises 19250.00 to 19250.00
+10SWins folds
+MRCASTAWAY22 folds
+Lab63 folds
+Uncalled bet (13650.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 18200.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 18200.00
+Seat 6: 10SWins (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (big blind) folded on the Pre-Flop
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439660420 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:21:31 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (147331.00)
+Seat 2: Memberberries11 (108379.00)
+Seat 3: Cuse89P13 (59287.00)
+Seat 4: olajoaotudobem (43700.00)
+Seat 5: grotle (262437.00)
+Seat 6: 10SWins (41950.00)
+Seat 7: MRCASTAWAY22 (286013.00)
+Seat 8: lucygirl69 (81675.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+MRCASTAWAY22 posts the small blind 1400.00
+lucygirl69 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Jd 3c]
+Lab63 raises 5600.00 to 5600.00
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+10SWins folds
+MRCASTAWAY22 folds
+lucygirl69 calls 2800.00
+*** FLOP *** [6h 4c Td]
+Main pot 15400.00
+lucygirl69 checks
+Lab63 bets 3850.00
+lucygirl69 calls 3850.00
+*** TURN *** [6h 4c Td] [7s]
+Main pot 23100.00
+lucygirl69 checks
+Lab63 bets 11550.00
+lucygirl69 calls 11550.00
+*** RIVER *** [6h 4c Td 7s] [6d]
+Main pot 46200.00
+lucygirl69 checks
+Lab63 checks
+*** SHOW DOWN ***
+Main pot 46200.00
+Lab63 shows [8s 8d] (two pair, Eights and Sixs [8s 8d 6h 6d Td])
+lucygirl69 shows [9c Kh] (a pair of Sixs [6h 6d Kh Td 9c])
+Lab63 collected 46200.00 from main pot
+*** SUMMARY ***
+Total pot 46200.00
+Board [6h 4c Td 7s 6d]
+Seat 1: Lab63 showed [8s 8d] and won 46200.00 with two pair, Eights and Sixs [8s 8d 6h 6d Td]
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: 10SWins (button) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (small blind) folded on the Pre-Flop
+Seat 8: lucygirl69 (big blind) showed [9c Kh] and lost with a pair of Sixs [6h 6d Kh Td 9c]
+
+Game Hand #2439661401 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:22:41 UTC
+Table '20' 8-max Seat #7 is the button
+Seat 1: Lab63 (172181.00)
+Seat 2: Memberberries11 (108029.00)
+Seat 3: Cuse89P13 (58937.00)
+Seat 4: olajoaotudobem (43350.00)
+Seat 5: grotle (262087.00)
+Seat 6: 10SWins (41600.00)
+Seat 7: MRCASTAWAY22 (284263.00)
+Seat 8: lucygirl69 (60325.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+lucygirl69 posts the small blind 1400.00
+Lab63 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Qh Ks]
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle calls 2800.00
+10SWins folds
+MRCASTAWAY22 folds
+lucygirl69 calls 1400.00
+Lab63 checks
+*** FLOP *** [5d 6h 8s]
+Main pot 11200.00
+lucygirl69 checks
+Lab63 checks
+grotle bets 2800.00
+lucygirl69 folds
+Lab63 folds
+Uncalled bet (2800.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 11200.00
+Board [5d 6h 8s]
+Seat 1: Lab63 (big blind) folded on the Flop
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 11200.00
+Seat 6: 10SWins folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 (button) folded on the Pre-Flop
+Seat 8: lucygirl69 (small blind) folded on the Flop
+
+Game Hand #2439662169 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:23:36 UTC
+Table '20' 8-max Seat #8 is the button
+Seat 1: Lab63 (169031.00)
+Seat 2: Memberberries11 (107679.00)
+Seat 3: Cuse89P13 (58587.00)
+Seat 4: olajoaotudobem (43000.00)
+Seat 5: grotle (270137.00)
+Seat 6: 10SWins (41250.00)
+Seat 7: MRCASTAWAY22 (283913.00)
+Seat 8: lucygirl69 (57175.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+Lab63 posts the small blind 1400.00
+Memberberries11 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [8h Jc]
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+10SWins folds
+MRCASTAWAY22 raises 5600.00 to 5600.00
+lucygirl69 raises 56825.00 to 56825.00 and is all-in
+Lab63 folds
+Memberberries11 folds
+MRCASTAWAY22 folds
+Uncalled bet (51225.00) returned to lucygirl69
+lucygirl69 does not show
+*** SUMMARY ***
+Total pot 18200.00
+Seat 1: Lab63 (small blind) folded on the Pre-Flop
+Seat 2: Memberberries11 (big blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: 10SWins folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 did not show and won 18200.00
+
+Game Hand #2439662959 - Tournament #33456182 - Holdem (No Limit) - Level 13 (1400.00/2800.00) - 2025/04/25 19:24:33 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: Lab63 (167281.00)
+Seat 2: Memberberries11 (104529.00)
+Seat 3: Cuse89P13 (58237.00)
+Seat 4: olajoaotudobem (42650.00)
+Seat 5: grotle (269787.00)
+Seat 6: 10SWins (40900.00)
+Seat 7: MRCASTAWAY22 (277963.00)
+Seat 8: lucygirl69 (69425.00)
+Lab63 posts ante 350.00
+Memberberries11 posts ante 350.00
+Cuse89P13 posts ante 350.00
+olajoaotudobem posts ante 350.00
+grotle posts ante 350.00
+10SWins posts ante 350.00
+MRCASTAWAY22 posts ante 350.00
+lucygirl69 posts ante 350.00
+Memberberries11 posts the small blind 1400.00
+Cuse89P13 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [8h Jc]
+olajoaotudobem folds
+grotle folds
+10SWins calls 2800.00
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 checks
+*** FLOP *** [Kd Ks 7h]
+Main pot 9800.00
+Cuse89P13 checks
+10SWins checks
+*** TURN *** [Kd Ks 7h] [4c]
+Main pot 9800.00
+Cuse89P13 checks
+10SWins checks
+*** RIVER *** [Kd Ks 7h 4c] [Kc]
+Main pot 9800.00
+Cuse89P13 checks
+10SWins checks
+*** SHOW DOWN ***
+Main pot 9800.00
+Cuse89P13 shows [Ah 3d] (three of a kind, Set of Kings [Ks Kd Kc Ah 7h])
+10SWins shows [Tc 9c] (three of a kind, Set of Kings [Ks Kd Kc Tc 9c])
+Cuse89P13 collected 9800.00 from main pot
+*** SUMMARY ***
+Total pot 9800.00
+Board [Kd Ks 7h 4c Kc]
+Seat 1: Lab63 (button) folded on the Pre-Flop
+Seat 2: Memberberries11 (small blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 (big blind) showed [Ah 3d] and won 9800.00 with three of a kind, Set of Kings [Ks Kd Kc Ah 7h] with the kicker Ace
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: 10SWins showed [Tc 9c] and lost with three of a kind, Set of Kings [Ks Kd Kc Tc 9c]
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439663614 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:25:21 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 1: Lab63 (166931.00)
+Seat 2: Memberberries11 (102779.00)
+Seat 3: Cuse89P13 (64887.00)
+Seat 4: olajoaotudobem (42300.00)
+Seat 5: grotle (269437.00)
+Seat 6: 10SWins (37750.00)
+Seat 7: MRCASTAWAY22 (277613.00)
+Seat 8: lucygirl69 (69075.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+10SWins posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+Cuse89P13 posts the small blind 1600.00
+olajoaotudobem posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [2c 6s]
+grotle folds
+10SWins folds
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem does not show
+*** SUMMARY ***
+Total pot 8000.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 (button) folded on the Pre-Flop
+Seat 3: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 4: olajoaotudobem did not show and won 8000.00
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: 10SWins folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439663962 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:25:43 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 1: Lab63 (166531.00)
+Seat 2: Memberberries11 (102379.00)
+Seat 3: Cuse89P13 (62887.00)
+Seat 4: olajoaotudobem (46700.00)
+Seat 5: grotle (269037.00)
+Seat 6: 10SWins (37350.00)
+Seat 7: MRCASTAWAY22 (277213.00)
+Seat 8: lucygirl69 (68675.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+10SWins posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+olajoaotudobem posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4d Tc]
+10SWins folds
+MRCASTAWAY22 raises 6400.00 to 6400.00
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+Uncalled bet (3200.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 (button) folded on the Pre-Flop
+Seat 4: olajoaotudobem (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: 10SWins folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 did not show and won 11200.00
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439664500 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:26:18 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (166131.00)
+Seat 2: Memberberries11 (101979.00)
+Seat 3: Cuse89P13 (62487.00)
+Seat 4: olajoaotudobem (44700.00)
+Seat 5: grotle (265437.00)
+Seat 6: 10SWins (36950.00)
+Seat 7: MRCASTAWAY22 (284813.00)
+Seat 8: lucygirl69 (68275.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+10SWins posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+grotle posts the small blind 1600.00
+10SWins posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Td 5h]
+MRCASTAWAY22 folds
+lucygirl69 raises 67875.00 to 67875.00 and is all-in
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+10SWins folds
+Uncalled bet (64675.00) returned to lucygirl69
+lucygirl69 does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: 10SWins (big blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 did not show and won 11200.00
+
+Game Hand #2439665227 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:27:04 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (165731.00)
+Seat 2: Memberberries11 (101579.00)
+Seat 3: Cuse89P13 (62087.00)
+Seat 4: olajoaotudobem (44300.00)
+Seat 5: grotle (263437.00)
+Seat 6: 10SWins (33350.00)
+Seat 7: MRCASTAWAY22 (284413.00)
+Seat 8: lucygirl69 (75875.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+10SWins posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+10SWins posts the small blind 1600.00
+MRCASTAWAY22 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5s 9d]
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 calls 3200.00
+olajoaotudobem folds
+grotle raises 9600.00 to 9600.00
+10SWins folds
+MRCASTAWAY22 folds
+Cuse89P13 calls 6400.00
+*** FLOP *** [7s As 4h]
+Main pot 27200.00
+Cuse89P13 checks
+grotle bets 6400.00
+Cuse89P13 folds
+Uncalled bet (6400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27200.00
+Board [7s As 4h]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Flop
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 27200.00
+Seat 6: 10SWins (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (big blind) folded on the Pre-Flop
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439666334 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:28:18 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (165331.00)
+Seat 2: Memberberries11 (101179.00)
+Seat 3: Cuse89P13 (52087.00)
+Seat 4: olajoaotudobem (43900.00)
+Seat 5: grotle (280637.00)
+Seat 6: 10SWins (31350.00)
+Seat 7: MRCASTAWAY22 (280813.00)
+Seat 8: lucygirl69 (75475.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+10SWins posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+MRCASTAWAY22 posts the small blind 1600.00
+lucygirl69 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Ah 9h]
+Lab63 folds
+Memberberries11 raises 9600.00 to 9600.00
+Cuse89P13 folds
+olajoaotudobem folds
+grotle calls 9600.00
+10SWins raises 30950.00 to 30950.00 and is all-in
+MRCASTAWAY22 folds
+lucygirl69 folds
+Memberberries11 raises 91179.00 to 100779.00 and is all-in
+grotle folds
+Uncalled bet (69829.00) returned to Memberberries11
+*** FLOP *** [Jd Tc 2s]
+Main pot 79500.00
+*** TURN *** [Jd Tc 2s] [Ts]
+Main pot 79500.00
+*** RIVER *** [Jd Tc 2s Ts] [8c]
+Main pot 79500.00
+*** SHOW DOWN ***
+Main pot 79500.00
+Memberberries11 shows [8s 8d] (a full house, Eights full of Tens [8s 8d 8c Ts Tc])
+10SWins shows [Kh As] (a pair of Tens [Ts Tc As Kh Jd])
+Memberberries11 collected 79500.00 from main pot
+*** SUMMARY ***
+Total pot 79500.00
+Board [Jd Tc 2s Ts 8c]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 showed [8s 8d] and won 79500.00 with a full house, Eights full of Tens [8s 8d 8c Ts Tc]
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: 10SWins (button) showed [Kh As] and lost with a pair of Tens [Ts Tc As Kh Jd]
+Seat 7: MRCASTAWAY22 (small blind) folded on the Pre-Flop
+Seat 8: lucygirl69 (big blind) folded on the Pre-Flop
+
+Game Hand #2439667183 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:29:16 UTC
+Table '20' 8-max Seat #7 is the button
+Seat 1: Lab63 (164931.00)
+Seat 2: Memberberries11 (149329.00)
+Seat 3: Cuse89P13 (51687.00)
+Seat 4: olajoaotudobem (43500.00)
+Seat 5: grotle (270637.00)
+Seat 7: MRCASTAWAY22 (278813.00)
+Seat 8: lucygirl69 (71875.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+lucygirl69 posts the small blind 1600.00
+Lab63 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Th 3c]
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+MRCASTAWAY22 folds
+lucygirl69 raises 69875.00 to 71475.00 and is all-in
+Lab63 folds
+Uncalled bet (68275.00) returned to lucygirl69
+lucygirl69 does not show
+*** SUMMARY ***
+Total pot 9200.00
+Seat 1: Lab63 (big blind) folded on the Pre-Flop
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 (button) folded on the Pre-Flop
+Seat 8: lucygirl69 did not show and won 9200.00
+
+Game Hand #2439667675 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:29:49 UTC
+Table '20' 8-max Seat #8 is the button
+Seat 1: Lab63 (161331.00)
+Seat 2: Memberberries11 (148929.00)
+Seat 3: Cuse89P13 (51287.00)
+Seat 4: olajoaotudobem (43100.00)
+Seat 5: grotle (270237.00)
+Seat 6: Big Dice (50000.00)
+Seat 7: MRCASTAWAY22 (278413.00)
+Seat 8: lucygirl69 (77475.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Big Dice posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+Lab63 posts the small blind 1600.00
+Memberberries11 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [3d 6c]
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+Big Dice raises 49600.00 to 49600.00 and is all-in
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 folds
+Memberberries11 calls 46400.00
+*** FLOP *** [Jc As 3c]
+Main pot 104000.00
+*** TURN *** [Jc As 3c] [8d]
+Main pot 104000.00
+*** RIVER *** [Jc As 3c 8d] [2s]
+Main pot 104000.00
+*** SHOW DOWN ***
+Main pot 104000.00
+Memberberries11 shows [Ac Td] (a pair of Aces [As Ac Jc Td 8d])
+Big Dice shows [Tc Kc] (a high card, Ace high [As Kc Jc Tc 8d])
+Memberberries11 collected 104000.00 from main pot
+*** SUMMARY ***
+Total pot 104000.00
+Board [Jc As 3c 8d 2s]
+Seat 1: Lab63 (small blind) folded on the Pre-Flop
+Seat 2: Memberberries11 (big blind) showed [Ac Td] and won 104000.00 with a pair of Aces [As Ac Jc Td 8d]
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Big Dice showed [Tc Kc] and lost with a high card, Ace high [As Kc Jc Tc 8d]
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 (button) folded on the Pre-Flop
+
+Game Hand #2439668852 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:30:57 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: Lab63 (159331.00)
+Seat 2: Memberberries11 (202929.00)
+Seat 3: Cuse89P13 (50887.00)
+Seat 4: olajoaotudobem (42700.00)
+Seat 5: grotle (269837.00)
+Seat 7: MRCASTAWAY22 (278013.00)
+Seat 8: lucygirl69 (77075.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+Memberberries11 posts the small blind 1600.00
+Cuse89P13 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2c Qh]
+olajoaotudobem folds
+grotle folds
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 raises 6400.00 to 6400.00
+Memberberries11 folds
+Cuse89P13 calls 3200.00
+*** FLOP *** [4s Kd Qd]
+Main pot 17200.00
+Cuse89P13 checks
+Lab63 bets 4300.00
+Cuse89P13 folds
+Uncalled bet (4300.00) returned to Lab63
+Lab63 does not show
+*** SUMMARY ***
+Total pot 17200.00
+Board [4s Kd Qd]
+Seat 1: Lab63 did not show and won 17200.00
+Seat 2: Memberberries11 (small blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 (big blind) folded on the Flop
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439670139 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:32:06 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 1: Lab63 (169731.00)
+Seat 2: Memberberries11 (200929.00)
+Seat 3: Cuse89P13 (44087.00)
+Seat 4: olajoaotudobem (42300.00)
+Seat 5: grotle (269437.00)
+Seat 6: Mr_Mims_Sayz (50000.00)
+Seat 7: MRCASTAWAY22 (277613.00)
+Seat 8: lucygirl69 (76675.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Mr_Mims_Sayz posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+Cuse89P13 posts the small blind 1600.00
+olajoaotudobem posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [6h Qd]
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+lucygirl69 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 raises 42087.00 to 43687.00 and is all-in
+olajoaotudobem folds
+Uncalled bet (40487.00) returned to Cuse89P13
+Cuse89P13 does not show
+*** SUMMARY ***
+Total pot 9600.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 (button) folded on the Pre-Flop
+Seat 3: Cuse89P13 did not show and won 9600.00
+Seat 4: olajoaotudobem (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 folded on the Pre-Flop and did not bet
+
+Game Hand #2439671236 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:33:06 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 1: Lab63 (169331.00)
+Seat 2: Memberberries11 (200529.00)
+Seat 3: Cuse89P13 (50087.00)
+Seat 4: olajoaotudobem (38700.00)
+Seat 5: grotle (269037.00)
+Seat 6: Mr_Mims_Sayz (49600.00)
+Seat 7: MRCASTAWAY22 (277213.00)
+Seat 8: lucygirl69 (76275.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Mr_Mims_Sayz posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+lucygirl69 posts ante 400.00
+olajoaotudobem posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Jd 3s]
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+lucygirl69 raises 75875.00 to 75875.00 and is all-in
+Lab63 folds
+Memberberries11 calls 75875.00
+Cuse89P13 folds
+olajoaotudobem calls 36700.00 and is all-in
+grotle folds
+*** FLOP *** [6c 5h 3h]
+Main pot 121300.00
+Side pot(1) 75150.00
+*** TURN *** [6c 5h 3h] [5c]
+Main pot 121300.00
+Side pot(1) 75150.00
+*** RIVER *** [6c 5h 3h 5c] [Js]
+Main pot 121300.00
+Side pot(1) 75150.00
+*** SHOW DOWN ***
+Main pot 121300.00
+Side pot(1) 75150.00
+Memberberries11 shows [8h 8d] (two pair, Eights and Fives [8h 8d 5h 5c Js])
+olajoaotudobem shows [Jc Kd] (two pair, Jacks and Fives [Js Jc 5h 5c Kd])
+lucygirl69 shows [2c 2d] (two pair, Fives and Deuces [5h 5c 2d 2c Js])
+olajoaotudobem collected 121300.00 from main pot
+Memberberries11 collected 75150.00 from side pot-1
+*** SUMMARY ***
+Total pot 196450.00
+Board [6c 5h 3h 5c Js]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 showed [8h 8d] and won 75150.00 with two pair, Eights and Fives [8h 8d 5h 5c Js]
+Seat 3: Cuse89P13 (button) folded on the Pre-Flop
+Seat 4: olajoaotudobem (small blind) showed [Jc Kd] and won 121300.00 with two pair, Jacks and Fives [Js Jc 5h 5c Kd]
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: lucygirl69 showed [2c 2d] and lost with two pair, Fives and Deuces [5h 5c 2d 2c Js]
+
+Game Hand #2439671986 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:33:49 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (168931.00)
+Seat 2: Memberberries11 (199404.00)
+Seat 3: Cuse89P13 (49687.00)
+Seat 4: olajoaotudobem (121300.00)
+Seat 5: grotle (265437.00)
+Seat 6: Mr_Mims_Sayz (49200.00)
+Seat 7: MRCASTAWAY22 (276813.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Mr_Mims_Sayz posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+grotle posts the small blind 1600.00
+Mr_Mims_Sayz posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ah 6c]
+MRCASTAWAY22 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle calls 1600.00
+Mr_Mims_Sayz raises 45600.00 to 48800.00 and is all-in
+grotle calls 45600.00
+*** FLOP *** [8s Qd Jc]
+Main pot 100400.00
+*** TURN *** [8s Qd Jc] [Jd]
+Main pot 100400.00
+*** RIVER *** [8s Qd Jc Jd] [Qc]
+Main pot 100400.00
+*** SHOW DOWN ***
+Main pot 100400.00
+grotle shows [Ah 6c] (two pair, Queens and Jacks [Qd Qc Jd Jc Ah])
+Mr_Mims_Sayz shows [Kh Qh] (a full house, Queens full of Jacks [Qh Qd Qc Jd Jc])
+Mr_Mims_Sayz collected 100400.00 from main pot
+*** SUMMARY ***
+Total pot 100400.00
+Board [8s Qd Jc Jd Qc]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) showed [Ah 6c] and lost with two pair, Queens and Jacks [Qd Qc Jd Jc Ah]
+Seat 6: Mr_Mims_Sayz (big blind) showed [Kh Qh] and won 100400.00 with a full house, Queens full of Jacks [Qh Qd Qc Jd Jc]
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439672871 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:34:40 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (168531.00)
+Seat 2: Memberberries11 (199004.00)
+Seat 3: Cuse89P13 (49287.00)
+Seat 4: olajoaotudobem (120900.00)
+Seat 5: grotle (216237.00)
+Seat 6: Mr_Mims_Sayz (100400.00)
+Seat 7: MRCASTAWAY22 (276413.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Mr_Mims_Sayz posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+Mr_Mims_Sayz posts the small blind 1600.00
+MRCASTAWAY22 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Qs Qd]
+Lab63 folds
+Memberberries11 raises 6400.00 to 6400.00
+Cuse89P13 folds
+olajoaotudobem folds
+grotle raises 21700.00 to 21700.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+Memberberries11 calls 15300.00
+*** FLOP *** [3d 5s 7c]
+Main pot 51000.00
+Memberberries11 checks
+grotle checks
+*** TURN *** [3d 5s 7c] [Ks]
+Main pot 51000.00
+Memberberries11 checks
+grotle bets 25500.00
+Memberberries11 folds
+Uncalled bet (25500.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 51000.00
+Board [3d 5s 7c Ks]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Turn
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 51000.00
+Seat 6: Mr_Mims_Sayz (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (big blind) folded on the Pre-Flop
+
+Game Hand #2439674605 - Tournament #33456182 - Holdem (No Limit) - Level 14 (1600.00/3200.00) - 2025/04/25 19:36:24 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (168131.00)
+Seat 2: Memberberries11 (176904.00)
+Seat 3: Cuse89P13 (48887.00)
+Seat 4: olajoaotudobem (120500.00)
+Seat 5: grotle (245137.00)
+Seat 6: Mr_Mims_Sayz (98400.00)
+Seat 7: MRCASTAWAY22 (272813.00)
+Lab63 posts ante 400.00
+Memberberries11 posts ante 400.00
+Cuse89P13 posts ante 400.00
+olajoaotudobem posts ante 400.00
+grotle posts ante 400.00
+Mr_Mims_Sayz posts ante 400.00
+MRCASTAWAY22 posts ante 400.00
+MRCASTAWAY22 posts the small blind 1600.00
+Lab63 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ac 8c]
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle raises 6400.00 to 6400.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 calls 4800.00
+Lab63 folds
+*** FLOP *** [Qh 6s 9s]
+Main pot 18800.00
+MRCASTAWAY22 checks
+grotle checks
+*** TURN *** [Qh 6s 9s] [6h]
+Main pot 18800.00
+MRCASTAWAY22 bets 9400.00
+grotle folds
+Uncalled bet (9400.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 18800.00
+Board [Qh 6s 9s 6h]
+Seat 1: Lab63 (big blind) folded on the Pre-Flop
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Turn
+Seat 6: Mr_Mims_Sayz (button) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 did not show and won 18800.00
+
+Game Hand #2439675384 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:37:11 UTC
+Table '20' 8-max Seat #7 is the button
+Seat 1: Lab63 (164531.00)
+Seat 2: Memberberries11 (176504.00)
+Seat 3: Cuse89P13 (48487.00)
+Seat 4: olajoaotudobem (120100.00)
+Seat 5: grotle (238337.00)
+Seat 6: Mr_Mims_Sayz (98000.00)
+Seat 7: MRCASTAWAY22 (284813.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+Cuse89P13 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+Lab63 posts the small blind 1800.00
+Memberberries11 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Qd 4d]
+Cuse89P13 folds
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 raises 7200.00 to 7200.00
+Lab63 folds
+Memberberries11 folds
+Uncalled bet (3600.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 12150.00
+Seat 1: Lab63 (small blind) folded on the Pre-Flop
+Seat 2: Memberberries11 (big blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 did not show and won 12150.00
+
+Game Hand #2439675847 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:37:41 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: Lab63 (162281.00)
+Seat 2: Memberberries11 (172454.00)
+Seat 3: Cuse89P13 (48037.00)
+Seat 4: olajoaotudobem (119650.00)
+Seat 5: grotle (237887.00)
+Seat 6: Mr_Mims_Sayz (97550.00)
+Seat 7: MRCASTAWAY22 (292913.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+Cuse89P13 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+Memberberries11 posts the small blind 1800.00
+Cuse89P13 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5h 9s]
+olajoaotudobem raises 9000.00 to 9000.00
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+Uncalled bet (5400.00) returned to olajoaotudobem
+olajoaotudobem does not show
+*** SUMMARY ***
+Total pot 12150.00
+Seat 1: Lab63 (button) folded on the Pre-Flop
+Seat 2: Memberberries11 (small blind) folded on the Pre-Flop
+Seat 3: Cuse89P13 (big blind) folded on the Pre-Flop
+Seat 4: olajoaotudobem did not show and won 12150.00
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439676787 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:38:39 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 1: Lab63 (161831.00)
+Seat 2: Memberberries11 (170204.00)
+Seat 3: Cuse89P13 (43987.00)
+Seat 4: olajoaotudobem (127750.00)
+Seat 5: grotle (237437.00)
+Seat 6: Mr_Mims_Sayz (97100.00)
+Seat 7: MRCASTAWAY22 (292463.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+Cuse89P13 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+Cuse89P13 posts the small blind 1800.00
+olajoaotudobem posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [As 9d]
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+Lab63 raises 7200.00 to 7200.00
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem calls 3600.00
+*** FLOP *** [Th 4d 4h]
+Main pot 19350.00
+olajoaotudobem checks
+Lab63 checks
+*** TURN *** [Th 4d 4h] [Ks]
+Main pot 19350.00
+olajoaotudobem checks
+Lab63 bets 4838.00
+olajoaotudobem calls 4838.00
+*** RIVER *** [Th 4d 4h Ks] [3d]
+Main pot 29026.00
+olajoaotudobem checks
+Lab63 bets 45226.00
+olajoaotudobem folds
+Uncalled bet (45226.00) returned to Lab63
+Lab63 does not show
+*** SUMMARY ***
+Total pot 29026.00
+Board [Th 4d 4h Ks 3d]
+Seat 1: Lab63 did not show and won 29026.00
+Seat 2: Memberberries11 (button) folded on the Pre-Flop
+Seat 3: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 4: olajoaotudobem (big blind) folded on the River
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439678432 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:40:26 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 1: Lab63 (178369.00)
+Seat 2: Memberberries11 (169754.00)
+Seat 3: Cuse89P13 (41737.00)
+Seat 4: olajoaotudobem (115262.00)
+Seat 5: grotle (236987.00)
+Seat 6: Mr_Mims_Sayz (96650.00)
+Seat 7: MRCASTAWAY22 (292013.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+Cuse89P13 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+olajoaotudobem posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Ac Qd]
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 folds
+olajoaotudobem folds
+grotle does not show
+*** SUMMARY ***
+Total pot 8550.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 (button) folded on the Pre-Flop
+Seat 4: olajoaotudobem (small blind) folded on the Pre-Flop
+Seat 5: grotle did not show and won 8550.00
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439678778 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:40:49 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (177919.00)
+Seat 2: Memberberries11 (169304.00)
+Seat 3: Cuse89P13 (41287.00)
+Seat 4: olajoaotudobem (113012.00)
+Seat 5: grotle (241487.00)
+Seat 6: Mr_Mims_Sayz (96200.00)
+Seat 7: MRCASTAWAY22 (291563.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+Cuse89P13 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+grotle posts the small blind 1800.00
+Mr_Mims_Sayz posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [4d 8h]
+MRCASTAWAY22 folds
+Lab63 folds
+Memberberries11 folds
+Cuse89P13 calls 3600.00
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz checks
+*** FLOP *** [2h 6d Kc]
+Main pot 12150.00
+Mr_Mims_Sayz checks
+Cuse89P13 checks
+*** TURN *** [2h 6d Kc] [Jd]
+Main pot 12150.00
+Mr_Mims_Sayz checks
+Cuse89P13 bets 3600.00
+Mr_Mims_Sayz calls 3600.00
+*** RIVER *** [2h 6d Kc Jd] [7d]
+Main pot 19350.00
+Mr_Mims_Sayz checks
+Cuse89P13 bets 9675.00
+Mr_Mims_Sayz calls 9675.00
+*** SHOW DOWN ***
+Main pot 38700.00
+Cuse89P13 shows [Kh Jc] (two pair, Kings and Jacks [Kh Kc Jd Jc 7d])
+Mr_Mims_Sayz shows [Js Tc] (a pair of Jacks [Js Jd Kc Tc 7d])
+Cuse89P13 collected 38700.00 from main pot
+*** SUMMARY ***
+Total pot 38700.00
+Board [2h 6d Kc Jd 7d]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: Cuse89P13 showed [Kh Jc] and won 38700.00 with two pair, Kings and Jacks [Kh Kc Jd Jc 7d]
+Seat 4: olajoaotudobem (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: Mr_Mims_Sayz (big blind) showed [Js Tc] and lost with a pair of Jacks [Js Jd Kc Tc 7d]
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+
+Game Hand #2439680334 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:42:35 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (177469.00)
+Seat 2: Memberberries11 (168854.00)
+Seat 4: olajoaotudobem (112562.00)
+Seat 5: grotle (239237.00)
+Seat 6: Mr_Mims_Sayz (78875.00)
+Seat 7: MRCASTAWAY22 (291113.00)
+Seat 8: nnnn6910 (64295.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+Mr_Mims_Sayz posts the small blind 1800.00
+MRCASTAWAY22 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [3c 9s]
+nnnn6910 folds
+Lab63 folds
+Memberberries11 folds
+olajoaotudobem folds
+grotle raises 7200.00 to 7200.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 calls 3600.00
+*** FLOP *** [6d Ad 2s]
+Main pot 19350.00
+MRCASTAWAY22 checks
+grotle bets 5400.00
+MRCASTAWAY22 calls 5400.00
+*** TURN *** [6d Ad 2s] [7d]
+Main pot 30150.00
+MRCASTAWAY22 checks
+grotle checks
+*** RIVER *** [6d Ad 2s 7d] [9d]
+Main pot 30150.00
+MRCASTAWAY22 bets 7538.00
+grotle folds
+Uncalled bet (7538.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 30150.00
+Board [6d Ad 2s 7d 9d]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle (button) folded on the River
+Seat 6: Mr_Mims_Sayz (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 did not show and won 30150.00
+Seat 8: nnnn6910 folded on the Pre-Flop and did not bet
+
+Game Hand #2439681178 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:43:32 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (177019.00)
+Seat 2: Memberberries11 (168404.00)
+Seat 4: olajoaotudobem (112112.00)
+Seat 5: grotle (226187.00)
+Seat 6: Mr_Mims_Sayz (76625.00)
+Seat 7: MRCASTAWAY22 (308213.00)
+Seat 8: nnnn6910 (63845.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+MRCASTAWAY22 posts the small blind 1800.00
+nnnn6910 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Jh 9s]
+Lab63 raises 7200.00 to 7200.00
+Memberberries11 folds
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 calls 5400.00
+nnnn6910 folds
+*** FLOP *** [7h 8d Th]
+Main pot 21150.00
+MRCASTAWAY22 checks
+Lab63 checks
+*** TURN *** [7h 8d Th] [Kh]
+Main pot 21150.00
+MRCASTAWAY22 checks
+Lab63 bets 10575.00
+MRCASTAWAY22 calls 10575.00
+*** RIVER *** [7h 8d Th Kh] [Ks]
+Main pot 42300.00
+MRCASTAWAY22 checks
+Lab63 checks
+*** SHOW DOWN ***
+Main pot 42300.00
+Lab63 shows [Qh As] (a pair of Kings [Ks Kh As Qh Th])
+MRCASTAWAY22 shows [8s Ah] (two pair, Kings and Eights [Ks Kh 8s 8d Ah])
+MRCASTAWAY22 collected 42300.00 from main pot
+*** SUMMARY ***
+Total pot 42300.00
+Board [7h 8d Th Kh Ks]
+Seat 1: Lab63 showed [Qh As] and lost with a pair of Kings [Ks Kh As Qh Th]
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz (button) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (small blind) showed [8s Ah] and won 42300.00 with two pair, Kings and Eights [Ks Kh 8s 8d Ah]
+Seat 8: nnnn6910 (big blind) folded on the Pre-Flop
+
+Game Hand #2439681882 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:44:21 UTC
+Table '20' 8-max Seat #7 is the button
+Seat 1: Lab63 (158794.00)
+Seat 2: Memberberries11 (167954.00)
+Seat 4: olajoaotudobem (111662.00)
+Seat 5: grotle (225737.00)
+Seat 6: Mr_Mims_Sayz (76175.00)
+Seat 7: MRCASTAWAY22 (332288.00)
+Seat 8: nnnn6910 (59795.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+nnnn6910 posts the small blind 1800.00
+Lab63 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [3c 4c]
+Memberberries11 folds
+olajoaotudobem folds
+grotle raises 7200.00 to 7200.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 calls 7200.00
+nnnn6910 folds
+Lab63 calls 3600.00
+*** FLOP *** [Jc Qs 9h]
+Main pot 26550.00
+Lab63 checks
+grotle checks
+MRCASTAWAY22 checks
+*** TURN *** [Jc Qs 9h] [3s]
+Main pot 26550.00
+Lab63 checks
+grotle bets 5400.00
+MRCASTAWAY22 calls 5400.00
+Lab63 calls 5400.00
+*** RIVER *** [Jc Qs 9h 3s] [8c]
+Main pot 42750.00
+Lab63 checks
+grotle checks
+MRCASTAWAY22 bets 14288.00
+Lab63 calls 14288.00
+grotle folds
+*** SHOW DOWN ***
+Main pot 71326.00
+Lab63 shows [8h 9c] (two pair, Nines and Eights [9h 9c 8h 8c Qs])
+MRCASTAWAY22 shows [7d 7s] (a pair of Sevens [7s 7d Qs Jc 9h])
+Lab63 collected 71326.00 from main pot
+*** SUMMARY ***
+Total pot 71326.00
+Board [Jc Qs 9h 3s 8c]
+Seat 1: Lab63 (big blind) showed [8h 9c] and won 71326.00 with two pair, Nines and Eights [9h 9c 8h 8c Qs]
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the River
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 (button) showed [7d 7s] and lost with a pair of Sevens [7s 7d Qs Jc 9h]
+Seat 8: nnnn6910 (small blind) folded on the Pre-Flop
+
+Game Hand #2439683083 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:45:48 UTC
+Table '20' 8-max Seat #8 is the button
+Seat 1: Lab63 (202782.00)
+Seat 2: Memberberries11 (167504.00)
+Seat 3: jonervin (50000.00)
+Seat 4: olajoaotudobem (111212.00)
+Seat 5: grotle (212687.00)
+Seat 6: Mr_Mims_Sayz (75725.00)
+Seat 7: MRCASTAWAY22 (304950.00)
+Seat 8: nnnn6910 (57545.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+jonervin posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+Lab63 posts the small blind 1800.00
+Memberberries11 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Kc 5d]
+jonervin folds
+olajoaotudobem raises 7200.00 to 7200.00
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 calls 7200.00
+nnnn6910 folds
+Lab63 calls 5400.00
+Memberberries11 calls 3600.00
+*** FLOP *** [Kd 2c 3c]
+Main pot 32400.00
+Lab63 checks
+Memberberries11 checks
+olajoaotudobem checks
+MRCASTAWAY22 bets 9900.00
+Lab63 folds
+Memberberries11 folds
+olajoaotudobem calls 9900.00
+*** TURN *** [Kd 2c 3c] [6d]
+Main pot 52200.00
+olajoaotudobem checks
+MRCASTAWAY22 bets 24300.00
+olajoaotudobem calls 24300.00
+*** RIVER *** [Kd 2c 3c 6d] [2h]
+Main pot 100800.00
+olajoaotudobem checks
+MRCASTAWAY22 checks
+*** SHOW DOWN ***
+Main pot 100800.00
+olajoaotudobem shows [7c 5c] (a pair of Deuces [2h 2c Kd 7c 6d])
+MRCASTAWAY22 shows [Ts Kh] (two pair, Kings and Deuces [Kh Kd 2h 2c Ts])
+MRCASTAWAY22 collected 100800.00 from main pot
+*** SUMMARY ***
+Total pot 100800.00
+Board [Kd 2c 3c 6d 2h]
+Seat 1: Lab63 (small blind) folded on the Flop
+Seat 2: Memberberries11 (big blind) folded on the Flop
+Seat 3: jonervin folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem showed [7c 5c] and lost with a pair of Deuces [2h 2c Kd 7c 6d]
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 showed [Ts Kh] and won 100800.00 with two pair, Kings and Deuces [Kh Kd 2h 2c Ts]
+Seat 8: nnnn6910 (button) folded on the Pre-Flop
+
+Game Hand #2439684555 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:47:35 UTC
+Table '20' 8-max Seat #1 is the button
+Seat 1: Lab63 (195132.00)
+Seat 2: Memberberries11 (159854.00)
+Seat 3: jonervin (49550.00)
+Seat 4: olajoaotudobem (69362.00)
+Seat 5: grotle (212237.00)
+Seat 6: Mr_Mims_Sayz (75275.00)
+Seat 7: MRCASTAWAY22 (363900.00)
+Seat 8: nnnn6910 (57095.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+jonervin posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+Memberberries11 posts the small blind 1800.00
+jonervin posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [9h 3d]
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+nnnn6910 folds
+Lab63 folds
+Memberberries11 raises 157604.00 to 159404.00 and is all-in
+jonervin folds
+Uncalled bet (155804.00) returned to Memberberries11
+Memberberries11 does not show
+*** SUMMARY ***
+Total pot 10800.00
+Seat 1: Lab63 (button) folded on the Pre-Flop
+Seat 2: Memberberries11 did not show and won 10800.00
+Seat 3: jonervin (big blind) folded on the Pre-Flop
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: nnnn6910 folded on the Pre-Flop and did not bet
+
+Game Hand #2439685021 - Tournament #33456182 - Holdem (No Limit) - Level 15 (1800.00/3600.00) - 2025/04/25 19:48:08 UTC
+Table '20' 8-max Seat #2 is the button
+Seat 1: Lab63 (194682.00)
+Seat 2: Memberberries11 (166604.00)
+Seat 3: jonervin (45500.00)
+Seat 4: olajoaotudobem (68912.00)
+Seat 5: grotle (211787.00)
+Seat 6: Mr_Mims_Sayz (74825.00)
+Seat 7: MRCASTAWAY22 (363450.00)
+Seat 8: nnnn6910 (56645.00)
+Lab63 posts ante 450.00
+Memberberries11 posts ante 450.00
+jonervin posts ante 450.00
+olajoaotudobem posts ante 450.00
+grotle posts ante 450.00
+Mr_Mims_Sayz posts ante 450.00
+MRCASTAWAY22 posts ante 450.00
+nnnn6910 posts ante 450.00
+jonervin posts the small blind 1800.00
+olajoaotudobem posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [8h Kh]
+grotle calls 3600.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+nnnn6910 calls 3600.00
+Lab63 folds
+Memberberries11 folds
+jonervin folds
+olajoaotudobem checks
+*** FLOP *** [2c 4d 9d]
+Main pot 16200.00
+olajoaotudobem checks
+grotle checks
+nnnn6910 checks
+*** TURN *** [2c 4d 9d] [Qh]
+Main pot 16200.00
+olajoaotudobem bets 64371.00
+grotle folds
+nnnn6910 calls 52595.00 and is all-in
+Uncalled bet (11776.00) returned to olajoaotudobem
+*** RIVER *** [2c 4d 9d Qh] [Th]
+Main pot 121390.00
+*** SHOW DOWN ***
+Main pot 121390.00
+olajoaotudobem shows [2h 9h] (two pair, Nines and Deuces [9h 9d 2h 2c Qh])
+nnnn6910 shows [Qs Js] (a pair of Queens [Qs Qh Js Th 9d])
+olajoaotudobem collected 121390.00 from main pot
+*** SUMMARY ***
+Total pot 121390.00
+Board [2c 4d 9d Qh Th]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 (button) folded on the Pre-Flop
+Seat 3: jonervin (small blind) folded on the Pre-Flop
+Seat 4: olajoaotudobem (big blind) showed [2h 9h] and won 121390.00 with two pair, Nines and Deuces [9h 9d 2h 2c Qh]
+Seat 5: grotle folded on the Turn
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: nnnn6910 showed [Qs Js] and lost with a pair of Queens [Qs Qh Js Th 9d]
+
+Game Hand #2439686623 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 19:50:07 UTC
+Table '20' 8-max Seat #3 is the button
+Seat 1: Lab63 (194232.00)
+Seat 2: Memberberries11 (166154.00)
+Seat 3: jonervin (43250.00)
+Seat 4: olajoaotudobem (133657.00)
+Seat 5: grotle (207737.00)
+Seat 6: Mr_Mims_Sayz (74375.00)
+Seat 7: MRCASTAWAY22 (363000.00)
+Lab63 posts ante 500.00
+Memberberries11 posts ante 500.00
+jonervin posts ante 500.00
+olajoaotudobem posts ante 500.00
+grotle posts ante 500.00
+Mr_Mims_Sayz posts ante 500.00
+MRCASTAWAY22 posts ante 500.00
+olajoaotudobem posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Qh 2s]
+Mr_Mims_Sayz folds
+MRCASTAWAY22 raises 8000.00 to 8000.00
+Lab63 folds
+Memberberries11 folds
+jonervin folds
+olajoaotudobem folds
+grotle folds
+Uncalled bet (4000.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 13500.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: jonervin (button) folded on the Pre-Flop
+Seat 4: olajoaotudobem (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: Mr_Mims_Sayz folded on the Pre-Flop and did not bet
+Seat 7: MRCASTAWAY22 did not show and won 13500.00
+
+Game Hand #2439687618 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 19:51:05 UTC
+Table '20' 8-max Seat #4 is the button
+Seat 1: Lab63 (193732.00)
+Seat 2: Memberberries11 (165654.00)
+Seat 3: jonervin (42750.00)
+Seat 4: olajoaotudobem (131157.00)
+Seat 5: grotle (203237.00)
+Seat 6: Mr_Mims_Sayz (73875.00) is sitting out
+Seat 7: MRCASTAWAY22 (372000.00)
+Seat 8: LAP1218 (50000.00)
+Lab63 posts ante 500.00
+Memberberries11 posts ante 500.00
+jonervin posts ante 500.00
+olajoaotudobem posts ante 500.00
+grotle posts ante 500.00
+Mr_Mims_Sayz posts ante 500.00
+MRCASTAWAY22 posts ante 500.00
+LAP1218 posts ante 500.00
+grotle posts the small blind 2000.00
+Mr_Mims_Sayz posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [Kc 6c]
+MRCASTAWAY22 folds
+LAP1218 folds
+Lab63 raises 8000.00 to 8000.00
+Memberberries11 folds
+jonervin folds
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz folds
+Uncalled bet (4000.00) returned to Lab63
+Lab63 does not show
+*** SUMMARY ***
+Total pot 14000.00
+Seat 1: Lab63 did not show and won 14000.00
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: jonervin folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: Mr_Mims_Sayz (big blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 folded on the Pre-Flop and did not bet
+Seat 8: LAP1218 folded on the Pre-Flop and did not bet
+
+Game Hand #2439688759 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 19:52:13 UTC
+Table '20' 8-max Seat #5 is the button
+Seat 1: Lab63 (203232.00)
+Seat 2: Memberberries11 (165154.00)
+Seat 3: jonervin (42250.00)
+Seat 4: olajoaotudobem (130657.00)
+Seat 5: grotle (200737.00)
+Seat 6: Mr_Mims_Sayz (69375.00) is sitting out
+Seat 7: MRCASTAWAY22 (371500.00)
+Seat 8: LAP1218 (49500.00)
+Lab63 posts ante 500.00
+Memberberries11 posts ante 500.00
+jonervin posts ante 500.00
+olajoaotudobem posts ante 500.00
+grotle posts ante 500.00
+Mr_Mims_Sayz posts ante 500.00
+MRCASTAWAY22 posts ante 500.00
+LAP1218 posts ante 500.00
+Mr_Mims_Sayz posts the small blind 2000.00
+MRCASTAWAY22 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [7c Jc]
+LAP1218 raises 8000.00 to 8000.00
+Lab63 folds
+Memberberries11 folds
+jonervin folds
+olajoaotudobem folds
+grotle raises 27500.00 to 27500.00
+Mr_Mims_Sayz folds
+MRCASTAWAY22 folds
+LAP1218 raises 41000.00 to 49000.00 and is all-in
+grotle folds
+Uncalled bet (21500.00) returned to LAP1218
+LAP1218 does not show
+*** SUMMARY ***
+Total pot 65000.00
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: jonervin folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle (button) folded on the Pre-Flop
+Seat 6: Mr_Mims_Sayz (small blind) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 (big blind) folded on the Pre-Flop
+Seat 8: LAP1218 did not show and won 65000.00
+
+Game Hand #2439689702 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 19:53:13 UTC
+Table '20' 8-max Seat #6 is the button
+Seat 1: Lab63 (202732.00)
+Seat 2: Memberberries11 (164654.00)
+Seat 3: jonervin (41750.00)
+Seat 4: olajoaotudobem (130157.00)
+Seat 5: grotle (172737.00)
+Seat 6: Mr_Mims_Sayz (66875.00)
+Seat 7: MRCASTAWAY22 (367000.00)
+Seat 8: LAP1218 (86500.00)
+Lab63 posts ante 500.00
+Memberberries11 posts ante 500.00
+jonervin posts ante 500.00
+olajoaotudobem posts ante 500.00
+grotle posts ante 500.00
+Mr_Mims_Sayz posts ante 500.00
+MRCASTAWAY22 posts ante 500.00
+LAP1218 posts ante 500.00
+MRCASTAWAY22 posts the small blind 2000.00
+LAP1218 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [5d 2d]
+Lab63 folds
+Memberberries11 folds
+jonervin folds
+olajoaotudobem folds
+grotle folds
+Mr_Mims_Sayz folds
+MRCASTAWAY22 raises 6000.00 to 8000.00
+LAP1218 calls 4000.00
+*** FLOP *** [6d 5s 5c]
+Main pot 20000.00
+MRCASTAWAY22 bets 5000.00
+LAP1218 folds
+Uncalled bet (5000.00) returned to MRCASTAWAY22
+MRCASTAWAY22 does not show
+*** SUMMARY ***
+Total pot 20000.00
+Board [6d 5s 5c]
+Seat 1: Lab63 folded on the Pre-Flop and did not bet
+Seat 2: Memberberries11 folded on the Pre-Flop and did not bet
+Seat 3: jonervin folded on the Pre-Flop and did not bet
+Seat 4: olajoaotudobem folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Mr_Mims_Sayz (button) folded on the Pre-Flop
+Seat 7: MRCASTAWAY22 did not show and won 20000.00
+Seat 8: LAP1218 (big blind) folded on the Flop
+

@@ -7,6 +7,7 @@ const PokerTable = ({ onHandComplete }) => {
     const [showConfirmPanel, setShowConfirmPanel] = useState(false);
     const [showSaveSuccess, setShowSaveSuccess] = useState(false);
     const [hand, setHand] = useState({
+        username: '',
         gameType: 'cash',
         numPlayers: 6,
         buttonPosition: 0,
@@ -1204,6 +1205,21 @@ const PokerTable = ({ onHandComplete }) => {
             case 1:
                 return (
                     <div className="step-content">
+                        <h3>Enter Your ACR Username</h3>
+                        <div className="username-input">
+                            <input
+                                type="text"
+                                value={hand.username}
+                                onChange={(e) => setHand(prev => ({ ...prev, username: e.target.value }))}
+                                placeholder="Enter your ACR username"
+                                className="username-field"
+                            />
+                        </div>
+                    </div>
+                );
+            case 2:
+                return (
+                    <div className="step-content">
                         <h3>Select Game Type</h3>
                         <div className="game-type-buttons">
                             <button
@@ -1221,7 +1237,7 @@ const PokerTable = ({ onHandComplete }) => {
                         </div>
                     </div>
                 );
-            case 2:
+            case 3:
                 return (
                     <div className="step-content">
                         <h3>Number of Players</h3>
@@ -1238,12 +1254,6 @@ const PokerTable = ({ onHandComplete }) => {
                                 ))}
                             </div>
                         </div>
-                    </div>
-                );
-            case 3:
-                return (
-                    <div className="step-content">
-                        <h3>Click on the Dealer Button Position</h3>
                     </div>
                 );
             case 4:
@@ -1390,6 +1400,12 @@ const PokerTable = ({ onHandComplete }) => {
     };
 
     const validateHandForSaving = () => {
+        // Check username first
+        if (!hand.username || hand.username.trim() === '') {
+            console.log('Validation failed: Username is required');
+            return false;
+        }
+
         // If hero has folded, we can save the hand regardless of other conditions
         if (heroFolded) {
             console.log('Hero folded - allowing save');
@@ -1483,6 +1499,7 @@ const PokerTable = ({ onHandComplete }) => {
         
         // Format the hand data for saving
         const handData = {
+            username: hand.username,
             gameType: hand.gameType,
             numPlayers: hand.numPlayers,
             buttonPosition: hand.buttonPosition,
