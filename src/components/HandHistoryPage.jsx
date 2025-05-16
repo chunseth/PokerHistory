@@ -13,7 +13,10 @@ const HandHistoryPage = () => {
     const [tournamentName, setTournamentName] = useState('');
     const [deleteConfirmation, setDeleteConfirmation] = useState({ show: false, handId: null });
     const [usernames, setUsernames] = useState([]);
-    const [selectedUsername, setSelectedUsername] = useState('grotle');
+    const [selectedUsername, setSelectedUsername] = useState(() => {
+        // Initialize from localStorage or default to 'grotle'
+        return localStorage.getItem('selectedUsername') || 'grotle';
+    });
     const [filters, setFilters] = useState({
         gameType: '',
         minStack: 0,
@@ -194,6 +197,12 @@ const HandHistoryPage = () => {
         }));
     };
 
+    const handleUsernameChange = (e) => {
+        const newUsername = e.target.value;
+        setSelectedUsername(newUsername);
+        localStorage.setItem('selectedUsername', newUsername);
+    };
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
@@ -202,7 +211,7 @@ const HandHistoryPage = () => {
                     <div className="username-selector">
                         <select
                             value={selectedUsername}
-                            onChange={(e) => setSelectedUsername(e.target.value)}
+                            onChange={handleUsernameChange}
                             className="username-select"
                         >
                             <option value="" disabled>username</option>
