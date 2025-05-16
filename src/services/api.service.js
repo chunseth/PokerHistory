@@ -2,11 +2,20 @@ import axios from 'axios';
 
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5001/api';
 
+// Create axios instance with default config
+const axiosInstance = axios.create({
+    baseURL: API_BASE_URL,
+    withCredentials: true,
+    headers: {
+        'Content-Type': 'application/json'
+    }
+});
+
 const apiService = {
     // Get all hands with optional filters
     getHands: async (filters = {}) => {
         try {
-            const response = await axios.get(`${API_BASE_URL}/hands`, { params: filters });
+            const response = await axiosInstance.get('/hands', { params: filters });
             return response.data;
         } catch (error) {
             console.error('Error fetching hands:', error);
@@ -17,7 +26,7 @@ const apiService = {
     // Get a single hand by ID
     getHand: async (id) => {
         try {
-            const response = await axios.get(`${API_BASE_URL}/hands/${id}`);
+            const response = await axiosInstance.get(`/hands/${id}`);
             return response.data;
         } catch (error) {
             console.error('Error fetching hand:', error);
@@ -28,7 +37,7 @@ const apiService = {
     // Create a new hand
     createHand: async (handData) => {
         try {
-            const response = await axios.post(`${API_BASE_URL}/hands`, handData);
+            const response = await axiosInstance.post('/hands', handData);
             return response.data;
         } catch (error) {
             console.error('Error creating hand:', error);
@@ -39,7 +48,7 @@ const apiService = {
     // Delete a hand
     deleteHand: async (id) => {
         try {
-            const response = await axios.delete(`${API_BASE_URL}/hands/${id}`);
+            const response = await axiosInstance.delete(`/hands/${id}`);
             return response.data;
         } catch (error) {
             console.error('Error deleting hand:', error);
@@ -50,7 +59,7 @@ const apiService = {
     // Upload hand history file
     uploadHandHistory: async (formData, onProgress) => {
         try {
-            const response = await axios.post(`${API_BASE_URL}/hands/upload`, formData, {
+            const response = await axiosInstance.post('/hands/upload', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data'
                 },
@@ -72,7 +81,7 @@ const apiService = {
 
     async getHandsByDateRange(startDate, endDate) {
         try {
-            const response = await axios.get(`${API_BASE_URL}/hands`, {
+            const response = await axiosInstance.get('/hands', {
                 params: {
                     startDate: startDate.toISOString(),
                     endDate: endDate.toISOString()
@@ -87,7 +96,7 @@ const apiService = {
 
     async getHandsByPosition(position) {
         try {
-            const response = await axios.get(`${API_BASE_URL}/hands`, {
+            const response = await axiosInstance.get('/hands', {
                 params: { position }
             });
             return response.data;
@@ -100,7 +109,7 @@ const apiService = {
     // Update a hand
     updateHand: async (id, updates) => {
         try {
-            const response = await axios.patch(`${API_BASE_URL}/hands/${id}`, updates);
+            const response = await axiosInstance.patch(`/hands/${id}`, updates);
             return response.data;
         } catch (error) {
             console.error('Error updating hand:', error);
@@ -111,7 +120,7 @@ const apiService = {
     // Get unique usernames
     getUsernames: async () => {
         try {
-            const response = await axios.get(`${API_BASE_URL}/hands/usernames`);
+            const response = await axiosInstance.get('/hands/usernames');
             return response.data;
         } catch (error) {
             console.error('Error fetching usernames:', error);
