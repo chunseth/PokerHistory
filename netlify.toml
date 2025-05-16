@@ -4,6 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "18"
+  VITE_API_URL = "https://poker-history-backend-e54899b9ba1c.herokuapp.com/api"
 
 [[redirects]]
   from = "/*"

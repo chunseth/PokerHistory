@@ -462,7 +462,10 @@ const HandReplay = ({ handData }) => {
             (currentAction && 
              currentAction.action === 'call' && 
              currentActionIndex === handData.bettingActions.length - 1 && 
-             hasAllInAction);
+             hasAllInAction) ||
+            (currentAction && 
+             currentAction.isAllIn && 
+             currentActionIndex === handData.bettingActions.length - 1);
 
         // Show river card if both players are all-in
         const showRiverForAllIn = hasAllInAction && 
