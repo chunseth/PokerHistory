@@ -14,7 +14,8 @@ router.get('/', async (req, res) => {
             holeCards,
             gameType,
             startDate,
-            endDate
+            endDate,
+            tournamentName
         } = req.query;
 
         console.log('Received query params:', req.query); // Debug log
@@ -22,7 +23,7 @@ router.get('/', async (req, res) => {
         // Build query
         const query = {};
         
-        // Add date range filter
+        // Add date range filter if dates are provided
         if (startDate && endDate) {
             const start = new Date(startDate);
             const end = new Date(endDate);
@@ -40,7 +41,12 @@ router.get('/', async (req, res) => {
             };
         }
         
-        // Add filters if they exist
+        // Add tournament name filter if provided
+        if (tournamentName) {
+            query.tournamentName = { $regex: tournamentName, $options: 'i' }; // Case-insensitive search
+        }
+        
+        // Add other filters if they exist
         if (position) query.heroPosition = position;
         if (gameType) query.gameType = gameType;
         
@@ -55,7 +61,32 @@ router.get('/', async (req, res) => {
         if (holeCards) {
             const cards = holeCards.split(',');
             if (cards.length === 2 && cards[0] && cards[1]) {
-                query.heroHoleCards = { $all: cards };
+                // First card should be exact match
+                const firstCard = cards[0].length >= 2 ? 
+                    cards[0][0].toUpperCase() + cards[0][1].toLowerCase() : 
+                    cards[0].toUpperCase();
+                
+                // Second card can be partial (rank only)
+                const secondCard = cards[1].toUpperCase();
+                
+                // Create an array of possible matches for the second card
+                const possibleSecondCards = ['h', 'd', 'c', 's'].map(suit => secondCard + suit);
+                
+                // Match first card exactly and second card with any suit
+                query.$and = [
+                    { heroHoleCards: { $regex: `^${firstCard}` } },
+                    { heroHoleCards: { $in: possibleSecondCards } }
+                ];
+            } else if (cards[0]) {
+                // For single card, convert to proper case for regex
+                const firstCard = cards[0];
+                if (firstCard.length >= 2) {
+                    const formattedCard = firstCard[0].toUpperCase() + firstCard[1].toLowerCase();
+                    query.heroHoleCards = { $regex: `^${formattedCard}` };
+                } else {
+                    // For single character (rank only), match any card with that rank
+                    query.heroHoleCards = { $regex: `^${firstCard.toUpperCase()}` };
+                }
             }
         }
 
@@ -146,11 +177,22 @@ router.patch('/:id', async (req, res) => {
 // Delete a hand
 router.delete('/:id', async (req, res) => {
     try {
+        console.log('Attempting to delete hand with ID:', req.params.id);
+        
+        // Validate the ID format
+        if (!req.params.id.match(/^[0-9a-fA-F]{24}$/)) {
+            return res.status(400).json({ message: 'Invalid hand ID format' });
+        }
+
         const hand = await Hand.findByIdAndDelete(req.params.id);
+        
         if (!hand) {
+            console.log('No hand found with ID:', req.params.id);
             return res.status(404).json({ message: 'Hand not found' });
         }
-        res.json({ message: 'Hand deleted successfully' });
+
+        console.log('Successfully deleted hand:', hand);
+        res.json({ message: 'Hand deleted successfully', deletedHand: hand });
     } catch (error) {
         console.error('Error deleting hand:', error);
         res.status(500).json({ 

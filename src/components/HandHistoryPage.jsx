@@ -11,43 +11,41 @@ const HandHistoryPage = () => {
     const [error, setError] = useState(null);
     const [editingTournamentName, setEditingTournamentName] = useState(null);
     const [tournamentName, setTournamentName] = useState('');
+    const [deleteConfirmation, setDeleteConfirmation] = useState({ show: false, handId: null });
     const [filters, setFilters] = useState({
         gameType: '',
         minStack: 0,
         maxStack: 200,
-        holeCards: ['', '']
+        holeCards: ['', ''],
+        tournamentName: ''
     });
 
     useEffect(() => {
-        if (selectedDate) {
-            fetchHands();
-        } else {
-            setHands([]);
-        }
-    }, [selectedDate, filters.maxStack, filters.holeCards]);
+        fetchHands();
+    }, [selectedDate, filters.maxStack, filters.holeCards, filters.tournamentName]);
 
     const fetchHands = async () => {
         try {
             setLoading(true);
-            // Create start and end dates for the selected day in local timezone
-            const [year, month, day] = selectedDate.split('-').map(Number);
-            const startDate = new Date(year, month - 1, day, 0, 0, 0, 0);
-            const endDate = new Date(year, month - 1, day, 23, 59, 59, 999);
-
-            console.log('Fetching hands with date range:', {
-                selectedDate,
-                startDate: startDate.toISOString(),
-                endDate: endDate.toISOString()
-            });
-
-            const response = await apiService.getHands({
-                startDate: startDate.toISOString(),
-                endDate: endDate.toISOString(),
+            let queryParams = {
                 minStackSize: filters.minStack,
                 maxStackSize: filters.maxStack,
                 holeCards: filters.holeCards.join(','),
-                gameType: filters.gameType
-            });
+                gameType: filters.gameType,
+                tournamentName: filters.tournamentName
+            };
+
+            if (selectedDate) {
+                const [year, month, day] = selectedDate.split('-').map(Number);
+                const startDate = new Date(year, month - 1, day, 0, 0, 0, 0);
+                const endDate = new Date(year, month - 1, day, 23, 59, 59, 999);
+                queryParams.startDate = startDate.toISOString();
+                queryParams.endDate = endDate.toISOString();
+            }
+
+            console.log('Fetching hands with params:', queryParams);
+
+            const response = await apiService.getHands(queryParams);
             console.log('Received hands:', response);
             setHands(response);
         } catch (error) {
@@ -74,27 +72,70 @@ const HandHistoryPage = () => {
     };
 
     const handleHoleCardsChange = (index, value) => {
+        // Only allow valid card ranks (2-9, T, J, Q, K, A) and suits (h, d, c, s)
+        const validRank = /^[2-9TJQKA]$/i;
+        const validSuit = /^[hdcs]$/i;
+        
+        // If it's a single character, check if it's a valid rank
+        if (value.length === 1 && !validRank.test(value)) {
+            // Reset the field if invalid rank
+            setFilters(prev => ({
+                ...prev,
+                holeCards: prev.holeCards.map((card, i) => i === index ? '' : card)
+            }));
+            return;
+        }
+        
+        // If it's two characters, check if it's a valid rank and suit
+        if (value.length === 2) {
+            const rank = value[0].toUpperCase();
+            const suit = value[1].toLowerCase();
+            if (!validRank.test(rank) || !validSuit.test(suit)) {
+                // Reset the field if invalid rank or suit
+                setFilters(prev => ({
+                    ...prev,
+                    holeCards: prev.holeCards.map((card, i) => i === index ? '' : card)
+                }));
+                return;
+            }
+        }
+        
+        // If we get here, the input is valid
         setFilters(prev => ({
             ...prev,
             holeCards: prev.holeCards.map((card, i) => i === index ? value : card)
         }));
     };
 
-    const handleDeleteHand = async (handId) => {
+    const handleDeleteClick = (handId) => {
+        setDeleteConfirmation({ show: true, handId });
+    };
+
+    const handleDeleteConfirm = async () => {
         try {
-            await apiService.deleteHand(handId);
-            setHands(prev => prev.filter(hand => hand.id !== handId));
+            const response = await apiService.deleteHand(deleteConfirmation.handId);
+            if (response.deletedHand) {
+                setHands(prev => prev.filter(hand => hand._id !== deleteConfirmation.handId));
+            } else {
+                setError('Failed to delete hand: No confirmation from server');
+            }
         } catch (error) {
             console.error('Error deleting hand:', error);
-            setError('Failed to delete hand');
+            setError(error.response?.data?.message || 'Failed to delete hand');
+        } finally {
+            setDeleteConfirmation({ show: false, handId: null });
         }
+    };
+
+    const handleDeleteCancel = () => {
+        setDeleteConfirmation({ show: false, handId: null });
     };
 
     const handleTournamentNameChange = async (handId, newName) => {
         try {
             await apiService.updateHand(handId, { tournamentName: newName });
             setHands(prev => prev.map(hand => 
-                hand.id === handId ? { ...hand, tournamentName: newName } : hand
+                hand._id === handId ? { ...hand, tournamentName: newName } : hand
             ));
             setEditingTournamentName(null);
         } catch (error) {
@@ -103,62 +144,84 @@ const HandHistoryPage = () => {
         }
     };
 
+    const handleTournamentNameSearch = (e) => {
+        setFilters(prev => ({
+            ...prev,
+            tournamentName: e.target.value
+        }));
+    };
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
                 <h1>Hand History</h1>
                 
                 <div className="filters-section">
-                    <div className="filter-group" key="date-filter">
-                        <label>Date:</label>
-                        <input
-                            type="date"
-                            value={selectedDate}
-                            onChange={handleDateChange}
-                            className="date-picker"
-                            min="2000-01-01"
-                            max="2100-12-31"
-                        />
-                    </div>
-
-                    <div className="filter-group" key="stack-range">
-                        <label>Stack Size (BB):</label>
-                        <div className="stack-range">
+                    <div className="filters-row">
+                        <div className="filter-group" key="date-filter">
+                            <label>Date:</label>
                             <input
-                                type="range"
-                                name="maxStack"
-                                min="0"
-                                max="200"
-                                value={filters.maxStack}
-                                onChange={handleStackRangeChange}
+                                type="date"
+                                value={selectedDate}
+                                onChange={handleDateChange}
+                                className="date-picker"
+                                min="2000-01-01"
+                                max="2100-12-31"
                             />
-                            <div className="stack-values">
-                                <span>{filters.minStack}</span>
-                                <span>{filters.maxStack}</span>
+                        </div>
+
+                        <div className="filter-group" key="stack-range">
+                            <label>Stack Size (BB):</label>
+                            <div className="stack-range">
+                                <input
+                                    type="range"
+                                    name="maxStack"
+                                    min="0"
+                                    max="200"
+                                    value={filters.maxStack}
+                                    onChange={handleStackRangeChange}
+                                />
+                                <div className="stack-values">
+                                    <span>{filters.minStack}</span>
+                                    <span>{filters.maxStack}</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="filter-group" key="hole-cards">
+                            <label>Hole Cards:</label>
+                            <div className="hole-cards-input">
+                                <input
+                                    type="text"
+                                    value={filters.holeCards[0]}
+                                    onChange={(e) => handleHoleCardsChange(0, e.target.value)}
+                                    placeholder="Card 1"
+                                    maxLength={2}
+                                />
+                                <input
+                                    type="text"
+                                    value={filters.holeCards[1]}
+                                    onChange={(e) => handleHoleCardsChange(1, e.target.value)}
+                                    placeholder="Card 2"
+                                    maxLength={2}
+                                />
+                            </div>
+                            <div className="card-format-hint">
+                                Format: Ah Kd
                             </div>
                         </div>
                     </div>
 
-                    <div className="filter-group" key="hole-cards">
-                        <label>Hole Cards:</label>
-                        <div className="hole-cards-input">
+                    <div className="filters-row">
+                        <div className="filter-group tournament-search" key="tournament-search">
+                            <label>Tournament Name:</label>
                             <input
                                 type="text"
-                                value={filters.holeCards[0]}
-                                onChange={(e) => handleHoleCardsChange(0, e.target.value)}
-                                placeholder="Card 1"
-                                maxLength={2}
+                                value={filters.tournamentName}
+                                onChange={handleTournamentNameSearch}
+                                placeholder="Search by tournament name"
+                                className="tournament-search-input"
                             />
-                            <input
-                                type="text"
-                                value={filters.holeCards[1]}
-                                onChange={(e) => handleHoleCardsChange(1, e.target.value)}
-                                placeholder="Card 2"
-                                maxLength={2}
-                            />
-                        </div>
-                        <div className="card-format-hint">
-                            Format: Ah Kd
                         </div>
                     </div>
                 </div>
@@ -171,14 +234,16 @@ const HandHistoryPage = () => {
 
                 {loading ? (
                     <div className="loading-message">Loading hands...</div>
-                ) : !selectedDate ? (
-                    <div className="no-hands-message">Select a date to view hands</div>
                 ) : hands.length === 0 ? (
-                    <div className="no-hands-message">No hands found for this date</div>
+                    <div className="no-hands-message">
+                        {!selectedDate && !filters.tournamentName ? 
+                            "Select a date or enter a tournament name to view hands" :
+                            "No hands found matching your criteria"}
+                    </div>
                 ) : (
                     <div className="hands-grid">
                         {hands.map(hand => (
-                            <div key={hand.id} className="hand-card">
+                            <div key={hand._id} className="hand-card">
                                 <div className="hand-header">
                                     <span className="hand-date">
                                         {new Date(hand.timestamp).toLocaleString(undefined, {
@@ -190,15 +255,15 @@ const HandHistoryPage = () => {
                                         })}
                                     </span>
                                     <div className="hand-actions">
-                                        {editingTournamentName === hand.id ? (
+                                        {editingTournamentName === hand._id ? (
                                             <input
                                                 type="text"
                                                 value={tournamentName}
                                                 onChange={(e) => setTournamentName(e.target.value)}
-                                                onBlur={() => handleTournamentNameChange(hand.id, tournamentName)}
+                                                onBlur={() => handleTournamentNameChange(hand._id, tournamentName)}
                                                 onKeyPress={(e) => {
                                                     if (e.key === 'Enter') {
-                                                        handleTournamentNameChange(hand.id, tournamentName);
+                                                        handleTournamentNameChange(hand._id, tournamentName);
                                                     }
                                                 }}
                                                 className="tournament-name-input"
@@ -208,7 +273,7 @@ const HandHistoryPage = () => {
                                             <span 
                                                 className="hand-game-type clickable"
                                                 onClick={() => {
-                                                    setEditingTournamentName(hand.id);
+                                                    setEditingTournamentName(hand._id);
                                                     setTournamentName(hand.tournamentName || '');
                                                 }}
                                             >
@@ -217,7 +282,7 @@ const HandHistoryPage = () => {
                                         )}
                                         <button 
                                             className="delete-button"
-                                            onClick={() => handleDeleteHand(hand.id)}
+                                            onClick={() => handleDeleteClick(hand._id)}
                                         >
                                             ×
                                         </button>
@@ -306,6 +371,29 @@ const HandHistoryPage = () => {
                                 </div>
                             </div>
                         ))}
+                    </div>
+                )}
+
+                {deleteConfirmation.show && (
+                    <div className="confirmation-dialog-overlay">
+                        <div className="confirmation-dialog">
+                            <h3>Confirm Deletion</h3>
+                            <p>Are you sure you want to delete this hand? This action cannot be undone.</p>
+                            <div className="confirmation-buttons">
+                                <button 
+                                    className="confirm-button"
+                                    onClick={handleDeleteConfirm}
+                                >
+                                    Delete
+                                </button>
+                                <button 
+                                    className="cancel-button"
+                                    onClick={handleDeleteCancel}
+                                >
+                                    Cancel
+                                </button>
+                            </div>
+                        </div>
                     </div>
                 )}
             </div>
