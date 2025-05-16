@@ -122,7 +122,7 @@ const HandHistoryPage = () => {
                 return;
             }
 
-            // Check for duplicate cards
+            // Check for duplicate cards (same rank AND suit)
             const formattedCard = rank + suit;
             const otherCard = filters.holeCards[1 - index]; // Get the other card
             if (otherCard === formattedCard) {
@@ -138,8 +138,8 @@ const HandHistoryPage = () => {
         // If we get here, the input is valid
         setFilters(prev => {
             const newHoleCards = prev.holeCards.map((card, i) => i === index ? value : card);
-            // Check for duplicates after the update
-            if (newHoleCards[0] && newHoleCards[1] && newHoleCards[0] === newHoleCards[1]) {
+            // Check for duplicates after the update (only if both cards have suits)
+            if (newHoleCards[0]?.length === 2 && newHoleCards[1]?.length === 2 && newHoleCards[0] === newHoleCards[1]) {
                 // If duplicates found, revert the change
                 return {
                     ...prev,
