@@ -20,6 +20,11 @@ const HandReplayPage = () => {
                 const data = await apiService.getHand(handId);
                 console.log('Fetched hand data:', JSON.stringify(data, null, 2));
                 setHandData(data);
+
+                // Mark the hand as viewed
+                if (!data.viewed) {
+                    await apiService.updateHand(handId, { viewed: true });
+                }
             } catch (error) {
                 console.error('Error fetching hand:', error);
                 setError('Failed to load hand. Please try again later.');

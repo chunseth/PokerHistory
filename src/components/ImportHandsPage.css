@@ -79,9 +79,10 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 8px;
-    background: #2a2a2a;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.05);
     border-radius: 4px;
+    margin-bottom: 8px;
 }
 
 .file-name {
@@ -215,6 +216,22 @@
     color: #888;
     font-size: 0.9em;
     font-style: italic;
+}
+
+.remove-file-button {
+    background: none;
+    border: none;
+    color: #ff4444;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0 8px;
+    line-height: 1;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.remove-file-button:hover {
+    background-color: rgba(255, 68, 68, 0.1);
 }
 
 /* Responsive adjustments */

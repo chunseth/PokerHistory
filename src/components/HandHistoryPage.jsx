@@ -243,7 +243,15 @@ const HandHistoryPage = () => {
                 ) : (
                     <div className="hands-grid">
                         {hands.map(hand => (
-                            <div key={hand._id} className="hand-card">
+                            <div 
+                                key={hand._id} 
+                                className="hand-card"
+                                onClick={() => navigate(`/hand-replay/${hand._id}`)}
+                                style={{ cursor: 'pointer' }}
+                            >
+                                {!hand.viewed && (
+                                    <div className="new-ribbon">NEW</div>
+                                )}
                                 <div className="hand-header">
                                     <span className="hand-date">
                                         {new Date(hand.timestamp).toLocaleString(undefined, {
@@ -282,13 +290,15 @@ const HandHistoryPage = () => {
                                         )}
                                         <button 
                                             className="delete-button"
-                                            onClick={() => handleDeleteClick(hand._id)}
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                handleDeleteClick(hand._id);
+                                            }}
                                         >
                                             ×
                                         </button>
                                     </div>
                                 </div>
-
                                 <div className="hand-details">
                                     <div className="detail-column">
                                         <div className="detail-label">Stack:</div>
@@ -318,7 +328,6 @@ const HandHistoryPage = () => {
                                         </div>
                                     </div>
                                 </div>
-
                                 <div className="hand-hover-details">
                                     <div className="hover-detail-row">
                                         <span className="hover-detail-label">Community Cards:</span>

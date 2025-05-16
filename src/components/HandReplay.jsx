@@ -78,63 +78,16 @@ const HandReplay = ({ handData }) => {
         if (isStreetTransition) {
             setIsStreetTransition(false);
             setActionAnimation('visible');
-            return;
-        }
 
-        // If we're at the end of the current street's actions, check if we need to transition to the next street
-        if (currentActionIndex >= 0 && currentActionIndex < handData.bettingActions.length - 1) {
-            const currentAction = handData.bettingActions[currentActionIndex];
-            const nextAction = handData.bettingActions[currentActionIndex + 1];
-            
-            // If the next action is in a different street, transition to that street first
-            if (nextAction.street !== currentAction.street) {
-                setCurrentStreet(nextAction.street);
-                setStreetBets({});
-                setCurrentBet(0);
-                setLastRaise(0);
-                setCurrentActionIndex(prev => prev + 1);
-                setIsStreetTransition(true);
-                setActionAnimation('visible');
-                
-                // Process the next action immediately after transition
-                const playerIndex = nextAction.playerIndex;
-                const actionAmount = nextAction.amount || 0;
+            // Process the next action after transition is complete
+            const nextAction = handData.bettingActions[currentActionIndex];
+            console.log('Processing action after transition:', {
+                action: nextAction,
+                currentActionIndex,
+                isAllIn: nextAction.isAllIn,
+                actionType: nextAction.action
+            });
 
-                if (nextAction.action === 'bet') {
-                    setCurrentBet(actionAmount);
-                    setLastRaise(actionAmount);
-                    setLastRaiser(playerIndex);
-                }
-
-                // Update player bets
-                setPlayerBets(prev => ({
-                    ...prev,
-                    [playerIndex]: (prev[playerIndex] || 0) + actionAmount
-                }));
-
-                // Update street bets
-                setStreetBets(prev => ({
-                    ...prev,
-                    [playerIndex]: (prev[playerIndex] || 0) + actionAmount
-                }));
-
-                // Update pot size
-                setPotSize(prev => prev + actionAmount);
-
-                // Update all-in status
-                if (nextAction.isAllIn) {
-                    setAllInPlayers(prev => new Set([...prev, playerIndex]));
-                }
-
-                return;
-            }
-        }
-
-        if (currentActionIndex < handData.bettingActions.length - 1) {
-            // Start slide out animation
-            setActionAnimation('slide-out');
-
-            const nextAction = handData.bettingActions[currentActionIndex + 1];
             const playerIndex = nextAction.playerIndex;
             const actionAmount = nextAction.amount || 0;
             
@@ -150,6 +103,11 @@ const HandReplay = ({ handData }) => {
                 setLastRaise(actionAmount);
                 setLastRaiser(playerIndex);
             } else if (nextAction.action === 'post') {
+                console.log('Processing blind post:', {
+                    position: nextAction.position,
+                    amount: nextAction.amount,
+                    isAllIn: nextAction.isAllIn
+                });
                 // For blind posts, update the current bet
                 if (nextAction.position === 'BB') {
                     setCurrentBet(1);
@@ -173,8 +131,101 @@ const HandReplay = ({ handData }) => {
             // Update pot size
             setPotSize(prev => prev + actionAmount);
 
-            // Update all-in status
-            if (nextAction.isAllIn) {
+            // Update all-in status - only if it's not a blind post
+            if (nextAction.isAllIn && nextAction.action !== 'post') {
+                console.log('Setting all-in status for non-blind post:', {
+                    playerIndex,
+                    action: nextAction
+                });
+                setAllInPlayers(prev => new Set([...prev, playerIndex]));
+            }
+            return;
+        }
+
+        // If we're at the end of the current street's actions, check if we need to transition to the next street
+        if (currentActionIndex >= 0 && currentActionIndex < handData.bettingActions.length - 1) {
+            const currentAction = handData.bettingActions[currentActionIndex];
+            const nextAction = handData.bettingActions[currentActionIndex + 1];
+            
+            // If the next action is in a different street, transition to that street first
+            if (nextAction.street !== currentAction.street) {
+                console.log('Street transition:', {
+                    from: currentAction.street,
+                    to: nextAction.street,
+                    nextAction
+                });
+                setCurrentStreet(nextAction.street);
+                setStreetBets({});
+                setCurrentBet(0);
+                setLastRaise(0);
+                setCurrentActionIndex(prev => prev + 1);
+                setIsStreetTransition(true);
+                setActionAnimation('visible');
+                return;
+            }
+        }
+
+        if (currentActionIndex < handData.bettingActions.length - 1) {
+            // Start slide out animation
+            setActionAnimation('slide-out');
+
+            const nextAction = handData.bettingActions[currentActionIndex + 1];
+            console.log('Processing next action:', {
+                action: nextAction,
+                currentActionIndex,
+                isAllIn: nextAction.isAllIn,
+                actionType: nextAction.action
+            });
+
+            const playerIndex = nextAction.playerIndex;
+            const actionAmount = nextAction.amount || 0;
+            
+            if (nextAction.action === 'fold') {
+                setFoldedPlayers(prev => new Set([...prev, playerIndex]));
+            } else if (nextAction.action === 'raise') {
+                const totalBet = currentBet + actionAmount;
+                setLastRaise(actionAmount);
+                setCurrentBet(totalBet);
+                setLastRaiser(playerIndex);
+            } else if (nextAction.action === 'bet') {
+                setCurrentBet(actionAmount);
+                setLastRaise(actionAmount);
+                setLastRaiser(playerIndex);
+            } else if (nextAction.action === 'post') {
+                console.log('Processing blind post:', {
+                    position: nextAction.position,
+                    amount: nextAction.amount,
+                    isAllIn: nextAction.isAllIn
+                });
+                // For blind posts, update the current bet
+                if (nextAction.position === 'BB') {
+                    setCurrentBet(1);
+                } else if (nextAction.position === 'SB') {
+                    setCurrentBet(0.5);
+                }
+            }
+
+            // Update player bets
+            setPlayerBets(prev => ({
+                ...prev,
+                [playerIndex]: (prev[playerIndex] || 0) + actionAmount
+            }));
+
+            // Update street bets
+            setStreetBets(prev => ({
+                ...prev,
+                [playerIndex]: (prev[playerIndex] || 0) + actionAmount
+            }));
+
+            // Update pot size
+            setPotSize(prev => prev + actionAmount);
+
+            // Update all-in status - only if it's not a blind post
+            if (nextAction.isAllIn && nextAction.action !== 'post') {
+                console.log('Setting all-in status for non-blind post:', {
+                    playerIndex,
+                    action: nextAction
+                });
                 setAllInPlayers(prev => new Set([...prev, playerIndex]));
             }
 
@@ -352,6 +403,121 @@ const HandReplay = ({ handData }) => {
         const showTurn = currentStreet === 'turn' || currentStreet === 'river';
         const showRiver = currentStreet === 'river';
 
+        // Check if we're in a street transition
+        const isTransitioning = isStreetTransition;
+
+        // Count active players (not folded)
+        const activePlayers = Array.from({ length: handData.numPlayers }, (_, i) => i)
+            .filter(i => !foldedPlayers.has(i));
+
+        // Get the current action if any
+        const currentAction = currentActionIndex >= 0 ? handData.bettingActions[currentActionIndex] : null;
+
+        // Get all actions up to current point
+        const actionsUpToNow = handData.bettingActions.slice(0, currentActionIndex + 1);
+
+        // Check if there has been an all-in action (excluding blind posts)
+        const hasAllInAction = actionsUpToNow.some(action => 
+            action.isAllIn === true && 
+            action.action !== 'post'
+        );
+
+        // Get the first all-in action
+        const firstAllInAction = actionsUpToNow.find(action => 
+            action.isAllIn === true && 
+            action.action !== 'post'
+        );
+
+        // Get unique players who have either gone all-in or called an all-in bet
+        const allInOrCalledPlayers = new Set();
+        
+        if (firstAllInAction) {
+            // Add the all-in player
+            allInOrCalledPlayers.add(firstAllInAction.playerIndex);
+            
+            // Add any players who called after the all-in
+            actionsUpToNow.forEach(action => {
+                if (action.action === 'call' && 
+                    handData.bettingActions.indexOf(action) > handData.bettingActions.indexOf(firstAllInAction)) {
+                    allInOrCalledPlayers.add(action.playerIndex);
+                }
+            });
+        }
+
+        // Check if this is the last player to act
+        const isLastPlayerToAct = currentAction && 
+            currentAction.position === 'BB' && 
+            (currentAction.action === 'fold' || currentAction.action === 'call') && 
+            hasAllInAction;
+
+        // Count players who haven't gone all-in or called
+        const remainingActivePlayers = activePlayers.length - allInOrCalledPlayers.size;
+
+        // Show all remaining cards if:
+        // 1. We're transitioning and exactly one player hasn't gone all-in or called, OR
+        // 2. All players have acted (folded, all-in, or called all-in)
+        const showAllRemainingCards = (isTransitioning && remainingActivePlayers === 1) || 
+            (isLastPlayerToAct && allInOrCalledPlayers.size + foldedPlayers.size === handData.numPlayers);
+
+        // Debug logging for all-in and called actions
+        const allInActions = actionsUpToNow.filter(action => 
+            action.isAllIn === true && 
+            action.action !== 'post'
+        );
+        const calledActions = actionsUpToNow.filter(action => 
+            action.action === 'call' && 
+            firstAllInAction &&
+            handData.bettingActions.indexOf(action) > handData.bettingActions.indexOf(firstAllInAction)
+        );
+
+        console.log('Community cards display:', {
+            currentStreet,
+            showFlop,
+            showTurn,
+            showRiver,
+            isTransitioning,
+            activePlayers: activePlayers.length,
+            allInOrCalledCount: allInOrCalledPlayers.size,
+            foldedCount: foldedPlayers.size,
+            remainingActivePlayers,
+            totalPlayers: handData.numPlayers,
+            hasAllInAction,
+            isLastPlayerToAct,
+            showAllRemainingCards,
+            debug: {
+                allInActions: allInActions.map(a => ({
+                    action: a.action,
+                    playerIndex: a.playerIndex,
+                    position: a.position,
+                    isAllIn: a.isAllIn
+                })),
+                calledActions: calledActions.map(a => ({
+                    action: a.action,
+                    playerIndex: a.playerIndex,
+                    position: a.position,
+                    isAllIn: a.isAllIn
+                })),
+                allInOrCalledPlayers: Array.from(allInOrCalledPlayers),
+                foldedPlayers: Array.from(foldedPlayers),
+                condition1: isLastPlayerToAct,
+                condition2: allInOrCalledPlayers.size + foldedPlayers.size,
+                condition3: handData.numPlayers,
+                currentActionPosition: currentAction?.position,
+                firstAllInAction: firstAllInAction ? {
+                    action: firstAllInAction.action,
+                    playerIndex: firstAllInAction.playerIndex,
+                    position: firstAllInAction.position,
+                    isAllIn: firstAllInAction.isAllIn
+                } : null
+            },
+            currentAction: currentAction ? {
+                action: currentAction.action,
+                playerIndex: currentAction.playerIndex,
+                isAllIn: currentAction.isAllIn,
+                position: currentAction.position
+            } : null
+        });
+
         return (
             <div className="community-cards">
                 {showFlop && handData.communityCards.flop.map((card, index) => (
@@ -359,12 +525,12 @@ const HandReplay = ({ handData }) => {
                         {renderCard(card)}
                     </div>
                 ))}
-                {showTurn && (
+                {(showTurn || showAllRemainingCards) && (
                     <div className="card-container">
                         {renderCard(handData.communityCards.turn)}
                     </div>
                 )}
-                {showRiver && (
+                {(showRiver || showAllRemainingCards) && (
                     <div className="card-container">
                         {renderCard(handData.communityCards.river)}
                     </div>
@@ -398,14 +564,16 @@ const HandReplay = ({ handData }) => {
             const playerBet = streetBets[i] || 0;
             const isVillain = !foldedPlayers.has(i) && i !== handData.heroPosition;
 
-            // Get all actions for this player in the current street
-            const currentStreetActions = handData.bettingActions.filter(action => 
-                action.street === currentStreet && 
-                action.playerIndex === i
-            );
+            // Get all actions for this player up to the current action
+            const playerActions = handData.bettingActions
+                .slice(0, currentActionIndex + 1)
+                .filter(action => action.playerIndex === i);
             
-            // Check if any action in current street was all-in
-            const isAllIn = currentStreetActions.some(action => action.isAllIn === true);
+            // Check if any action was all-in (excluding blind posts)
+            const isAllIn = playerActions.some(action => 
+                action.isAllIn === true && 
+                action.action !== 'post'
+            );
 
             // Get the last action for this player in the current street
             const lastAction = currentActionIndex >= 0 ? 
@@ -418,7 +586,9 @@ const HandReplay = ({ handData }) => {
                 // Exclude BB's preflop check
                 !(lastAction.street === 'preflop' && 
                   getPlayerPosition(i) === 'BB' && 
-                  lastAction.action === 'check');
+                  lastAction.action === 'check') &&
+                // Don't show check during street transition
+                !isStreetTransition;
 
             // Check if this is the current player's action
             const isCurrentPlayer = lastAction && lastAction.playerIndex === i;
@@ -470,7 +640,7 @@ const HandReplay = ({ handData }) => {
     const renderCurrentAction = () => {
         if (currentActionIndex < 0) return null;
         
-        // If we're in a street transition, show the transition message
+        // If we're in a street transition, show only the transition message
         if (isStreetTransition) {
             return (
                 <div className={`last-action ${actionAnimation}`}>

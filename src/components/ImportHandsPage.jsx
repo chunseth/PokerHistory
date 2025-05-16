@@ -18,10 +18,14 @@ const ImportHandsPage = () => {
 
     const handleFileChange = (e) => {
         const selectedFiles = Array.from(e.target.files);
-        setFiles(selectedFiles.map(file => ({
-            file,
-            tournamentName: ''
-        })));
+        setFiles(selectedFiles.map(file => {
+            const extractedName = file.name.match(/TN-(.*?)GAMETYPE/)?.[1].trim() || '';
+            return {
+                file,
+                tournamentName: extractedName,
+                displayName: extractedName
+            };
+        }));
         setError(null);
         setSuccess(false);
     };
@@ -35,6 +39,10 @@ const ImportHandsPage = () => {
             };
             return newFiles;
         });
+    };
+
+    const handleRemoveFile = (index) => {
+        setFiles(prevFiles => prevFiles.filter((_, i) => i !== index));
     };
 
     const handleUpload = async () => {
@@ -77,6 +85,11 @@ const ImportHandsPage = () => {
             setFiles([]);
             // Reset file input
             document.getElementById('fileInput').value = '';
+            
+            // Wait for 2 seconds to show success message before redirecting
+            setTimeout(() => {
+                navigate('/hand-history');
+            }, 1000);
         } catch (error) {
             console.error('Error uploading files:', error);
             setError(error.response?.data?.message || 'Failed to upload files. Please try again.');
@@ -114,7 +127,7 @@ const ImportHandsPage = () => {
                         <div className="files-list">
                             {files.map((fileData, index) => (
                                 <div key={index} className="file-item">
-                                    <span className="file-name">{fileData.file.name}</span>
+                                    <span className="file-name">{fileData.displayName}</span>
                                     <input
                                         type="text"
                                         placeholder="Tournament Name (optional)"
@@ -122,6 +135,13 @@ const ImportHandsPage = () => {
                                         onChange={(e) => handleTournamentNameChange(index, e.target.value)}
                                         className="tournament-name-input"
                                     />
+                                    <button 
+                                        className="remove-file-button"
+                                        onClick={() => handleRemoveFile(index)}
+                                        title="Remove file"
+                                    >
+                                        ×
+                                    </button>
                                 </div>
                             ))}
                         </div>
@@ -186,10 +206,8 @@ const ImportHandsPage = () => {
                     <h2>Instructions</h2>
                     <ol>
                         <li>Select one or more hand history text files (.txt)</li>
-                        <li>Optionally enter a tournament name for each file</li>
-                        <li>Click "Upload Files" to begin the import process</li>
-                        <li>Wait for the upload and processing to complete</li>
-                        <li>You will be redirected to the hand history page</li>
+                        <li>Enter a tournament name for each file</li>
+                        <li>Click "Upload Files"</li>
                     </ol>
                     <p className="note">
                         Note: Only hands that go beyond preflop and where you are involved will be imported.

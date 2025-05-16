@@ -219,19 +219,36 @@
 }
 
 .hand-card {
-    background: #2a2a2a;
+    position: relative;
+    background: #1a1a1a;
     border-radius: 8px;
     padding: 15px;
     color: #fff;
-    position: relative;
-    transition: all 0.2s ease;
-    overflow: visible;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 150px;
-    flex: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease;
+}
+
+.new-ribbon {
+    position: absolute;
+    top: 10px;
+    left: -5px;
+    background: #ff4444;
+    color: white;
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.new-ribbon::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    border-top: 5px solid #cc0000;
+    border-left: 5px solid transparent;
 }
 
 .hand-card:hover {
@@ -250,6 +267,11 @@
 .hand-date {
     color: #888;
     font-size: 0.9em;
+}
+
+/* Add margin only when there's a new ribbon */
+.hand-card:has(.new-ribbon) .hand-date {
+    margin-left: 50px;
 }
 
 .hand-actions {
