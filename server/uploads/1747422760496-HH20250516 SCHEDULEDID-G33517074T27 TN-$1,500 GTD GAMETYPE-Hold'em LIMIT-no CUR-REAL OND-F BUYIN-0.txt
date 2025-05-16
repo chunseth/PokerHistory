@@ -1,0 +1,1494 @@
+Game Hand #2457086566 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:35:11 UTC
+Table '27' 8-max Seat #2 is the button
+Seat 1: STR8 CRUSHER (49775.00) is sitting out
+Seat 2: FisheySticks (52250.00)
+Seat 3: CLUMPI (123780.00)
+Seat 4: Bruphi2023 (27787.00)
+Seat 5: bobbysinger (33107.00)
+Seat 6: Dinobots (82720.00)
+Seat 7: Samsawing (88015.00)
+Seat 8: grotle (50000.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+CLUMPI posts the small blind 900.00
+Bruphi2023 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jd 3h]
+bobbysinger folds
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI calls 900.00
+Bruphi2023 checks
+*** FLOP *** [4s Js 4h]
+Main pot 5400.00
+CLUMPI bets 3564.00
+Bruphi2023 folds
+Uncalled bet (3564.00) returned to CLUMPI
+CLUMPI does not show
+*** SUMMARY ***
+Total pot 5400.00
+Board [4s Js 4h]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks (button) folded on the Pre-Flop
+Seat 3: CLUMPI did not show and won 5400.00
+Seat 4: Bruphi2023 (big blind) folded on the Flop
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457087057 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:36:01 UTC
+Table '27' 8-max Seat #3 is the button
+Seat 1: STR8 CRUSHER (49550.00)
+Seat 2: FisheySticks (52025.00)
+Seat 3: CLUMPI (127155.00)
+Seat 4: Bruphi2023 (25762.00)
+Seat 5: bobbysinger (32882.00)
+Seat 6: Dinobots (82495.00)
+Seat 7: Samsawing (87790.00)
+Seat 8: grotle (49775.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+Bruphi2023 posts the small blind 900.00
+bobbysinger posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [9h Qd]
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks raises 4500.00 to 4500.00
+CLUMPI folds
+Bruphi2023 raises 24637.00 to 25537.00 and is all-in
+bobbysinger folds
+FisheySticks folds
+Uncalled bet (21037.00) returned to Bruphi2023
+Bruphi2023 does not show
+*** SUMMARY ***
+Total pot 12600.00
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI (button) folded on the Pre-Flop
+Seat 4: Bruphi2023 did not show and won 12600.00
+Seat 5: bobbysinger (big blind) folded on the Pre-Flop
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457087427 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:36:40 UTC
+Table '27' 8-max Seat #4 is the button
+Seat 1: STR8 CRUSHER (49325.00)
+Seat 2: FisheySticks (47300.00)
+Seat 3: CLUMPI (126930.00)
+Seat 4: Bruphi2023 (33637.00)
+Seat 5: bobbysinger (30857.00)
+Seat 6: Dinobots (82270.00)
+Seat 7: Samsawing (87565.00)
+Seat 8: grotle (49550.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+bobbysinger posts the small blind 900.00
+Dinobots posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5c 7h]
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI raises 3600.00 to 3600.00
+Bruphi2023 folds
+bobbysinger folds
+Dinobots folds
+Uncalled bet (1800.00) returned to CLUMPI
+CLUMPI does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI did not show and won 6300.00
+Seat 4: Bruphi2023 (button) folded on the Pre-Flop
+Seat 5: bobbysinger (small blind) folded on the Pre-Flop
+Seat 6: Dinobots (big blind) folded on the Pre-Flop
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457087926 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:37:30 UTC
+Table '27' 8-max Seat #5 is the button
+Seat 1: STR8 CRUSHER (49100.00)
+Seat 2: FisheySticks (47075.00)
+Seat 3: CLUMPI (131205.00)
+Seat 4: Bruphi2023 (33412.00)
+Seat 5: bobbysinger (29732.00)
+Seat 6: Dinobots (80245.00)
+Seat 7: Samsawing (87340.00)
+Seat 8: grotle (49325.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+Dinobots posts the small blind 900.00
+Samsawing posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [4h 3c]
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI raises 3600.00 to 3600.00
+Bruphi2023 raises 9000.00 to 9000.00
+bobbysinger folds
+Dinobots folds
+Samsawing folds
+CLUMPI calls 5400.00
+*** FLOP *** [Jd 4c 7c]
+Main pot 22500.00
+CLUMPI checks
+Bruphi2023 bets 4725.00
+CLUMPI calls 4725.00
+*** TURN *** [Jd 4c 7c] [2d]
+Main pot 31950.00
+CLUMPI bets 117255.00 and is all-in
+Bruphi2023 calls 19462.00 and is all-in
+Uncalled bet (97793.00) returned to CLUMPI
+*** RIVER *** [Jd 4c 7c 2d] [4s]
+Main pot 70874.00
+*** SHOW DOWN ***
+Main pot 70874.00
+CLUMPI shows [8s 8h] (two pair, Eights and Fours [8s 8h 4s 4c Jd])
+Bruphi2023 shows [Ah As] (two pair, Aces and Fours [As Ah 4s 4c Jd])
+Bruphi2023 collected 70874.00 from main pot
+*** SUMMARY ***
+Total pot 70874.00
+Board [Jd 4c 7c 2d 4s]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI showed [8s 8h] and lost with two pair, Eights and Fours [8s 8h 4s 4c Jd]
+Seat 4: Bruphi2023 showed [Ah As] and won 70874.00 with two pair, Aces and Fours [As Ah 4s 4c Jd]
+Seat 5: bobbysinger (button) folded on the Pre-Flop
+Seat 6: Dinobots (small blind) folded on the Pre-Flop
+Seat 7: Samsawing (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457088593 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:38:39 UTC
+Table '27' 8-max Seat #6 is the button
+Seat 1: STR8 CRUSHER (48875.00)
+Seat 2: FisheySticks (46850.00)
+Seat 3: CLUMPI (97793.00)
+Seat 4: Bruphi2023 (70874.00)
+Seat 5: bobbysinger (29507.00)
+Seat 6: Dinobots (79120.00)
+Seat 7: Samsawing (85315.00)
+Seat 8: grotle (49100.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+Samsawing posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Tc 8d]
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 folds
+bobbysinger folds
+Dinobots folds
+Samsawing calls 900.00
+grotle raises 4500.00 to 6300.00
+Samsawing calls 4500.00
+*** FLOP *** [Kh 6h 3c]
+Main pot 14400.00
+Samsawing checks
+grotle bets 7200.00
+Samsawing folds
+Uncalled bet (7200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 14400.00
+Board [Kh 6h 3c]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots (button) folded on the Pre-Flop
+Seat 7: Samsawing (small blind) folded on the Flop
+Seat 8: grotle did not show and won 14400.00
+
+Game Hand #2457089472 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:40:11 UTC
+Table '27' 8-max Seat #7 is the button
+Seat 1: STR8 CRUSHER (48650.00)
+Seat 2: FisheySticks (46625.00)
+Seat 3: CLUMPI (97568.00)
+Seat 4: Bruphi2023 (70649.00)
+Seat 5: bobbysinger (29282.00)
+Seat 6: Dinobots (78895.00)
+Seat 7: Samsawing (78790.00)
+Seat 8: grotle (56975.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+grotle posts the small blind 900.00
+STR8 CRUSHER posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [9s 8h]
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 raises 3600.00 to 3600.00
+bobbysinger folds
+Dinobots folds
+Samsawing calls 3600.00
+grotle folds
+STR8 CRUSHER calls 1800.00
+*** FLOP *** [5c 3h 4h]
+Main pot 13500.00
+STR8 CRUSHER checks
+Bruphi2023 checks
+Samsawing bets 6885.00
+STR8 CRUSHER calls 6885.00
+Bruphi2023 calls 6885.00
+*** TURN *** [5c 3h 4h] [7c]
+Main pot 34155.00
+STR8 CRUSHER checks
+Bruphi2023 checks
+Samsawing checks
+*** RIVER *** [5c 3h 4h 7c] [Tc]
+Main pot 34155.00
+STR8 CRUSHER checks
+Bruphi2023 checks
+Samsawing checks
+*** SHOW DOWN ***
+Main pot 34155.00
+STR8 CRUSHER shows [Kh Jh] (a high card, King high [Kh Jh Tc 7c 5c])
+Bruphi2023 shows [Jd Qh] (a high card, Queen high [Qh Jd Tc 7c 5c])
+Samsawing shows [5s As] (a pair of Fives [5s 5c As Tc 7c])
+Samsawing collected 34155.00 from main pot
+*** SUMMARY ***
+Total pot 34155.00
+Board [5c 3h 4h 7c Tc]
+Seat 1: STR8 CRUSHER (big blind) showed [Kh Jh] and lost with a high card, King high [Kh Jh Tc 7c 5c]
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 showed [Jd Qh] and lost with a high card, Queen high [Qh Jd Tc 7c 5c]
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing (button) showed [5s As] and won 34155.00 with a pair of Fives [5s 5c As Tc 7c]
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2457090085 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:41:12 UTC
+Table '27' 8-max Seat #8 is the button
+Seat 1: STR8 CRUSHER (37940.00)
+Seat 2: FisheySticks (46400.00)
+Seat 3: CLUMPI (97343.00)
+Seat 4: Bruphi2023 (59939.00)
+Seat 5: bobbysinger (29057.00)
+Seat 6: Dinobots (78670.00)
+Seat 7: Samsawing (102235.00)
+Seat 8: grotle (55850.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+STR8 CRUSHER posts the small blind 900.00
+FisheySticks posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2h 6c]
+CLUMPI folds
+Bruphi2023 folds
+bobbysinger folds
+Dinobots folds
+Samsawing raises 3960.00 to 3960.00
+grotle folds
+STR8 CRUSHER raises 36815.00 to 37715.00 and is all-in
+FisheySticks folds
+Samsawing folds
+Uncalled bet (33755.00) returned to STR8 CRUSHER
+STR8 CRUSHER does not show
+*** SUMMARY ***
+Total pot 11520.00
+Seat 1: STR8 CRUSHER did not show and won 11520.00
+Seat 2: FisheySticks (big blind) folded on the Pre-Flop
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2457090631 - Tournament #33517074 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/05/16 18:42:07 UTC
+Table '27' 8-max Seat #1 is the button
+Seat 1: STR8 CRUSHER (45275.00)
+Seat 2: FisheySticks (44375.00)
+Seat 3: CLUMPI (97118.00)
+Seat 4: Bruphi2023 (59714.00)
+Seat 5: bobbysinger (28832.00)
+Seat 6: Dinobots (78445.00)
+Seat 7: Samsawing (98050.00)
+Seat 8: grotle (55625.00)
+STR8 CRUSHER posts ante 225.00
+FisheySticks posts ante 225.00
+CLUMPI posts ante 225.00
+Bruphi2023 posts ante 225.00
+bobbysinger posts ante 225.00
+Dinobots posts ante 225.00
+Samsawing posts ante 225.00
+grotle posts ante 225.00
+FisheySticks posts the small blind 900.00
+CLUMPI posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5d 2h]
+Bruphi2023 folds
+bobbysinger folds
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks raises 3600.00 to 4500.00
+CLUMPI calls 2700.00
+*** FLOP *** [Ad 7s Ks]
+Main pot 10800.00
+FisheySticks bets 10800.00
+CLUMPI folds
+Uncalled bet (10800.00) returned to FisheySticks
+FisheySticks does not show
+*** SUMMARY ***
+Total pot 10800.00
+Board [Ad 7s Ks]
+Seat 1: STR8 CRUSHER (button) folded on the Pre-Flop
+Seat 2: FisheySticks did not show and won 10800.00
+Seat 3: CLUMPI (big blind) folded on the Flop
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457091088 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:42:49 UTC
+Table '27' 8-max Seat #2 is the button
+Seat 1: STR8 CRUSHER (45050.00)
+Seat 2: FisheySticks (50450.00)
+Seat 3: CLUMPI (92393.00)
+Seat 4: Bruphi2023 (59489.00)
+Seat 5: bobbysinger (28607.00)
+Seat 6: Dinobots (78220.00)
+Seat 7: Samsawing (97825.00)
+Seat 8: grotle (55400.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+bobbysinger posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+CLUMPI posts the small blind 1000.00
+Bruphi2023 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [3h Jc]
+bobbysinger folds
+Dinobots folds
+Samsawing raises 4400.00 to 4400.00
+grotle folds
+STR8 CRUSHER folds
+FisheySticks raises 11800.00 to 11800.00
+CLUMPI folds
+Bruphi2023 folds
+Samsawing calls 7400.00
+*** FLOP *** [4s Tc 7s]
+Main pot 28600.00
+Samsawing bets 3000.00
+FisheySticks raises 18300.00 to 18300.00
+Samsawing folds
+Uncalled bet (15300.00) returned to FisheySticks
+FisheySticks shows [Ad Ah]
+*** SUMMARY ***
+Total pot 34600.00
+Board [4s Tc 7s]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks (button) showed [Ad Ah] and won 34600.00
+Seat 3: CLUMPI (small blind) folded on the Pre-Flop
+Seat 4: Bruphi2023 (big blind) folded on the Pre-Flop
+Seat 5: bobbysinger folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457091959 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:44:19 UTC
+Table '27' 8-max Seat #3 is the button
+Seat 1: STR8 CRUSHER (44800.00)
+Seat 2: FisheySticks (70000.00)
+Seat 3: CLUMPI (91143.00)
+Seat 4: Bruphi2023 (57239.00)
+Seat 5: bobbysinger (28357.00)
+Seat 6: Dinobots (77970.00)
+Seat 7: Samsawing (82775.00)
+Seat 8: grotle (55150.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+bobbysinger posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+Bruphi2023 posts the small blind 1000.00
+bobbysinger posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8h 2c]
+Dinobots folds
+Samsawing raises 4400.00 to 4400.00
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 raises 14000.00 to 15000.00
+bobbysinger folds
+Samsawing calls 10600.00
+*** FLOP *** [Tc Td 2h]
+Main pot 34000.00
+Bruphi2023 bets 41989.00 and is all-in
+Samsawing folds
+Uncalled bet (41989.00) returned to Bruphi2023
+Bruphi2023 does not show
+*** SUMMARY ***
+Total pot 34000.00
+Board [Tc Td 2h]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI (button) folded on the Pre-Flop
+Seat 4: Bruphi2023 did not show and won 34000.00
+Seat 5: bobbysinger (big blind) folded on the Pre-Flop
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457092689 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:45:36 UTC
+Table '27' 8-max Seat #4 is the button
+Seat 1: STR8 CRUSHER (44550.00)
+Seat 2: FisheySticks (69750.00)
+Seat 3: CLUMPI (90893.00)
+Seat 4: Bruphi2023 (75989.00)
+Seat 5: bobbysinger (26107.00)
+Seat 6: Dinobots (77720.00)
+Seat 7: Samsawing (67525.00)
+Seat 8: grotle (54900.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+bobbysinger posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+bobbysinger posts the small blind 1000.00
+Dinobots posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ah Ks]
+Samsawing folds
+grotle raises 5000.00 to 5000.00
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 folds
+bobbysinger raises 24857.00 to 25857.00 and is all-in
+Dinobots folds
+grotle calls 20857.00
+*** FLOP *** [2s 8h Qd]
+Main pot 55714.00
+*** TURN *** [2s 8h Qd] [6c]
+Main pot 55714.00
+*** RIVER *** [2s 8h Qd 6c] [9c]
+Main pot 55714.00
+*** SHOW DOWN ***
+Main pot 55714.00
+bobbysinger shows [Js Ad] (a high card, Ace high [Ad Qd Js 9c 8h])
+grotle shows [Ah Ks] (a high card, Ace high [Ah Ks Qd 9c 8h])
+grotle collected 55714.00 from main pot
+*** SUMMARY ***
+Total pot 55714.00
+Board [2s 8h Qd 6c 9c]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 (button) folded on the Pre-Flop
+Seat 5: bobbysinger (small blind) showed [Js Ad] and lost with a high card, Ace high [Ad Qd Js 9c 8h]
+Seat 6: Dinobots (big blind) folded on the Pre-Flop
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [Ah Ks] and won 55714.00 with a high card, Ace high [Ah Ks Qd 9c 8h] with the kicker King
+
+Game Hand #2457093066 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:46:13 UTC
+Table '27' 8-max Seat #5 is the button
+Seat 1: STR8 CRUSHER (44300.00)
+Seat 2: FisheySticks (69500.00)
+Seat 3: CLUMPI (90643.00)
+Seat 4: Bruphi2023 (75739.00)
+Seat 6: Dinobots (75470.00)
+Seat 7: Samsawing (67275.00)
+Seat 8: grotle (84507.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+Dinobots posts the small blind 1000.00
+Samsawing posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [9d 3c]
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 folds
+Dinobots calls 1000.00
+Samsawing raises 5000.00 to 7000.00
+Dinobots calls 5000.00
+*** FLOP *** [3s 4c Tc]
+Main pot 15750.00
+Dinobots bets 5040.00
+Samsawing calls 5040.00
+*** TURN *** [3s 4c Tc] [Jh]
+Main pot 25830.00
+Dinobots checks
+Samsawing bets 13173.00
+Dinobots folds
+Uncalled bet (13173.00) returned to Samsawing
+Samsawing does not show
+*** SUMMARY ***
+Total pot 25830.00
+Board [3s 4c Tc Jh]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 6: Dinobots (small blind) folded on the Turn
+Seat 7: Samsawing did not show and won 25830.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457094268 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:48:18 UTC
+Table '27' 8-max Seat #6 is the button
+Seat 1: STR8 CRUSHER (44050.00)
+Seat 2: FisheySticks (69250.00)
+Seat 3: CLUMPI (90393.00)
+Seat 4: Bruphi2023 (75489.00)
+Seat 5: prism1944 (50000.00)
+Seat 6: Dinobots (63180.00)
+Seat 7: Samsawing (80815.00)
+Seat 8: grotle (84257.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+prism1944 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+Samsawing posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [4s 6d]
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 folds
+prism1944 folds
+Dinobots folds
+Samsawing calls 1000.00
+grotle checks
+*** FLOP *** [3d 5s As]
+Main pot 6000.00
+Samsawing bets 3060.00
+grotle raises 8120.00 to 8120.00
+Samsawing folds
+Uncalled bet (5060.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12120.00
+Board [3d 5s As]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: prism1944 folded on the Pre-Flop and did not bet
+Seat 6: Dinobots (button) folded on the Pre-Flop
+Seat 7: Samsawing (small blind) folded on the Flop
+Seat 8: grotle did not show and won 12120.00
+
+Game Hand #2457094828 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:49:16 UTC
+Table '27' 8-max Seat #7 is the button
+Seat 1: STR8 CRUSHER (43800.00)
+Seat 2: FisheySticks (69000.00)
+Seat 3: CLUMPI (90143.00)
+Seat 4: Bruphi2023 (75239.00)
+Seat 5: prism1944 (49750.00)
+Seat 6: Dinobots (62930.00)
+Seat 7: Samsawing (75505.00)
+Seat 8: grotle (91067.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+prism1944 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+grotle posts the small blind 1000.00
+STR8 CRUSHER posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8h 8d]
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 raises 4000.00 to 4000.00
+prism1944 calls 4000.00
+Dinobots folds
+Samsawing folds
+grotle raises 16000.00 to 17000.00
+STR8 CRUSHER folds
+Bruphi2023 calls 13000.00
+prism1944 calls 13000.00
+*** FLOP *** [7d 9s Jd]
+Main pot 55000.00
+grotle checks
+Bruphi2023 checks
+prism1944 bets 27500.00
+grotle calls 27500.00
+Bruphi2023 folds
+*** TURN *** [7d 9s Jd] [8c]
+Main pot 110000.00
+grotle bets 46317.00 and is all-in
+prism1944 calls 5000.00 and is all-in
+Uncalled bet (41317.00) returned to grotle
+*** RIVER *** [7d 9s Jd 8c] [6d]
+Main pot 120000.00
+*** SHOW DOWN ***
+Main pot 120000.00
+prism1944 shows [Ah Jh] (a pair of Jacks [Jh Jd Ah 9s 8c])
+grotle shows [8h 8d] (three of a kind, Set of Eights [8h 8d 8c Jd 9s])
+grotle collected 120000.00 from main pot
+*** SUMMARY ***
+Total pot 120000.00
+Board [7d 9s Jd 8c 6d]
+Seat 1: STR8 CRUSHER (big blind) folded on the Pre-Flop
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Flop
+Seat 5: prism1944 showed [Ah Jh] and lost with a pair of Jacks [Jh Jd Ah 9s 8c]
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) showed [8h 8d] and won 120000.00 with three of a kind, Set of Eights [8h 8d 8c Jd 9s]
+
+Game Hand #2457095647 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:50:35 UTC
+Table '27' 8-max Seat #8 is the button
+Seat 1: STR8 CRUSHER (41550.00)
+Seat 2: FisheySticks (68750.00)
+Seat 3: CLUMPI (89893.00)
+Seat 4: Bruphi2023 (57989.00)
+Seat 6: Dinobots (62680.00)
+Seat 7: Samsawing (75255.00)
+Seat 8: grotle (161317.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+STR8 CRUSHER posts the small blind 1000.00
+FisheySticks posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [2h Kh]
+CLUMPI folds
+Bruphi2023 raises 4000.00 to 4000.00
+Dinobots folds
+Samsawing folds
+grotle raises 13000.00 to 13000.00
+STR8 CRUSHER folds
+FisheySticks calls 11000.00
+Bruphi2023 folds
+*** FLOP *** [2d 5s 6h]
+Main pot 32750.00
+FisheySticks bets 32750.00
+grotle raises 65500.00 to 65500.00
+FisheySticks calls 22750.00 and is all-in
+Uncalled bet (10000.00) returned to grotle
+*** TURN *** [2d 5s 6h] [Td]
+Main pot 143750.00
+*** RIVER *** [2d 5s 6h Td] [Ah]
+Main pot 143750.00
+*** SHOW DOWN ***
+Main pot 143750.00
+FisheySticks shows [8d 8h] (a pair of Eights [8h 8d Ah Td 6h])
+grotle shows [2h Kh] (a pair of Deuces [2h 2d Ah Kh Td])
+FisheySticks collected 143750.00 from main pot
+*** SUMMARY ***
+Total pot 143750.00
+Board [2d 5s 6h Td Ah]
+Seat 1: STR8 CRUSHER (small blind) folded on the Pre-Flop
+Seat 2: FisheySticks (big blind) showed [8d 8h] and won 143750.00 with a pair of Eights [8h 8d Ah Td 6h]
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) showed [2h Kh] and lost with a pair of Deuces [2h 2d Ah Kh Td]
+
+Game Hand #2457096303 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:51:35 UTC
+Table '27' 8-max Seat #1 is the button
+Seat 1: STR8 CRUSHER (40300.00)
+Seat 2: FisheySticks (143750.00)
+Seat 3: CLUMPI (89643.00)
+Seat 4: Bruphi2023 (53739.00)
+Seat 5: frog5456 (50000.00)
+Seat 6: Dinobots (62430.00)
+Seat 7: Samsawing (75005.00)
+Seat 8: grotle (92567.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+frog5456 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+FisheySticks posts the small blind 1000.00
+CLUMPI posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Qd 4h]
+Bruphi2023 folds
+frog5456 raises 7250.00 to 7250.00
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Uncalled bet (5250.00) returned to frog5456
+frog5456 does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: STR8 CRUSHER (button) folded on the Pre-Flop
+Seat 2: FisheySticks (small blind) folded on the Pre-Flop
+Seat 3: CLUMPI (big blind) folded on the Pre-Flop
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: frog5456 did not show and won 7000.00
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457096800 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:52:19 UTC
+Table '27' 8-max Seat #2 is the button
+Seat 1: STR8 CRUSHER (40050.00)
+Seat 2: FisheySticks (142500.00)
+Seat 3: CLUMPI (87393.00)
+Seat 4: Bruphi2023 (53489.00)
+Seat 5: frog5456 (54750.00)
+Seat 6: Dinobots (62180.00)
+Seat 7: Samsawing (74755.00)
+Seat 8: grotle (92317.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+frog5456 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+CLUMPI posts the small blind 1000.00
+Bruphi2023 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [2d 6s]
+frog5456 raises 5500.00 to 5500.00
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks calls 5500.00
+CLUMPI folds
+Bruphi2023 raises 51239.00 to 53239.00 and is all-in
+frog5456 folds
+FisheySticks folds
+Uncalled bet (47739.00) returned to Bruphi2023
+Bruphi2023 does not show
+*** SUMMARY ***
+Total pot 19500.00
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks (button) folded on the Pre-Flop
+Seat 3: CLUMPI (small blind) folded on the Pre-Flop
+Seat 4: Bruphi2023 did not show and won 19500.00
+Seat 5: frog5456 folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457097548 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:53:28 UTC
+Table '27' 8-max Seat #3 is the button
+Seat 1: STR8 CRUSHER (39800.00) is sitting out
+Seat 2: FisheySticks (136750.00)
+Seat 3: CLUMPI (86143.00)
+Seat 4: Bruphi2023 (67239.00)
+Seat 5: frog5456 (49000.00)
+Seat 6: Dinobots (61930.00)
+Seat 7: Samsawing (74505.00)
+Seat 8: grotle (92067.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+frog5456 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+Bruphi2023 posts the small blind 1000.00
+frog5456 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [5h 2s]
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks raises 5000.00 to 5000.00
+CLUMPI folds
+Bruphi2023 folds
+frog5456 raises 16000.00 to 18000.00
+FisheySticks calls 13000.00
+*** FLOP *** [Tc 5d 4c]
+Main pot 39000.00
+frog5456 bets 30750.00 and is all-in
+FisheySticks calls 30750.00
+*** TURN *** [Tc 5d 4c] [9c]
+Main pot 100500.00
+*** RIVER *** [Tc 5d 4c 9c] [Qd]
+Main pot 100500.00
+*** SHOW DOWN ***
+Main pot 100500.00
+FisheySticks shows [7s 7h] (a pair of Sevens [7s 7h Qd Tc 9c])
+frog5456 shows [6d 6h] (a pair of Sixs [6h 6d Qd Tc 9c])
+FisheySticks collected 100500.00 from main pot
+*** SUMMARY ***
+Total pot 100500.00
+Board [Tc 5d 4c 9c Qd]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks showed [7s 7h] and won 100500.00 with a pair of Sevens [7s 7h Qd Tc 9c]
+Seat 3: CLUMPI (button) folded on the Pre-Flop
+Seat 4: Bruphi2023 (small blind) folded on the Pre-Flop
+Seat 5: frog5456 (big blind) showed [6d 6h] and lost with a pair of Sixs [6h 6d Qd Tc 9c]
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457098149 - Tournament #33517074 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/05/16 18:54:25 UTC
+Table '27' 8-max Seat #4 is the button
+Seat 1: STR8 CRUSHER (39550.00)
+Seat 2: FisheySticks (188250.00)
+Seat 3: CLUMPI (85893.00)
+Seat 4: Bruphi2023 (65989.00)
+Seat 6: Dinobots (61680.00)
+Seat 7: Samsawing (74255.00)
+Seat 8: grotle (91817.00)
+STR8 CRUSHER posts ante 250.00
+FisheySticks posts ante 250.00
+CLUMPI posts ante 250.00
+Bruphi2023 posts ante 250.00
+Dinobots posts ante 250.00
+Samsawing posts ante 250.00
+grotle posts ante 250.00
+Dinobots posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [9h 7c]
+Samsawing calls 2000.00
+grotle folds
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 raises 4000.00 to 4000.00
+Dinobots folds
+Samsawing calls 2000.00
+*** FLOP *** [Ad 5s 5d]
+Main pot 11750.00
+Samsawing checks
+Bruphi2023 bets 2938.00
+Samsawing raises 11927.00 to 11927.00
+Bruphi2023 calls 8989.00
+*** TURN *** [Ad 5s 5d] [9c]
+Main pot 35604.00
+Samsawing checks
+Bruphi2023 checks
+*** RIVER *** [Ad 5s 5d 9c] [Js]
+Main pot 35604.00
+Samsawing checks
+Bruphi2023 checks
+*** SHOW DOWN ***
+Main pot 35604.00
+Bruphi2023 shows [6d Kd] (a pair of Fives [5s 5d Ad Kd Js])
+Samsawing shows [4c 4h] (two pair, Fives and Fours [5s 5d 4h 4c Ad])
+Samsawing collected 35604.00 from main pot
+*** SUMMARY ***
+Total pot 35604.00
+Board [Ad 5s 5d 9c Js]
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 (button) showed [6d Kd] and lost with a pair of Fives [5s 5d Ad Kd Js]
+Seat 6: Dinobots (big blind) folded on the Pre-Flop
+Seat 7: Samsawing showed [4c 4h] and won 35604.00 with two pair, Fives and Fours [5s 5d 4h 4c Ad]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457100207 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:01:18 UTC
+Table '27' 8-max Seat #5 is the button
+Seat 1: STR8 CRUSHER (39300.00)
+Seat 2: FisheySticks (188000.00)
+Seat 3: CLUMPI (85643.00)
+Seat 4: Bruphi2023 (49812.00)
+Seat 5: JesuSaves will be allowed to play after the button
+Seat 6: Dinobots (59430.00)
+Seat 7: Samsawing (93682.00)
+Seat 8: grotle (91567.00)
+STR8 CRUSHER posts ante 300.00
+FisheySticks posts ante 300.00
+CLUMPI posts ante 300.00
+Bruphi2023 posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+Dinobots posts the small blind 1200.00
+Samsawing posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Kc 8c]
+grotle folds
+STR8 CRUSHER raises 10500.00 to 10500.00
+FisheySticks raises 30525.00 to 30525.00
+CLUMPI folds
+Bruphi2023 folds
+Dinobots folds
+Samsawing folds
+STR8 CRUSHER raises 28500.00 to 39000.00 and is all-in
+FisheySticks calls 8475.00
+*** FLOP *** [5s 3h Qh]
+Main pot 83700.00
+*** TURN *** [5s 3h Qh] [2s]
+Main pot 83700.00
+*** RIVER *** [5s 3h Qh 2s] [4h]
+Main pot 83700.00
+*** SHOW DOWN ***
+Main pot 83700.00
+STR8 CRUSHER shows [As Ks] (a straight, Five high [5s 4h 3h 2s As])
+FisheySticks shows [Kh Ac] (a straight, Five high [5s 4h 3h 2s Ac])
+STR8 CRUSHER collected 41850.00 from main pot
+FisheySticks collected 41850.00 from main pot
+*** SUMMARY ***
+Total pot 83700.00
+Board [5s 3h Qh 2s 4h]
+Seat 1: STR8 CRUSHER showed [As Ks] and won 41850.00 with a straight, Five high [5s 4h 3h 2s As]
+Seat 2: FisheySticks showed [Kh Ac] and won 41850.00 with a straight, Five high [5s 4h 3h 2s Ac]
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 6: Dinobots (small blind) folded on the Pre-Flop
+Seat 7: Samsawing (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457100778 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:02:19 UTC
+Table '27' 8-max Seat #6 is the button
+Seat 1: STR8 CRUSHER (41850.00)
+Seat 2: FisheySticks (190550.00)
+Seat 3: CLUMPI (85343.00)
+Seat 4: Bruphi2023 (49512.00)
+Seat 5: JesuSaves (50000.00)
+Seat 6: Dinobots (57930.00)
+Seat 7: Samsawing (90982.00)
+Seat 8: grotle (91267.00)
+STR8 CRUSHER posts ante 300.00
+FisheySticks posts ante 300.00
+CLUMPI posts ante 300.00
+Bruphi2023 posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+Samsawing posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [2c 9d]
+STR8 CRUSHER folds
+FisheySticks folds
+CLUMPI folds
+Bruphi2023 folds
+JesuSaves raises 4800.00 to 4800.00
+Dinobots folds
+Samsawing folds
+grotle folds
+Uncalled bet (2400.00) returned to JesuSaves
+JesuSaves does not show
+*** SUMMARY ***
+Total pot 8400.00
+Seat 1: STR8 CRUSHER folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: CLUMPI folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 folded on the Pre-Flop and did not bet
+Seat 5: JesuSaves did not show and won 8400.00
+Seat 6: Dinobots (button) folded on the Pre-Flop
+Seat 7: Samsawing (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Game Hand #2457101220 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:03:02 UTC
+Table '27' 8-max Seat #7 is the button
+Seat 1: STR8 CRUSHER (41550.00)
+Seat 2: FisheySticks (190250.00) is sitting out
+Seat 4: Bruphi2023 (49212.00)
+Seat 5: JesuSaves (55700.00)
+Seat 6: Dinobots (57630.00)
+Seat 7: Samsawing (89482.00)
+Seat 8: grotle (88567.00)
+STR8 CRUSHER posts ante 300.00
+FisheySticks posts ante 300.00
+Bruphi2023 posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+grotle posts the small blind 1200.00
+STR8 CRUSHER posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Jc 6s]
+FisheySticks folds
+Bruphi2023 raises 4800.00 to 4800.00
+JesuSaves raises 14400.00 to 14400.00
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+Bruphi2023 raises 44112.00 to 48912.00 and is all-in
+JesuSaves calls 34512.00
+*** FLOP *** [3h 9h Qd]
+Main pot 103524.00
+*** TURN *** [3h 9h Qd] [Td]
+Main pot 103524.00
+*** RIVER *** [3h 9h Qd Td] [Kc]
+Main pot 103524.00
+*** SHOW DOWN ***
+Main pot 103524.00
+Bruphi2023 shows [Ac Ad] (a pair of Aces [Ad Ac Kc Qd Td])
+JesuSaves shows [Jd Js] (a straight, King high [Kc Qd Js Td 9h])
+JesuSaves collected 103524.00 from main pot
+*** SUMMARY ***
+Total pot 103524.00
+Board [3h 9h Qd Td Kc]
+Seat 1: STR8 CRUSHER (big blind) folded on the Pre-Flop
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 4: Bruphi2023 showed [Ac Ad] and lost with a pair of Aces [Ad Ac Kc Qd Td]
+Seat 5: JesuSaves showed [Jd Js] and won 103524.00 with a straight, King high [Kc Qd Js Td 9h]
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2457101755 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:03:56 UTC
+Table '27' 8-max Seat #8 is the button
+Seat 1: STR8 CRUSHER (38850.00)
+Seat 2: FisheySticks (189950.00) is sitting out
+Seat 5: JesuSaves (110012.00)
+Seat 6: Dinobots (57330.00)
+Seat 7: Samsawing (89182.00)
+Seat 8: grotle (87067.00)
+STR8 CRUSHER posts ante 300.00
+FisheySticks posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+STR8 CRUSHER posts the small blind 1200.00
+FisheySticks posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Qs 4s]
+JesuSaves folds
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER folds
+FisheySticks does not show
+*** SUMMARY ***
+Total pot 5400.00
+Seat 1: STR8 CRUSHER (small blind) folded on the Pre-Flop
+Seat 2: FisheySticks did not show and won 5400.00
+Seat 5: JesuSaves folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2457102207 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:04:41 UTC
+Table '27' 8-max Seat #1 is the button
+Seat 1: STR8 CRUSHER (37350.00) is sitting out
+Seat 2: FisheySticks (192650.00) is sitting out
+Seat 3: Dominoplayerrr (61564.00)
+Seat 4: LifeLikeFish (44900.00)
+Seat 5: JesuSaves (109712.00)
+Seat 6: Dinobots (57030.00)
+Seat 7: Samsawing (88882.00)
+Seat 8: grotle (86767.00)
+STR8 CRUSHER posts ante 300.00
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+LifeLikeFish posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+FisheySticks posts the small blind 1200.00
+Dominoplayerrr posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Kh 8d]
+LifeLikeFish raises 5280.00 to 5280.00
+JesuSaves folds
+Dinobots folds
+Samsawing folds
+grotle folds
+STR8 CRUSHER calls 5280.00
+FisheySticks folds
+Dominoplayerrr raises 58864.00 to 61264.00 and is all-in
+LifeLikeFish calls 39320.00 and is all-in
+STR8 CRUSHER calls 31770.00 and is all-in
+Uncalled bet (16664.00) returned to Dominoplayerrr
+*** FLOP *** [Qh 3c 2s]
+Main pot 114750.00
+Side pot(1) 15100.00
+*** TURN *** [Qh 3c 2s] [Qd]
+Main pot 114750.00
+Side pot(1) 15100.00
+*** RIVER *** [Qh 3c 2s Qd] [Jd]
+Main pot 114750.00
+Side pot(1) 15100.00
+*** SHOW DOWN ***
+Main pot 114750.00
+Side pot(1) 15100.00
+STR8 CRUSHER shows [4h 4d] (two pair, Queens and Fours [Qh Qd 4h 4d Jd])
+Dominoplayerrr shows [Jh Js] (a full house, Jacks full of Queens [Js Jh Jd Qh Qd])
+LifeLikeFish shows [Kd Kc] (two pair, Kings and Queens [Kd Kc Qh Qd Jd])
+Dominoplayerrr collected 114750.00 from main pot
+Dominoplayerrr collected 15100.00 from side pot-1
+*** SUMMARY ***
+Total pot 129850.00
+Board [Qh 3c 2s Qd Jd]
+Seat 1: STR8 CRUSHER (button) showed [4h 4d] and lost with two pair, Queens and Fours [Qh Qd 4h 4d Jd]
+Seat 2: FisheySticks (small blind) folded on the Pre-Flop
+Seat 3: Dominoplayerrr (big blind) showed [Jh Js] and won 129850.00 with a full house, Jacks full of Queens [Js Jh Jd Qh Qd]
+Seat 4: LifeLikeFish showed [Kd Kc] and lost with two pair, Kings and Queens [Kd Kc Qh Qd Jd]
+Seat 5: JesuSaves folded on the Pre-Flop and did not bet
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457102934 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:05:47 UTC
+Table '27' 8-max Seat #2 is the button
+Seat 2: FisheySticks (191150.00) is sitting out
+Seat 3: Dominoplayerrr (146514.00)
+Seat 5: JesuSaves (109412.00)
+Seat 6: Dinobots (56730.00)
+Seat 7: Samsawing (88582.00)
+Seat 8: grotle (86467.00)
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+Dominoplayerrr posts the small blind 1200.00
+JesuSaves posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [9d Jh]
+Dinobots folds
+Samsawing folds
+grotle folds
+FisheySticks folds
+Dominoplayerrr calls 1200.00
+JesuSaves checks
+*** FLOP *** [7h 5h 2c]
+Main pot 6600.00
+Dominoplayerrr bets 4356.00
+JesuSaves raises 11112.00 to 11112.00
+Dominoplayerrr calls 6756.00
+*** TURN *** [7h 5h 2c] [Qh]
+Main pot 28824.00
+Dominoplayerrr checks
+JesuSaves bets 20224.00
+Dominoplayerrr folds
+Uncalled bet (20224.00) returned to JesuSaves
+JesuSaves does not show
+*** SUMMARY ***
+Total pot 28824.00
+Board [7h 5h 2c Qh]
+Seat 2: FisheySticks (button) folded on the Pre-Flop
+Seat 3: Dominoplayerrr (small blind) folded on the Turn
+Seat 5: JesuSaves did not show and won 28824.00
+Seat 6: Dinobots folded on the Pre-Flop and did not bet
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457103800 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:07:10 UTC
+Table '27' 8-max Seat #3 is the button
+Seat 1: jokerupokeru (353160.00)
+Seat 2: FisheySticks (190850.00) is sitting out
+Seat 3: Dominoplayerrr (132702.00)
+Seat 4: DP33 will be allowed to play after the button
+Seat 5: JesuSaves (124424.00)
+Seat 6: Dinobots (56430.00)
+Seat 7: Samsawing (88282.00)
+Seat 8: grotle (86167.00)
+jokerupokeru posts ante 300.00
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+JesuSaves posts the small blind 1200.00
+Dinobots posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [7d 9c]
+Samsawing folds
+grotle folds
+jokerupokeru folds
+FisheySticks folds
+Dominoplayerrr folds
+JesuSaves raises 6000.00 to 7200.00
+Dinobots folds
+Uncalled bet (4800.00) returned to JesuSaves
+JesuSaves does not show
+*** SUMMARY ***
+Total pot 6900.00
+Seat 1: jokerupokeru folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: Dominoplayerrr (button) folded on the Pre-Flop
+Seat 5: JesuSaves did not show and won 6900.00
+Seat 6: Dinobots (big blind) folded on the Pre-Flop
+Seat 7: Samsawing folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2457104141 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:07:43 UTC
+Table '27' 8-max Seat #5 is the button
+Seat 1: jokerupokeru (352860.00)
+Seat 2: FisheySticks (190550.00) is sitting out
+Seat 3: Dominoplayerrr (132402.00)
+Seat 4: DP33 (50000.00)
+Seat 5: JesuSaves (128624.00)
+Seat 6: Dinobots (53730.00)
+Seat 7: Samsawing (87982.00)
+Seat 8: grotle (85867.00)
+jokerupokeru posts ante 300.00
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+DP33 posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+Dinobots posts the small blind 1200.00
+Samsawing posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [8s 8c]
+grotle raises 6000.00 to 6000.00
+jokerupokeru folds
+FisheySticks folds
+Dominoplayerrr folds
+DP33 raises 12000.00 to 12000.00
+JesuSaves folds
+Dinobots folds
+Samsawing folds
+grotle raises 45600.00 to 51600.00
+DP33 calls 37700.00 and is all-in
+Uncalled bet (1900.00) returned to grotle
+*** FLOP *** [4h 9s 5s]
+Main pot 105400.00
+*** TURN *** [4h 9s 5s] [2d]
+Main pot 105400.00
+*** RIVER *** [4h 9s 5s 2d] [7h]
+Main pot 105400.00
+*** SHOW DOWN ***
+Main pot 105400.00
+DP33 shows [9d Ad] (a pair of Nines [9s 9d Ad 7h 5s])
+grotle shows [8s 8c] (a pair of Eights [8s 8c 9s 7h 5s])
+DP33 collected 105400.00 from main pot
+*** SUMMARY ***
+Total pot 105400.00
+Board [4h 9s 5s 2d 7h]
+Seat 1: jokerupokeru folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 4: DP33 showed [9d Ad] and won 105400.00 with a pair of Nines [9s 9d Ad 7h 5s]
+Seat 5: JesuSaves (button) folded on the Pre-Flop
+Seat 6: Dinobots (small blind) folded on the Pre-Flop
+Seat 7: Samsawing (big blind) folded on the Pre-Flop
+Seat 8: grotle showed [8s 8c] and lost with a pair of Eights [8s 8c 9s 7h 5s]
+
+Game Hand #2457105012 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:09:04 UTC
+Table '27' 8-max Seat #6 is the button
+Seat 1: jokerupokeru (352560.00)
+Seat 2: FisheySticks (190250.00)
+Seat 3: Dominoplayerrr (132102.00)
+Seat 4: DP33 (105400.00)
+Seat 5: JesuSaves (128324.00)
+Seat 6: Dinobots (52230.00)
+Seat 7: Samsawing (85282.00)
+Seat 8: grotle (35867.00)
+jokerupokeru posts ante 300.00
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+DP33 posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+Samsawing posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Qd 3h]
+jokerupokeru folds
+FisheySticks folds
+Dominoplayerrr folds
+DP33 folds
+JesuSaves folds
+Dinobots raises 4800.00 to 4800.00
+Samsawing calls 3600.00
+grotle folds
+*** FLOP *** [Ac 6h 5s]
+Main pot 14400.00
+Samsawing checks
+Dinobots bets 4800.00
+Samsawing folds
+Uncalled bet (4800.00) returned to Dinobots
+Dinobots does not show
+*** SUMMARY ***
+Total pot 14400.00
+Board [Ac 6h 5s]
+Seat 1: jokerupokeru folded on the Pre-Flop and did not bet
+Seat 2: FisheySticks folded on the Pre-Flop and did not bet
+Seat 3: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 4: DP33 folded on the Pre-Flop and did not bet
+Seat 5: JesuSaves folded on the Pre-Flop and did not bet
+Seat 6: Dinobots did not show and won 14400.00
+Seat 7: Samsawing (small blind) folded on the Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Game Hand #2457105704 - Tournament #33517074 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/05/16 19:10:06 UTC
+Table '27' 8-max Seat #7 is the button
+Seat 1: jokerupokeru (352260.00)
+Seat 2: FisheySticks (189950.00)
+Seat 3: Dominoplayerrr (131802.00)
+Seat 4: DP33 (105100.00)
+Seat 5: JesuSaves (128024.00)
+Seat 6: Dinobots (61530.00)
+Seat 7: Samsawing (80182.00)
+Seat 8: grotle (33167.00)
+jokerupokeru posts ante 300.00
+FisheySticks posts ante 300.00
+Dominoplayerrr posts ante 300.00
+DP33 posts ante 300.00
+JesuSaves posts ante 300.00
+Dinobots posts ante 300.00
+Samsawing posts ante 300.00
+grotle posts ante 300.00
+grotle posts the small blind 1200.00
+jokerupokeru posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7c 9c]
+FisheySticks raises 6000.00 to 6000.00
+Dominoplayerrr folds
+DP33 folds
+JesuSaves folds
+Dinobots raises 16800.00 to 16800.00
+Samsawing folds
+grotle folds
+jokerupokeru folds
+FisheySticks calls 10800.00
+*** FLOP *** [6h 5h Qc]
+Main pot 39600.00
+FisheySticks checks
+Dinobots bets 9900.00
+FisheySticks calls 9900.00
+*** TURN *** [6h 5h Qc] [Ac]
+Main pot 59400.00
+FisheySticks bets 39204.00
+Dinobots calls 34530.00 and is all-in
+Uncalled bet (4674.00) returned to FisheySticks
+*** RIVER *** [6h 5h Qc Ac] [Jd]
+Main pot 128460.00
+*** SHOW DOWN ***
+Main pot 128460.00
+FisheySticks shows [Jh Kh] (a pair of Jacks [Jh Jd Ac Kh Qc])
+Dinobots shows [Qd Qh] (three of a kind, Set of Queens [Qh Qd Qc Ac Jd])
+Dinobots collected 128460.00 from main pot
+*** SUMMARY ***
+Total pot 128460.00
+Board [6h 5h Qc Ac Jd]
+Seat 1: jokerupokeru (big blind) folded on the Pre-Flop
+Seat 2: FisheySticks showed [Jh Kh] and lost with a pair of Jacks [Jh Jd Ac Kh Qc]
+Seat 3: Dominoplayerrr folded on the Pre-Flop and did not bet
+Seat 4: DP33 folded on the Pre-Flop and did not bet
+Seat 5: JesuSaves folded on the Pre-Flop and did not bet
+Seat 6: Dinobots showed [Qd Qh] and won 128460.00 with three of a kind, Set of Queens [Qh Qd Qc Ac Jd]
+Seat 7: Samsawing (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+

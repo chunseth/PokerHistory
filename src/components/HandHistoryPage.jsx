@@ -22,8 +22,13 @@ const HandHistoryPage = () => {
         minStack: 0,
         maxStack: 200,
         holeCards: ['', ''],
-        tournamentName: ''
+        tournamentName: '',
+        position: ''
     });
+
+    const positionOptions = [
+        'BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO'
+    ];
 
     useEffect(() => {
         fetchUsernames();
@@ -33,7 +38,7 @@ const HandHistoryPage = () => {
         if (selectedUsername) {
             fetchHands();
         }
-    }, [selectedDate, filters.maxStack, filters.holeCards, filters.tournamentName, selectedUsername]);
+    }, [selectedDate, filters.maxStack, filters.holeCards, filters.tournamentName, filters.position, selectedUsername]);
 
     const fetchUsernames = async () => {
         try {
@@ -70,7 +75,31 @@ const HandHistoryPage = () => {
 
             const response = await apiService.getHands(queryParams);
             console.log('Received hands:', response);
-            setHands(response);
+            // Filter by position in the frontend
+            let filteredHands = response;
+            if (filters.position) {
+                filteredHands = response.filter(hand => {
+                    // Get the hero's position string for this hand
+                    const positions = {
+                        2: ['BTN/SB', 'BB'],
+                        3: ['BTN', 'SB', 'BB'],
+                        4: ['BTN', 'SB', 'BB', 'UTG'],
+                        5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
+                        6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
+                        7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
+                        8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
+                        9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
+                        10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
+                    };
+                    if (hand.numPlayers === 2) {
+                        return positions[2][hand.heroPosition] === filters.position;
+                    }
+                    const basePositions = positions[hand.numPlayers];
+                    const distanceFromButton = (hand.heroPosition - hand.buttonPosition + hand.numPlayers) % hand.numPlayers;
+                    return basePositions[distanceFromButton] === filters.position;
+                });
+            }
+            setHands(filteredHands);
         } catch (error) {
             console.error('Error fetching hands:', error);
             setError('Failed to load hands');
@@ -203,6 +232,35 @@ const HandHistoryPage = () => {
         localStorage.setItem('selectedUsername', newUsername);
     };
 
+    const getPlayerPosition = (index, numPlayers, buttonPosition) => {
+        const positions = {
+            2: ['BTN/SB', 'BB'],
+            3: ['BTN', 'SB', 'BB'],
+            4: ['BTN', 'SB', 'BB', 'UTG'],
+            5: ['BTN', 'SB', 'BB', 'UTG', 'CO'],
+            6: ['BTN', 'SB', 'BB', 'UTG', 'HJ', 'CO'],
+            7: ['BTN', 'SB', 'BB', 'UTG', 'LJ', 'HJ', 'CO'],
+            8: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'LJ', 'HJ', 'CO'],
+            9: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'LJ', 'HJ', 'CO'],
+            10: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
+        };
+
+        if (numPlayers === 2) {
+            return positions[2][index];
+        }
+
+        const basePositions = positions[numPlayers];
+        const distanceFromButton = (index - buttonPosition + numPlayers) % numPlayers;
+        return basePositions[distanceFromButton];
+    };
+
+    const handlePositionChange = (e) => {
+        setFilters(prev => ({
+            ...prev,
+            position: e.target.value
+        }));
+    };
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
@@ -236,6 +294,20 @@ const HandHistoryPage = () => {
                                 min="2000-01-01"
                                 max="2100-12-31"
                             />
+                        </div>
+
+                        <div className="filter-group" key="position-filter">
+                            <label>Position:</label>
+                            <select
+                                value={filters.position}
+                                onChange={handlePositionChange}
+                                className="position-select"
+                            >
+                                <option value="">All Positions</option>
+                                {positionOptions.map(pos => (
+                                    <option key={pos} value={pos}>{pos}</option>
+                                ))}
+                            </select>
                         </div>
 
                         <div className="filter-group" key="stack-range">
@@ -368,6 +440,12 @@ const HandHistoryPage = () => {
                                     </div>
                                 </div>
                                 <div className="hand-details">
+                                    <div className="detail-column">
+                                        <div className="detail-label">Position:</div>
+                                        <div className="detail-value">
+                                            {getPlayerPosition(hand.heroPosition, hand.numPlayers, hand.buttonPosition)}
+                                        </div>
+                                    </div>
                                     <div className="detail-column">
                                         <div className="detail-label">Stack:</div>
                                         <div className="detail-value">{hand.heroStackSize} BB</div>

@@ -54,7 +54,6 @@ router.get('/', async (req, res) => {
         }
         
         // Add other filters if they exist
-        if (position) query.heroPosition = position;
         if (gameType) query.gameType = gameType;
         
         // Stack size range
@@ -178,7 +177,13 @@ router.get('/', async (req, res) => {
         const totalHands = await Hand.countDocuments();
         console.log('Total hands in database:', totalHands);
 
-        const hands = await Hand.find(query)
+        // Let's also check if there are any hands with the username
+        if (username) {
+            const handsWithUsername = await Hand.countDocuments({ username });
+            console.log(`Hands with username ${username}:`, handsWithUsername);
+        }
+
+        let hands = await Hand.find(query)
             .sort({ [sortBy]: -1 });
 
         console.log(`Found ${hands.length} hands matching query`);
@@ -189,9 +194,11 @@ router.get('/', async (req, res) => {
         res.json(hands);
     } catch (error) {
         console.error('Error fetching hands:', error);
+        console.error('Error stack:', error.stack);
         res.status(500).json({ 
             message: 'Error fetching hands',
-            error: error.message 
+            error: error.message,
+            stack: error.stack
         });
     }
 });
