@@ -17,9 +17,20 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: process.env.NODE_ENV === 'production' 
-        ? ['https://pokerhistory.netlify.app', 'http://localhost:5173']
-        : 'http://localhost:5173',
+    origin: function (origin, callback) {
+        const allowedOrigins = [
+            'https://pokerhistory.netlify.app',
+            'http://localhost:5173',
+            'http://localhost:3000'
+        ];
+        // Allow requests with no origin (like mobile apps or curl requests)
+        if (!origin) return callback(null, true);
+        if (allowedOrigins.indexOf(origin) !== -1) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
+    },
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
