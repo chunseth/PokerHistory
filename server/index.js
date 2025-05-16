@@ -6,6 +6,9 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import handsRouter from './routes/hands.js';
 import { processHandHistories } from './utils/parseHandHistory.js';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -14,7 +17,9 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: 'http://localhost:5173', // Vite's default port
+    origin: process.env.NODE_ENV === 'production' 
+        ? ['https://pokerhistory.netlify.app', 'http://localhost:5173']
+        : 'http://localhost:5173',
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true
@@ -46,11 +51,11 @@ const upload = multer({
 });
 
 // MongoDB connection
-mongoose.connect('mongodb://localhost:27017/poker-history')
+mongoose.connect(process.env.MONGODB_URI)
     .then(() => console.log('Connected to MongoDB'))
     .catch(err => {
         console.error('MongoDB connection error:', err);
-        process.exit(1); // Exit if we can't connect to the database
+        process.exit(1);
     });
 
 // Routes
