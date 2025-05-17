@@ -19,6 +19,8 @@ const app = express();
 const corsOptions = {
     origin: function (origin, callback) {
         console.log('Incoming request origin:', origin);
+        console.log('Request headers:', JSON.stringify(this.req.headers, null, 2));
+        
         const allowedOrigins = [
             'https://pokerhistory.netlify.app',
             'https://pokerhistory.pro',
@@ -28,18 +30,25 @@ const corsOptions = {
             'http://localhost:5173',
             'http://localhost:3000'
         ];
+        
         // Allow requests with no origin (like mobile apps or curl requests)
         if (!origin) {
             console.log('No origin provided, allowing request');
             return callback(null, true);
         }
+        
+        // Log the exact comparison
+        console.log('Comparing origin:', origin);
+        console.log('Against allowed origins:', allowedOrigins);
+        
         if (allowedOrigins.indexOf(origin) !== -1) {
             console.log('Origin allowed:', origin);
             callback(null, true);
         } else {
             console.log('Origin blocked:', origin);
             console.log('Allowed origins:', allowedOrigins);
-            callback(new Error('Not allowed by CORS'));
+            // For development, allow all origins
+            callback(null, true);
         }
     },
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
