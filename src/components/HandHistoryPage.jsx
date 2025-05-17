@@ -6,7 +6,9 @@ import './HandHistoryPage.css';
 const HandHistoryPage = () => {
     const navigate = useNavigate();
     const [hands, setHands] = useState([]);
-    const [selectedDate, setSelectedDate] = useState('');
+    const [selectedDate, setSelectedDate] = useState(() => {
+        return localStorage.getItem('selectedDate') || '';
+    });
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
     const [editingTournamentName, setEditingTournamentName] = useState(null);
@@ -17,14 +19,28 @@ const HandHistoryPage = () => {
         // Initialize from localStorage or default to 'grotle'
         return localStorage.getItem('selectedUsername') || 'grotle';
     });
-    const [filters, setFilters] = useState({
-        gameType: '',
-        minStack: 0,
-        maxStack: 200,
-        holeCards: ['', ''],
-        tournamentName: '',
-        position: ''
+    const [filters, setFilters] = useState(() => {
+        // Initialize from localStorage or use defaults
+        const savedFilters = localStorage.getItem('handHistoryFilters');
+        return savedFilters ? JSON.parse(savedFilters) : {
+            gameType: '',
+            minStack: 0,
+            maxStack: 200,
+            holeCards: ['', ''],
+            tournamentName: '',
+            position: ''
+        };
     });
+
+    // Save filters to localStorage whenever they change
+    useEffect(() => {
+        localStorage.setItem('handHistoryFilters', JSON.stringify(filters));
+    }, [filters]);
+
+    // Save selectedDate to localStorage whenever it changes
+    useEffect(() => {
+        localStorage.setItem('selectedDate', selectedDate);
+    }, [selectedDate]);
 
     const positionOptions = [
         'BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO'
@@ -110,9 +126,7 @@ const HandHistoryPage = () => {
 
     const handleDateChange = (e) => {
         const newDate = e.target.value;
-        if (newDate) {
-            setSelectedDate(newDate);
-        }
+        setSelectedDate(newDate);
     };
 
     const handleStackRangeChange = (e) => {

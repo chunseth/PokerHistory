@@ -1,0 +1,209 @@
+Game Hand #2457152448 - Tournament #33517074 - Holdem (No Limit) - Level 18 (3000.00/6000.00) - 2025/05/16 20:20:58 UTC
+Table '39' 8-max Seat #2 is the button
+Seat 1: Jumper08 (367427.00)
+Seat 2: Hardy1305 will be allowed to play after the button
+Seat 4: yany4ar (210615.00)
+Seat 5: GhettoHeisman (110550.00)
+Seat 6: grotle (434924.00)
+Seat 7: LifeLikeFish (160850.00)
+Seat 8: TRACKBOB (101750.00)
+Jumper08 posts ante 750.00
+yany4ar posts ante 750.00
+GhettoHeisman posts ante 750.00
+grotle posts ante 750.00
+LifeLikeFish posts ante 750.00
+TRACKBOB posts ante 750.00
+yany4ar posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [6h Qd]
+GhettoHeisman folds
+grotle folds
+LifeLikeFish raises 13200.00 to 13200.00
+TRACKBOB folds
+Jumper08 calls 13200.00
+yany4ar folds
+*** FLOP *** [3s 4d 8d]
+Main pot 36900.00
+LifeLikeFish checks
+Jumper08 bets 18450.00
+LifeLikeFish calls 18450.00
+*** TURN *** [3s 4d 8d] [4h]
+Main pot 73800.00
+LifeLikeFish checks
+Jumper08 bets 36900.00
+LifeLikeFish folds
+Uncalled bet (36900.00) returned to Jumper08
+Jumper08 does not show
+*** SUMMARY ***
+Total pot 73800.00
+Board [3s 4d 8d 4h]
+Seat 1: Jumper08 did not show and won 73800.00
+Seat 4: yany4ar (big blind) folded on the Pre-Flop
+Seat 5: GhettoHeisman folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: LifeLikeFish folded on the Turn
+Seat 8: TRACKBOB folded on the Pre-Flop and did not bet
+
+Game Hand #2457153113 - Tournament #33517074 - Holdem (No Limit) - Level 19 (4000.00/8000.00) - 2025/05/16 20:21:58 UTC
+Table '39' 8-max Seat #3 is the button
+Seat 1: Jumper08 (408827.00)
+Seat 2: Hardy1305 (280640.00)
+Seat 4: yany4ar (203865.00)
+Seat 5: GhettoHeisman (109800.00)
+Seat 6: grotle (434174.00)
+Seat 7: LifeLikeFish (128450.00)
+Seat 8: TRACKBOB (101000.00)
+Jumper08 posts ante 1000.00
+Hardy1305 posts ante 1000.00
+yany4ar posts ante 1000.00
+GhettoHeisman posts ante 1000.00
+grotle posts ante 1000.00
+LifeLikeFish posts ante 1000.00
+TRACKBOB posts ante 1000.00
+yany4ar posts the small blind 4000.00
+GhettoHeisman posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [Jd 7s]
+grotle folds
+LifeLikeFish folds
+TRACKBOB folds
+Jumper08 folds
+Hardy1305 raises 16000.00 to 16000.00
+yany4ar folds
+GhettoHeisman folds
+Uncalled bet (8000.00) returned to Hardy1305
+Hardy1305 does not show
+*** SUMMARY ***
+Total pot 27000.00
+Seat 1: Jumper08 folded on the Pre-Flop and did not bet
+Seat 2: Hardy1305 did not show and won 27000.00
+Seat 4: yany4ar (small blind) folded on the Pre-Flop
+Seat 5: GhettoHeisman (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: LifeLikeFish folded on the Pre-Flop and did not bet
+Seat 8: TRACKBOB folded on the Pre-Flop and did not bet
+
+Game Hand #2457153711 - Tournament #33517074 - Holdem (No Limit) - Level 19 (4000.00/8000.00) - 2025/05/16 20:22:48 UTC
+Table '39' 8-max Seat #4 is the button
+Seat 1: Jumper08 (407827.00)
+Seat 2: Hardy1305 (298640.00)
+Seat 3: BORNOVICH (358861.00)
+Seat 4: yany4ar (198865.00)
+Seat 5: GhettoHeisman (100800.00)
+Seat 6: grotle (433174.00)
+Seat 7: LifeLikeFish (127450.00)
+Seat 8: TRACKBOB (100000.00)
+Jumper08 posts ante 1000.00
+Hardy1305 posts ante 1000.00
+BORNOVICH posts ante 1000.00
+yany4ar posts ante 1000.00
+GhettoHeisman posts ante 1000.00
+grotle posts ante 1000.00
+LifeLikeFish posts ante 1000.00
+TRACKBOB posts ante 1000.00
+GhettoHeisman posts the small blind 4000.00
+grotle posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [6s Qs]
+LifeLikeFish folds
+TRACKBOB folds
+Jumper08 calls 8000.00
+Hardy1305 folds
+BORNOVICH folds
+yany4ar calls 8000.00
+GhettoHeisman calls 4000.00
+grotle raises 20000.00 to 28000.00
+Jumper08 calls 20000.00
+yany4ar calls 20000.00
+GhettoHeisman folds
+*** FLOP *** [3h 4s 8h]
+Main pot 100000.00
+grotle checks
+Jumper08 bets 25000.00
+yany4ar calls 25000.00
+grotle calls 25000.00
+*** TURN *** [3h 4s 8h] [6h]
+Main pot 175000.00
+grotle checks
+Jumper08 bets 43750.00
+yany4ar calls 43750.00
+grotle folds
+*** RIVER *** [3h 4s 8h 6h] [3s]
+Main pot 262500.00
+Jumper08 bets 65625.00
+yany4ar calls 65625.00
+*** SHOW DOWN ***
+Main pot 393750.00
+Jumper08 shows [8d 9s] (two pair, Eights and Threes [8h 8d 3s 3h 9s])
+yany4ar shows [Th 9h] (a flush, Ten high [Th 9h 8h 6h 3h])
+yany4ar collected 393750.00 from main pot
+*** SUMMARY ***
+Total pot 393750.00
+Board [3h 4s 8h 6h 3s]
+Seat 1: Jumper08 showed [8d 9s] and lost with two pair, Eights and Threes [8h 8d 3s 3h 9s]
+Seat 2: Hardy1305 folded on the Pre-Flop and did not bet
+Seat 3: BORNOVICH folded on the Pre-Flop and did not bet
+Seat 4: yany4ar (button) showed [Th 9h] and won 393750.00 with a flush, Ten high [Th 9h 8h 6h 3h]
+Seat 5: GhettoHeisman (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the Turn
+Seat 7: LifeLikeFish folded on the Pre-Flop and did not bet
+Seat 8: TRACKBOB folded on the Pre-Flop and did not bet
+
+Game Hand #2457155156 - Tournament #33517074 - Holdem (No Limit) - Level 19 (4000.00/8000.00) - 2025/05/16 20:25:00 UTC
+Table '39' 8-max Seat #5 is the button
+Seat 1: Jumper08 (244452.00)
+Seat 2: Hardy1305 (297640.00)
+Seat 3: BORNOVICH (357861.00)
+Seat 4: yany4ar (429240.00)
+Seat 5: GhettoHeisman (91800.00)
+Seat 6: grotle (379174.00)
+Seat 7: LifeLikeFish (126450.00)
+Seat 8: TRACKBOB (99000.00)
+Jumper08 posts ante 1000.00
+Hardy1305 posts ante 1000.00
+BORNOVICH posts ante 1000.00
+yany4ar posts ante 1000.00
+GhettoHeisman posts ante 1000.00
+grotle posts ante 1000.00
+LifeLikeFish posts ante 1000.00
+TRACKBOB posts ante 1000.00
+grotle posts the small blind 4000.00
+LifeLikeFish posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [2d 9s]
+TRACKBOB folds
+Jumper08 folds
+Hardy1305 raises 16000.00 to 16000.00
+BORNOVICH folds
+yany4ar folds
+GhettoHeisman raises 90800.00 to 90800.00 and is all-in
+grotle folds
+LifeLikeFish folds
+Hardy1305 calls 74800.00
+*** FLOP *** [Ks Tc 3c]
+Main pot 201600.00
+*** TURN *** [Ks Tc 3c] [6d]
+Main pot 201600.00
+*** RIVER *** [Ks Tc 3c 6d] [As]
+Main pot 201600.00
+*** SHOW DOWN ***
+Main pot 201600.00
+Hardy1305 shows [Qd Kd] (a pair of Kings [Ks Kd As Qd Tc])
+GhettoHeisman shows [7h 7c] (a pair of Sevens [7h 7c As Ks Tc])
+Hardy1305 collected 201600.00 from main pot
+*** SUMMARY ***
+Total pot 201600.00
+Board [Ks Tc 3c 6d As]
+Seat 1: Jumper08 folded on the Pre-Flop and did not bet
+Seat 2: Hardy1305 showed [Qd Kd] and won 201600.00 with a pair of Kings [Ks Kd As Qd Tc]
+Seat 3: BORNOVICH folded on the Pre-Flop and did not bet
+Seat 4: yany4ar folded on the Pre-Flop and did not bet
+Seat 5: GhettoHeisman (button) showed [7h 7c] and lost with a pair of Sevens [7h 7c As Ks Tc]
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: LifeLikeFish (big blind) folded on the Pre-Flop
+Seat 8: TRACKBOB folded on the Pre-Flop and did not bet
+

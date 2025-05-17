@@ -1,0 +1,1640 @@
+Game Hand #2456050070 - Tournament #33513986 - Holdem (No Limit) - Level 11 (1500.00/3000.00) - 2025/05/15 12:06:28 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Holdmybear (78067.00)
+Seat 2: grotle (130812.00) is sitting out
+Seat 3: QuadziModo601 (82262.00)
+Seat 4: 1TeleporT1 (132483.00)
+Seat 5: GoodJ (132226.00)
+Seat 6: rowta (59637.00)
+Seat 8: Yaustall (77148.00)
+Holdmybear posts ante 350.00
+grotle posts ante 350.00
+QuadziModo601 posts ante 350.00
+1TeleporT1 posts ante 350.00
+GoodJ posts ante 350.00
+rowta posts ante 350.00
+Yaustall posts ante 350.00
+grotle posts the small blind 1500.00
+QuadziModo601 posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [3d 4d]
+1TeleporT1 folds
+GoodJ folds
+rowta raises 6000.00 to 6000.00
+Yaustall folds
+Holdmybear folds
+grotle folds
+QuadziModo601 calls 3000.00
+*** FLOP *** [3s 7h Ks]
+Main pot 15950.00
+QuadziModo601 checks
+rowta bets 5264.00
+QuadziModo601 calls 5264.00
+*** TURN *** [3s 7h Ks] [5c]
+Main pot 26478.00
+QuadziModo601 checks
+rowta bets 15887.00
+QuadziModo601 folds
+Uncalled bet (15887.00) returned to rowta
+rowta does not show
+*** SUMMARY ***
+Total pot 26478.00
+Board [3s 7h Ks 5c]
+Seat 1: Holdmybear (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Turn
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta did not show and won 26478.00
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456050454 - Tournament #33513986 - Holdem (No Limit) - Level 11 (1500.00/3000.00) - 2025/05/15 12:08:14 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Holdmybear (77717.00)
+Seat 2: grotle (128962.00)
+Seat 3: QuadziModo601 (70648.00)
+Seat 4: 1TeleporT1 (132133.00)
+Seat 5: GoodJ (131876.00)
+Seat 6: rowta (74501.00)
+Seat 8: Yaustall (76798.00)
+Holdmybear posts ante 350.00
+grotle posts ante 350.00
+QuadziModo601 posts ante 350.00
+1TeleporT1 posts ante 350.00
+GoodJ posts ante 350.00
+rowta posts ante 350.00
+Yaustall posts ante 350.00
+QuadziModo601 posts the small blind 1500.00
+1TeleporT1 posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [6d 3s]
+GoodJ folds
+rowta folds
+Yaustall folds
+Holdmybear folds
+grotle raises 7500.00 to 7500.00
+QuadziModo601 calls 6000.00
+1TeleporT1 calls 4500.00
+*** FLOP *** [7s Kc 5d]
+Main pot 24950.00
+QuadziModo601 checks
+1TeleporT1 checks
+grotle bets 12000.00
+QuadziModo601 folds
+1TeleporT1 folds
+Uncalled bet (12000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 24950.00
+Board [7s Kc 5d]
+Seat 1: Holdmybear folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 24950.00
+Seat 3: QuadziModo601 (small blind) folded on the Flop
+Seat 4: 1TeleporT1 (big blind) folded on the Flop
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456050770 - Tournament #33513986 - Holdem (No Limit) - Level 11 (1500.00/3000.00) - 2025/05/15 12:09:49 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Holdmybear (77367.00)
+Seat 2: grotle (146062.00)
+Seat 3: QuadziModo601 (62798.00)
+Seat 4: 1TeleporT1 (124283.00)
+Seat 5: GoodJ (131526.00)
+Seat 6: rowta (74151.00)
+Seat 8: Yaustall (76448.00)
+Holdmybear posts ante 350.00
+grotle posts ante 350.00
+QuadziModo601 posts ante 350.00
+1TeleporT1 posts ante 350.00
+GoodJ posts ante 350.00
+rowta posts ante 350.00
+Yaustall posts ante 350.00
+1TeleporT1 posts the small blind 1500.00
+GoodJ posts the big blind 3000.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [5c 9c]
+rowta folds
+Yaustall folds
+Holdmybear raises 7500.00 to 7500.00
+grotle folds
+QuadziModo601 calls 7500.00
+1TeleporT1 folds
+GoodJ raises 36000.00 to 39000.00
+Holdmybear raises 69517.00 to 77017.00 and is all-in
+QuadziModo601 folds
+GoodJ calls 38017.00
+*** FLOP *** [Jd 9d 6h]
+Main pot 165484.00
+*** TURN *** [Jd 9d 6h] [9h]
+Main pot 165484.00
+*** RIVER *** [Jd 9d 6h 9h] [Jh]
+Main pot 165484.00
+*** SHOW DOWN ***
+Main pot 165484.00
+Holdmybear shows [Qs Qh] (two pair, Queens and Jacks [Qs Qh Jh Jd 9h])
+GoodJ shows [Ks Kd] (two pair, Kings and Jacks [Ks Kd Jh Jd 9h])
+GoodJ collected 165484.00 from main pot
+*** SUMMARY ***
+Total pot 165484.00
+Board [Jd 9d 6h 9h Jh]
+Seat 1: Holdmybear showed [Qs Qh] and lost with two pair, Queens and Jacks [Qs Qh Jh Jd 9h]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 5: GoodJ (big blind) showed [Ks Kd] and won 165484.00 with two pair, Kings and Jacks [Ks Kd Jh Jd 9h]
+Seat 6: rowta folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456051235 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:10:40 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 2: grotle (145712.00)
+Seat 3: QuadziModo601 (54948.00)
+Seat 4: 1TeleporT1 (122433.00)
+Seat 5: GoodJ (219643.00)
+Seat 6: rowta (73801.00)
+Seat 8: Yaustall (76098.00)
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+Yaustall posts ante 450.00
+GoodJ posts the small blind 2000.00
+rowta posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [Qd Jc]
+Yaustall folds
+grotle raises 10000.00 to 10000.00
+QuadziModo601 calls 10000.00
+1TeleporT1 folds
+GoodJ folds
+rowta folds
+*** FLOP *** [3c 2d 4s]
+Main pot 28700.00
+grotle bets 12000.00
+QuadziModo601 calls 12000.00
+*** TURN *** [3c 2d 4s] [5s]
+Main pot 52700.00
+grotle checks
+QuadziModo601 bets 32498.00 and is all-in
+grotle folds
+Uncalled bet (32498.00) returned to QuadziModo601
+QuadziModo601 does not show
+*** SUMMARY ***
+Total pot 52700.00
+Board [3c 2d 4s 5s]
+Seat 2: grotle folded on the Turn
+Seat 3: QuadziModo601 did not show and won 52700.00
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 5: GoodJ (small blind) folded on the Pre-Flop
+Seat 6: rowta (big blind) folded on the Pre-Flop
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456052116 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:12:07 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 2: grotle (123262.00)
+Seat 3: QuadziModo601 (85198.00)
+Seat 4: 1TeleporT1 (121983.00)
+Seat 5: GoodJ (217193.00)
+Seat 6: rowta (69351.00)
+Seat 8: Yaustall (75648.00)
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+Yaustall posts ante 450.00
+rowta posts the small blind 2000.00
+Yaustall posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [4h 8s]
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 8000.00 to 8000.00
+rowta folds
+Yaustall calls 4000.00
+*** FLOP *** [6s 7d 8h]
+Main pot 20700.00
+Yaustall checks
+GoodJ bets 10831.00
+Yaustall folds
+Uncalled bet (10831.00) returned to GoodJ
+GoodJ does not show
+*** SUMMARY ***
+Total pot 20700.00
+Board [6s 7d 8h]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ did not show and won 20700.00
+Seat 6: rowta (small blind) folded on the Pre-Flop
+Seat 8: Yaustall (big blind) folded on the Flop
+
+Game Hand #2456053045 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:13:30 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 2: grotle (122812.00)
+Seat 3: QuadziModo601 (84748.00)
+Seat 4: 1TeleporT1 (121533.00)
+Seat 5: GoodJ (229443.00)
+Seat 6: rowta (66901.00)
+Seat 8: Yaustall (67198.00)
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+Yaustall posts ante 450.00
+Yaustall posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [6s 5d]
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+rowta raises 66451.00 to 66451.00 and is all-in
+Yaustall folds
+grotle folds
+Uncalled bet (62451.00) returned to rowta
+rowta does not show
+*** SUMMARY ***
+Total pot 12700.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta did not show and won 12700.00
+Seat 8: Yaustall (small blind) folded on the Pre-Flop
+
+Game Hand #2456053301 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:13:55 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 2: grotle (118362.00)
+Seat 3: QuadziModo601 (84298.00)
+Seat 4: 1TeleporT1 (121083.00)
+Seat 5: GoodJ (228993.00)
+Seat 6: rowta (75151.00)
+Seat 8: Yaustall (64748.00)
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+Yaustall posts ante 450.00
+grotle posts the small blind 2000.00
+QuadziModo601 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [4s 3c]
+1TeleporT1 raises 8000.00 to 8000.00
+GoodJ folds
+rowta folds
+Yaustall raises 64298.00 to 64298.00 and is all-in
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+Uncalled bet (56298.00) returned to Yaustall
+Yaustall does not show
+*** SUMMARY ***
+Total pot 24700.00
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta folded on the Pre-Flop and did not bet
+Seat 8: Yaustall did not show and won 24700.00
+
+Game Hand #2456053941 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:14:59 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: MissViktoria (21809.00)
+Seat 2: grotle (115912.00)
+Seat 3: QuadziModo601 (79848.00)
+Seat 4: 1TeleporT1 (112633.00)
+Seat 5: GoodJ (228543.00)
+Seat 6: rowta (74701.00)
+Seat 7: 7cRAPs7 (93136.00)
+Seat 8: Yaustall (80998.00)
+MissViktoria posts ante 450.00
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+7cRAPs7 posts ante 450.00
+Yaustall posts ante 450.00
+QuadziModo601 posts the small blind 2000.00
+1TeleporT1 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Th 5c]
+GoodJ folds
+rowta folds
+7cRAPs7 folds
+Yaustall folds
+MissViktoria folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 does not show
+*** SUMMARY ***
+Total pot 9600.00
+Seat 1: MissViktoria folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: QuadziModo601 (small blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 did not show and won 9600.00
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456054106 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:15:17 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: MissViktoria (21359.00)
+Seat 2: grotle (115462.00)
+Seat 3: QuadziModo601 (77398.00)
+Seat 4: 1TeleporT1 (117783.00)
+Seat 5: GoodJ (228093.00)
+Seat 6: rowta (74251.00)
+Seat 7: 7cRAPs7 (92686.00)
+Seat 8: Yaustall (80548.00)
+MissViktoria posts ante 450.00
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+7cRAPs7 posts ante 450.00
+Yaustall posts ante 450.00
+1TeleporT1 posts the small blind 2000.00
+GoodJ posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Th 3c]
+rowta folds
+7cRAPs7 raises 8000.00 to 8000.00
+Yaustall calls 8000.00
+MissViktoria folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+*** FLOP *** [6h 9c Qc]
+Main pot 25600.00
+7cRAPs7 bets 12544.00
+Yaustall folds
+Uncalled bet (12544.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 25600.00
+Board [6h 9c Qc]
+Seat 1: MissViktoria folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 5: GoodJ (big blind) folded on the Pre-Flop
+Seat 6: rowta folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 25600.00
+Seat 8: Yaustall folded on the Flop
+
+Game Hand #2456054676 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:16:27 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: MissViktoria (20909.00)
+Seat 2: grotle (115012.00)
+Seat 3: QuadziModo601 (76948.00)
+Seat 4: 1TeleporT1 (115333.00)
+Seat 5: GoodJ (223643.00)
+Seat 6: rowta (73801.00)
+Seat 7: 7cRAPs7 (109836.00)
+Seat 8: Yaustall (72098.00)
+MissViktoria posts ante 450.00
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+7cRAPs7 posts ante 450.00
+Yaustall posts ante 450.00
+GoodJ posts the small blind 2000.00
+rowta posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [4c Js]
+7cRAPs7 folds
+Yaustall raises 8000.00 to 8000.00
+MissViktoria folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+rowta folds
+Uncalled bet (4000.00) returned to Yaustall
+Yaustall does not show
+*** SUMMARY ***
+Total pot 13600.00
+Seat 1: MissViktoria folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 5: GoodJ (small blind) folded on the Pre-Flop
+Seat 6: rowta (big blind) folded on the Pre-Flop
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall did not show and won 13600.00
+
+Game Hand #2456054920 - Tournament #33513986 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/05/15 12:17:02 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: MissViktoria (20459.00)
+Seat 2: grotle (114562.00)
+Seat 3: QuadziModo601 (76498.00)
+Seat 4: 1TeleporT1 (114883.00)
+Seat 5: GoodJ (221193.00)
+Seat 6: rowta (69351.00)
+Seat 7: 7cRAPs7 (109386.00)
+Seat 8: Yaustall (81248.00)
+MissViktoria posts ante 450.00
+grotle posts ante 450.00
+QuadziModo601 posts ante 450.00
+1TeleporT1 posts ante 450.00
+GoodJ posts ante 450.00
+rowta posts ante 450.00
+7cRAPs7 posts ante 450.00
+Yaustall posts ante 450.00
+rowta posts the small blind 2000.00
+7cRAPs7 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [8h 4c]
+Yaustall folds
+MissViktoria raises 20009.00 to 20009.00 and is all-in
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 220743.00 to 220743.00 and is all-in
+rowta folds
+7cRAPs7 calls 104936.00 and is all-in
+Uncalled bet (111807.00) returned to GoodJ
+*** FLOP *** [Td Jh Kc]
+Main pot 65627.00
+Side pot(1) 177854.00
+*** TURN *** [Td Jh Kc] [Qh]
+Main pot 65627.00
+Side pot(1) 177854.00
+*** RIVER *** [Td Jh Kc Qh] [2d]
+Main pot 65627.00
+Side pot(1) 177854.00
+*** SHOW DOWN ***
+Main pot 65627.00
+Side pot(1) 177854.00
+MissViktoria shows [Ks Qc] (two pair, Kings and Queens [Ks Kc Qh Qc Jh])
+GoodJ shows [Jd 9s] (a straight, King high [Kc Qh Jh Td 9s])
+7cRAPs7 shows [As Kh] (a straight, Ace high [As Kh Qh Jh Td])
+7cRAPs7 collected 65627.00 from main pot
+7cRAPs7 collected 177854.00 from side pot-1
+*** SUMMARY ***
+Total pot 243481.00
+Board [Td Jh Kc Qh 2d]
+Seat 1: MissViktoria showed [Ks Qc] and lost with two pair, Kings and Queens [Ks Kc Qh Qc Jh]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ (button) showed [Jd 9s] and lost with a straight, King high [Kc Qh Jh Td 9s]
+Seat 6: rowta (small blind) folded on the Pre-Flop
+Seat 7: 7cRAPs7 (big blind) showed [As Kh] and won 243481.00 with a straight, Ace high [As Kh Qh Jh Td]
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456055365 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:18:06 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 2: grotle (114112.00)
+Seat 3: QuadziModo601 (76048.00)
+Seat 4: 1TeleporT1 (114433.00)
+Seat 5: GoodJ (111807.00)
+Seat 6: rowta (66901.00)
+Seat 7: 7cRAPs7 (243481.00)
+Seat 8: Yaustall (80798.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+rowta posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+7cRAPs7 posts the small blind 2500.00
+Yaustall posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [5h 3s]
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 10000.00 to 10000.00
+rowta folds
+7cRAPs7 folds
+Yaustall folds
+Uncalled bet (5000.00) returned to GoodJ
+GoodJ does not show
+*** SUMMARY ***
+Total pot 16700.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ did not show and won 16700.00
+Seat 6: rowta (button) folded on the Pre-Flop
+Seat 7: 7cRAPs7 (small blind) folded on the Pre-Flop
+Seat 8: Yaustall (big blind) folded on the Pre-Flop
+
+Game Hand #2456055659 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:18:48 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 2: grotle (113512.00)
+Seat 3: QuadziModo601 (75448.00)
+Seat 4: 1TeleporT1 (113833.00)
+Seat 5: GoodJ (122907.00)
+Seat 6: rowta (66301.00) is sitting out
+Seat 7: 7cRAPs7 (240381.00)
+Seat 8: Yaustall (75198.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+rowta posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+Yaustall posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [Th 5h]
+QuadziModo601 folds
+1TeleporT1 raises 10000.00 to 10000.00
+GoodJ folds
+rowta raises 65701.00 to 65701.00 and is all-in
+7cRAPs7 folds
+Yaustall folds
+grotle folds
+1TeleporT1 calls 55701.00
+*** FLOP *** [Kh 8h 2h]
+Main pot 143102.00
+*** TURN *** [Kh 8h 2h] [4d]
+Main pot 143102.00
+*** RIVER *** [Kh 8h 2h 4d] [9h]
+Main pot 143102.00
+*** SHOW DOWN ***
+Main pot 143102.00
+1TeleporT1 shows [Qd Kd] (a pair of Kings [Kh Kd Qd 9h 8h])
+rowta shows [As Qc] (a high card, Ace high [As Kh Qc 9h 8h])
+1TeleporT1 collected 143102.00 from main pot
+*** SUMMARY ***
+Total pot 143102.00
+Board [Kh 8h 2h 4d 9h]
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 showed [Qd Kd] and won 143102.00 with a pair of Kings [Kh Kd Qd 9h 8h]
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: rowta showed [As Qc] and lost with a high card, Ace high [As Kh Qc 9h 8h]
+Seat 7: 7cRAPs7 (button) folded on the Pre-Flop
+Seat 8: Yaustall (small blind) folded on the Pre-Flop
+
+Game Hand #2456055957 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:19:36 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 2: grotle (107912.00)
+Seat 3: QuadziModo601 (74848.00)
+Seat 4: 1TeleporT1 (190634.00)
+Seat 5: GoodJ (122307.00)
+Seat 7: 7cRAPs7 (239781.00)
+Seat 8: Yaustall (72098.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+grotle posts the small blind 2500.00
+QuadziModo601 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Qc 8h]
+1TeleporT1 folds
+GoodJ folds
+7cRAPs7 raises 10000.00 to 10000.00
+Yaustall folds
+grotle folds
+QuadziModo601 folds
+Uncalled bet (5000.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 16100.00
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 16100.00
+Seat 8: Yaustall (button) folded on the Pre-Flop
+
+Game Hand #2456056083 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:19:58 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 2: grotle (104812.00)
+Seat 3: QuadziModo601 (69248.00)
+Seat 4: 1TeleporT1 (190034.00)
+Seat 5: GoodJ (121707.00)
+Seat 7: 7cRAPs7 (250281.00)
+Seat 8: Yaustall (71498.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+QuadziModo601 posts the small blind 2500.00
+1TeleporT1 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [8c 5d]
+GoodJ folds
+7cRAPs7 folds
+Yaustall raises 10000.00 to 10000.00
+grotle folds
+QuadziModo601 folds
+1TeleporT1 raises 184434.00 to 189434.00 and is all-in
+Yaustall folds
+Uncalled bet (179434.00) returned to 1TeleporT1
+1TeleporT1 does not show
+*** SUMMARY ***
+Total pot 26100.00
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: QuadziModo601 (small blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 did not show and won 26100.00
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456056342 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:20:45 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 2: grotle (104212.00)
+Seat 3: QuadziModo601 (66148.00)
+Seat 4: 1TeleporT1 (205534.00)
+Seat 5: GoodJ (121107.00)
+Seat 7: 7cRAPs7 (249681.00)
+Seat 8: Yaustall (60898.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+1TeleporT1 posts the small blind 2500.00
+GoodJ posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [7c Kh]
+7cRAPs7 raises 10000.00 to 10000.00
+Yaustall folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+Uncalled bet (5000.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 16100.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 5: GoodJ (big blind) folded on the Pre-Flop
+Seat 7: 7cRAPs7 did not show and won 16100.00
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456056545 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:21:24 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 2: grotle (103612.00)
+Seat 3: QuadziModo601 (65548.00)
+Seat 4: 1TeleporT1 (202434.00)
+Seat 5: GoodJ (115507.00)
+Seat 7: 7cRAPs7 (260181.00)
+Seat 8: Yaustall (60298.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+GoodJ posts the small blind 2500.00
+7cRAPs7 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [5c 7s]
+Yaustall folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ calls 2500.00
+7cRAPs7 checks
+*** FLOP *** [3s 4s 8d]
+Main pot 13600.00
+GoodJ checks
+7cRAPs7 bets 6664.00
+GoodJ calls 6664.00
+*** TURN *** [3s 4s 8d] [Qc]
+Main pot 26928.00
+GoodJ checks
+7cRAPs7 bets 8886.00
+GoodJ calls 8886.00
+*** RIVER *** [3s 4s 8d Qc] [9c]
+Main pot 44700.00
+GoodJ checks
+7cRAPs7 checks
+*** SHOW DOWN ***
+Main pot 44700.00
+GoodJ shows [Jd 9d] (a pair of Nines [9d 9c Qc Jd 8d])
+7cRAPs7 shows [8h Ts] (a pair of Eights [8h 8d Qc Ts 9c])
+GoodJ collected 44700.00 from main pot
+*** SUMMARY ***
+Total pot 44700.00
+Board [3s 4s 8d Qc 9c]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 5: GoodJ (small blind) showed [Jd 9d] and won 44700.00 with a pair of Nines [9d 9c Qc Jd 8d]
+Seat 7: 7cRAPs7 (big blind) showed [8h Ts] and lost with a pair of Eights [8h 8d Qc Ts 9c]
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456057075 - Tournament #33513986 - Holdem (No Limit) - Level 13 (2500.00/5000.00) - 2025/05/15 12:23:12 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 2: grotle (103012.00)
+Seat 3: QuadziModo601 (64948.00)
+Seat 4: 1TeleporT1 (201834.00)
+Seat 5: GoodJ (139057.00)
+Seat 7: 7cRAPs7 (239031.00)
+Seat 8: Yaustall (59698.00)
+grotle posts ante 600.00
+QuadziModo601 posts ante 600.00
+1TeleporT1 posts ante 600.00
+GoodJ posts ante 600.00
+7cRAPs7 posts ante 600.00
+Yaustall posts ante 600.00
+7cRAPs7 posts the small blind 2500.00
+Yaustall posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Jc 9d]
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 10000.00 to 10000.00
+7cRAPs7 folds
+Yaustall calls 5000.00
+*** FLOP *** [5h 3h Qc]
+Main pot 26100.00
+Yaustall bets 8613.00
+GoodJ calls 8613.00
+*** TURN *** [5h 3h Qc] [8s]
+Main pot 43326.00
+Yaustall checks
+GoodJ checks
+*** RIVER *** [5h 3h Qc 8s] [Ad]
+Main pot 43326.00
+Yaustall checks
+GoodJ bets 22500.00
+Yaustall folds
+Uncalled bet (22500.00) returned to GoodJ
+GoodJ does not show
+*** SUMMARY ***
+Total pot 43326.00
+Board [5h 3h Qc 8s Ad]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ did not show and won 43326.00
+Seat 7: 7cRAPs7 (small blind) folded on the Pre-Flop
+Seat 8: Yaustall (big blind) folded on the River
+
+Game Hand #2456057699 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:25:29 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 2: grotle (102412.00)
+Seat 3: QuadziModo601 (64348.00)
+Seat 4: 1TeleporT1 (201234.00)
+Seat 5: GoodJ (163170.00)
+Seat 7: 7cRAPs7 (235931.00)
+Seat 8: Yaustall (40485.00)
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+Yaustall posts the small blind 3000.00
+grotle posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [3c 7d]
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 12000.00 to 12000.00
+7cRAPs7 raises 45600.00 to 45600.00
+Yaustall folds
+grotle folds
+GoodJ folds
+Uncalled bet (33600.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 37500.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 37500.00
+Seat 8: Yaustall (small blind) folded on the Pre-Flop
+
+Game Hand #2456057917 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:26:20 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 2: grotle (95662.00)
+Seat 3: QuadziModo601 (63598.00)
+Seat 4: 1TeleporT1 (200484.00)
+Seat 5: GoodJ (150420.00)
+Seat 7: 7cRAPs7 (260681.00)
+Seat 8: Yaustall (36735.00)
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+grotle posts the small blind 3000.00
+QuadziModo601 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [8c 2s]
+1TeleporT1 folds
+GoodJ folds
+7cRAPs7 raises 12000.00 to 12000.00
+Yaustall raises 35985.00 to 35985.00 and is all-in
+grotle folds
+QuadziModo601 folds
+7cRAPs7 calls 23985.00
+*** FLOP *** [As 6c 2h]
+Main pot 85470.00
+*** TURN *** [As 6c 2h] [3c]
+Main pot 85470.00
+*** RIVER *** [As 6c 2h 3c] [8h]
+Main pot 85470.00
+*** SHOW DOWN ***
+Main pot 85470.00
+7cRAPs7 shows [Jd 9h] (a high card, Ace high [As Jd 9h 8h 6c])
+Yaustall shows [Ad Qh] (a pair of Aces [As Ad Qh 8h 6c])
+Yaustall collected 85470.00 from main pot
+*** SUMMARY ***
+Total pot 85470.00
+Board [As 6c 2h 3c 8h]
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 showed [Jd 9h] and lost with a high card, Ace high [As Jd 9h 8h 6c]
+Seat 8: Yaustall (button) showed [Ad Qh] and won 85470.00 with a pair of Aces [As Ad Qh 8h 6c]
+
+Game Hand #2456058196 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:27:18 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 2: grotle (91912.00)
+Seat 3: QuadziModo601 (56848.00)
+Seat 4: 1TeleporT1 (199734.00)
+Seat 5: GoodJ (149670.00)
+Seat 7: 7cRAPs7 (223946.00)
+Seat 8: Yaustall (85470.00)
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+QuadziModo601 posts the small blind 3000.00
+1TeleporT1 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [8s 7s]
+GoodJ folds
+7cRAPs7 folds
+Yaustall folds
+grotle raises 15000.00 to 15000.00
+QuadziModo601 folds
+1TeleporT1 calls 9000.00
+*** FLOP *** [Jc 4d Kh]
+Main pot 37500.00
+1TeleporT1 checks
+grotle bets 18000.00
+1TeleporT1 calls 18000.00
+*** TURN *** [Jc 4d Kh] [6c]
+Main pot 73500.00
+1TeleporT1 checks
+grotle checks
+*** RIVER *** [Jc 4d Kh 6c] [Jh]
+Main pot 73500.00
+1TeleporT1 bets 61125.00
+grotle folds
+Uncalled bet (61125.00) returned to 1TeleporT1
+1TeleporT1 does not show
+*** SUMMARY ***
+Total pot 73500.00
+Board [Jc 4d Kh 6c Jh]
+Seat 2: grotle (button) folded on the River
+Seat 3: QuadziModo601 (small blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 did not show and won 73500.00
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456058602 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:28:58 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 2: grotle (58162.00)
+Seat 3: QuadziModo601 (53098.00)
+Seat 4: 1TeleporT1 (239484.00)
+Seat 5: GoodJ (148920.00)
+Seat 7: 7cRAPs7 (223196.00)
+Seat 8: Yaustall (84720.00)
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+1TeleporT1 posts the small blind 3000.00
+GoodJ posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [Jh Js]
+7cRAPs7 folds
+Yaustall folds
+grotle raises 15000.00 to 15000.00
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ raises 142170.00 to 148170.00 and is all-in
+grotle calls 42412.00 and is all-in
+Uncalled bet (90758.00) returned to GoodJ
+*** FLOP *** [Kh 3s 6d]
+Main pot 122324.00
+*** TURN *** [Kh 3s 6d] [2d]
+Main pot 122324.00
+*** RIVER *** [Kh 3s 6d 2d] [6h]
+Main pot 122324.00
+*** SHOW DOWN ***
+Main pot 122324.00
+grotle shows [Jh Js] (two pair, Jacks and Sixs [Js Jh 6h 6d Kh])
+GoodJ shows [Qc Jd] (a pair of Sixs [6h 6d Kh Qc Jd])
+grotle collected 122324.00 from main pot
+*** SUMMARY ***
+Total pot 122324.00
+Board [Kh 3s 6d 2d 6h]
+Seat 2: grotle showed [Jh Js] and won 122324.00 with two pair, Jacks and Sixs [Js Jh 6h 6d Kh]
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 5: GoodJ (big blind) showed [Qc Jd] and lost with a pair of Sixs [6h 6d Kh Qc Jd]
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456058785 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:29:38 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 2: grotle (122324.00)
+Seat 3: QuadziModo601 (52348.00)
+Seat 4: 1TeleporT1 (235734.00)
+Seat 5: GoodJ (90758.00)
+Seat 7: 7cRAPs7 (222446.00)
+Seat 8: Yaustall (83970.00)
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+GoodJ posts the small blind 3000.00
+7cRAPs7 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [5c As]
+Yaustall folds
+grotle raises 15000.00 to 15000.00
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+7cRAPs7 calls 9000.00
+*** FLOP *** [Kc Qh Jd]
+Main pot 37500.00
+7cRAPs7 checks
+grotle bets 21000.00
+7cRAPs7 folds
+Uncalled bet (21000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 37500.00
+Board [Kc Qh Jd]
+Seat 2: grotle did not show and won 37500.00
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 5: GoodJ (small blind) folded on the Pre-Flop
+Seat 7: 7cRAPs7 (big blind) folded on the Flop
+Seat 8: Yaustall folded on the Pre-Flop and did not bet
+
+Game Hand #2456059037 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:30:44 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: IPuntPots (136238.00)
+Seat 2: grotle (144074.00)
+Seat 3: QuadziModo601 (51598.00)
+Seat 4: 1TeleporT1 (234984.00)
+Seat 5: GoodJ (87008.00)
+Seat 6: Pobeda799 will be allowed to play after the button
+Seat 7: 7cRAPs7 (206696.00)
+Seat 8: Yaustall (83220.00)
+IPuntPots posts ante 750.00
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+7cRAPs7 posts the small blind 3000.00
+Yaustall posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [5h 4h]
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+7cRAPs7 folds
+Yaustall does not show
+*** SUMMARY ***
+Total pot 14250.00
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ (button) folded on the Pre-Flop
+Seat 7: 7cRAPs7 (small blind) folded on the Pre-Flop
+Seat 8: Yaustall did not show and won 14250.00
+
+Game Hand #2456059136 - Tournament #33513986 - Holdem (No Limit) - Level 14 (3000.00/6000.00) - 2025/05/15 12:31:08 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: IPuntPots (135488.00)
+Seat 2: grotle (143324.00)
+Seat 3: QuadziModo601 (50848.00)
+Seat 4: 1TeleporT1 (234234.00)
+Seat 5: GoodJ (86258.00)
+Seat 6: Pobeda799 (211688.00)
+Seat 7: 7cRAPs7 (202946.00)
+Seat 8: Yaustall (90720.00)
+IPuntPots posts ante 750.00
+grotle posts ante 750.00
+QuadziModo601 posts ante 750.00
+1TeleporT1 posts ante 750.00
+GoodJ posts ante 750.00
+Pobeda799 posts ante 750.00
+7cRAPs7 posts ante 750.00
+Yaustall posts ante 750.00
+Yaustall posts the small blind 3000.00
+IPuntPots posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Tc 6s]
+grotle folds
+QuadziModo601 raises 50098.00 to 50098.00 and is all-in
+1TeleporT1 folds
+GoodJ folds
+Pobeda799 folds
+7cRAPs7 folds
+Yaustall raises 86970.00 to 89970.00 and is all-in
+IPuntPots folds
+Uncalled bet (39872.00) returned to Yaustall
+*** FLOP *** [Ts Jh 9h]
+Main pot 112196.00
+*** TURN *** [Ts Jh 9h] [7h]
+Main pot 112196.00
+*** RIVER *** [Ts Jh 9h 7h] [3s]
+Main pot 112196.00
+*** SHOW DOWN ***
+Main pot 112196.00
+QuadziModo601 shows [Qc Jc] (a pair of Jacks [Jh Jc Qc Ts 9h])
+Yaustall shows [Th As] (a pair of Tens [Ts Th As Jh 9h])
+QuadziModo601 collected 112196.00 from main pot
+*** SUMMARY ***
+Total pot 112196.00
+Board [Ts Jh 9h 7h 3s]
+Seat 1: IPuntPots (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 showed [Qc Jc] and won 112196.00 with a pair of Jacks [Jh Jc Qc Ts 9h]
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 (button) folded on the Pre-Flop
+Seat 8: Yaustall (small blind) showed [Th As] and lost with a pair of Tens [Ts Th As Jh 9h]
+
+Game Hand #2456059339 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:32:03 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: IPuntPots (128738.00)
+Seat 2: grotle (142574.00)
+Seat 3: QuadziModo601 (112196.00)
+Seat 4: 1TeleporT1 (233484.00)
+Seat 5: GoodJ (85508.00)
+Seat 6: Pobeda799 (210938.00) is sitting out
+Seat 7: 7cRAPs7 (202196.00)
+Seat 8: Yaustall (39872.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+GoodJ posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+Yaustall posts ante 1000.00
+IPuntPots posts the small blind 4000.00
+grotle posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [5s 4c]
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+Pobeda799 folds
+7cRAPs7 folds
+Yaustall raises 38872.00 to 38872.00 and is all-in
+IPuntPots folds
+grotle calls 30872.00
+*** FLOP *** [Ac 6s 9d]
+Main pot 89744.00
+*** TURN *** [Ac 6s 9d] [4s]
+Main pot 89744.00
+*** RIVER *** [Ac 6s 9d 4s] [5d]
+Main pot 89744.00
+*** SHOW DOWN ***
+Main pot 89744.00
+grotle shows [5s 4c] (two pair, Fives and Fours [5s 5d 4s 4c Ac])
+Yaustall shows [3s 8s] (a high card, Ace high [Ac 9d 8s 6s 5d])
+grotle collected 89744.00 from main pot
+*** SUMMARY ***
+Total pot 89744.00
+Board [Ac 6s 9d 4s 5d]
+Seat 1: IPuntPots (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) showed [5s 4c] and won 89744.00 with two pair, Fives and Fours [5s 5d 4s 4c Ac]
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+Seat 8: Yaustall (button) showed [3s 8s] and lost with a high card, Ace high [Ac 9d 8s 6s 5d]
+
+Game Hand #2456059563 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:33:00 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: IPuntPots (123738.00)
+Seat 2: grotle (192446.00)
+Seat 3: QuadziModo601 (111196.00)
+Seat 4: 1TeleporT1 (232484.00)
+Seat 5: GoodJ (84508.00)
+Seat 6: Pobeda799 (209938.00)
+Seat 7: 7cRAPs7 (201196.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+GoodJ posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+grotle posts the small blind 4000.00
+QuadziModo601 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [4c 9d]
+1TeleporT1 raises 16000.00 to 16000.00
+GoodJ folds
+Pobeda799 folds
+7cRAPs7 folds
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+Uncalled bet (8000.00) returned to 1TeleporT1
+1TeleporT1 does not show
+*** SUMMARY ***
+Total pot 27000.00
+Seat 1: IPuntPots (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 did not show and won 27000.00
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+
+Game Hand #2456059684 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:33:36 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: IPuntPots (122738.00)
+Seat 2: grotle (187446.00)
+Seat 3: QuadziModo601 (102196.00)
+Seat 4: 1TeleporT1 (250484.00)
+Seat 5: GoodJ (83508.00)
+Seat 6: Pobeda799 (208938.00)
+Seat 7: 7cRAPs7 (200196.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+GoodJ posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+QuadziModo601 posts the small blind 4000.00
+1TeleporT1 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [7h 4c]
+GoodJ folds
+Pobeda799 folds
+7cRAPs7 folds
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 does not show
+*** SUMMARY ***
+Total pot 19000.00
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: QuadziModo601 (small blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 did not show and won 19000.00
+Seat 5: GoodJ folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+
+Game Hand #2456059806 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:34:09 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: IPuntPots (121738.00)
+Seat 2: grotle (186446.00)
+Seat 3: QuadziModo601 (97196.00)
+Seat 4: 1TeleporT1 (260484.00)
+Seat 5: GoodJ (82508.00)
+Seat 6: Pobeda799 (207938.00)
+Seat 7: 7cRAPs7 (199196.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+GoodJ posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+1TeleporT1 posts the small blind 4000.00
+GoodJ posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [8c 4c]
+Pobeda799 folds
+7cRAPs7 raises 16000.00 to 16000.00
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+GoodJ folds
+Uncalled bet (8000.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 27000.00
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 5: GoodJ (big blind) folded on the Pre-Flop
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 27000.00
+
+Game Hand #2456060027 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:35:04 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: IPuntPots (120738.00)
+Seat 2: grotle (185446.00)
+Seat 3: QuadziModo601 (96196.00)
+Seat 4: 1TeleporT1 (255484.00)
+Seat 5: GoodJ (73508.00)
+Seat 6: Pobeda799 (206938.00) is sitting out
+Seat 7: 7cRAPs7 (217196.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+GoodJ posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+GoodJ posts the small blind 4000.00
+Pobeda799 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [8s Kd]
+7cRAPs7 folds
+IPuntPots calls 8000.00
+grotle folds
+QuadziModo601 calls 8000.00
+1TeleporT1 folds
+GoodJ folds
+Pobeda799 checks
+*** FLOP *** [Td Tc Ad]
+Main pot 35000.00
+Pobeda799 checks
+IPuntPots checks
+QuadziModo601 checks
+*** TURN *** [Td Tc Ad] [5d]
+Main pot 35000.00
+Pobeda799 checks
+IPuntPots checks
+QuadziModo601 checks
+*** RIVER *** [Td Tc Ad 5d] [3c]
+Main pot 35000.00
+Pobeda799 bets 11550.00
+IPuntPots folds
+QuadziModo601 calls 11550.00
+*** SHOW DOWN ***
+Main pot 58100.00
+QuadziModo601 shows [7c 7h] (two pair, Tens and Sevens [Td Tc 7h 7c Ad])
+Pobeda799 shows [2s 4c] (a straight, Five high [5d 4c 3c 2s Ad])
+Pobeda799 collected 58100.00 from main pot
+*** SUMMARY ***
+Total pot 58100.00
+Board [Td Tc Ad 5d 3c]
+Seat 1: IPuntPots folded on the River
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 showed [7c 7h] and lost with two pair, Tens and Sevens [Td Tc 7h 7c Ad]
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 5: GoodJ (small blind) folded on the Pre-Flop
+Seat 6: Pobeda799 (big blind) showed [2s 4c] and won 58100.00 with a straight, Five high [5d 4c 3c 2s Ad]
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+
+Game Hand #2456060379 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:36:37 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: IPuntPots (111738.00)
+Seat 2: grotle (184446.00)
+Seat 3: QuadziModo601 (75646.00)
+Seat 4: 1TeleporT1 (254484.00)
+Seat 6: Pobeda799 (244488.00)
+Seat 7: 7cRAPs7 (216196.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+Pobeda799 posts the small blind 4000.00
+7cRAPs7 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [3d Kh]
+IPuntPots folds
+grotle folds
+QuadziModo601 raises 21000.00 to 21000.00
+1TeleporT1 calls 21000.00
+Pobeda799 folds
+7cRAPs7 raises 67200.00 to 75200.00
+QuadziModo601 calls 53646.00 and is all-in
+1TeleporT1 folds
+Uncalled bet (554.00) returned to 7cRAPs7
+*** FLOP *** [Jd 4c Qs]
+Main pot 180292.00
+*** TURN *** [Jd 4c Qs] [3s]
+Main pot 180292.00
+*** RIVER *** [Jd 4c Qs 3s] [Kc]
+Main pot 180292.00
+*** SHOW DOWN ***
+Main pot 180292.00
+QuadziModo601 shows [Ad As] (a pair of Aces [As Ad Kc Qs Jd])
+7cRAPs7 shows [Qc Ah] (a pair of Queens [Qs Qc Ah Kc Jd])
+QuadziModo601 collected 180292.00 from main pot
+*** SUMMARY ***
+Total pot 180292.00
+Board [Jd 4c Qs 3s Kc]
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 showed [Ad As] and won 180292.00 with a pair of Aces [As Ad Kc Qs Jd]
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 (small blind) folded on the Pre-Flop
+Seat 7: 7cRAPs7 (big blind) showed [Qc Ah] and lost with a pair of Queens [Qs Qc Ah Kc Jd]
+
+Game Hand #2456060666 - Tournament #33513986 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/05/15 12:37:53 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: IPuntPots (110738.00)
+Seat 2: grotle (183446.00)
+Seat 3: QuadziModo601 (180292.00)
+Seat 4: 1TeleporT1 (232484.00)
+Seat 6: Pobeda799 (239488.00)
+Seat 7: 7cRAPs7 (140550.00)
+IPuntPots posts ante 1000.00
+grotle posts ante 1000.00
+QuadziModo601 posts ante 1000.00
+1TeleporT1 posts ante 1000.00
+Pobeda799 posts ante 1000.00
+7cRAPs7 posts ante 1000.00
+7cRAPs7 posts the small blind 4000.00
+IPuntPots posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Ah 3s]
+grotle folds
+QuadziModo601 folds
+1TeleporT1 raises 16000.00 to 16000.00
+Pobeda799 folds
+7cRAPs7 raises 135550.00 to 139550.00 and is all-in
+IPuntPots folds
+1TeleporT1 folds
+Uncalled bet (123550.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 46000.00
+Seat 1: IPuntPots (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 (button) folded on the Pre-Flop
+Seat 7: 7cRAPs7 did not show and won 46000.00
+
+Game Hand #2456060822 - Tournament #33513986 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/05/15 12:38:40 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: IPuntPots (101738.00)
+Seat 2: grotle (182446.00)
+Seat 3: QuadziModo601 (179292.00)
+Seat 4: 1TeleporT1 (215484.00)
+Seat 6: Pobeda799 (238488.00)
+Seat 7: 7cRAPs7 (169550.00)
+IPuntPots posts ante 1250.00
+grotle posts ante 1250.00
+QuadziModo601 posts ante 1250.00
+1TeleporT1 posts ante 1250.00
+Pobeda799 posts ante 1250.00
+7cRAPs7 posts ante 1250.00
+IPuntPots posts the small blind 5000.00
+grotle posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [3s Kh]
+QuadziModo601 folds
+1TeleporT1 folds
+Pobeda799 folds
+7cRAPs7 raises 20000.00 to 20000.00
+IPuntPots folds
+grotle raises 55000.00 to 65000.00
+7cRAPs7 raises 148300.00 to 168300.00 and is all-in
+grotle folds
+Uncalled bet (103300.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 142500.00
+Seat 1: IPuntPots (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 142500.00
+
+Game Hand #2456061032 - Tournament #33513986 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/05/15 12:39:32 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: IPuntPots (95488.00)
+Seat 2: grotle (116196.00)
+Seat 3: QuadziModo601 (178042.00)
+Seat 4: 1TeleporT1 (214234.00)
+Seat 6: Pobeda799 (237238.00)
+Seat 7: 7cRAPs7 (245800.00)
+IPuntPots posts ante 1250.00
+grotle posts ante 1250.00
+QuadziModo601 posts ante 1250.00
+1TeleporT1 posts ante 1250.00
+Pobeda799 posts ante 1250.00
+7cRAPs7 posts ante 1250.00
+grotle posts the small blind 5000.00
+QuadziModo601 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [7d 8c]
+1TeleporT1 folds
+Pobeda799 folds
+7cRAPs7 raises 20000.00 to 20000.00
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+Uncalled bet (10000.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 1: IPuntPots (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: QuadziModo601 (big blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 folded on the Pre-Flop and did not bet
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 32500.00
+
+Game Hand #2456061094 - Tournament #33513986 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/05/15 12:39:50 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: IPuntPots (94238.00)
+Seat 2: grotle (109946.00)
+Seat 3: QuadziModo601 (166792.00)
+Seat 4: 1TeleporT1 (212984.00)
+Seat 6: Pobeda799 (235988.00)
+Seat 7: 7cRAPs7 (267050.00)
+IPuntPots posts ante 1250.00
+grotle posts ante 1250.00
+QuadziModo601 posts ante 1250.00
+1TeleporT1 posts ante 1250.00
+Pobeda799 posts ante 1250.00
+7cRAPs7 posts ante 1250.00
+QuadziModo601 posts the small blind 5000.00
+1TeleporT1 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [8s 9d]
+Pobeda799 folds
+7cRAPs7 raises 20000.00 to 20000.00
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+Uncalled bet (10000.00) returned to 7cRAPs7
+7cRAPs7 does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: QuadziModo601 (small blind) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (big blind) folded on the Pre-Flop
+Seat 6: Pobeda799 folded on the Pre-Flop and did not bet
+Seat 7: 7cRAPs7 did not show and won 32500.00
+
+Game Hand #2456061235 - Tournament #33513986 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/05/15 12:40:26 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: IPuntPots (92988.00)
+Seat 2: grotle (108696.00)
+Seat 3: QuadziModo601 (160542.00)
+Seat 4: 1TeleporT1 (201734.00)
+Seat 6: Pobeda799 (234738.00)
+Seat 7: 7cRAPs7 (288300.00)
+IPuntPots posts ante 1250.00
+grotle posts ante 1250.00
+QuadziModo601 posts ante 1250.00
+1TeleporT1 posts ante 1250.00
+Pobeda799 posts ante 1250.00
+7cRAPs7 posts ante 1250.00
+1TeleporT1 posts the small blind 5000.00
+Pobeda799 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [9d Ts]
+7cRAPs7 folds
+IPuntPots folds
+grotle folds
+QuadziModo601 folds
+1TeleporT1 folds
+Pobeda799 does not show
+*** SUMMARY ***
+Total pot 22500.00
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: QuadziModo601 (button) folded on the Pre-Flop
+Seat 4: 1TeleporT1 (small blind) folded on the Pre-Flop
+Seat 6: Pobeda799 did not show and won 22500.00
+Seat 7: 7cRAPs7 folded on the Pre-Flop and did not bet
+
+Game Hand #2456061335 - Tournament #33513986 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/05/15 12:40:51 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: IPuntPots (91738.00)
+Seat 2: grotle (107446.00)
+Seat 3: QuadziModo601 (159292.00)
+Seat 4: 1TeleporT1 (195484.00)
+Seat 6: Pobeda799 (245988.00)
+Seat 7: 7cRAPs7 (287050.00)
+IPuntPots posts ante 1250.00
+grotle posts ante 1250.00
+QuadziModo601 posts ante 1250.00
+1TeleporT1 posts ante 1250.00
+Pobeda799 posts ante 1250.00
+7cRAPs7 posts ante 1250.00
+Pobeda799 posts the small blind 5000.00
+7cRAPs7 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [Ac Kd]
+IPuntPots folds
+grotle raises 25000.00 to 25000.00
+QuadziModo601 folds
+1TeleporT1 folds
+Pobeda799 raises 239738.00 to 244738.00 and is all-in
+7cRAPs7 folds
+grotle calls 81196.00 and is all-in
+Uncalled bet (138542.00) returned to Pobeda799
+*** FLOP *** [9s 6s Ad]
+Main pot 229892.00
+*** TURN *** [9s 6s Ad] [Js]
+Main pot 229892.00
+*** RIVER *** [9s 6s Ad Js] [3s]
+Main pot 229892.00
+*** SHOW DOWN ***
+Main pot 229892.00
+grotle shows [Ac Kd] (a pair of Aces [Ad Ac Kd Js 9s])
+Pobeda799 shows [Ah Ks] (a flush, King high [Ks Js 9s 6s 3s])
+Pobeda799 collected 229892.00 from main pot
+*** SUMMARY ***
+Total pot 229892.00
+Board [9s 6s Ad Js 3s]
+Seat 1: IPuntPots folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Ac Kd] and lost with a pair of Aces [Ad Ac Kd Js 9s]
+Seat 3: QuadziModo601 folded on the Pre-Flop and did not bet
+Seat 4: 1TeleporT1 (button) folded on the Pre-Flop
+Seat 6: Pobeda799 (small blind) showed [Ah Ks] and won 229892.00 with a flush, King high [Ks Js 9s 6s 3s]
+Seat 7: 7cRAPs7 (big blind) folded on the Pre-Flop
+
