@@ -73,7 +73,15 @@
     white-space: nowrap;
 }
 
+.tournament-search-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    width: 100%;
+}
+
 .tournament-search-input {
+    flex: 1;
     width: 100%;
     padding: 8px 12px;
     background-color: #1a1a1a;
@@ -651,4 +659,25 @@
 .position-select:focus {
     outline: none;
     border-color: #007bff;
+}
+
+.reset-filters-button {
+    padding: 8px 16px;
+    background-color: #2a2a2a;
+    border: 1px solid #3a3a3a;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+}
+
+.reset-filters-button:hover {
+    background-color: #3a3a3a;
+    border-color: #4a4a4a;
+}
+
+.reset-filters-button:active {
+    background-color: #4a4a4a;
 } 

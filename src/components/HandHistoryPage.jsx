@@ -275,6 +275,18 @@ const HandHistoryPage = () => {
         }));
     };
 
+    const handleResetFilters = () => {
+        setFilters({
+            gameType: '',
+            minStack: 0,
+            maxStack: 200,
+            holeCards: ['', ''],
+            tournamentName: '',
+            position: ''
+        });
+        setSelectedDate('');
+    };
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
@@ -369,13 +381,22 @@ const HandHistoryPage = () => {
                     <div className="filters-row">
                         <div className="filter-group tournament-search" key="tournament-search">
                             <label>Tournament Name:</label>
-                            <input
-                                type="text"
-                                value={filters.tournamentName}
-                                onChange={handleTournamentNameSearch}
-                                placeholder="Search by tournament name"
-                                className="tournament-search-input"
-                            />
+                            <div className="tournament-search-container">
+                                <input
+                                    type="text"
+                                    value={filters.tournamentName}
+                                    onChange={handleTournamentNameSearch}
+                                    placeholder="Search by tournament name"
+                                    className="tournament-search-input"
+                                />
+                                <button 
+                                    className="reset-filters-button"
+                                    onClick={handleResetFilters}
+                                    title="Reset all filters"
+                                >
+                                    Reset Filters
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
