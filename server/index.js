@@ -16,45 +16,57 @@ const __dirname = dirname(__filename);
 const app = express();
 
 // CORS configuration
-const corsOptions = {
-    origin: function (origin, callback) {
-        console.log('Incoming request origin:', origin);
-        console.log('Request headers:', JSON.stringify(this.req.headers, null, 2));
-        
+app.use(cors({
+    origin: function(origin, callback) {
         const allowedOrigins = [
-            'https://pokerhistory.netlify.app',
             'https://pokerhistory.pro',
             'http://pokerhistory.pro',
             'https://www.pokerhistory.pro',
             'http://www.pokerhistory.pro',
+            'https://pokerhistory.netlify.app',
             'http://localhost:5173',
             'http://localhost:3000'
         ];
         
         // Allow requests with no origin (like mobile apps or curl requests)
-        if (!origin) {
-            console.log('No origin provided, allowing request');
-            return callback(null, true);
+        if (!origin) return callback(null, true);
+        
+        if (allowedOrigins.indexOf(origin) !== -1) {
+            callback(null, true);
+        } else {
+            console.log('Blocked by CORS:', origin);
+            callback(new Error('Not allowed by CORS'));
         }
-        
-        // Log the exact comparison
-        console.log('Comparing origin:', origin);
-        console.log('Against allowed origins:', allowedOrigins);
-        
-        // For development, allow all origins
-        console.log('Allowing all origins for now');
-        callback(null, true);
     },
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
-    credentials: true,
-    preflightContinue: false,
-    optionsSuccessStatus: 204
-};
+    credentials: true
+}));
 
 // Middleware
-app.use(cors(corsOptions));
 app.use(express.json());
+
+// Add CORS headers to all responses
+app.use((req, res, next) => {
+    const origin = req.headers.origin;
+    const allowedOrigins = [
+        'https://pokerhistory.pro',
+        'http://pokerhistory.pro',
+        'https://www.pokerhistory.pro',
+        'http://www.pokerhistory.pro',
+        'https://pokerhistory.netlify.app',
+        'http://localhost:5173',
+        'http://localhost:3000'
+    ];
+    
+    if (allowedOrigins.includes(origin)) {
+        res.header('Access-Control-Allow-Origin', origin);
+    }
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, PATCH, OPTIONS');
+    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+    res.header('Access-Control-Allow-Credentials', 'true');
+    next();
+});
 
 // Configure multer for file uploads
 const storage = multer.diskStorage({
