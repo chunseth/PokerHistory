@@ -20,6 +20,10 @@ const corsOptions = {
     origin: function (origin, callback) {
         const allowedOrigins = [
             'https://pokerhistory.netlify.app',
+            'https://pokerhistory.pro',
+            'http://pokerhistory.pro',
+            'https://www.pokerhistory.pro',
+            'http://www.pokerhistory.pro',
             'http://localhost:5173',
             'http://localhost:3000'
         ];
