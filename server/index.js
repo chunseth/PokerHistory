@@ -41,15 +41,9 @@ const corsOptions = {
         console.log('Comparing origin:', origin);
         console.log('Against allowed origins:', allowedOrigins);
         
-        if (allowedOrigins.indexOf(origin) !== -1) {
-            console.log('Origin allowed:', origin);
-            callback(null, true);
-        } else {
-            console.log('Origin blocked:', origin);
-            console.log('Allowed origins:', allowedOrigins);
-            // For development, allow all origins
-            callback(null, true);
-        }
+        // For development, allow all origins
+        console.log('Allowing all origins for now');
+        callback(null, true);
     },
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization'],
