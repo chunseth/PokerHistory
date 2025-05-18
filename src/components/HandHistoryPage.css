@@ -33,7 +33,44 @@
     border-radius: 8px;
     margin-bottom: 20px;
     width: 100%;
-    min-width: 760px; /* Add minimum width accounting for padding */
+    min-width: 760px;
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.filters-header {
+    cursor: pointer;
+    height: 1px;
+    margin-bottom: 10px;
+    position: relative;
+    display: none; /* Hide by default */
+}
+
+.filters-toggle {
+    color: #fff;
+    transition: transform 0.3s ease;
+    font-size: 0.1em;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    display: none; /* Hide by default */
+}
+
+.filters-toggle.collapsed {
+    transform: rotate(-90deg);
+}
+
+.filters-content {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    max-height: 1000px;
+    opacity: 1;
+}
+
+.filters-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+    margin: 0;
+    padding: 0;
 }
 
 .filters-row {
@@ -198,8 +235,150 @@
 }
 
 @media (max-width: 768px) {
+    .hand-history-page {
+        padding: 10px;
+        height: calc(100vh - 60px);
+    }
+
+    .hand-history-content {
+        padding: 10px;
+        min-width: unset;
+    }
+
+    .filters-section {
+        min-width: unset;
+        padding: 10px;
+    }
+
+    .filters-header {
+        display: block;
+    }
+
+    .filters-toggle {
+        display: block;
+    }
+
+    .filters-content.collapsed {
+        max-height: 0;
+        opacity: 0;
+        margin: 0;
+        padding: 0;
+    }
+
+    .filters-header h2 {
+        font-size: 1em;
+    }
+
+    .filters-row {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .filter-group {
+        width: 100%;
+    }
+
+    .filter-group.tournament-search {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .tournament-search-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .tournament-search-input {
+        width: 100%;
+    }
+
+    .reset-filters-button {
+        width: 100%;
+    }
+
     .hands-grid {
         grid-template-columns: 1fr;
+        min-width: unset;
+        padding-right: 5px;
+    }
+
+    .hand-card {
+        padding: 12px;
+    }
+
+    .hand-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .hand-actions {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .hand-details {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+    .detail-column {
+        width: 100%;
+        margin: 0;
+    }
+
+    .detail-row {
+        justify-content: flex-start;
+    }
+
+    .cards-display {
+        justify-content: flex-start;
+    }
+
+    .hand-hover-details {
+        position: static;
+        display: block;
+        margin-top: 10px;
+        background: #2a2a2a;
+        border-radius: 4px;
+    }
+
+    .hover-detail-row {
+        justify-content: flex-start;
+    }
+
+    .loading-message,
+    .no-hands-message {
+        min-width: unset;
+        padding: 15px;
+    }
+
+    .date-picker {
+        max-width: 100%;
+    }
+
+    .position-select {
+        width: 100%;
+    }
+
+    .stack-range {
+        width: 100%;
+    }
+
+    /* Hide stack size filter on mobile */
+    .filter-group:has(.stack-range) {
+        display: none;
+    }
+}
+
+/* Ensure filters are always visible on desktop */
+@media (min-width: 769px) {
+    .filters-content {
+        max-height: none !important;
+        opacity: 1 !important;
+        margin: 0 !important;
+        padding: 0 !important;
     }
 }
 
@@ -521,16 +700,48 @@
     text-align: center;
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    .hand-details {
-        flex-direction: row;
-        align-items: center;
-        gap: 10px;
+/* Small Mobile Devices */
+@media (max-width: 480px) {
+    .hand-history-page {
+        padding: 5px;
+    }
+
+    .hand-history-content {
+        padding: 8px;
     }
 
     .filters-section {
-        flex-wrap: wrap;
+        padding: 10px;
+    }
+
+    .hand-card {
+        padding: 10px;
+    }
+
+    .card {
+        width: 18px;
+        height: 27px;
+    }
+
+    .card-rank {
+        font-size: 1em;
+    }
+
+    .card-suit {
+        font-size: 1.8em;
+    }
+
+    .community-cards-display .card {
+        width: 16px;
+        height: 24px;
+    }
+
+    .community-cards-display .card-rank {
+        font-size: 0.6em;
+    }
+
+    .community-cards-display .card-suit {
+        font-size: 0.9em;
     }
 }
 

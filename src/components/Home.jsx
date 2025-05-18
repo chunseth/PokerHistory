@@ -6,6 +6,16 @@ import cardBack from '../assets/BackOfCard.png';
 const HomePage = () => {
     const heroCardsRef = React.useRef(null);
     const [forceUpdate, setForceUpdate] = useState(0);
+    const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+
+    useEffect(() => {
+        const handleResize = () => {
+            setIsMobile(window.innerWidth <= 768);
+        };
+
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     // Generate cards synchronously
     if (!heroCardsRef.current) {
@@ -71,9 +81,11 @@ const HomePage = () => {
     const renderSeats = () => {
         console.log('Current hero cards:', heroCardsRef.current);
         const seats = [];
-        const centerX = 303; // Half of table width
-        const centerY = 240; // Half of table height
-        const radius = 155; // Distance from center to seats
+        
+        // Adjust dimensions based on screen size
+        const centerX = isMobile ? 180 : 303; // Half of table width
+        const centerY = isMobile ? 155 : 240; // Half of table height
+        const radius = isMobile ? 90 : 155; // Distance from center to seats
         
         for (let i = 0; i < 6; i++) {
             const angleStep = (2 * Math.PI) / 6;
@@ -95,8 +107,8 @@ const HomePage = () => {
                     className="home-seat"
                     style={{
                         position: 'absolute',
-                        left: `${x - 15}px`,
-                        top: `${y - 15}px`,
+                        left: `${x - (isMobile ? 12 : 15)}px`,
+                        top: `${y - (isMobile ? 12 : 15)}px`,
                     }}
                 >
                     <div className="home-player-cards">

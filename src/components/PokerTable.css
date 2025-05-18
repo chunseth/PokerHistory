@@ -964,4 +964,24 @@
 
 .username-field::placeholder {
     color: #888;
+}
+
+.mobile-message {
+    margin-top: 20vh;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+    color: #fff;
+}
+
+.mobile-message h2 {
+    font-size: 1.8rem;
+    color: #4CAF50;
+}
+
+.mobile-message p {
+    font-size: 1.1rem;
+    max-width: 600px;
 } 

@@ -3,6 +3,7 @@ import './PokerTable.css';
 import cardBack from '../assets/BackOfCard.png';
 
 const PokerTable = ({ onHandComplete }) => {
+    const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
     const [step, setStep] = useState(1);
     const [showConfirmPanel, setShowConfirmPanel] = useState(false);
     const [showSaveSuccess, setShowSaveSuccess] = useState(false);
@@ -39,6 +40,15 @@ const PokerTable = ({ onHandComplete }) => {
     const [firstActionTaken, setFirstActionTaken] = useState(false);
     const [heroFolded, setHeroFolded] = useState(false);
     const [hasAllIn, setHasAllIn] = useState(false);
+
+    useEffect(() => {
+        const handleResize = () => {
+            setIsMobile(window.innerWidth <= 768);
+        };
+
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
 
     // Update the useEffect for initial setup
     useEffect(() => {
@@ -1632,6 +1642,17 @@ const PokerTable = ({ onHandComplete }) => {
             </div>
         );
     };
+
+    if (isMobile) {
+        return (
+            <div className="mobile-message">
+                <h2>Mobile Not Supported
+                    
+                </h2>
+                <p>Please use a desktop or tablet with a larger screen.</p>
+            </div>
+        );
+    }
 
     return (
         <div className="poker-table-container">

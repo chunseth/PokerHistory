@@ -248,21 +248,83 @@
 }
 
 @media (max-width: 768px) {
-    .poker-table {
-        width: 90%;
-        height: 300px;
-        border-radius: 150px;
+    .home-container {
+        padding: 1rem;
+        gap: 1rem;
     }
 
-    .table-content h1 {
-        font-size: 2.5rem;
+    .home-poker-table {
+        width: 100%;
+        max-width: 400px;
+        height: 300px;
+        border-radius: 150px;
+        border-width: 15px;
+        margin-top: 15px;
+    }
+
+    .home-table-content h1 {
+        font-size: 1.5rem;
+    }
+
+    .home-controls {
+        width: 100%;
+        padding: 1rem;
     }
 
     .action-buttons {
         flex-direction: column;
+        gap: 1rem;
     }
 
     .action-button {
         width: 100%;
+        padding: 0.75rem 1rem;
+    }
+
+    .home-player-cards {
+        transform: translateX(-50%) translateY(30%) scale(0.8);
+    }
+
+    .home-card-container {
+        width: 36px;
+        height: 56px;
+    }
+
+    .home-card-rank {
+        font-size: 0.9rem;
+        left: 7px;
+        top: 6px;
+    }
+
+    .home-card-suit {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-poker-table {
+        max-width: 320px;
+        height: 250px;
+        border-radius: 125px;
+        border-width: 12px;
+    }
+
+    .home-table-content h1 {
+        font-size: 1.75rem;
+    }
+
+    .home-card-container {
+        width: 32px;
+        height: 50px;
+    }
+
+    .home-card-rank {
+        font-size: 0.8rem;
+        left: 6px;
+        top: 5px;
+    }
+
+    .home-card-suit {
+        font-size: 1.1rem;
     }
 } 

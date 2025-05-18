@@ -19,6 +19,9 @@ const HandHistoryPage = () => {
         // Initialize from localStorage or default to 'grotle'
         return localStorage.getItem('selectedUsername') || 'grotle';
     });
+    const [filtersCollapsed, setFiltersCollapsed] = useState(() => {
+        return localStorage.getItem('filtersCollapsed') === 'true';
+    });
     const [filters, setFilters] = useState(() => {
         // Initialize from localStorage or use defaults
         const savedFilters = localStorage.getItem('handHistoryFilters');
@@ -41,6 +44,11 @@ const HandHistoryPage = () => {
     useEffect(() => {
         localStorage.setItem('selectedDate', selectedDate);
     }, [selectedDate]);
+
+    // Save filtersCollapsed to localStorage whenever it changes
+    useEffect(() => {
+        localStorage.setItem('filtersCollapsed', filtersCollapsed);
+    }, [filtersCollapsed]);
 
     const positionOptions = [
         'BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO'
@@ -287,6 +295,10 @@ const HandHistoryPage = () => {
         setSelectedDate('');
     };
 
+    const toggleFilters = () => {
+        setFiltersCollapsed(prev => !prev);
+    };
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
@@ -309,93 +321,98 @@ const HandHistoryPage = () => {
                 </div>
                 
                 <div className="filters-section">
-                    <div className="filters-row">
-                        <div className="filter-group" key="date-filter">
-                            <label>Date:</label>
-                            <input
-                                type="date"
-                                value={selectedDate}
-                                onChange={handleDateChange}
-                                className="date-picker"
-                                min="2000-01-01"
-                                max="2100-12-31"
-                            />
-                        </div>
-
-                        <div className="filter-group" key="position-filter">
-                            <label>Position:</label>
-                            <select
-                                value={filters.position}
-                                onChange={handlePositionChange}
-                                className="position-select"
-                            >
-                                <option value="">All Positions</option>
-                                {positionOptions.map(pos => (
-                                    <option key={pos} value={pos}>{pos}</option>
-                                ))}
-                            </select>
-                        </div>
-
-                        <div className="filter-group" key="stack-range">
-                            <label>Stack Size (BB):</label>
-                            <div className="stack-range">
+                    <div className="filters-header" onClick={toggleFilters}>
+                        <span className={`filters-toggle ${filtersCollapsed ? 'collapsed' : ''}`}>▼</span>
+                    </div>
+                    <div className={`filters-content ${filtersCollapsed ? 'collapsed' : ''}`}>
+                        <div className="filters-row">
+                            <div className="filter-group" key="date-filter">
+                                <label>Date:</label>
                                 <input
-                                    type="range"
-                                    name="maxStack"
-                                    min="0"
-                                    max="200"
-                                    value={filters.maxStack}
-                                    onChange={handleStackRangeChange}
+                                    type="date"
+                                    value={selectedDate}
+                                    onChange={handleDateChange}
+                                    className="date-picker"
+                                    min="2000-01-01"
+                                    max="2100-12-31"
                                 />
-                                <div className="stack-values">
-                                    <span>{filters.minStack}</span>
-                                    <span>{filters.maxStack}</span>
+                            </div>
+
+                            <div className="filter-group" key="position-filter">
+                                <label>Position:</label>
+                                <select
+                                    value={filters.position}
+                                    onChange={handlePositionChange}
+                                    className="position-select"
+                                >
+                                    <option value="">All Positions</option>
+                                    {positionOptions.map(pos => (
+                                        <option key={pos} value={pos}>{pos}</option>
+                                    ))}
+                                </select>
+                            </div>
+
+                            <div className="filter-group" key="stack-range">
+                                <label>Stack Size (BB):</label>
+                                <div className="stack-range">
+                                    <input
+                                        type="range"
+                                        name="maxStack"
+                                        min="0"
+                                        max="200"
+                                        value={filters.maxStack}
+                                        onChange={handleStackRangeChange}
+                                    />
+                                    <div className="stack-values">
+                                        <span>{filters.minStack}</span>
+                                        <span>{filters.maxStack}</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="filter-group" key="hole-cards">
+                                <label>Hole Cards:</label>
+                                <div className="hole-cards-input">
+                                    <input
+                                        type="text"
+                                        value={filters.holeCards[0]}
+                                        onChange={(e) => handleHoleCardsChange(0, e.target.value)}
+                                        placeholder="Card 1"
+                                        maxLength={2}
+                                    />
+                                    <input
+                                        type="text"
+                                        value={filters.holeCards[1]}
+                                        onChange={(e) => handleHoleCardsChange(1, e.target.value)}
+                                        placeholder="Card 2"
+                                        maxLength={2}
+                                    />
+                                </div>
+                                <div className="card-format-hint">
+                                    Format: Ah Kd
                                 </div>
                             </div>
                         </div>
 
-                        <div className="filter-group" key="hole-cards">
-                            <label>Hole Cards:</label>
-                            <div className="hole-cards-input">
-                                <input
-                                    type="text"
-                                    value={filters.holeCards[0]}
-                                    onChange={(e) => handleHoleCardsChange(0, e.target.value)}
-                                    placeholder="Card 1"
-                                    maxLength={2}
-                                />
-                                <input
-                                    type="text"
-                                    value={filters.holeCards[1]}
-                                    onChange={(e) => handleHoleCardsChange(1, e.target.value)}
-                                    placeholder="Card 2"
-                                    maxLength={2}
-                                />
-                            </div>
-                            <div className="card-format-hint">
-                                Format: Ah Kd
-                            </div>
-                        </div>
-                    </div>
-
-                    <div className="filters-row">
-                        <div className="filter-group tournament-search" key="tournament-search">
-                            <label>Tournament Name:</label>
-                            <div className="tournament-search-container">
-                                <input
-                                    type="text"
-                                    value={filters.tournamentName}
-                                    onChange={handleTournamentNameSearch}
-                                    placeholder="Search by tournament name"
-                                    className="tournament-search-input"
-                                />
-                                <button 
-                                    className="reset-filters-button"
-                                    onClick={handleResetFilters}
-                                    title="Reset all filters"
-                                >
-                                    Reset Filters
-                                </button>
+                        <div className="filters-row">
+                            <div className="filter-group tournament-search" key="tournament-search">
+                                <label>Tournament Name:</label>
+                                <div className="tournament-search-container">
+                                    <input
+                                        type="text"
+                                        value={filters.tournamentName}
+                                        onChange={handleTournamentNameSearch}
+                                        placeholder="Search by tournament name"
+                                        className="tournament-search-input"
+                                    />
+                                    <button 
+                                        className="reset-filters-button"
+                                        onClick={handleResetFilters}
+                                        title="Reset all filters"
+                                    >
+                                        Reset Filters
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
