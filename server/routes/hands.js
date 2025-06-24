@@ -312,4 +312,30 @@ router.delete('/:id', async (req, res) => {
     }
 });
 
+// Add this new route after the existing routes
+router.get('/debug/:handId', async (req, res) => {
+    try {
+        const hand = await Hand.findOne({ id: req.params.handId });
+        if (!hand) {
+            return res.status(404).json({ error: 'Hand not found' });
+        }
+        
+        console.log('\n=== Database Hand Details ===');
+        console.log('Hand ID:', hand.id);
+        console.log('Username:', hand.username);
+        console.log('Tournament Name:', hand.tournamentName);
+        console.log('\nWinners:', JSON.stringify(hand.winners, null, 2));
+        console.log('\nSummary:', JSON.stringify(hand.summary, null, 2));
+        console.log('\nUncalled Bet:', JSON.stringify(hand.uncalledBet, null, 2));
+        console.log('\nPlayer Stacks:', JSON.stringify(hand.playerStacks, null, 2));
+        console.log('\nFinal Stacks:', JSON.stringify(hand.finalStacks, null, 2));
+        console.log('========================\n');
+        
+        res.json(hand);
+    } catch (error) {
+        console.error('Error fetching hand:', error);
+        res.status(500).json({ error: 'Error fetching hand' });
+    }
+});
+
 export default router; 

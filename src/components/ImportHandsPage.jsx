@@ -244,13 +244,13 @@ const ImportHandsPage = () => {
                 )}
 
                 {error && (
-                    <div className="error-message">
+                    <div className="import-hands-error-message">
                         {error}
                     </div>
                 )}
 
                 {success && (
-                    <div className="success-message">
+                    <div className="import-hands-success-message">
                         Files uploaded successfully! Redirecting to hand history...
                     </div>
                 )}

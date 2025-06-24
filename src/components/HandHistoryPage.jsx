@@ -1,10 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import apiService from '../services/api.service';
 import './HandHistoryPage.css';
 
 const HandHistoryPage = () => {
     const navigate = useNavigate();
+    const handsGridRef = useRef(null);
     const [hands, setHands] = useState([]);
     const [selectedDate, setSelectedDate] = useState(() => {
         return localStorage.getItem('selectedDate') || '';
@@ -299,6 +300,22 @@ const HandHistoryPage = () => {
         setFiltersCollapsed(prev => !prev);
     };
 
+    // Save scroll position when navigating to hand replay
+    const handleHandClick = (handId) => {
+        if (handsGridRef.current) {
+            localStorage.setItem('handHistoryScrollPosition', handsGridRef.current.scrollTop);
+        }
+        navigate(`/hand-replay/${handId}`);
+    };
+
+    // Restore scroll position when component mounts
+    useEffect(() => {
+        const savedScrollPosition = localStorage.getItem('handHistoryScrollPosition');
+        if (savedScrollPosition && handsGridRef.current) {
+            handsGridRef.current.scrollTop = parseInt(savedScrollPosition);
+        }
+    }, [hands]); // Re-run when hands are loaded
+
     return (
         <div className="hand-history-page">
             <div className="hand-history-content">
@@ -419,7 +436,7 @@ const HandHistoryPage = () => {
                 </div>
 
                 {error && (
-                    <div className="error-message">
+                    <div className="hand-history-error-message">
                         {error}
                     </div>
                 )}
@@ -433,12 +450,12 @@ const HandHistoryPage = () => {
                             "No hands found matching your criteria"}
                     </div>
                 ) : (
-                    <div className="hands-grid">
+                    <div className="hands-grid" ref={handsGridRef}>
                         {hands.map(hand => (
                             <div 
                                 key={hand._id} 
                                 className="hand-card"
-                                onClick={() => navigate(`/hand-replay/${hand._id}`)}
+                                onClick={() => handleHandClick(hand._id)}
                                 style={{ cursor: 'pointer' }}
                             >
                                 {!hand.viewed && (

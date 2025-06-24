@@ -64,13 +64,13 @@
     font-size: 14px;
 }
 
-.error-message {
-    background-color: #ffebee;
-    color: #c62828;
-    padding: 10px;
+.hand-history-error-message {
+    background: #ff4444;
+    color: #fff;
+    padding: 15px;
     border-radius: 4px;
-    margin-bottom: 20px;
-    border: 1px solid #ef9a9a;
+    margin: 20px 0;
+    text-align: center;
 }
 
 .success-message {

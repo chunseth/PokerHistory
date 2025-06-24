@@ -1646,9 +1646,7 @@ const PokerTable = ({ onHandComplete }) => {
     if (isMobile) {
         return (
             <div className="mobile-message">
-                <h2>Mobile Not Supported
-                    
-                </h2>
+                <h2>Mobile Not Supported</h2>
                 <p>Please use a desktop or tablet with a larger screen.</p>
             </div>
         );

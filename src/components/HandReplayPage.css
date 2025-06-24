@@ -42,13 +42,18 @@
 }
 
 .loading-message,
-.error-message {
+.hand-replay-error-message {
     text-align: center;
     padding: 20px;
     color: #888;
     font-size: 1.1em;
 }
 
-.error-message {
-    color: #ff4444;
+.hand-replay-error-message {
+    background: #ff4444;
+    color: #fff;
+    padding: 15px;
+    border-radius: 4px;
+    margin: 20px 0;
+    text-align: center;
 } 

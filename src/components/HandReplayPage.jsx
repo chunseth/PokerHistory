@@ -41,11 +41,11 @@ const HandReplayPage = () => {
     }
 
     if (error) {
-        return <div className="error-message">{error}</div>;
+        return <div className="hand-replay-error-message">{error}</div>;
     }
 
     if (!handData) {
-        return <div className="error-message">Hand not found</div>;
+        return <div className="hand-replay-error-message">Hand not found</div>;
     }
 
     return (

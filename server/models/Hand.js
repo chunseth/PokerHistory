@@ -203,6 +203,71 @@ const handSchema = new mongoose.Schema({
     viewed: {
         type: Boolean,
         default: false
+    },
+    tournamentInfo: {
+        tournamentId: String,
+        buyIn: Number,
+        limitType: {
+            type: String,
+            enum: ['No Limit', 'Pot Limit', 'Fixed Limit']
+        },
+        currency: String
+    },
+    blindLevel: {
+        level: Number,
+        smallBlind: Number,
+        bigBlind: Number,
+        ante: Number
+    },
+    playerStacks: {
+        type: Map,
+        of: Number
+    },
+    finalStacks: {
+        type: Map,
+        of: Number
+    },
+    potSizes: {
+        preflop: Number,
+        flop: Number,
+        turn: Number,
+        river: Number,
+        final: Number
+    },
+    showdown: {
+        board: [String],
+        hands: [{
+            player: String,
+            cards: [String],
+            description: String,
+            board: [String]
+        }]
+    },
+    winners: [{
+        playerIndex: Number,
+        username: String,
+        position: String,
+        isWinner: Boolean,
+        amount: Number,
+        hand: {
+            description: String,
+            cards: [String]
+        }
+    }],
+    losers: [{
+        playerIndex: Number,
+        username: String,
+        position: String,
+        isWinner: Boolean,
+        amount: Number,
+        hand: {
+            description: String,
+            cards: [String]
+        }
+    }],
+    uncalledBet: {
+        amount: Number,
+        player: String
     }
 }, { 
     timestamps: true,

@@ -1,0 +1,1784 @@
+Game Hand #2439615476 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:20:46 UTC
+Table '11' 8-max Seat #3 is the button
+Seat 1: Vvvlad13 (47191.00)
+Seat 2: Cuse89P13 (122391.00)
+Seat 3: LearnSkill (347843.00)
+Seat 4: razldazl will be allowed to play after the button
+Seat 5: VSMPZDEC (43212.00)
+Seat 6: grotle (202022.00)
+Seat 7: MaruQueen (35125.00)
+Vvvlad13 posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+VSMPZDEC posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [7c 8s]
+MaruQueen raises 3200.00 to 3200.00
+Vvvlad13 calls 3200.00
+Cuse89P13 folds
+LearnSkill folds
+VSMPZDEC folds
+grotle calls 1600.00
+*** FLOP *** [2s Kd Qh]
+Main pot 11600.00
+grotle checks
+MaruQueen checks
+Vvvlad13 checks
+*** TURN *** [2s Kd Qh] [6d]
+Main pot 11600.00
+grotle checks
+MaruQueen checks
+Vvvlad13 checks
+*** RIVER *** [2s Kd Qh 6d] [6h]
+Main pot 11600.00
+grotle checks
+MaruQueen checks
+Vvvlad13 bets 4800.00
+grotle folds
+MaruQueen calls 4800.00
+*** SHOW DOWN ***
+Main pot 21200.00
+Vvvlad13 shows [9h 9d] (two pair, Nines and Sixs [9h 9d 6h 6d Kd])
+MaruQueen shows [Jc Ad] (a pair of Sixs [6h 6d Ad Kd Qh])
+Vvvlad13 collected 21200.00 from main pot
+*** SUMMARY ***
+Total pot 21200.00
+Board [2s Kd Qh 6d 6h]
+Seat 1: Vvvlad13 showed [9h 9d] and won 21200.00 with two pair, Nines and Sixs [9h 9d 6h 6d Kd]
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill (button) folded on the Pre-Flop
+Seat 5: VSMPZDEC (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the River
+Seat 7: MaruQueen showed [Jc Ad] and lost with a pair of Sixs [6h 6d Ad Kd Qh]
+
+Game Hand #2439616404 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:22:04 UTC
+Table '11' 8-max Seat #5 is the button
+Seat 1: Vvvlad13 (60191.00)
+Seat 2: Cuse89P13 (122191.00)
+Seat 3: LearnSkill (347643.00)
+Seat 4: razldazl (22814.00)
+Seat 5: VSMPZDEC (42212.00)
+Seat 6: grotle (198622.00)
+Seat 7: MaruQueen (26925.00)
+Seat 8: ICCAAV (112390.00)
+Vvvlad13 posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+grotle posts the small blind 800.00
+MaruQueen posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [7s 3s]
+ICCAAV folds
+Vvvlad13 folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+VSMPZDEC raises 3200.00 to 3200.00
+grotle folds
+MaruQueen raises 25125.00 to 26725.00 and is all-in
+VSMPZDEC folds
+Uncalled bet (23525.00) returned to MaruQueen
+MaruQueen does not show
+*** SUMMARY ***
+Total pot 8800.00
+Seat 1: Vvvlad13 folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: VSMPZDEC (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: MaruQueen did not show and won 8800.00
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439616845 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:22:40 UTC
+Table '11' 8-max Seat #6 is the button
+Seat 1: Vvvlad13 (59991.00)
+Seat 2: Cuse89P13 (121991.00)
+Seat 3: LearnSkill (347443.00)
+Seat 4: razldazl (22614.00)
+Seat 5: VSMPZDEC (38812.00)
+Seat 6: grotle (197622.00)
+Seat 7: MaruQueen (32325.00)
+Seat 8: ICCAAV (112190.00)
+Vvvlad13 posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+MaruQueen posts the small blind 800.00
+ICCAAV posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [2d Kd]
+Vvvlad13 folds
+Cuse89P13 raises 4400.00 to 4400.00
+LearnSkill folds
+razldazl calls 4400.00
+VSMPZDEC folds
+grotle folds
+MaruQueen folds
+ICCAAV calls 2800.00
+*** FLOP *** [6h Ts Jh]
+Main pot 15600.00
+ICCAAV checks
+Cuse89P13 bets 7800.00
+razldazl calls 7800.00
+ICCAAV folds
+*** TURN *** [6h Ts Jh] [8h]
+Main pot 31200.00
+Cuse89P13 bets 10331.00
+razldazl calls 10214.00 and is all-in
+Uncalled bet (117.00) returned to Cuse89P13
+*** RIVER *** [6h Ts Jh 8h] [Qd]
+Main pot 51628.00
+*** SHOW DOWN ***
+Main pot 51628.00
+Cuse89P13 shows [Jd Ad] (a pair of Jacks [Jh Jd Ad Qd Ts])
+razldazl shows [7s 9s] (a straight, Queen high [Qd Jh Ts 9s 8h])
+razldazl collected 51628.00 from main pot
+*** SUMMARY ***
+Total pot 51628.00
+Board [6h Ts Jh 8h Qd]
+Seat 1: Vvvlad13 folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 showed [Jd Ad] and lost with a pair of Jacks [Jh Jd Ad Qd Ts]
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl showed [7s 9s] and won 51628.00 with a straight, Queen high [Qd Jh Ts 9s 8h]
+Seat 5: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Pre-Flop
+Seat 7: MaruQueen (small blind) folded on the Pre-Flop
+Seat 8: ICCAAV (big blind) folded on the Flop
+
+Game Hand #2439617659 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:23:48 UTC
+Table '11' 8-max Seat #7 is the button
+Seat 1: Vvvlad13 (59791.00)
+Seat 2: Cuse89P13 (99377.00)
+Seat 3: LearnSkill (347243.00)
+Seat 4: razldazl (51628.00)
+Seat 5: VSMPZDEC (38612.00)
+Seat 6: grotle (197422.00)
+Seat 7: MaruQueen (31325.00)
+Seat 8: ICCAAV (107590.00)
+Vvvlad13 posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+ICCAAV posts the small blind 800.00
+Vvvlad13 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [9h 6c]
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+VSMPZDEC folds
+grotle folds
+MaruQueen raises 4000.00 to 4000.00
+ICCAAV calls 3200.00
+Vvvlad13 folds
+*** FLOP *** [Jd Js Qh]
+Main pot 11200.00
+ICCAAV bets 5120.00
+MaruQueen raises 27125.00 to 27125.00 and is all-in
+ICCAAV folds
+Uncalled bet (22005.00) returned to MaruQueen
+MaruQueen does not show
+*** SUMMARY ***
+Total pot 21440.00
+Board [Jd Js Qh]
+Seat 1: Vvvlad13 (big blind) folded on the Pre-Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen did not show and won 21440.00
+Seat 8: ICCAAV (small blind) folded on the Flop
+
+Game Hand #2439618402 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:24:53 UTC
+Table '11' 8-max Seat #8 is the button
+Seat 1: Vvvlad13 (57991.00)
+Seat 2: Cuse89P13 (99177.00)
+Seat 3: LearnSkill (347043.00)
+Seat 4: razldazl (51428.00)
+Seat 5: VSMPZDEC (38412.00) is sitting out
+Seat 6: grotle (197222.00)
+Seat 7: MaruQueen (43445.00)
+Seat 8: ICCAAV (98270.00)
+Vvvlad13 posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+Vvvlad13 posts the small blind 800.00
+Cuse89P13 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [8h 5c]
+LearnSkill raises 3200.00 to 3200.00
+razldazl calls 3200.00
+VSMPZDEC folds
+grotle folds
+MaruQueen folds
+ICCAAV folds
+Vvvlad13 folds
+Cuse89P13 folds
+*** FLOP *** [Kh 7c 9h]
+Main pot 10400.00
+LearnSkill bets 3200.00
+razldazl calls 3200.00
+*** TURN *** [Kh 7c 9h] [8d]
+Main pot 16800.00
+LearnSkill bets 4200.00
+razldazl calls 4200.00
+*** RIVER *** [Kh 7c 9h 8d] [2h]
+Main pot 25200.00
+LearnSkill bets 18900.00
+razldazl folds
+Uncalled bet (18900.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 25200.00
+Board [Kh 7c 9h 8d 2h]
+Seat 1: Vvvlad13 (small blind) folded on the Pre-Flop
+Seat 2: Cuse89P13 (big blind) folded on the Pre-Flop
+Seat 3: LearnSkill did not show and won 25200.00
+Seat 4: razldazl folded on the River
+Seat 5: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV (button) folded on the Pre-Flop
+
+Game Hand #2439619382 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:26:08 UTC
+Table '11' 8-max Seat #1 is the button
+Seat 2: Cuse89P13 (97377.00)
+Seat 3: LearnSkill (361443.00)
+Seat 4: razldazl (40628.00)
+Seat 5: VSMPZDEC (38212.00)
+Seat 6: grotle (197022.00)
+Seat 7: MaruQueen (43245.00)
+Seat 8: ICCAAV (98070.00)
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+Cuse89P13 posts the small blind 800.00
+LearnSkill posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [As Kd]
+razldazl folds
+VSMPZDEC folds
+grotle raises 3200.00 to 3200.00
+MaruQueen folds
+ICCAAV folds
+Cuse89P13 folds
+LearnSkill calls 1600.00
+*** FLOP *** [2h 2c 4d]
+Main pot 8600.00
+LearnSkill checks
+grotle checks
+*** TURN *** [2h 2c 4d] [Js]
+Main pot 8600.00
+LearnSkill bets 5600.00
+grotle folds
+Uncalled bet (5600.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 8600.00
+Board [2h 2c 4d Js]
+Seat 2: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 3: LearnSkill did not show and won 8600.00
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: VSMPZDEC folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Turn
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439620177 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:27:09 UTC
+Table '11' 8-max Seat #2 is the button
+Seat 2: Cuse89P13 (96377.00)
+Seat 3: LearnSkill (366643.00)
+Seat 4: razldazl (40428.00)
+Seat 5: VSMPZDEC (38012.00)
+Seat 6: grotle (193622.00)
+Seat 7: MaruQueen (43045.00)
+Seat 8: ICCAAV (97870.00)
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+LearnSkill posts the small blind 800.00
+razldazl posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Qs 9c]
+VSMPZDEC raises 3200.00 to 3200.00
+grotle folds
+MaruQueen folds
+ICCAAV calls 3200.00
+Cuse89P13 folds
+LearnSkill calls 2400.00
+razldazl folds
+*** FLOP *** [Jh Td 5s]
+Main pot 12600.00
+LearnSkill checks
+VSMPZDEC checks
+ICCAAV bets 4800.00
+LearnSkill folds
+VSMPZDEC folds
+Uncalled bet (4800.00) returned to ICCAAV
+ICCAAV does not show
+*** SUMMARY ***
+Total pot 12600.00
+Board [Jh Td 5s]
+Seat 2: Cuse89P13 (button) folded on the Pre-Flop
+Seat 3: LearnSkill (small blind) folded on the Flop
+Seat 4: razldazl (big blind) folded on the Pre-Flop
+Seat 5: VSMPZDEC folded on the Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV did not show and won 12600.00
+
+Game Hand #2439621191 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:28:28 UTC
+Table '11' 8-max Seat #3 is the button
+Seat 1: Nvol (111913.00)
+Seat 2: Cuse89P13 (96177.00)
+Seat 3: LearnSkill (363243.00)
+Seat 4: razldazl (38628.00)
+Seat 5: VSMPZDEC (34612.00)
+Seat 6: grotle (193422.00)
+Seat 7: MaruQueen (42845.00)
+Seat 8: ICCAAV (107070.00)
+Nvol posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+razldazl posts the small blind 800.00
+VSMPZDEC posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [6d Tc]
+grotle folds
+MaruQueen raises 3200.00 to 3200.00
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+VSMPZDEC folds
+Uncalled bet (1600.00) returned to MaruQueen
+MaruQueen does not show
+*** SUMMARY ***
+Total pot 5600.00
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill (button) folded on the Pre-Flop
+Seat 4: razldazl (small blind) folded on the Pre-Flop
+Seat 5: VSMPZDEC (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen did not show and won 5600.00
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439621812 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:29:16 UTC
+Table '11' 8-max Seat #4 is the button
+Seat 1: Nvol (111713.00)
+Seat 2: Cuse89P13 (95977.00)
+Seat 3: LearnSkill (363043.00)
+Seat 4: razldazl (37628.00)
+Seat 5: VSMPZDEC (32812.00)
+Seat 6: grotle (193222.00)
+Seat 7: MaruQueen (46645.00)
+Seat 8: ICCAAV (106870.00)
+Nvol posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+VSMPZDEC posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [6h 3s]
+MaruQueen folds
+ICCAAV folds
+Nvol raises 3200.00 to 3200.00
+Cuse89P13 calls 3200.00
+LearnSkill folds
+razldazl folds
+VSMPZDEC folds
+grotle folds
+*** FLOP *** [Jh Jc Qh]
+Main pot 10400.00
+Nvol checks
+Cuse89P13 checks
+*** TURN *** [Jh Jc Qh] [3c]
+Main pot 10400.00
+Nvol bets 5200.00
+Cuse89P13 calls 5200.00
+*** RIVER *** [Jh Jc Qh 3c] [2c]
+Main pot 20800.00
+Nvol bets 5200.00
+Cuse89P13 calls 5200.00
+*** SHOW DOWN ***
+Main pot 31200.00
+Nvol shows [Ac 2d] (two pair, Jacks and Deuces [Jh Jc 2d 2c Ac])
+Cuse89P13 shows [Tc Th] (two pair, Jacks and Tens [Jh Jc Th Tc Qh])
+Cuse89P13 collected 31200.00 from main pot
+*** SUMMARY ***
+Total pot 31200.00
+Board [Jh Jc Qh 3c 2c]
+Seat 1: Nvol showed [Ac 2d] and lost with two pair, Jacks and Deuces [Jh Jc 2d 2c Ac]
+Seat 2: Cuse89P13 showed [Tc Th] and won 31200.00 with two pair, Jacks and Tens [Jh Jc Th Tc Qh]
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl (button) folded on the Pre-Flop
+Seat 5: VSMPZDEC (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the Pre-Flop
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439622714 - Tournament #33456182 - Holdem (No Limit) - Level 9 (800.00/1600.00) - 2025/04/25 18:30:29 UTC
+Table '11' 8-max Seat #5 is the button
+Seat 1: Nvol (97913.00)
+Seat 2: Cuse89P13 (113377.00)
+Seat 3: LearnSkill (362843.00)
+Seat 4: razldazl (37428.00)
+Seat 5: VSMPZDEC (31812.00)
+Seat 6: grotle (191422.00)
+Seat 7: MaruQueen (46445.00)
+Seat 8: ICCAAV (106670.00)
+Nvol posts ante 200.00
+Cuse89P13 posts ante 200.00
+LearnSkill posts ante 200.00
+razldazl posts ante 200.00
+VSMPZDEC posts ante 200.00
+grotle posts ante 200.00
+MaruQueen posts ante 200.00
+ICCAAV posts ante 200.00
+grotle posts the small blind 800.00
+MaruQueen posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Ts 4h]
+ICCAAV raises 4000.00 to 4000.00
+Nvol calls 4000.00
+Cuse89P13 folds
+LearnSkill folds
+razldazl calls 4000.00
+VSMPZDEC folds
+grotle folds
+MaruQueen folds
+*** FLOP *** [3c Tc Jh]
+Main pot 16000.00
+ICCAAV bets 6400.00
+Nvol folds
+razldazl folds
+Uncalled bet (6400.00) returned to ICCAAV
+ICCAAV does not show
+*** SUMMARY ***
+Total pot 16000.00
+Board [3c Tc Jh]
+Seat 1: Nvol folded on the Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Flop
+Seat 5: VSMPZDEC (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: MaruQueen (big blind) folded on the Pre-Flop
+Seat 8: ICCAAV did not show and won 16000.00
+
+Game Hand #2439623943 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:32:01 UTC
+Table '11' 8-max Seat #6 is the button
+Seat 1: Nvol (93713.00)
+Seat 2: Cuse89P13 (113177.00)
+Seat 3: LearnSkill (362643.00)
+Seat 4: razldazl (33228.00)
+Seat 5: VSMPZDEC (31612.00)
+Seat 6: grotle (190422.00)
+Seat 7: MaruQueen (44645.00)
+Seat 8: ICCAAV (118470.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+VSMPZDEC posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+MaruQueen posts the small blind 900.00
+ICCAAV posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [4s Qs]
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl raises 3600.00 to 3600.00
+VSMPZDEC raises 31387.00 to 31387.00 and is all-in
+grotle folds
+MaruQueen folds
+ICCAAV folds
+razldazl calls 27787.00
+*** FLOP *** [4h 5d Td]
+Main pot 67274.00
+*** TURN *** [4h 5d Td] [6c]
+Main pot 67274.00
+*** RIVER *** [4h 5d Td 6c] [3c]
+Main pot 67274.00
+*** SHOW DOWN ***
+Main pot 67274.00
+razldazl shows [7s 7d] (a straight, Seven high [7s 6c 5d 4h 3c])
+VSMPZDEC shows [Qh Kh] (a high card, King high [Kh Qh Td 6c 5d])
+razldazl collected 67274.00 from main pot
+*** SUMMARY ***
+Total pot 67274.00
+Board [4h 5d Td 6c 3c]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl showed [7s 7d] and won 67274.00 with a straight, Seven high [7s 6c 5d 4h 3c]
+Seat 5: VSMPZDEC showed [Qh Kh] and lost with a high card, King high [Kh Qh Td 6c 5d]
+Seat 6: grotle (button) folded on the Pre-Flop
+Seat 7: MaruQueen (small blind) folded on the Pre-Flop
+Seat 8: ICCAAV (big blind) folded on the Pre-Flop
+
+Game Hand #2439624795 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:33:07 UTC
+Table '11' 8-max Seat #7 is the button
+Seat 1: Nvol (93488.00)
+Seat 2: Cuse89P13 (112952.00)
+Seat 3: LearnSkill (362418.00)
+Seat 4: razldazl (68890.00)
+Seat 6: grotle (190197.00)
+Seat 7: MaruQueen (43520.00)
+Seat 8: ICCAAV (116445.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+ICCAAV posts the small blind 900.00
+Nvol posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [5c 8h]
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+grotle folds
+MaruQueen raises 3600.00 to 3600.00
+ICCAAV folds
+Nvol folds
+Uncalled bet (1800.00) returned to MaruQueen
+MaruQueen does not show
+*** SUMMARY ***
+Total pot 6075.00
+Seat 1: Nvol (big blind) folded on the Pre-Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen did not show and won 6075.00
+Seat 8: ICCAAV (small blind) folded on the Pre-Flop
+
+Game Hand #2439625326 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:33:49 UTC
+Table '11' 8-max Seat #8 is the button
+Seat 1: Nvol (91463.00)
+Seat 2: Cuse89P13 (112727.00)
+Seat 3: LearnSkill (362193.00) is sitting out
+Seat 4: razldazl (68665.00)
+Seat 5: GALESP57 (59218.00)
+Seat 6: grotle (189972.00)
+Seat 7: MaruQueen (47570.00)
+Seat 8: ICCAAV (115320.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+Nvol posts the small blind 900.00
+Cuse89P13 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2s 6d]
+LearnSkill folds
+razldazl folds
+GALESP57 raises 3600.00 to 3600.00
+grotle folds
+MaruQueen folds
+ICCAAV folds
+Nvol calls 2700.00
+Cuse89P13 calls 1800.00
+*** FLOP *** [4s 2c 8s]
+Main pot 12600.00
+Nvol checks
+Cuse89P13 checks
+GALESP57 checks
+*** TURN *** [4s 2c 8s] [Qh]
+Main pot 12600.00
+Nvol checks
+Cuse89P13 checks
+GALESP57 bets 6300.00
+Nvol folds
+Cuse89P13 folds
+Uncalled bet (6300.00) returned to GALESP57
+GALESP57 does not show
+*** SUMMARY ***
+Total pot 12600.00
+Board [4s 2c 8s Qh]
+Seat 1: Nvol (small blind) folded on the Turn
+Seat 2: Cuse89P13 (big blind) folded on the Turn
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 did not show and won 12600.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV (button) folded on the Pre-Flop
+
+Game Hand #2439626234 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:34:58 UTC
+Table '11' 8-max Seat #1 is the button
+Seat 1: Nvol (87638.00)
+Seat 2: Cuse89P13 (108902.00)
+Seat 3: LearnSkill (361968.00)
+Seat 4: razldazl (68440.00)
+Seat 5: GALESP57 (67993.00)
+Seat 6: grotle (189747.00)
+Seat 7: MaruQueen (47345.00)
+Seat 8: ICCAAV (115095.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+Cuse89P13 posts the small blind 900.00
+LearnSkill posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [8h Th]
+razldazl folds
+GALESP57 raises 3600.00 to 3600.00
+grotle calls 3600.00
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill calls 1800.00
+*** FLOP *** [8d 2h Ks]
+Main pot 13500.00
+LearnSkill checks
+GALESP57 checks
+grotle bets 1800.00
+LearnSkill calls 1800.00
+GALESP57 calls 1800.00
+*** TURN *** [8d 2h Ks] [2d]
+Main pot 18900.00
+LearnSkill checks
+GALESP57 checks
+grotle checks
+*** RIVER *** [8d 2h Ks 2d] [6s]
+Main pot 18900.00
+LearnSkill checks
+GALESP57 checks
+grotle bets 3600.00
+LearnSkill calls 3600.00
+GALESP57 folds
+*** SHOW DOWN ***
+Main pot 26100.00
+LearnSkill shows [Ah 8s] (two pair, Eights and Deuces [8s 8d 2h 2d Ah])
+grotle shows [8h Th] (two pair, Eights and Deuces [8h 8d 2h 2d Ks])
+LearnSkill collected 26100.00 from main pot
+*** SUMMARY ***
+Total pot 26100.00
+Board [8d 2h Ks 2d 6s]
+Seat 1: Nvol (button) folded on the Pre-Flop
+Seat 2: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 3: LearnSkill (big blind) showed [Ah 8s] and won 26100.00 with two pair, Eights and Deuces [8s 8d 2h 2d Ah] with the kicker Ace
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the River
+Seat 6: grotle showed [8h Th] and lost with two pair, Eights and Deuces [8h 8d 2h 2d Ks]
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439627346 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:36:28 UTC
+Table '11' 8-max Seat #2 is the button
+Seat 1: Nvol (87413.00)
+Seat 2: Cuse89P13 (107777.00)
+Seat 3: LearnSkill (378843.00)
+Seat 4: razldazl (68215.00)
+Seat 5: GALESP57 (62368.00)
+Seat 6: grotle (180522.00)
+Seat 7: MaruQueen (47120.00)
+Seat 8: ICCAAV (114870.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+LearnSkill posts the small blind 900.00
+razldazl posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [3h Ad]
+GALESP57 folds
+grotle folds
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill raises 4500.00 to 5400.00
+razldazl folds
+Uncalled bet (3600.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 5400.00
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 (button) folded on the Pre-Flop
+Seat 3: LearnSkill did not show and won 5400.00
+Seat 4: razldazl (big blind) folded on the Pre-Flop
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439627746 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:37:01 UTC
+Table '11' 8-max Seat #3 is the button
+Seat 1: Nvol (87188.00)
+Seat 2: Cuse89P13 (107552.00)
+Seat 3: LearnSkill (382218.00)
+Seat 4: razldazl (66190.00)
+Seat 5: GALESP57 (62143.00)
+Seat 6: grotle (180297.00)
+Seat 7: MaruQueen (46895.00)
+Seat 8: ICCAAV (114645.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+razldazl posts the small blind 900.00
+GALESP57 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Ad 6d]
+grotle raises 3600.00 to 3600.00
+MaruQueen folds
+ICCAAV folds
+Nvol calls 3600.00
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+GALESP57 calls 1800.00
+*** FLOP *** [5h Qs Ks]
+Main pot 13500.00
+GALESP57 checks
+grotle checks
+Nvol bets 3375.00
+GALESP57 folds
+grotle folds
+Uncalled bet (3375.00) returned to Nvol
+Nvol does not show
+*** SUMMARY ***
+Total pot 13500.00
+Board [5h Qs Ks]
+Seat 1: Nvol did not show and won 13500.00
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill (button) folded on the Pre-Flop
+Seat 4: razldazl (small blind) folded on the Pre-Flop
+Seat 5: GALESP57 (big blind) folded on the Flop
+Seat 6: grotle folded on the Flop
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439628573 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:38:08 UTC
+Table '11' 8-max Seat #4 is the button
+Seat 1: Nvol (96863.00)
+Seat 2: Cuse89P13 (107327.00)
+Seat 3: LearnSkill (381993.00)
+Seat 4: razldazl (65065.00)
+Seat 5: GALESP57 (58318.00)
+Seat 6: grotle (176472.00)
+Seat 7: MaruQueen (46670.00)
+Seat 8: ICCAAV (114420.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+GALESP57 posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Qh 3s]
+MaruQueen folds
+ICCAAV folds
+Nvol raises 3600.00 to 3600.00
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle calls 1800.00
+*** FLOP *** [7s 3d Ks]
+Main pot 9900.00
+grotle checks
+Nvol bets 2475.00
+grotle calls 2475.00
+*** TURN *** [7s 3d Ks] [9s]
+Main pot 14850.00
+grotle bets 11138.00
+Nvol folds
+Uncalled bet (11138.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 14850.00
+Board [7s 3d Ks 9s]
+Seat 1: Nvol folded on the Turn
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl (button) folded on the Pre-Flop
+Seat 5: GALESP57 (small blind) folded on the Pre-Flop
+Seat 6: grotle did not show and won 14850.00
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439629465 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:39:20 UTC
+Table '11' 8-max Seat #5 is the button
+Seat 1: Nvol (90563.00)
+Seat 2: Cuse89P13 (107102.00)
+Seat 3: LearnSkill (381768.00)
+Seat 4: razldazl (64840.00)
+Seat 5: GALESP57 (57193.00)
+Seat 6: grotle (185022.00)
+Seat 7: MaruQueen (46445.00)
+Seat 8: ICCAAV (114195.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+grotle posts the small blind 900.00
+MaruQueen posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2c 8c]
+ICCAAV raises 4500.00 to 4500.00
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle folds
+MaruQueen folds
+Uncalled bet (2700.00) returned to ICCAAV
+ICCAAV does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: MaruQueen (big blind) folded on the Pre-Flop
+Seat 8: ICCAAV did not show and won 6300.00
+
+Game Hand #2439629872 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:39:54 UTC
+Table '11' 8-max Seat #6 is the button
+Seat 1: Nvol (90338.00)
+Seat 2: Cuse89P13 (106877.00)
+Seat 3: LearnSkill (381543.00)
+Seat 4: razldazl (64615.00)
+Seat 5: GALESP57 (56968.00)
+Seat 6: grotle (183897.00)
+Seat 7: MaruQueen (44420.00)
+Seat 8: ICCAAV (118470.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+MaruQueen posts the small blind 900.00
+ICCAAV posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5c 6d]
+Nvol raises 3600.00 to 3600.00
+Cuse89P13 folds
+LearnSkill calls 3600.00
+razldazl calls 3600.00
+GALESP57 calls 3600.00
+grotle calls 3600.00
+MaruQueen folds
+ICCAAV calls 1800.00
+*** FLOP *** [6c Qd 3h]
+Main pot 24300.00
+ICCAAV bets 6075.00
+Nvol folds
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle folds
+Uncalled bet (6075.00) returned to ICCAAV
+ICCAAV does not show
+*** SUMMARY ***
+Total pot 24300.00
+Board [6c Qd 3h]
+Seat 1: Nvol folded on the Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Flop
+Seat 4: razldazl folded on the Flop
+Seat 5: GALESP57 folded on the Flop
+Seat 6: grotle (button) folded on the Flop
+Seat 7: MaruQueen (small blind) folded on the Pre-Flop
+Seat 8: ICCAAV did not show and won 24300.00
+
+Game Hand #2439630706 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:41:00 UTC
+Table '11' 8-max Seat #7 is the button
+Seat 1: Nvol (86513.00)
+Seat 2: Cuse89P13 (106652.00)
+Seat 3: LearnSkill (377718.00)
+Seat 4: razldazl (60790.00)
+Seat 5: GALESP57 (53143.00)
+Seat 6: grotle (180072.00)
+Seat 7: MaruQueen (43295.00)
+Seat 8: ICCAAV (138945.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+ICCAAV posts the small blind 900.00
+Nvol posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5s Ad]
+Cuse89P13 folds
+LearnSkill raises 3600.00 to 3600.00
+razldazl folds
+GALESP57 folds
+grotle calls 3600.00
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+*** FLOP *** [Ac 2h 4s]
+Main pot 11700.00
+LearnSkill checks
+grotle bets 1800.00
+LearnSkill calls 1800.00
+*** TURN *** [Ac 2h 4s] [3h]
+Main pot 15300.00
+LearnSkill checks
+grotle bets 7650.00
+LearnSkill folds
+Uncalled bet (7650.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 15300.00
+Board [Ac 2h 4s 3h]
+Seat 1: Nvol (big blind) folded on the Pre-Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Turn
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 15300.00
+Seat 7: MaruQueen (button) folded on the Pre-Flop
+Seat 8: ICCAAV (small blind) folded on the Pre-Flop
+
+Game Hand #2439631742 - Tournament #33456182 - Holdem (No Limit) - Level 10 (900.00/1800.00) - 2025/04/25 18:42:26 UTC
+Table '11' 8-max Seat #8 is the button
+Seat 1: Nvol (84488.00)
+Seat 2: Cuse89P13 (106427.00)
+Seat 3: LearnSkill (372093.00)
+Seat 4: razldazl (60565.00)
+Seat 5: GALESP57 (52918.00)
+Seat 6: grotle (189747.00)
+Seat 7: MaruQueen (43070.00)
+Seat 8: ICCAAV (137820.00)
+Nvol posts ante 225.00
+Cuse89P13 posts ante 225.00
+LearnSkill posts ante 225.00
+razldazl posts ante 225.00
+GALESP57 posts ante 225.00
+grotle posts ante 225.00
+MaruQueen posts ante 225.00
+ICCAAV posts ante 225.00
+Nvol posts the small blind 900.00
+Cuse89P13 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5h 3s]
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle folds
+MaruQueen folds
+ICCAAV raises 3600.00 to 3600.00
+Nvol calls 2700.00
+Cuse89P13 folds
+*** FLOP *** [8h As 6d]
+Main pot 10800.00
+Nvol bets 80663.00 and is all-in
+ICCAAV folds
+Uncalled bet (80663.00) returned to Nvol
+Nvol does not show
+*** SUMMARY ***
+Total pot 10800.00
+Board [8h As 6d]
+Seat 1: Nvol did not show and won 10800.00
+Seat 2: Cuse89P13 (big blind) folded on the Pre-Flop
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV (button) folded on the Flop
+
+Game Hand #2439632226 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:43:06 UTC
+Table '11' 8-max Seat #1 is the button
+Seat 1: Nvol (91463.00)
+Seat 2: Cuse89P13 (104402.00)
+Seat 3: LearnSkill (371868.00)
+Seat 4: razldazl (60340.00)
+Seat 5: GALESP57 (52693.00)
+Seat 6: grotle (189522.00)
+Seat 7: MaruQueen (42845.00)
+Seat 8: ICCAAV (133995.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+Cuse89P13 posts the small blind 1000.00
+LearnSkill posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ts Qs]
+razldazl folds
+GALESP57 folds
+grotle raises 4000.00 to 4000.00
+MaruQueen folds
+ICCAAV calls 4000.00
+Nvol folds
+Cuse89P13 folds
+LearnSkill calls 2000.00
+*** FLOP *** [8s 9s 7c]
+Main pot 15000.00
+LearnSkill checks
+grotle bets 2000.00
+ICCAAV calls 2000.00
+LearnSkill raises 17750.00 to 17750.00
+grotle calls 15750.00
+ICCAAV folds
+*** TURN *** [8s 9s 7c] [Qh]
+Main pot 52500.00
+LearnSkill checks
+grotle bets 15125.00
+LearnSkill folds
+Uncalled bet (15125.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 52500.00
+Board [8s 9s 7c Qh]
+Seat 1: Nvol (button) folded on the Pre-Flop
+Seat 2: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 3: LearnSkill (big blind) folded on the Turn
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 52500.00
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Flop
+
+Game Hand #2439633472 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:44:51 UTC
+Table '11' 8-max Seat #2 is the button
+Seat 1: Nvol (91213.00)
+Seat 2: Cuse89P13 (103152.00)
+Seat 3: LearnSkill (349868.00)
+Seat 4: razldazl (60090.00)
+Seat 5: GALESP57 (52443.00)
+Seat 6: grotle (220022.00)
+Seat 7: MaruQueen (42595.00)
+Seat 8: ICCAAV (127745.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+LearnSkill posts the small blind 1000.00
+razldazl posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ks As]
+GALESP57 folds
+grotle raises 4000.00 to 4000.00
+MaruQueen calls 4000.00
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl calls 2000.00
+*** FLOP *** [Qc 7c 2d]
+Main pot 15000.00
+razldazl bets 3000.00
+grotle calls 3000.00
+MaruQueen folds
+*** TURN *** [Qc 7c 2d] [4c]
+Main pot 21000.00
+razldazl bets 5000.00
+grotle folds
+Uncalled bet (5000.00) returned to razldazl
+razldazl does not show
+*** SUMMARY ***
+Total pot 21000.00
+Board [Qc 7c 2d 4c]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 (button) folded on the Pre-Flop
+Seat 3: LearnSkill (small blind) folded on the Pre-Flop
+Seat 4: razldazl did not show and won 21000.00
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Turn
+Seat 7: MaruQueen folded on the Flop
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439634261 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:45:56 UTC
+Table '11' 8-max Seat #3 is the button
+Seat 1: Nvol (90963.00)
+Seat 2: Cuse89P13 (102902.00)
+Seat 3: LearnSkill (348618.00)
+Seat 4: razldazl (73840.00)
+Seat 5: GALESP57 (52193.00)
+Seat 6: grotle (212772.00)
+Seat 7: MaruQueen (38345.00)
+Seat 8: ICCAAV (127495.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+razldazl posts the small blind 1000.00
+GALESP57 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [4c 3s]
+grotle folds
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill raises 4000.00 to 4000.00
+razldazl calls 3000.00
+GALESP57 calls 2000.00
+*** FLOP *** [2d 9s 2c]
+Main pot 14000.00
+razldazl checks
+GALESP57 checks
+LearnSkill checks
+*** TURN *** [2d 9s 2c] [5h]
+Main pot 14000.00
+razldazl checks
+GALESP57 checks
+LearnSkill checks
+*** RIVER *** [2d 9s 2c 5h] [Kh]
+Main pot 14000.00
+razldazl checks
+GALESP57 checks
+LearnSkill bets 10500.00
+razldazl folds
+GALESP57 folds
+Uncalled bet (10500.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 14000.00
+Board [2d 9s 2c 5h Kh]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill did not show and won 14000.00
+Seat 4: razldazl (small blind) folded on the River
+Seat 5: GALESP57 (big blind) folded on the River
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439635671 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:47:50 UTC
+Table '11' 8-max Seat #4 is the button
+Seat 1: Nvol (90713.00)
+Seat 2: Cuse89P13 (102652.00)
+Seat 3: LearnSkill (358368.00)
+Seat 4: razldazl (69590.00)
+Seat 5: GALESP57 (47943.00)
+Seat 6: grotle (212522.00)
+Seat 7: MaruQueen (38095.00)
+Seat 8: ICCAAV (127245.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+GALESP57 posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [2h 3c]
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl calls 2000.00
+GALESP57 raises 7000.00 to 8000.00
+grotle folds
+razldazl folds
+Uncalled bet (6000.00) returned to GALESP57
+GALESP57 does not show
+*** SUMMARY ***
+Total pot 8000.00
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl (button) folded on the Pre-Flop
+Seat 5: GALESP57 did not show and won 8000.00
+Seat 6: grotle (big blind) folded on the Pre-Flop
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439636845 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:49:25 UTC
+Table '11' 8-max Seat #5 is the button
+Seat 1: Nvol (90463.00)
+Seat 2: Cuse89P13 (102402.00)
+Seat 3: LearnSkill (358118.00)
+Seat 4: razldazl (67340.00)
+Seat 5: GALESP57 (53693.00)
+Seat 6: grotle (210272.00)
+Seat 7: MaruQueen (37845.00)
+Seat 8: ICCAAV (126995.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+grotle posts the small blind 1000.00
+MaruQueen posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [3d Kc]
+ICCAAV raises 4400.00 to 4400.00
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl calls 4400.00
+GALESP57 folds
+grotle folds
+MaruQueen folds
+*** FLOP *** [3c 3h 7c]
+Main pot 13800.00
+ICCAAV bets 5000.00
+razldazl calls 5000.00
+*** TURN *** [3c 3h 7c] [4d]
+Main pot 23800.00
+ICCAAV bets 6000.00
+razldazl calls 6000.00
+*** RIVER *** [3c 3h 7c 4d] [9h]
+Main pot 35800.00
+ICCAAV bets 8000.00
+razldazl calls 8000.00
+*** SHOW DOWN ***
+Main pot 51800.00
+razldazl shows [5h Ad] (a pair of Threes [3h 3c Ad 9h 7c])
+ICCAAV shows [8s As] (a pair of Threes [3h 3c As 9h 8s])
+ICCAAV collected 51800.00 from main pot
+*** SUMMARY ***
+Total pot 51800.00
+Board [3c 3h 7c 4d 9h]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl showed [5h Ad] and lost with a pair of Threes [3h 3c Ad 9h 7c]
+Seat 5: GALESP57 (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: MaruQueen (big blind) folded on the Pre-Flop
+Seat 8: ICCAAV showed [8s As] and won 51800.00 with a pair of Threes [3h 3c As 9h 8s] with the kicker Eight
+
+Game Hand #2439637815 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:50:39 UTC
+Table '11' 8-max Seat #6 is the button
+Seat 1: Nvol (90213.00)
+Seat 2: Cuse89P13 (102152.00)
+Seat 3: LearnSkill (357868.00)
+Seat 4: razldazl (43690.00)
+Seat 5: GALESP57 (53443.00)
+Seat 6: grotle (209022.00)
+Seat 7: MaruQueen (35595.00)
+Seat 8: ICCAAV (155145.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+MaruQueen posts the small blind 1000.00
+ICCAAV posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Jc 8s]
+Nvol folds
+Cuse89P13 folds
+LearnSkill raises 4000.00 to 4000.00
+razldazl folds
+GALESP57 folds
+grotle calls 4000.00
+MaruQueen folds
+ICCAAV folds
+*** FLOP *** [5s 3c 4h]
+Main pot 13000.00
+LearnSkill checks
+grotle checks
+*** TURN *** [5s 3c 4h] [9s]
+Main pot 13000.00
+LearnSkill checks
+grotle bets 4000.00
+LearnSkill calls 4000.00
+*** RIVER *** [5s 3c 4h 9s] [Kd]
+Main pot 21000.00
+LearnSkill checks
+grotle bets 8000.00
+LearnSkill folds
+Uncalled bet (8000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 21000.00
+Board [5s 3c 4h 9s Kd]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the River
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 21000.00
+Seat 7: MaruQueen (small blind) folded on the Pre-Flop
+Seat 8: ICCAAV (big blind) folded on the Pre-Flop
+
+Game Hand #2439639421 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:52:36 UTC
+Table '11' 8-max Seat #7 is the button
+Seat 1: Nvol (89963.00)
+Seat 2: Cuse89P13 (101902.00)
+Seat 3: LearnSkill (349618.00) is sitting out
+Seat 4: razldazl (43440.00)
+Seat 5: GALESP57 (53193.00)
+Seat 6: grotle (221772.00)
+Seat 7: MaruQueen (34345.00)
+Seat 8: ICCAAV (152895.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+ICCAAV posts the small blind 1000.00
+Nvol posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [5s 7c]
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle folds
+MaruQueen folds
+ICCAAV raises 3000.00 to 4000.00
+Nvol calls 2000.00
+*** FLOP *** [Qc Ac 4c]
+Main pot 10000.00
+ICCAAV bets 5000.00
+Nvol folds
+Uncalled bet (5000.00) returned to ICCAAV
+ICCAAV does not show
+*** SUMMARY ***
+Total pot 10000.00
+Board [Qc Ac 4c]
+Seat 1: Nvol (big blind) folded on the Flop
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill folded on the Pre-Flop and did not bet
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen (button) folded on the Pre-Flop
+Seat 8: ICCAAV did not show and won 10000.00
+
+Game Hand #2439640407 - Tournament #33456182 - Holdem (No Limit) - Level 11 (1000.00/2000.00) - 2025/04/25 18:53:47 UTC
+Table '11' 8-max Seat #8 is the button
+Seat 1: Nvol (85713.00)
+Seat 2: Cuse89P13 (101652.00)
+Seat 3: LearnSkill (349368.00)
+Seat 4: razldazl (43190.00)
+Seat 5: GALESP57 (52943.00)
+Seat 6: grotle (221522.00)
+Seat 7: MaruQueen (34095.00)
+Seat 8: ICCAAV (158645.00)
+Nvol posts ante 250.00
+Cuse89P13 posts ante 250.00
+LearnSkill posts ante 250.00
+razldazl posts ante 250.00
+GALESP57 posts ante 250.00
+grotle posts ante 250.00
+MaruQueen posts ante 250.00
+ICCAAV posts ante 250.00
+Nvol posts the small blind 1000.00
+Cuse89P13 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8c 3s]
+LearnSkill raises 4000.00 to 4000.00
+razldazl calls 4000.00
+GALESP57 folds
+grotle folds
+MaruQueen folds
+ICCAAV calls 4000.00
+Nvol folds
+Cuse89P13 calls 2000.00
+*** FLOP *** [5s Kd 3c]
+Main pot 19000.00
+Cuse89P13 checks
+LearnSkill checks
+razldazl bets 4000.00
+ICCAAV calls 4000.00
+Cuse89P13 calls 4000.00
+LearnSkill calls 4000.00
+*** TURN *** [5s Kd 3c] [Ac]
+Main pot 35000.00
+Cuse89P13 checks
+LearnSkill checks
+razldazl bets 34940.00 and is all-in
+ICCAAV calls 34940.00
+Cuse89P13 calls 34940.00
+LearnSkill folds
+*** RIVER *** [5s Kd 3c Ac] [3d]
+Main pot 139820.00
+Cuse89P13 checks
+ICCAAV checks
+*** SHOW DOWN ***
+Main pot 139820.00
+Cuse89P13 shows [Tc 5c] (two pair, Fives and Threes [5s 5c 3d 3c Ac])
+razldazl shows [4h Ah] (two pair, Aces and Threes [Ah Ac 3d 3c Kd])
+ICCAAV shows [9d Ad] (two pair, Aces and Threes [Ad Ac 3d 3c Kd])
+ICCAAV collected 69910.00 from main pot
+razldazl collected 69910.00 from main pot
+*** SUMMARY ***
+Total pot 139820.00
+Board [5s Kd 3c Ac 3d]
+Seat 1: Nvol (small blind) folded on the Pre-Flop
+Seat 2: Cuse89P13 (big blind) showed [Tc 5c] and lost with two pair, Fives and Threes [5s 5c 3d 3c Ac]
+Seat 3: LearnSkill folded on the Turn
+Seat 4: razldazl showed [4h Ah] and won 69910.00 with two pair, Aces and Threes [Ah Ac 3d 3c Kd]
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV (button) showed [9d Ad] and won 69910.00 with two pair, Aces and Threes [Ad Ac 3d 3c Kd]
+
+Game Hand #2439643182 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:01:12 UTC
+Table '11' 8-max Seat #1 is the button
+Seat 1: Nvol (84463.00)
+Seat 2: Cuse89P13 (58462.00)
+Seat 3: LearnSkill (341118.00)
+Seat 4: razldazl (69910.00)
+Seat 5: GALESP57 (52693.00)
+Seat 6: grotle (221272.00)
+Seat 7: MaruQueen (33845.00)
+Seat 8: ICCAAV (185365.00)
+Nvol posts ante 300.00
+Cuse89P13 posts ante 300.00
+LearnSkill posts ante 300.00
+razldazl posts ante 300.00
+GALESP57 posts ante 300.00
+grotle posts ante 300.00
+MaruQueen posts ante 300.00
+ICCAAV posts ante 300.00
+Cuse89P13 posts the small blind 1200.00
+LearnSkill posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Qc Jd]
+razldazl folds
+GALESP57 raises 4800.00 to 4800.00
+grotle folds
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill calls 2400.00
+*** FLOP *** [8d Jh Tc]
+Main pot 13200.00
+LearnSkill checks
+GALESP57 bets 4356.00
+LearnSkill calls 4356.00
+*** TURN *** [8d Jh Tc] [Js]
+Main pot 21912.00
+LearnSkill checks
+GALESP57 checks
+*** RIVER *** [8d Jh Tc Js] [Ac]
+Main pot 21912.00
+LearnSkill checks
+GALESP57 checks
+*** SHOW DOWN ***
+Main pot 21912.00
+LearnSkill shows [6s Th] (two pair, Jacks and Tens [Js Jh Th Tc Ac])
+GALESP57 shows [Qs Ah] (two pair, Aces and Jacks [Ah Ac Js Jh Qs])
+GALESP57 collected 21912.00 from main pot
+*** SUMMARY ***
+Total pot 21912.00
+Board [8d Jh Tc Js Ac]
+Seat 1: Nvol (button) folded on the Pre-Flop
+Seat 2: Cuse89P13 (small blind) folded on the Pre-Flop
+Seat 3: LearnSkill (big blind) showed [6s Th] and lost with two pair, Jacks and Tens [Js Jh Th Tc Ac]
+Seat 4: razldazl folded on the Pre-Flop and did not bet
+Seat 5: GALESP57 showed [Qs Ah] and won 21912.00 with two pair, Aces and Jacks [Ah Ac Js Jh Qs]
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439644802 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:03:27 UTC
+Table '11' 8-max Seat #2 is the button
+Seat 1: Nvol (84163.00)
+Seat 2: Cuse89P13 (56962.00)
+Seat 3: LearnSkill (331662.00)
+Seat 4: razldazl (69610.00)
+Seat 5: GALESP57 (65149.00)
+Seat 6: grotle (220972.00)
+Seat 7: MaruQueen (33545.00)
+Seat 8: ICCAAV (185065.00)
+Nvol posts ante 300.00
+Cuse89P13 posts ante 300.00
+LearnSkill posts ante 300.00
+razldazl posts ante 300.00
+GALESP57 posts ante 300.00
+grotle posts ante 300.00
+MaruQueen posts ante 300.00
+ICCAAV posts ante 300.00
+LearnSkill posts the small blind 1200.00
+razldazl posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Kc Qh]
+GALESP57 folds
+grotle raises 4800.00 to 4800.00
+MaruQueen folds
+ICCAAV folds
+Nvol calls 4800.00
+Cuse89P13 folds
+LearnSkill calls 3600.00
+razldazl calls 2400.00
+*** FLOP *** [4d Js Ks]
+Main pot 21600.00
+LearnSkill checks
+razldazl bets 2400.00
+grotle calls 2400.00
+Nvol raises 16800.00 to 16800.00
+LearnSkill calls 16800.00
+razldazl folds
+grotle raises 40800.00 to 43200.00
+Nvol calls 26400.00
+LearnSkill folds
+*** TURN *** [4d Js Ks] [7h]
+Main pot 127200.00
+grotle checks
+Nvol checks
+*** RIVER *** [4d Js Ks 7h] [3s]
+Main pot 127200.00
+grotle checks
+Nvol bets 31800.00
+grotle calls 31800.00
+*** SHOW DOWN ***
+Main pot 190800.00
+Nvol shows [Ts 6s] (a flush, King high [Ks Js Ts 6s 3s])
+grotle shows [Kc Qh] (a pair of Kings [Ks Kc Qh Js 7h])
+Nvol collected 190800.00 from main pot
+*** SUMMARY ***
+Total pot 190800.00
+Board [4d Js Ks 7h 3s]
+Seat 1: Nvol showed [Ts 6s] and won 190800.00 with a flush, King high [Ks Js Ts 6s 3s]
+Seat 2: Cuse89P13 (button) folded on the Pre-Flop
+Seat 3: LearnSkill (small blind) folded on the Flop
+Seat 4: razldazl (big blind) folded on the Flop
+Seat 5: GALESP57 folded on the Pre-Flop and did not bet
+Seat 6: grotle showed [Kc Qh] and lost with a pair of Kings [Ks Kc Qh Js 7h]
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439646810 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:06:01 UTC
+Table '11' 8-max Seat #3 is the button
+Seat 1: Nvol (194863.00)
+Seat 2: Cuse89P13 (56662.00)
+Seat 3: LearnSkill (309762.00)
+Seat 4: razldazl (62110.00)
+Seat 5: GALESP57 (64849.00)
+Seat 6: grotle (140872.00)
+Seat 7: MaruQueen (33245.00)
+Seat 8: ICCAAV (184765.00)
+Nvol posts ante 300.00
+Cuse89P13 posts ante 300.00
+LearnSkill posts ante 300.00
+razldazl posts ante 300.00
+GALESP57 posts ante 300.00
+grotle posts ante 300.00
+MaruQueen posts ante 300.00
+ICCAAV posts ante 300.00
+razldazl posts the small blind 1200.00
+GALESP57 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [6d 6s]
+grotle raises 4800.00 to 4800.00
+MaruQueen raises 32945.00 to 32945.00 and is all-in
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill folds
+razldazl folds
+GALESP57 folds
+grotle calls 28145.00
+*** FLOP *** [Th 5c Kh]
+Main pot 71890.00
+*** TURN *** [Th 5c Kh] [Jh]
+Main pot 71890.00
+*** RIVER *** [Th 5c Kh Jh] [3d]
+Main pot 71890.00
+*** SHOW DOWN ***
+Main pot 71890.00
+grotle shows [6d 6s] (a pair of Sixs [6s 6d Kh Jh Th])
+MaruQueen shows [Jd 9d] (a pair of Jacks [Jh Jd Kh Th 9d])
+MaruQueen collected 71890.00 from main pot
+*** SUMMARY ***
+Total pot 71890.00
+Board [Th 5c Kh Jh 3d]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill (button) folded on the Pre-Flop
+Seat 4: razldazl (small blind) folded on the Pre-Flop
+Seat 5: GALESP57 (big blind) folded on the Pre-Flop
+Seat 6: grotle showed [6d 6s] and lost with a pair of Sixs [6s 6d Kh Jh Th]
+Seat 7: MaruQueen showed [Jd 9d] and won 71890.00 with a pair of Jacks [Jh Jd Kh Th 9d]
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+
+Game Hand #2439647464 - Tournament #33456182 - Holdem (No Limit) - Level 12 (1200.00/2400.00) - 2025/04/25 19:06:51 UTC
+Table '11' 8-max Seat #4 is the button
+Seat 1: Nvol (194563.00)
+Seat 2: Cuse89P13 (56362.00)
+Seat 3: LearnSkill (309462.00)
+Seat 4: razldazl (60610.00)
+Seat 5: GALESP57 (62149.00)
+Seat 6: grotle (107627.00)
+Seat 7: MaruQueen (71890.00)
+Seat 8: ICCAAV (184465.00)
+Nvol posts ante 300.00
+Cuse89P13 posts ante 300.00
+LearnSkill posts ante 300.00
+razldazl posts ante 300.00
+GALESP57 posts ante 300.00
+grotle posts ante 300.00
+MaruQueen posts ante 300.00
+ICCAAV posts ante 300.00
+GALESP57 posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [8d Qd]
+MaruQueen folds
+ICCAAV folds
+Nvol folds
+Cuse89P13 folds
+LearnSkill raises 4800.00 to 4800.00
+razldazl calls 4800.00
+GALESP57 folds
+grotle calls 2400.00
+*** FLOP *** [Js As 4h]
+Main pot 18000.00
+grotle checks
+LearnSkill bets 9000.00
+razldazl folds
+grotle folds
+Uncalled bet (9000.00) returned to LearnSkill
+LearnSkill does not show
+*** SUMMARY ***
+Total pot 18000.00
+Board [Js As 4h]
+Seat 1: Nvol folded on the Pre-Flop and did not bet
+Seat 2: Cuse89P13 folded on the Pre-Flop and did not bet
+Seat 3: LearnSkill did not show and won 18000.00
+Seat 4: razldazl (button) folded on the Flop
+Seat 5: GALESP57 (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the Flop
+Seat 7: MaruQueen folded on the Pre-Flop and did not bet
+Seat 8: ICCAAV folded on the Pre-Flop and did not bet
+

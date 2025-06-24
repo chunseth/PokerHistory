@@ -5,6 +5,7 @@ import NewHandPage from './components/NewHandPage';
 import HandHistoryPage from './components/HandHistoryPage';
 import HandReplayPage from './components/HandReplayPage';
 import ImportHandsPage from './components/ImportHandsPage';
+import PlayerStats from './components/PlayerStats';
 import Navbar from './components/Navbar';
 import './App.css';
 
@@ -19,6 +20,7 @@ function App() {
                     <Route path="/hand-history" element={<HandHistoryPage />} />
                     <Route path="/hand-replay/:handId" element={<HandReplayPage />} />
                     <Route path="/import-hands" element={<ImportHandsPage />} />
+                    <Route path="/stats/:username" element={<PlayerStats />} />
                 </Routes>
             </div>
         </Router>

@@ -1,0 +1,58 @@
+Game Hand #2439558633 - Tournament #33456182 - Holdem (No Limit) - Level 3 (400.00/800.00) - 2025/04/25 17:02:19 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: GabrielBP7 (50000.00)
+Seat 2: grotle (50000.00)
+Seat 3: jr4243 (50000.00)
+Seat 4: redoak708 (50000.00)
+Seat 5: asamoah63 (31151.00)
+Seat 6: Lechuchu (20109.00)
+Seat 7: Rokhd (57290.00)
+GabrielBP7 posts ante 100.00
+grotle posts ante 100.00
+jr4243 posts ante 100.00
+redoak708 posts ante 100.00
+asamoah63 posts ante 100.00
+Lechuchu posts ante 100.00
+Rokhd posts ante 100.00
+grotle posts the small blind 400.00
+jr4243 posts the big blind 800.00
+*** HOLE CARDS ***
+Main pot 700.00
+Dealt to grotle [2d Js]
+redoak708 folds
+asamoah63 folds
+Lechuchu folds
+Rokhd calls 800.00
+GabrielBP7 folds
+grotle folds
+jr4243 checks
+*** FLOP *** [9s 7h 3d]
+Main pot 2700.00
+jr4243 bets 2025.00
+Rokhd calls 2025.00
+*** TURN *** [9s 7h 3d] [5c]
+Main pot 6750.00
+jr4243 checks
+Rokhd checks
+*** RIVER *** [9s 7h 3d 5c] [7c]
+Main pot 6750.00
+jr4243 bets 6750.00
+Rokhd raises 13500.00 to 13500.00
+jr4243 raises 40325.00 to 47075.00 and is all-in
+Rokhd calls 33575.00
+*** SHOW DOWN ***
+Main pot 100900.00
+jr4243 shows [7s 8h] (three of a kind, Set of Sevens [7s 7h 7c 9s 8h])
+Rokhd shows [7d Ad] (three of a kind, Set of Sevens [7h 7d 7c Ad 9s])
+Rokhd collected 100900.00 from main pot
+*** SUMMARY ***
+Total pot 100900.00
+Board [9s 7h 3d 5c 7c]
+Seat 1: GabrielBP7 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: jr4243 (big blind) showed [7s 8h] and lost with three of a kind, Set of Sevens [7s 7h 7c 9s 8h]
+Seat 4: redoak708 folded on the Pre-Flop and did not bet
+Seat 5: asamoah63 folded on the Pre-Flop and did not bet
+Seat 6: Lechuchu folded on the Pre-Flop and did not bet
+Seat 7: Rokhd showed [7d Ad] and won 100900.00 with three of a kind, Set of Sevens [7h 7d 7c Ad 9s] with the kicker Ace
+

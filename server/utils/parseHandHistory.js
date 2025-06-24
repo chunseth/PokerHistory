@@ -71,16 +71,54 @@ async function parseHandHistory(filePath, heroUsername) {
 
                 // Initialize hand object
                 const hand = {
+                    // Tournament Information
+                    tournamentId: null,
+                    tournamentName: null,
+                    buyIn: 0,
+                    gameType: 'Hold\'em',
+                    limitType: 'No Limit',
+                    currency: 'REAL',
+                    
+                    // Blind Level Information
+                    level: null,
+                    smallBlind: 0,
+                    bigBlind: 0,
+                    ante: 0,
+                    
+                    // Hand Information
                     communityCards: {
                         flop: [],
                         turn: null,
                         river: null
                     },
-                    gameType: 'tournament', // Default to tournament, can be updated based on file content
+                    gameType: 'tournament',
                     bettingActions: [],
-                    streetBets: [], // Will be filled as we parse
+                    streetBets: [],
                     foldedPlayers: [],
-                    villainCards: []
+                    villainCards: [],
+                    winners: [],
+                    losers: [],
+                    totalPot: 0,
+                    summary: [], // Add summary array to store player results
+                    
+                    // Stack Information
+                    playerStacks: new Map(), // Starting stacks
+                    finalStacks: new Map(),  // Final stacks
+                    
+                    // Pot Information
+                    potSizes: {
+                        preflop: 0,
+                        flop: 0,
+                        turn: 0,
+                        river: 0,
+                        final: 0
+                    },
+                    
+                    // Hand Strength
+                    showdown: {
+                        board: [],
+                        hands: [] // Array of {player, cards, description, strength}
+                    }
                 };
 
                 let currentStreet = 'preflop';
@@ -138,6 +176,19 @@ async function parseHandHistory(filePath, heroUsername) {
                         if (blindsMatch) {
                             bigBlind = parseFloat(blindsMatch[2]);
                             heroStackSizeBB = heroStackSize / bigBlind;
+                        }
+
+                        // Parse tournament information
+                        const tournamentMatch = line.match(/Tournament #(\d+)/);
+                        if (tournamentMatch) {
+                            hand.tournamentId = tournamentMatch[1];
+                        }
+                        
+                        const levelMatch = line.match(/Level (\d+) \(([\d.]+)\/([\d.]+)\)/);
+                        if (levelMatch) {
+                            hand.level = parseInt(levelMatch[1]);
+                            hand.smallBlind = parseFloat(levelMatch[2]);
+                            hand.bigBlind = parseFloat(levelMatch[3]);
                         }
                     }
 
@@ -391,7 +442,134 @@ async function parseHandHistory(filePath, heroUsername) {
                         const match = line.match(/Main pot ([\d.]+)/);
                         if (match) {
                             const potSize = parseFloat(match[1]);
-                            hand.potSize = potSize / bigBlind;
+                            hand.potSizes[currentStreet] = potSize / bigBlind;
+                            if (currentStreet === 'river') {
+                                hand.potSizes.final = potSize / bigBlind;
+                            }
+                        }
+                    }
+
+                    // Parse winner and loser information
+                    if (line.includes('did not show and won') || line.includes('shows') || line.includes('collected') || 
+                        line.includes('and won') || line.includes('and lost')) {
+                        console.log('\n=== Parsing Winner/Loser Line ===');
+                        console.log('Line:', line);
+                        
+                        // Match formats:
+                        // 1. "Seat X: Player did not show and won (amount)"
+                        // 2. "Seat X: Player shows [cards] and won amount with a hand [board]"
+                        // 3. "Seat X: Player showed [cards] and lost with a hand [board]"
+                        const playerMatch = line.match(/Seat (\d+): (\w+) (?:did not show and won|shows|collected|showed \[.*?\] and (?:won|lost)) (?:\[.*?\] )?(?:with a .*? \[.*?\])?\(?([\d.]+)\)?/);
+                        if (playerMatch) {
+                            const [_, seat, player, amount] = playerMatch;
+                            console.log('Player Match:', { seat, player, amount });
+                            
+                            const playerInfo = players.get(player);
+                            if (playerInfo) {
+                                // Check for loss first, then win conditions
+                                const isWinner = !line.includes('and lost') && 
+                                               (line.includes('and won') || 
+                                                line.includes('collected') || 
+                                                line.includes('did not show and won'));
+                                const winAmount = amount ? parseFloat(amount) / bigBlind : 0;
+                                
+                                const playerResult = {
+                                    playerIndex: playerInfo.playerIndex,
+                                    username: player,
+                                    position: calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex),
+                                    isWinner: isWinner,
+                                    amount: isWinner ? roundToNearestHalf(winAmount) : 0
+                                };
+
+                                // If the line includes the hand description, add it
+                                const handMatch = line.match(/with a (.*?) \[(.*?)\]/);
+                                if (handMatch) {
+                                    playerResult.hand = {
+                                        description: handMatch[1],
+                                        cards: parseCards(handMatch[2])
+                                    };
+                                }
+
+                                console.log('Player Result:', playerResult);
+
+                                // Add to summary array
+                                const summaryEntry = {
+                                    seat: parseInt(seat),
+                                    player: player,
+                                    result: line.includes('did not show and won') ? 'did not show and won' :
+                                           line.includes('shows') ? 'shows' :
+                                           line.includes('collected') ? 'collected' :
+                                           line.includes('and won') ? 'won' : 'lost',
+                                    amount: winAmount
+                                };
+                                hand.summary.push(summaryEntry);
+                                console.log('Added to summary:', summaryEntry);
+
+                                if (isWinner) {
+                                    if (!hand.winners) hand.winners = [];
+                                    hand.winners.push(playerResult);
+                                    console.log('Added to winners:', playerResult);
+                                } else {
+                                    if (!hand.losers) hand.losers = [];
+                                    hand.losers.push(playerResult);
+                                    console.log('Added to losers:', playerResult);
+                                }
+                            }
+                        }
+                    }
+
+                    // Track stack sizes
+                    if (line.startsWith('Seat ')) {
+                        const stackMatch = line.match(/Seat (\d+): (\w+) \(([\d.]+)\)/);
+                        if (stackMatch) {
+                            const [_, seat, player, stack] = stackMatch;
+                            hand.playerStacks.set(player, parseFloat(stack));
+                        }
+                    }
+
+                    // Track ante amounts
+                    if (line.includes('posts ante')) {
+                        const anteMatch = line.match(/posts ante ([\d.]+)/);
+                        if (anteMatch) {
+                            hand.ante = parseFloat(anteMatch[1]);
+                        }
+                    }
+
+                    // Track uncalled bets
+                    if (line.includes('Uncalled bet')) {
+                        console.log('\n=== Parsing Uncalled Bet ===');
+                        console.log('Line:', line);
+                        
+                        const uncalledMatch = line.match(/Uncalled bet \(([\d.]+)\) returned to (\w+)/);
+                        if (uncalledMatch) {
+                            const [_, amount, player] = uncalledMatch;
+                            hand.uncalledBet = {
+                                amount: parseFloat(amount) / bigBlind,
+                                player: player
+                            };
+                            console.log('Uncalled Bet:', hand.uncalledBet);
+                        }
+                    }
+
+                    // Track showdown information
+                    if (line.includes('*** SHOW DOWN ***')) {
+                        hand.showdown.board = [
+                            ...hand.communityCards.flop,
+                            hand.communityCards.turn,
+                            hand.communityCards.river
+                        ].filter(Boolean);
+                    }
+
+                    if (line.includes('shows') || line.includes('collected')) {
+                        const handMatch = line.match(/(\w+) (?:shows|collected) \[(.*?)\] (?:and (?:won|lost) (?:[\d.]+) )?with a (.*?) \[(.*?)\]/);
+                        if (handMatch) {
+                            const [_, player, cards, description, board] = handMatch;
+                            hand.showdown.hands.push({
+                                player,
+                                cards: parseCards(cards),
+                                description,
+                                board: parseCards(board)
+                            });
                         }
                     }
                 }
@@ -484,7 +662,12 @@ async function parseHandHistory(filePath, heroUsername) {
                 hand.heroStackSize = roundToNearestHalf(heroStackSizeBB);
                 hand.currentStreet = currentStreet;
                 hand.heroPlayerIndex = heroPlayerIndex;
-                hand.potSize = roundToNearestHalf(hand.potSize);
+                hand.potSize = roundToNearestHalf(hand.potSizes[currentStreet]);
+                
+                // Calculate hero's profit/loss
+                const heroWin = hand.winners.find(w => w.username === heroUsername);
+                hand.heroProfit = heroWin ? heroWin.amount : 0;
+                hand.heroWon = !!heroWin;
 
                 parsedHands.push(hand);
                 
@@ -549,17 +732,40 @@ export async function processHandHistories(filePath, tournamentName, heroUsernam
                     // Add username
                     hand.username = heroUsername;
                     
-                    console.log('Saving hand:', {
-                        id: hand.id,
-                        username: hand.username,
-                        tournamentName: hand.tournamentName
-                    });
+                    console.log('\n=== Saving Hand Details ===');
+                    console.log('Hand ID:', hand.id);
+                    console.log('Username:', hand.username);
+                    console.log('Tournament Name:', hand.tournamentName);
+                    console.log('\nWinners:', JSON.stringify(hand.winners, null, 2));
+                    console.log('\nSummary:', JSON.stringify(hand.summary, null, 2));
+                    console.log('\nUncalled Bet:', JSON.stringify(hand.uncalledBet, null, 2));
+                    console.log('\nPlayer Stacks:', JSON.stringify(Object.fromEntries(hand.playerStacks), null, 2));
+                    console.log('\nFinal Stacks:', JSON.stringify(Object.fromEntries(hand.finalStacks), null, 2));
+                    console.log('========================\n');
 
-                    await Hand.updateOne(
+                    // Convert Map objects to plain objects for MongoDB
+                    const handData = {
+                        ...hand,
+                        playerStacks: Object.fromEntries(hand.playerStacks),
+                        finalStacks: Object.fromEntries(hand.finalStacks),
+                        winners: hand.winners || [],
+                        losers: hand.losers || [],
+                        summary: hand.summary || [],
+                        uncalledBet: hand.uncalledBet || null
+                    };
+
+                    const result = await Hand.updateOne(
                         { id: hand.id },
-                        { $set: hand },
+                        { $set: handData },
                         { upsert: true }
                     );
+                    
+                    console.log('Database Update Result:', {
+                        matchedCount: result.matchedCount,
+                        modifiedCount: result.modifiedCount,
+                        upsertedCount: result.upsertedCount
+                    });
+                    
                     handsSaved++;
                 } catch (err) {
                     if (err.code === 11000) {

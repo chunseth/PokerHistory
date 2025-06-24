@@ -5,6 +5,7 @@ import multer from 'multer';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import handsRouter from './routes/hands.js';
+import statsRouter from './routes/stats.js';
 import { processHandHistories } from './utils/parseHandHistory.js';
 import dotenv from 'dotenv';
 
@@ -99,6 +100,7 @@ mongoose.connect(process.env.MONGODB_URI)
 
 // Routes
 app.use('/api/hands', handsRouter);
+app.use('/api/stats', statsRouter);
 
 // File upload route
 app.post('/api/hands/upload', upload.single('file'), async (req, res) => {

@@ -1,0 +1,328 @@
+Game Hand #2439693177 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:00:32 UTC
+Table '2' 8-max Seat #6 is the button
+Seat 1: GabrielBP7 (214291.00)
+Seat 2: bibix29 (89484.00)
+Seat 3: 2CARD53 (49000.00)
+Seat 4: Logovras (50000.00)
+Seat 5: grotle (172237.00)
+Seat 6: medvedka (221056.00)
+Seat 7: Pokerplus (29650.00)
+Seat 8: QwkTlkr (50000.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+2CARD53 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+medvedka posts ante 500.00
+Pokerplus posts ante 500.00
+QwkTlkr posts ante 500.00
+Pokerplus posts the small blind 2000.00
+QwkTlkr posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [8c 7h]
+GabrielBP7 folds
+bibix29 folds
+2CARD53 folds
+Logovras folds
+grotle raises 8000.00 to 8000.00
+medvedka folds
+Pokerplus calls 6000.00
+QwkTlkr calls 4000.00
+*** FLOP *** [Js 3c 2h]
+Main pot 28000.00
+Pokerplus checks
+QwkTlkr checks
+grotle bets 16000.00
+Pokerplus raises 21150.00 to 21150.00 and is all-in
+QwkTlkr folds
+grotle folds
+Uncalled bet (5150.00) returned to Pokerplus
+Pokerplus does not show
+*** SUMMARY ***
+Total pot 60000.00
+Board [Js 3c 2h]
+Seat 1: GabrielBP7 folded on the Pre-Flop and did not bet
+Seat 2: bibix29 folded on the Pre-Flop and did not bet
+Seat 3: 2CARD53 folded on the Pre-Flop and did not bet
+Seat 4: Logovras folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Flop
+Seat 6: medvedka (button) folded on the Pre-Flop
+Seat 7: Pokerplus did not show and won 60000.00
+Seat 8: QwkTlkr (big blind) folded on the Flop
+
+Game Hand #2439694552 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:02:24 UTC
+Table '2' 8-max Seat #7 is the button
+Seat 1: GabrielBP7 (213791.00)
+Seat 2: bibix29 (88984.00)
+Seat 3: 2CARD53 (48500.00)
+Seat 4: Logovras (49500.00)
+Seat 5: grotle (147737.00)
+Seat 7: Pokerplus (65150.00)
+Seat 8: QwkTlkr (41500.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+2CARD53 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+Pokerplus posts ante 500.00
+QwkTlkr posts ante 500.00
+QwkTlkr posts the small blind 2000.00
+GabrielBP7 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [3s 9s]
+bibix29 folds
+2CARD53 folds
+Logovras folds
+grotle folds
+Pokerplus folds
+QwkTlkr folds
+GabrielBP7 does not show
+*** SUMMARY ***
+Total pot 9500.00
+Seat 1: GabrielBP7 did not show and won 9500.00
+Seat 2: bibix29 folded on the Pre-Flop and did not bet
+Seat 3: 2CARD53 folded on the Pre-Flop and did not bet
+Seat 4: Logovras folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: Pokerplus (button) folded on the Pre-Flop
+Seat 8: QwkTlkr (small blind) folded on the Pre-Flop
+
+Game Hand #2439694937 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:02:51 UTC
+Table '2' 8-max Seat #8 is the button
+Seat 1: GabrielBP7 (218791.00)
+Seat 2: bibix29 (88484.00)
+Seat 3: 2CARD53 (48000.00)
+Seat 4: Logovras (49000.00)
+Seat 5: grotle (147237.00)
+Seat 7: Pokerplus (64650.00)
+Seat 8: QwkTlkr (39000.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+2CARD53 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+Pokerplus posts ante 500.00
+QwkTlkr posts ante 500.00
+GabrielBP7 posts the small blind 2000.00
+bibix29 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Ah 6h]
+2CARD53 folds
+Logovras folds
+grotle raises 8000.00 to 8000.00
+Pokerplus calls 8000.00
+QwkTlkr folds
+GabrielBP7 folds
+bibix29 calls 4000.00
+*** FLOP *** [7s Kh 8d]
+Main pot 29500.00
+bibix29 checks
+grotle bets 8000.00
+Pokerplus raises 56150.00 to 56150.00 and is all-in
+bibix29 folds
+grotle calls 48150.00
+*** TURN *** [7s Kh 8d] [Qd]
+Main pot 141800.00
+*** RIVER *** [7s Kh 8d Qd] [9c]
+Main pot 141800.00
+*** SHOW DOWN ***
+Main pot 141800.00
+grotle shows [Ah 6h] (a high card, Ace high [Ah Kh Qd 9c 8d])
+Pokerplus shows [Jh Jc] (a pair of Jacks [Jh Jc Kh Qd 9c])
+Pokerplus collected 141800.00 from main pot
+*** SUMMARY ***
+Total pot 141800.00
+Board [7s Kh 8d Qd 9c]
+Seat 1: GabrielBP7 (small blind) folded on the Pre-Flop
+Seat 2: bibix29 (big blind) folded on the Flop
+Seat 3: 2CARD53 folded on the Pre-Flop and did not bet
+Seat 4: Logovras folded on the Pre-Flop and did not bet
+Seat 5: grotle showed [Ah 6h] and lost with a high card, Ace high [Ah Kh Qd 9c 8d]
+Seat 7: Pokerplus showed [Jh Jc] and won 141800.00 with a pair of Jacks [Jh Jc Kh Qd 9c]
+Seat 8: QwkTlkr (button) folded on the Pre-Flop
+
+Game Hand #2439695751 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:03:48 UTC
+Table '2' 8-max Seat #1 is the button
+Seat 1: GabrielBP7 (216291.00)
+Seat 2: bibix29 (79984.00)
+Seat 3: 2CARD53 (47500.00)
+Seat 4: Logovras (48500.00)
+Seat 5: grotle (82587.00)
+Seat 7: Pokerplus (141800.00)
+Seat 8: QwkTlkr (38500.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+2CARD53 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+Pokerplus posts ante 500.00
+QwkTlkr posts ante 500.00
+bibix29 posts the small blind 2000.00
+2CARD53 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [8c Ad]
+Logovras folds
+grotle calls 4000.00
+Pokerplus folds
+QwkTlkr folds
+GabrielBP7 folds
+bibix29 folds
+2CARD53 checks
+*** FLOP *** [Qh 7h As]
+Main pot 13500.00
+2CARD53 checks
+grotle bets 8000.00
+2CARD53 calls 8000.00
+*** TURN *** [Qh 7h As] [8d]
+Main pot 29500.00
+2CARD53 checks
+grotle bets 35500.00
+2CARD53 calls 35000.00 and is all-in
+Uncalled bet (500.00) returned to grotle
+*** RIVER *** [Qh 7h As 8d] [3d]
+Main pot 99500.00
+*** SHOW DOWN ***
+Main pot 99500.00
+2CARD53 shows [Th Ah] (a pair of Aces [As Ah Qh Th 8d])
+grotle shows [8c Ad] (two pair, Aces and Eights [As Ad 8d 8c Qh])
+grotle collected 99500.00 from main pot
+*** SUMMARY ***
+Total pot 99500.00
+Board [Qh 7h As 8d 3d]
+Seat 1: GabrielBP7 (button) folded on the Pre-Flop
+Seat 2: bibix29 (small blind) folded on the Pre-Flop
+Seat 3: 2CARD53 (big blind) showed [Th Ah] and lost with a pair of Aces [As Ah Qh Th 8d]
+Seat 4: Logovras folded on the Pre-Flop and did not bet
+Seat 5: grotle showed [8c Ad] and won 99500.00 with two pair, Aces and Eights [As Ad 8d 8c Qh]
+Seat 7: Pokerplus folded on the Pre-Flop and did not bet
+Seat 8: QwkTlkr folded on the Pre-Flop and did not bet
+
+Game Hand #2439696681 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:04:52 UTC
+Table '2' 8-max Seat #2 is the button
+Seat 1: GabrielBP7 (215791.00)
+Seat 2: bibix29 (77484.00)
+Seat 4: Logovras (48000.00)
+Seat 5: grotle (134587.00)
+Seat 6: Lab63 (186232.00)
+Seat 8: QwkTlkr (38000.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+Lab63 posts ante 500.00
+QwkTlkr posts ante 500.00
+Logovras posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to grotle [2h 6h]
+grotle folds
+Lab63 raises 8000.00 to 8000.00
+QwkTlkr raises 37500.00 to 37500.00 and is all-in
+GabrielBP7 folds
+bibix29 folds
+Logovras folds
+Lab63 folds
+Uncalled bet (29500.00) returned to QwkTlkr
+QwkTlkr does not show
+*** SUMMARY ***
+Total pot 23000.00
+Seat 1: GabrielBP7 folded on the Pre-Flop and did not bet
+Seat 2: bibix29 (button) folded on the Pre-Flop
+Seat 4: Logovras (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Lab63 folded on the Pre-Flop and did not bet
+Seat 8: QwkTlkr did not show and won 23000.00
+
+Game Hand #2439697905 - Tournament #33456182 - Holdem (No Limit) - Level 16 (2000.00/4000.00) - 2025/04/25 20:06:16 UTC
+Table '2' 8-max Seat #3 is the button
+Seat 1: GabrielBP7 (215291.00)
+Seat 2: bibix29 (76984.00)
+Seat 4: Logovras (43500.00)
+Seat 5: grotle (134087.00)
+Seat 6: Lab63 (177732.00)
+Seat 8: QwkTlkr (52500.00)
+GabrielBP7 posts ante 500.00
+bibix29 posts ante 500.00
+Logovras posts ante 500.00
+grotle posts ante 500.00
+Lab63 posts ante 500.00
+QwkTlkr posts ante 500.00
+Logovras posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to grotle [Qh 7d]
+Lab63 folds
+QwkTlkr folds
+GabrielBP7 folds
+bibix29 folds
+Logovras folds
+grotle does not show
+*** SUMMARY ***
+Total pot 9000.00
+Seat 1: GabrielBP7 folded on the Pre-Flop and did not bet
+Seat 2: bibix29 folded on the Pre-Flop and did not bet
+Seat 4: Logovras (small blind) folded on the Pre-Flop
+Seat 5: grotle did not show and won 9000.00
+Seat 6: Lab63 folded on the Pre-Flop and did not bet
+Seat 8: QwkTlkr folded on the Pre-Flop and did not bet
+
+Game Hand #2439698176 - Tournament #33456182 - Holdem (No Limit) - Level 17 (2500.00/5000.00) - 2025/04/25 20:06:34 UTC
+Table '2' 8-max Seat #4 is the button
+Seat 1: GabrielBP7 (214791.00)
+Seat 2: bibix29 (76484.00)
+Seat 3: Sonic4 (50000.00)
+Seat 4: Logovras (41000.00)
+Seat 5: grotle (138587.00)
+Seat 6: Lab63 (177232.00)
+Seat 8: QwkTlkr (52000.00)
+GabrielBP7 posts ante 600.00
+bibix29 posts ante 600.00
+Sonic4 posts ante 600.00
+Logovras posts ante 600.00
+grotle posts ante 600.00
+Lab63 posts ante 600.00
+QwkTlkr posts ante 600.00
+grotle posts the small blind 2500.00
+Lab63 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [9d Kd]
+QwkTlkr folds
+GabrielBP7 folds
+bibix29 calls 5000.00
+Sonic4 raises 10000.00 to 10000.00
+Logovras folds
+grotle calls 7500.00
+Lab63 folds
+bibix29 calls 5000.00
+*** FLOP *** [5d Td Jc]
+Main pot 39200.00
+grotle bets 10000.00
+bibix29 folds
+Sonic4 raises 39400.00 to 39400.00 and is all-in
+grotle calls 29400.00
+*** TURN *** [5d Td Jc] [7s]
+Main pot 118000.00
+*** RIVER *** [5d Td Jc 7s] [Th]
+Main pot 118000.00
+*** SHOW DOWN ***
+Main pot 118000.00
+Sonic4 shows [9c 8s] (a straight, Jack high [Jc Th 9c 8s 7s])
+grotle shows [9d Kd] (a pair of Tens [Th Td Kd Jc 9d])
+Sonic4 collected 118000.00 from main pot
+*** SUMMARY ***
+Total pot 118000.00
+Board [5d Td Jc 7s Th]
+Seat 1: GabrielBP7 folded on the Pre-Flop and did not bet
+Seat 2: bibix29 folded on the Flop
+Seat 3: Sonic4 showed [9c 8s] and won 118000.00 with a straight, Jack high [Jc Th 9c 8s 7s]
+Seat 4: Logovras (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) showed [9d Kd] and lost with a pair of Tens [Th Td Kd Jc 9d]
+Seat 6: Lab63 (big blind) folded on the Pre-Flop
+Seat 8: QwkTlkr folded on the Pre-Flop and did not bet
+

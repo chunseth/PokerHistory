@@ -91,7 +91,7 @@ const HandHistory = () => {
             </div>
             
             {error && (
-                <div className="message error-message">
+                <div className="message hand-history-error-message">
                     <div className="message-icon">⚠️</div>
                     <div className="message-content">
                         <h3>Error Saving Hand</h3>

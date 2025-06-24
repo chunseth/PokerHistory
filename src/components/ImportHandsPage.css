@@ -171,7 +171,7 @@
     font-size: 0.9em;
 }
 
-.error-message {
+.import-hands-error-message {
     background: #ff4444;
     color: #fff;
     padding: 15px;
@@ -180,7 +180,7 @@
     text-align: center;
 }
 
-.success-message {
+.import-hands-success-message {
     background: #4CAF50;
     color: #fff;
     padding: 15px;
