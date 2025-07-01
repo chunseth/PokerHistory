@@ -1,0 +1,191 @@
+Game Hand #2492603059 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:45:32 UTC
+Table '2' 8-max Seat #5 is the button
+Seat 1: Timmy2tmz (50000.00)
+Seat 2: Siren69beatngu (50000.00)
+Seat 3: flaquito (50000.00)
+Seat 4: H0wes (50000.00)
+Seat 5: Braaaapxc (50000.00)
+Seat 6: grotle (50000.00)
+grotle posts the small blind 2500.00
+Timmy2tmz posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [Js Ks]
+Siren69beatngu folds
+flaquito folds
+H0wes folds
+Braaaapxc raises 13750.00 to 13750.00
+grotle calls 11250.00
+Timmy2tmz calls 8750.00
+*** FLOP *** [7h Qd 3c]
+Main pot 41250.00
+grotle checks
+Timmy2tmz checks
+Braaaapxc bets 36250.00 and is all-in
+grotle folds
+Timmy2tmz folds
+Uncalled bet (36250.00) returned to Braaaapxc
+Braaaapxc does not show
+*** SUMMARY ***
+Total pot 41250.00
+Board [7h Qd 3c]
+Seat 1: Timmy2tmz (big blind) folded on the Flop
+Seat 2: Siren69beatngu folded on the Pre-Flop and did not bet
+Seat 3: flaquito folded on the Pre-Flop and did not bet
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: Braaaapxc did not show and won 41250.00
+Seat 6: grotle (small blind) folded on the Flop
+
+Game Hand #2492604130 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:46:40 UTC
+Table '2' 8-max Seat #6 is the button
+Seat 1: Timmy2tmz (36250.00)
+Seat 2: Siren69beatngu (50000.00)
+Seat 3: flaquito (50000.00)
+Seat 4: H0wes (50000.00)
+Seat 5: Braaaapxc (77500.00)
+Seat 6: grotle (36250.00)
+Timmy2tmz posts the small blind 2500.00
+Siren69beatngu posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [6d 4s]
+flaquito folds
+H0wes raises 10000.00 to 10000.00
+Braaaapxc folds
+grotle folds
+Timmy2tmz calls 7500.00
+Siren69beatngu calls 5000.00
+*** FLOP *** [Qs 7s 3s]
+Main pot 30000.00
+Timmy2tmz checks
+Siren69beatngu checks
+H0wes bets 9900.00
+Timmy2tmz raises 26250.00 to 26250.00 and is all-in
+Siren69beatngu calls 26250.00
+H0wes raises 30100.00 to 40000.00 and is all-in
+Siren69beatngu calls 13750.00 and is all-in
+*** TURN *** [Qs 7s 3s] [Kc]
+Main pot 108750.00
+Side pot(1) 27500.00
+*** RIVER *** [Qs 7s 3s Kc] [9c]
+Main pot 108750.00
+Side pot(1) 27500.00
+*** SHOW DOWN ***
+Main pot 108750.00
+Side pot(1) 27500.00
+Timmy2tmz shows [8s 6s] (a flush, Queen high [Qs 8s 7s 6s 3s])
+Siren69beatngu shows [Ad Ks] (a pair of Kings [Ks Kc Ad Qs 9c])
+H0wes shows [Qh Kd] (two pair, Kings and Queens [Kd Kc Qs Qh 9c])
+Timmy2tmz collected 108750.00 from main pot
+H0wes collected 27500.00 from side pot-1
+*** SUMMARY ***
+Total pot 136250.00
+Board [Qs 7s 3s Kc 9c]
+Seat 1: Timmy2tmz (small blind) showed [8s 6s] and won 108750.00 with a flush, Queen high [Qs 8s 7s 6s 3s]
+Seat 2: Siren69beatngu (big blind) showed [Ad Ks] and lost with a pair of Kings [Ks Kc Ad Qs 9c]
+Seat 3: flaquito folded on the Pre-Flop and did not bet
+Seat 4: H0wes showed [Qh Kd] and won 27500.00 with two pair, Kings and Queens [Kd Kc Qs Qh 9c]
+Seat 5: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Pre-Flop
+
+Game Hand #2492605149 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:47:43 UTC
+Table '2' 8-max Seat #1 is the button
+Seat 1: Timmy2tmz (108750.00)
+Seat 3: flaquito (50000.00)
+Seat 4: H0wes (27500.00)
+Seat 5: Braaaapxc (77500.00)
+Seat 6: grotle (36250.00)
+Seat 7: buford1958 (50000.00)
+flaquito posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [3s 7s]
+H0wes folds
+Braaaapxc folds
+grotle folds
+buford1958 calls 5000.00
+Timmy2tmz folds
+flaquito checks
+*** FLOP *** [4d Ah 7h]
+Main pot 10000.00
+flaquito checks
+buford1958 bets 5000.00
+flaquito calls 5000.00
+*** TURN *** [4d Ah 7h] [5c]
+Main pot 20000.00
+flaquito checks
+buford1958 bets 5000.00
+flaquito calls 5000.00
+*** RIVER *** [4d Ah 7h 5c] [4s]
+Main pot 30000.00
+flaquito bets 12500.00
+buford1958 calls 12500.00
+*** SHOW DOWN ***
+Main pot 55000.00
+flaquito shows [8s 7c] (two pair, Sevens and Fours [7h 7c 4s 4d Ah])
+buford1958 shows [7d Kd] (two pair, Sevens and Fours [7h 7d 4s 4d Ah])
+flaquito collected 27500.00 from main pot
+buford1958 collected 27500.00 from main pot
+*** SUMMARY ***
+Total pot 55000.00
+Board [4d Ah 7h 5c 4s]
+Seat 1: Timmy2tmz (button) folded on the Pre-Flop
+Seat 3: flaquito (big blind) showed [8s 7c] and won 27500.00 with two pair, Sevens and Fours [7h 7c 4s 4d Ah]
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: buford1958 showed [7d Kd] and won 27500.00 with two pair, Sevens and Fours [7h 7d 4s 4d Ah]
+
+Game Hand #2492606389 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:49:02 UTC
+Table '2' 8-max Seat #2 is the button
+Seat 1: Timmy2tmz (108750.00)
+Seat 2: tournik will be allowed to play after the button
+Seat 3: flaquito (50000.00)
+Seat 4: H0wes (27500.00)
+Seat 5: Braaaapxc (77500.00)
+Seat 6: grotle (36250.00)
+Seat 7: buford1958 (50000.00)
+Seat 8: BigCall (50000.00)
+flaquito posts the small blind 2500.00
+H0wes posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [7c Ks]
+Braaaapxc folds
+grotle folds
+buford1958 folds
+BigCall raises 50000.00 to 50000.00 and is all-in
+Timmy2tmz folds
+flaquito folds
+H0wes folds
+Uncalled bet (45000.00) returned to BigCall
+BigCall does not show
+*** SUMMARY ***
+Total pot 12500.00
+Seat 1: Timmy2tmz folded on the Pre-Flop and did not bet
+Seat 3: flaquito (small blind) folded on the Pre-Flop
+Seat 4: H0wes (big blind) folded on the Pre-Flop
+Seat 5: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: buford1958 folded on the Pre-Flop and did not bet
+Seat 8: BigCall did not show and won 12500.00
+
+Game Hand #2492606919 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:49:33 UTC
+Table '2' 8-max Seat #3 is the button
+Seat 2: tournik (50000.00)
+Seat 6: grotle (36250.00)
+Seat 7: buford1958 (50000.00)
+Seat 8: BigCall (57500.00)
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [5s 3h]
+buford1958 calls 5000.00
+BigCall raises 57500.00 to 57500.00 and is all-in
+tournik folds
+grotle folds
+buford1958 folds
+Uncalled bet (52500.00) returned to BigCall
+BigCall does not show
+*** SUMMARY ***
+Total pot 15000.00
+Seat 2: tournik folded on the Pre-Flop and did not bet
+Seat 6: grotle (big blind) folded on the Pre-Flop
+Seat 7: buford1958 folded on the Pre-Flop and did not bet
+Seat 8: BigCall did not show and won 15000.00
+

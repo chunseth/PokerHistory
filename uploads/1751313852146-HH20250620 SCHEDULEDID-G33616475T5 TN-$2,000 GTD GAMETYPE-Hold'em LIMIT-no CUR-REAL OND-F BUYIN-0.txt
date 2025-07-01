@@ -1,0 +1,292 @@
+Game Hand #2485436311 - Tournament #33616475 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/06/20 15:03:10 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: mrpackerdomer (45685.00)
+Seat 2: Whore0fBabylon (43070.00)
+Seat 3: lipexp18 (100837.00)
+Seat 4: rosko95 (48350.00)
+Seat 5: grotle will be allowed to play after the button
+Seat 6: avidfan762 will be allowed to play after the button
+Seat 7: my8way8 (54033.00)
+Seat 8: davcab92 (47845.00)
+mrpackerdomer posts ante 100.00
+Whore0fBabylon posts ante 100.00
+lipexp18 posts ante 100.00
+rosko95 posts ante 100.00
+my8way8 posts ante 100.00
+davcab92 posts ante 100.00
+my8way8 posts the small blind 450.00
+davcab92 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 600.00
+mrpackerdomer folds
+Whore0fBabylon folds
+lipexp18 folds
+rosko95 folds
+my8way8 raises 1800.00 to 2250.00
+davcab92 calls 1350.00
+*** FLOP *** [9s Kc 9c]
+Main pot 5100.00
+my8way8 checks
+davcab92 checks
+*** TURN *** [9s Kc 9c] [7h]
+Main pot 5100.00
+my8way8 checks
+davcab92 bets 1683.00
+my8way8 calls 1683.00
+*** RIVER *** [9s Kc 9c 7h] [7c]
+Main pot 8466.00
+my8way8 checks
+davcab92 checks
+*** SHOW DOWN ***
+Main pot 8466.00
+my8way8 shows [Tc Ts] (two pair, Tens and Nines [Ts Tc 9s 9c Kc])
+davcab92 shows [5c 6h] (two pair, Nines and Sevens [9s 9c 7h 7c Kc])
+my8way8 collected 8466.00 from main pot
+*** SUMMARY ***
+Total pot 8466.00
+Board [9s Kc 9c 7h 7c]
+Seat 1: mrpackerdomer folded on the Pre-Flop and did not bet
+Seat 2: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 3: lipexp18 folded on the Pre-Flop and did not bet
+Seat 4: rosko95 (button) folded on the Pre-Flop
+Seat 7: my8way8 (small blind) showed [Tc Ts] and won 8466.00 with two pair, Tens and Nines [Ts Tc 9s 9c Kc]
+Seat 8: davcab92 (big blind) showed [5c 6h] and lost with two pair, Nines and Sevens [9s 9c 7h 7c Kc]
+
+Game Hand #2485436733 - Tournament #33616475 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/06/20 15:04:22 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: mrpackerdomer (45585.00)
+Seat 2: Whore0fBabylon (42970.00)
+Seat 3: lipexp18 (100737.00)
+Seat 4: rosko95 (48250.00)
+Seat 5: grotle (50000.00)
+Seat 6: avidfan762 (50000.00)
+Seat 7: my8way8 (58466.00)
+Seat 8: davcab92 (43812.00)
+mrpackerdomer posts ante 100.00
+Whore0fBabylon posts ante 100.00
+lipexp18 posts ante 100.00
+rosko95 posts ante 100.00
+grotle posts ante 100.00
+avidfan762 posts ante 100.00
+my8way8 posts ante 100.00
+davcab92 posts ante 100.00
+davcab92 posts the small blind 450.00
+mrpackerdomer posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [As 7c]
+Whore0fBabylon folds
+lipexp18 folds
+rosko95 folds
+grotle raises 1800.00 to 1800.00
+avidfan762 calls 1800.00
+my8way8 folds
+davcab92 folds
+mrpackerdomer folds
+*** FLOP *** [8d 5c 3d]
+Main pot 5750.00
+grotle checks
+avidfan762 checks
+*** TURN *** [8d 5c 3d] [6s]
+Main pot 5750.00
+grotle checks
+avidfan762 checks
+*** RIVER *** [8d 5c 3d 6s] [3s]
+Main pot 5750.00
+grotle checks
+avidfan762 checks
+*** SHOW DOWN ***
+Main pot 5750.00
+grotle shows [As 7c] (a pair of Threes [3s 3d As 8d 7c])
+avidfan762 shows [Jc Qs] (a pair of Threes [3s 3d Qs Jc 8d])
+grotle collected 5750.00 from main pot
+*** SUMMARY ***
+Total pot 5750.00
+Board [8d 5c 3d 6s 3s]
+Seat 1: mrpackerdomer (big blind) folded on the Pre-Flop
+Seat 2: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 3: lipexp18 folded on the Pre-Flop and did not bet
+Seat 4: rosko95 folded on the Pre-Flop and did not bet
+Seat 5: grotle showed [As 7c] and won 5750.00 with a pair of Threes [3s 3d As 8d 7c] with the kicker Ace
+Seat 6: avidfan762 showed [Jc Qs] and lost with a pair of Threes [3s 3d Qs Jc 8d]
+Seat 7: my8way8 (button) folded on the Pre-Flop
+Seat 8: davcab92 (small blind) folded on the Pre-Flop
+
+Game Hand #2485437213 - Tournament #33616475 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/06/20 15:05:45 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: mrpackerdomer (44585.00)
+Seat 2: Whore0fBabylon (42870.00)
+Seat 3: lipexp18 (100637.00)
+Seat 4: rosko95 (48150.00)
+Seat 5: grotle (53850.00)
+Seat 6: avidfan762 (48100.00)
+Seat 7: my8way8 (58366.00)
+Seat 8: davcab92 (43262.00)
+mrpackerdomer posts ante 100.00
+Whore0fBabylon posts ante 100.00
+lipexp18 posts ante 100.00
+rosko95 posts ante 100.00
+grotle posts ante 100.00
+avidfan762 posts ante 100.00
+my8way8 posts ante 100.00
+davcab92 posts ante 100.00
+mrpackerdomer posts the small blind 450.00
+Whore0fBabylon posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [2c 5d]
+lipexp18 folds
+rosko95 raises 1800.00 to 1800.00
+grotle folds
+avidfan762 folds
+my8way8 folds
+davcab92 folds
+mrpackerdomer calls 1350.00
+Whore0fBabylon calls 900.00
+*** FLOP *** [Qc Th 8d]
+Main pot 6200.00
+mrpackerdomer checks
+Whore0fBabylon checks
+rosko95 checks
+*** TURN *** [Qc Th 8d] [8h]
+Main pot 6200.00
+mrpackerdomer checks
+Whore0fBabylon checks
+rosko95 bets 4644.00
+mrpackerdomer folds
+Whore0fBabylon folds
+Uncalled bet (4644.00) returned to rosko95
+rosko95 does not show
+*** SUMMARY ***
+Total pot 6200.00
+Board [Qc Th 8d 8h]
+Seat 1: mrpackerdomer (small blind) folded on the Turn
+Seat 2: Whore0fBabylon (big blind) folded on the Turn
+Seat 3: lipexp18 folded on the Pre-Flop and did not bet
+Seat 4: rosko95 did not show and won 6200.00
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: avidfan762 folded on the Pre-Flop and did not bet
+Seat 7: my8way8 folded on the Pre-Flop and did not bet
+Seat 8: davcab92 (button) folded on the Pre-Flop
+
+Game Hand #2485437710 - Tournament #33616475 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/06/20 15:07:06 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: mrpackerdomer (42685.00)
+Seat 2: Whore0fBabylon (40970.00)
+Seat 3: lipexp18 (100537.00)
+Seat 4: rosko95 (52450.00)
+Seat 5: grotle (53750.00)
+Seat 6: avidfan762 (48000.00)
+Seat 7: my8way8 (58266.00)
+Seat 8: davcab92 (43162.00)
+mrpackerdomer posts ante 100.00
+Whore0fBabylon posts ante 100.00
+lipexp18 posts ante 100.00
+rosko95 posts ante 100.00
+grotle posts ante 100.00
+avidfan762 posts ante 100.00
+my8way8 posts ante 100.00
+davcab92 posts ante 100.00
+Whore0fBabylon posts the small blind 450.00
+lipexp18 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [5d 2d]
+rosko95 folds
+grotle folds
+avidfan762 folds
+my8way8 folds
+davcab92 raises 1800.00 to 1800.00
+mrpackerdomer folds
+Whore0fBabylon folds
+lipexp18 calls 900.00
+*** FLOP *** [6h 8c Qc]
+Main pot 4850.00
+lipexp18 checks
+davcab92 bets 3395.00
+lipexp18 calls 3395.00
+*** TURN *** [6h 8c Qc] [6s]
+Main pot 11640.00
+lipexp18 checks
+davcab92 checks
+*** RIVER *** [6h 8c Qc 6s] [7d]
+Main pot 11640.00
+lipexp18 bets 8730.00
+davcab92 calls 8730.00
+*** SHOW DOWN ***
+Main pot 29100.00
+lipexp18 shows [Qh Kd] (two pair, Queens and Sixs [Qh Qc 6s 6h Kd])
+davcab92 shows [Ac Qs] (two pair, Queens and Sixs [Qs Qc 6s 6h Ac])
+davcab92 collected 29100.00 from main pot
+*** SUMMARY ***
+Total pot 29100.00
+Board [6h 8c Qc 6s 7d]
+Seat 1: mrpackerdomer (button) folded on the Pre-Flop
+Seat 2: Whore0fBabylon (small blind) folded on the Pre-Flop
+Seat 3: lipexp18 (big blind) showed [Qh Kd] and lost with two pair, Queens and Sixs [Qh Qc 6s 6h Kd]
+Seat 4: rosko95 folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: avidfan762 folded on the Pre-Flop and did not bet
+Seat 7: my8way8 folded on the Pre-Flop and did not bet
+Seat 8: davcab92 showed [Ac Qs] and won 29100.00 with two pair, Queens and Sixs [Qs Qc 6s 6h Ac] with the kicker Ace
+
+Game Hand #2485438261 - Tournament #33616475 - Holdem (No Limit) - Level 4 (450.00/900.00) - 2025/06/20 15:08:33 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 1: mrpackerdomer (42585.00)
+Seat 2: Whore0fBabylon (40420.00)
+Seat 3: lipexp18 (86512.00)
+Seat 4: rosko95 (52350.00)
+Seat 5: grotle (53650.00)
+Seat 6: avidfan762 (47900.00)
+Seat 7: my8way8 (58166.00)
+Seat 8: davcab92 (58237.00)
+mrpackerdomer posts ante 100.00
+Whore0fBabylon posts ante 100.00
+lipexp18 posts ante 100.00
+rosko95 posts ante 100.00
+grotle posts ante 100.00
+avidfan762 posts ante 100.00
+my8way8 posts ante 100.00
+davcab92 posts ante 100.00
+lipexp18 posts the small blind 450.00
+rosko95 posts the big blind 900.00
+*** HOLE CARDS ***
+Main pot 800.00
+Dealt to grotle [5s As]
+grotle raises 1800.00 to 1800.00
+avidfan762 folds
+my8way8 folds
+davcab92 folds
+mrpackerdomer folds
+Whore0fBabylon folds
+lipexp18 raises 6225.00 to 6675.00
+rosko95 folds
+grotle calls 4875.00
+*** FLOP *** [Qh Ts 8h]
+Main pot 15050.00
+lipexp18 bets 11288.00
+grotle calls 11288.00
+*** TURN *** [Qh Ts 8h] [5h]
+Main pot 37626.00
+lipexp18 bets 68449.00 and is all-in
+grotle calls 35587.00 and is all-in
+Uncalled bet (32862.00) returned to lipexp18
+*** RIVER *** [Qh Ts 8h 5h] [4h]
+Main pot 108800.00
+*** SHOW DOWN ***
+Main pot 108800.00
+lipexp18 shows [Ad Qc] (a pair of Queens [Qh Qc Ad Ts 8h])
+grotle shows [5s As] (a pair of Fives [5s 5h As Qh Ts])
+lipexp18 collected 108800.00 from main pot
+*** SUMMARY ***
+Total pot 108800.00
+Board [Qh Ts 8h 5h 4h]
+Seat 1: mrpackerdomer folded on the Pre-Flop and did not bet
+Seat 2: Whore0fBabylon (button) folded on the Pre-Flop
+Seat 3: lipexp18 (small blind) showed [Ad Qc] and won 108800.00 with a pair of Queens [Qh Qc Ad Ts 8h]
+Seat 4: rosko95 (big blind) folded on the Pre-Flop
+Seat 5: grotle showed [5s As] and lost with a pair of Fives [5s 5h As Qh Ts]
+Seat 6: avidfan762 folded on the Pre-Flop and did not bet
+Seat 7: my8way8 folded on the Pre-Flop and did not bet
+Seat 8: davcab92 folded on the Pre-Flop and did not bet
+

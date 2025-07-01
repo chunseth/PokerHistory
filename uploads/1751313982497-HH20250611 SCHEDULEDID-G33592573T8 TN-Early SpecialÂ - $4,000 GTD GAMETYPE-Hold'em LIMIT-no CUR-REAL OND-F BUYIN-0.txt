@@ -1,0 +1,47 @@
+Game Hand #2478775964 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:20:13 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: grotle (124550.00)
+Seat 2: Olika25 (88837.00)
+Seat 3: Hae6opotenb (65458.00)
+Seat 4: Nikkag1227 (85235.00)
+Seat 5: Spacer731 (158093.00)
+Seat 6: Belatrix35 (49820.00)
+Seat 7: EOBIXXX (72334.00)
+grotle posts ante 175.00
+Olika25 posts ante 175.00
+Hae6opotenb posts ante 175.00
+Nikkag1227 posts ante 175.00
+Spacer731 posts ante 175.00
+Belatrix35 posts ante 175.00
+EOBIXXX posts ante 175.00
+Spacer731 posts the small blind 750.00
+Belatrix35 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Qc 5c]
+EOBIXXX folds
+grotle folds
+Olika25 folds
+Hae6opotenb folds
+Nikkag1227 raises 3000.00 to 3000.00
+Spacer731 folds
+Belatrix35 raises 10500.00 to 12000.00
+Nikkag1227 calls 9000.00
+*** FLOP *** [4s 6c 3c]
+Main pot 25975.00
+Belatrix35 bets 6494.00
+Nikkag1227 raises 73060.00 to 73060.00 and is all-in
+Belatrix35 folds
+Uncalled bet (66566.00) returned to Nikkag1227
+Nikkag1227 does not show
+*** SUMMARY ***
+Total pot 38963.00
+Board [4s 6c 3c]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Olika25 folded on the Pre-Flop and did not bet
+Seat 3: Hae6opotenb folded on the Pre-Flop and did not bet
+Seat 4: Nikkag1227 did not show and won 38963.00
+Seat 5: Spacer731 (small blind) folded on the Pre-Flop
+Seat 6: Belatrix35 (big blind) folded on the Flop
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,572 @@
+Game Hand #2478771887 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:00:11 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: BossTroll77 (96800.00)
+Seat 2: Nikkag1227 will be allowed to play after the button
+Seat 3: grotle will be allowed to play after the button
+Seat 5: Xirius1 (245476.00)
+Seat 6: paulaaronscholes (271417.00)
+Seat 7: activistshark0 (70231.00)
+BossTroll77 posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+Xirius1 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 900.00
+paulaaronscholes raises 4140.00 to 4140.00
+activistshark0 calls 4140.00
+BossTroll77 folds
+Xirius1 folds
+*** FLOP *** [7c 5c 9d]
+Main pot 10980.00
+paulaaronscholes bets 5490.00
+activistshark0 folds
+Uncalled bet (5490.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 10980.00
+Board [7c 5c 9d]
+Seat 1: BossTroll77 (button) folded on the Pre-Flop
+Seat 5: Xirius1 (big blind) folded on the Pre-Flop
+Seat 6: paulaaronscholes did not show and won 10980.00
+Seat 7: activistshark0 folded on the Flop
+
+Game Hand #2478772146 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:01:52 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: BossTroll77 (96575.00)
+Seat 2: Nikkag1227 (100000.00)
+Seat 3: grotle (100000.00)
+Seat 5: Xirius1 (243451.00)
+Seat 6: paulaaronscholes (278032.00)
+Seat 7: activistshark0 (65866.00) is sitting out
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+Xirius1 posts the small blind 900.00
+paulaaronscholes posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Qh 2d]
+activistshark0 folds
+BossTroll77 folds
+Nikkag1227 folds
+grotle folds
+Xirius1 raises 4500.00 to 5400.00
+paulaaronscholes calls 3600.00
+*** FLOP *** [6h 3d Ah]
+Main pot 12150.00
+Xirius1 bets 4010.00
+paulaaronscholes calls 4010.00
+*** TURN *** [6h 3d Ah] [7d]
+Main pot 20170.00
+Xirius1 checks
+paulaaronscholes bets 10080.00
+Xirius1 folds
+Uncalled bet (10080.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 20170.00
+Board [6h 3d Ah 7d]
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 (small blind) folded on the Turn
+Seat 6: paulaaronscholes did not show and won 20170.00
+Seat 7: activistshark0 folded on the Pre-Flop and did not bet
+
+Game Hand #2478772285 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:02:42 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: BossTroll77 (96350.00)
+Seat 2: Nikkag1227 (99775.00)
+Seat 3: grotle (99775.00)
+Seat 5: Xirius1 (233816.00)
+Seat 6: paulaaronscholes (288567.00)
+Seat 7: activistshark0 (65641.00)
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+paulaaronscholes posts the small blind 900.00
+activistshark0 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Jc 7h]
+BossTroll77 folds
+Nikkag1227 folds
+grotle folds
+Xirius1 folds
+paulaaronscholes raises 5400.00 to 6300.00
+activistshark0 raises 63616.00 to 65416.00 and is all-in
+paulaaronscholes folds
+Uncalled bet (59116.00) returned to activistshark0
+activistshark0 does not show
+*** SUMMARY ***
+Total pot 13950.00
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 (button) folded on the Pre-Flop
+Seat 6: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 7: activistshark0 did not show and won 13950.00
+
+Game Hand #2478772390 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:03:20 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: BossTroll77 (96125.00)
+Seat 2: Nikkag1227 (99550.00)
+Seat 3: grotle (99550.00)
+Seat 5: Xirius1 (233591.00)
+Seat 6: paulaaronscholes (282042.00)
+Seat 7: activistshark0 (73066.00)
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+activistshark0 posts the small blind 900.00
+BossTroll77 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [7s 3h]
+Nikkag1227 folds
+grotle folds
+Xirius1 folds
+paulaaronscholes raises 4140.00 to 4140.00
+activistshark0 raises 8955.00 to 9855.00
+BossTroll77 folds
+paulaaronscholes calls 5715.00
+*** FLOP *** [As 6d 3s]
+Main pot 22860.00
+activistshark0 bets 6615.00
+paulaaronscholes folds
+Uncalled bet (6615.00) returned to activistshark0
+activistshark0 does not show
+*** SUMMARY ***
+Total pot 22860.00
+Board [As 6d 3s]
+Seat 1: BossTroll77 (big blind) folded on the Pre-Flop
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 folded on the Pre-Flop and did not bet
+Seat 6: paulaaronscholes (button) folded on the Flop
+Seat 7: activistshark0 did not show and won 22860.00
+
+Game Hand #2478772593 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:04:26 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: BossTroll77 (94100.00)
+Seat 2: Nikkag1227 (99325.00)
+Seat 3: grotle (99325.00)
+Seat 4: vasutas73 (100000.00)
+Seat 5: Xirius1 (233366.00)
+Seat 6: paulaaronscholes (271962.00)
+Seat 7: activistshark0 (85846.00)
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+vasutas73 posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+BossTroll77 posts the small blind 900.00
+Nikkag1227 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [6c Qd]
+grotle folds
+vasutas73 folds
+Xirius1 folds
+paulaaronscholes raises 4140.00 to 4140.00
+activistshark0 folds
+BossTroll77 folds
+Nikkag1227 calls 2340.00
+*** FLOP *** [4d 2s 5d]
+Main pot 10755.00
+Nikkag1227 checks
+paulaaronscholes bets 3222.00
+Nikkag1227 calls 3222.00
+*** TURN *** [4d 2s 5d] [Ks]
+Main pot 17199.00
+Nikkag1227 checks
+paulaaronscholes bets 11178.00
+Nikkag1227 calls 11178.00
+*** RIVER *** [4d 2s 5d Ks] [Tc]
+Main pot 39555.00
+Nikkag1227 checks
+paulaaronscholes bets 51408.00
+Nikkag1227 folds
+Uncalled bet (51408.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 39555.00
+Board [4d 2s 5d Ks Tc]
+Seat 1: BossTroll77 (small blind) folded on the Pre-Flop
+Seat 2: Nikkag1227 (big blind) folded on the River
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: vasutas73 folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 folded on the Pre-Flop and did not bet
+Seat 6: paulaaronscholes did not show and won 39555.00
+Seat 7: activistshark0 (button) folded on the Pre-Flop
+
+Game Hand #2478772926 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:06:15 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: BossTroll77 (92975.00)
+Seat 2: Nikkag1227 (80560.00)
+Seat 3: grotle (99100.00)
+Seat 4: vasutas73 (99775.00)
+Seat 5: Xirius1 (233141.00)
+Seat 6: paulaaronscholes (292752.00)
+Seat 7: activistshark0 (85621.00)
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+vasutas73 posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+Nikkag1227 posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [6c 7s]
+vasutas73 folds
+Xirius1 folds
+paulaaronscholes raises 4140.00 to 4140.00
+activistshark0 folds
+BossTroll77 folds
+Nikkag1227 folds
+grotle calls 2340.00
+*** FLOP *** [Kd 2d 4c]
+Main pot 10755.00
+grotle checks
+paulaaronscholes bets 3222.00
+grotle folds
+Uncalled bet (3222.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 10755.00
+Board [Kd 2d 4c]
+Seat 1: BossTroll77 (button) folded on the Pre-Flop
+Seat 2: Nikkag1227 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Flop
+Seat 4: vasutas73 folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 folded on the Pre-Flop and did not bet
+Seat 6: paulaaronscholes did not show and won 10755.00
+Seat 7: activistshark0 folded on the Pre-Flop and did not bet
+
+Game Hand #2478773101 - Tournament #33592580 - Holdem (No Limit) - Level 4 (900.00/1800.00) - 2025/06/11 12:07:15 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: BossTroll77 (92750.00)
+Seat 2: Nikkag1227 (79435.00)
+Seat 3: grotle (94735.00)
+Seat 4: vasutas73 (99550.00)
+Seat 5: Xirius1 (232916.00)
+Seat 6: paulaaronscholes (299142.00)
+Seat 7: activistshark0 (85396.00)
+Seat 8: alkzar (100000.00)
+BossTroll77 posts ante 225.00
+Nikkag1227 posts ante 225.00
+grotle posts ante 225.00
+vasutas73 posts ante 225.00
+Xirius1 posts ante 225.00
+paulaaronscholes posts ante 225.00
+activistshark0 posts ante 225.00
+alkzar posts ante 225.00
+grotle posts the small blind 900.00
+vasutas73 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2s Th]
+Xirius1 folds
+paulaaronscholes folds
+activistshark0 raises 3825.00 to 3825.00
+alkzar folds
+BossTroll77 folds
+Nikkag1227 folds
+grotle folds
+vasutas73 folds
+Uncalled bet (2025.00) returned to activistshark0
+activistshark0 does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: vasutas73 (big blind) folded on the Pre-Flop
+Seat 5: Xirius1 folded on the Pre-Flop and did not bet
+Seat 6: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 7: activistshark0 did not show and won 6300.00
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478773236 - Tournament #33592580 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/11 12:07:56 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: BossTroll77 (92525.00)
+Seat 2: Nikkag1227 (79210.00)
+Seat 3: grotle (93610.00)
+Seat 4: vasutas73 (97525.00)
+Seat 5: Xirius1 (232691.00)
+Seat 6: paulaaronscholes (298917.00)
+Seat 7: activistshark0 (89671.00)
+Seat 8: alkzar (99775.00)
+BossTroll77 posts ante 250.00
+Nikkag1227 posts ante 250.00
+grotle posts ante 250.00
+vasutas73 posts ante 250.00
+Xirius1 posts ante 250.00
+paulaaronscholes posts ante 250.00
+activistshark0 posts ante 250.00
+alkzar posts ante 250.00
+vasutas73 posts the small blind 1000.00
+Xirius1 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [6h 6d]
+paulaaronscholes folds
+activistshark0 folds
+alkzar folds
+BossTroll77 folds
+Nikkag1227 folds
+grotle raises 7000.00 to 7000.00
+vasutas73 calls 6000.00
+Xirius1 folds
+*** FLOP *** [4d As 3h]
+Main pot 18000.00
+vasutas73 checks
+grotle checks
+*** TURN *** [4d As 3h] [5h]
+Main pot 18000.00
+vasutas73 checks
+grotle bets 9000.00
+vasutas73 folds
+Uncalled bet (9000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 18000.00
+Board [4d As 3h 5h]
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won 18000.00
+Seat 4: vasutas73 (small blind) folded on the Turn
+Seat 5: Xirius1 (big blind) folded on the Pre-Flop
+Seat 6: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 7: activistshark0 folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478773360 - Tournament #33592580 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/11 12:08:40 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: BossTroll77 (92275.00)
+Seat 2: Nikkag1227 (78960.00)
+Seat 3: grotle (104360.00)
+Seat 4: vasutas73 (90275.00)
+Seat 5: Xirius1 (230441.00)
+Seat 6: paulaaronscholes (298667.00)
+Seat 7: activistshark0 (89421.00)
+Seat 8: alkzar (99525.00)
+BossTroll77 posts ante 250.00
+Nikkag1227 posts ante 250.00
+grotle posts ante 250.00
+vasutas73 posts ante 250.00
+Xirius1 posts ante 250.00
+paulaaronscholes posts ante 250.00
+activistshark0 posts ante 250.00
+alkzar posts ante 250.00
+Xirius1 posts the small blind 1000.00
+paulaaronscholes posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ad 8s]
+activistshark0 calls 2000.00
+alkzar folds
+BossTroll77 folds
+Nikkag1227 folds
+grotle raises 6000.00 to 6000.00
+vasutas73 folds
+Xirius1 folds
+paulaaronscholes raises 18000.00 to 20000.00
+activistshark0 folds
+grotle calls 14000.00
+*** FLOP *** [8c Js Th]
+Main pot 45000.00
+paulaaronscholes checks
+grotle bets 22500.00
+paulaaronscholes calls 22500.00
+*** TURN *** [8c Js Th] [6c]
+Main pot 90000.00
+paulaaronscholes checks
+grotle checks
+*** RIVER *** [8c Js Th 6c] [As]
+Main pot 90000.00
+paulaaronscholes bets 22500.00
+grotle raises 61610.00 to 61610.00 and is all-in
+paulaaronscholes folds
+Uncalled bet (39110.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 135000.00
+Board [8c Js Th 6c As]
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won 135000.00
+Seat 4: vasutas73 (button) folded on the Pre-Flop
+Seat 5: Xirius1 (small blind) folded on the Pre-Flop
+Seat 6: paulaaronscholes (big blind) folded on the River
+Seat 7: activistshark0 folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478773800 - Tournament #33592580 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/11 12:10:55 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: BossTroll77 (92025.00)
+Seat 2: Nikkag1227 (78710.00)
+Seat 3: grotle (174110.00)
+Seat 4: vasutas73 (90025.00)
+Seat 5: Xirius1 (229191.00)
+Seat 6: paulaaronscholes (233417.00)
+Seat 7: activistshark0 (87171.00)
+Seat 8: alkzar (99275.00)
+BossTroll77 posts ante 250.00
+Nikkag1227 posts ante 250.00
+grotle posts ante 250.00
+vasutas73 posts ante 250.00
+Xirius1 posts ante 250.00
+paulaaronscholes posts ante 250.00
+activistshark0 posts ante 250.00
+alkzar posts ante 250.00
+paulaaronscholes posts the small blind 1000.00
+activistshark0 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Kh Qh]
+alkzar folds
+BossTroll77 folds
+Nikkag1227 raises 5000.00 to 5000.00
+grotle calls 5000.00
+vasutas73 folds
+Xirius1 calls 5000.00
+paulaaronscholes folds
+activistshark0 folds
+*** FLOP *** [7d 4s 6d]
+Main pot 20000.00
+Nikkag1227 bets 5000.00
+grotle calls 5000.00
+Xirius1 calls 5000.00
+*** TURN *** [7d 4s 6d] [Ac]
+Main pot 35000.00
+Nikkag1227 checks
+grotle checks
+Xirius1 checks
+*** RIVER *** [7d 4s 6d Ac] [Qs]
+Main pot 35000.00
+Nikkag1227 checks
+grotle bets 17500.00
+Xirius1 folds
+Nikkag1227 folds
+Uncalled bet (17500.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 35000.00
+Board [7d 4s 6d Ac Qs]
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the River
+Seat 3: grotle did not show and won 35000.00
+Seat 4: vasutas73 folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 (button) folded on the River
+Seat 6: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 7: activistshark0 (big blind) folded on the Pre-Flop
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478774311 - Tournament #33592580 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/11 12:13:06 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: BossTroll77 (91775.00)
+Seat 2: Nikkag1227 (68460.00)
+Seat 3: grotle (198860.00)
+Seat 4: vasutas73 (89775.00)
+Seat 5: Xirius1 (218941.00)
+Seat 6: paulaaronscholes (232167.00)
+Seat 7: activistshark0 (84921.00)
+Seat 8: alkzar (99025.00)
+BossTroll77 posts ante 250.00
+Nikkag1227 posts ante 250.00
+grotle posts ante 250.00
+vasutas73 posts ante 250.00
+Xirius1 posts ante 250.00
+paulaaronscholes posts ante 250.00
+activistshark0 posts ante 250.00
+alkzar posts ante 250.00
+activistshark0 posts the small blind 1000.00
+alkzar posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Th Jc]
+BossTroll77 folds
+Nikkag1227 folds
+grotle folds
+vasutas73 folds
+Xirius1 folds
+paulaaronscholes raises 4000.00 to 4000.00
+activistshark0 folds
+alkzar folds
+Uncalled bet (2000.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: BossTroll77 folded on the Pre-Flop and did not bet
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: vasutas73 folded on the Pre-Flop and did not bet
+Seat 5: Xirius1 folded on the Pre-Flop and did not bet
+Seat 6: paulaaronscholes did not show and won 7000.00
+Seat 7: activistshark0 (small blind) folded on the Pre-Flop
+Seat 8: alkzar (big blind) folded on the Pre-Flop
+
+Game Hand #2478774554 - Tournament #33592580 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/11 12:14:01 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: BossTroll77 (91525.00)
+Seat 2: Nikkag1227 (68210.00)
+Seat 3: grotle (198610.00)
+Seat 4: vasutas73 (89525.00)
+Seat 7: activistshark0 (83671.00)
+Seat 8: alkzar (96775.00)
+BossTroll77 posts ante 250.00
+Nikkag1227 posts ante 250.00
+grotle posts ante 250.00
+vasutas73 posts ante 250.00
+activistshark0 posts ante 250.00
+alkzar posts ante 250.00
+alkzar posts the small blind 1000.00
+BossTroll77 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1500.00
+Dealt to grotle [4d Kc]
+Nikkag1227 folds
+grotle folds
+vasutas73 calls 2000.00
+activistshark0 calls 2000.00
+alkzar folds
+BossTroll77 checks
+*** FLOP *** [Ks 6h 9s]
+Main pot 8500.00
+BossTroll77 checks
+vasutas73 checks
+activistshark0 checks
+*** TURN *** [Ks 6h 9s] [6c]
+Main pot 8500.00
+BossTroll77 checks
+vasutas73 bets 4250.00
+activistshark0 folds
+BossTroll77 folds
+Uncalled bet (4250.00) returned to vasutas73
+vasutas73 does not show
+*** SUMMARY ***
+Total pot 8500.00
+Board [Ks 6h 9s 6c]
+Seat 1: BossTroll77 (big blind) folded on the Turn
+Seat 2: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: vasutas73 did not show and won 8500.00
+Seat 7: activistshark0 (button) folded on the Turn
+Seat 8: alkzar (small blind) folded on the Pre-Flop
+

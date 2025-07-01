@@ -1,0 +1,866 @@
+Game Hand #2492689822 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:29:25 UTC
+Table '28' 8-max Seat #4 is the button
+Seat 1: JgibbsBS05 (852825.00)
+Seat 2: Dope3 (276710.00)
+Seat 3: grotle (411631.00)
+Seat 4: MeKnowBluff (393924.00)
+Seat 5: pafedokul (331300.00)
+Seat 6: S O D (291821.00)
+Seat 7: Wizzardnutz (240000.00)
+Seat 8: Joeyo929 (236432.00)
+JgibbsBS05 posts ante 3000.00
+Dope3 posts ante 3000.00
+grotle posts ante 3000.00
+MeKnowBluff posts ante 3000.00
+pafedokul posts ante 3000.00
+S O D posts ante 3000.00
+Wizzardnutz posts ante 3000.00
+Joeyo929 posts ante 3000.00
+pafedokul posts the small blind 12500.00
+S O D posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 24000.00
+Dealt to grotle [Td As]
+Wizzardnutz folds
+Joeyo929 raises 233432.00 to 233432.00 and is all-in
+JgibbsBS05 folds
+Dope3 folds
+grotle raises 408631.00 to 408631.00 and is all-in
+MeKnowBluff folds
+pafedokul folds
+S O D folds
+Uncalled bet (175199.00) returned to grotle
+*** FLOP *** [9h Tc Jc]
+Main pot 528364.00
+*** TURN *** [9h Tc Jc] [Qc]
+Main pot 528364.00
+*** RIVER *** [9h Tc Jc Qc] [8s]
+Main pot 528364.00
+*** SHOW DOWN ***
+Main pot 528364.00
+grotle shows [Td As] (a straight, Queen high [Qc Jc Td 9h 8s])
+Joeyo929 shows [Ad Ks] (a straight, Ace high [Ad Ks Qc Jc Tc])
+Joeyo929 collected 528364.00 from main pot
+*** SUMMARY ***
+Total pot 528364.00
+Board [9h Tc Jc Qc 8s]
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [Td As] and lost with a straight, Queen high [Qc Jc Td 9h 8s]
+Seat 4: MeKnowBluff (button) folded on the Pre-Flop
+Seat 5: pafedokul (small blind) folded on the Pre-Flop
+Seat 6: S O D (big blind) folded on the Pre-Flop
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: Joeyo929 showed [Ad Ks] and won 528364.00 with a straight, Ace high [Ad Ks Qc Jc Tc]
+
+Game Hand #2492691137 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:30:49 UTC
+Table '15' 8-max Seat #6 is the button
+Seat 1: Deadmoney13 (794950.00)
+Seat 2: zeeland (499300.00)
+Seat 3: Mrtoddy (718148.00)
+Seat 4: JDtheAstronuat (579738.00)
+Seat 5: grotle (175199.00)
+Seat 6: flaquito (714028.00)
+Seat 8: igotthatbeat2.0 (248616.00)
+Deadmoney13 posts ante 3000.00
+zeeland posts ante 3000.00
+Mrtoddy posts ante 3000.00
+JDtheAstronuat posts ante 3000.00
+grotle posts ante 3000.00
+flaquito posts ante 3000.00
+igotthatbeat2.0 posts ante 3000.00
+igotthatbeat2.0 posts the small blind 12500.00
+Deadmoney13 posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 21000.00
+Dealt to grotle [5s 4s]
+zeeland folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle calls 25000.00
+flaquito folds
+igotthatbeat2.0 raises 233116.00 to 245616.00 and is all-in
+Deadmoney13 folds
+grotle calls 147199.00 and is all-in
+Uncalled bet (73417.00) returned to igotthatbeat2.0
+*** FLOP *** [3c 5c 8s]
+Main pot 390398.00
+*** TURN *** [3c 5c 8s] [9s]
+Main pot 390398.00
+*** RIVER *** [3c 5c 8s 9s] [6d]
+Main pot 390398.00
+*** SHOW DOWN ***
+Main pot 390398.00
+grotle shows [5s 4s] (a pair of Fives [5s 5c 9s 8s 6d])
+igotthatbeat2.0 shows [Qh Kc] (a high card, King high [Kc Qh 9s 8s 6d])
+grotle collected 390398.00 from main pot
+*** SUMMARY ***
+Total pot 390398.00
+Board [3c 5c 8s 9s 6d]
+Seat 1: Deadmoney13 (big blind) folded on the Pre-Flop
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle showed [5s 4s] and won 390398.00 with a pair of Fives [5s 5c 9s 8s 6d]
+Seat 6: flaquito (button) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 (small blind) showed [Qh Kc] and lost with a high card, King high [Kc Qh 9s 8s 6d]
+
+Game Hand #2492691780 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:31:31 UTC
+Table '15' 8-max Seat #8 is the button
+Seat 1: Deadmoney13 (766950.00)
+Seat 2: zeeland (496300.00)
+Seat 3: Mrtoddy (715148.00)
+Seat 4: JDtheAstronuat (576738.00)
+Seat 5: grotle (390398.00)
+Seat 6: flaquito (711028.00)
+Seat 8: igotthatbeat2.0 (73417.00)
+Deadmoney13 posts ante 3000.00
+zeeland posts ante 3000.00
+Mrtoddy posts ante 3000.00
+JDtheAstronuat posts ante 3000.00
+grotle posts ante 3000.00
+flaquito posts ante 3000.00
+igotthatbeat2.0 posts ante 3000.00
+Deadmoney13 posts the small blind 12500.00
+zeeland posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 21000.00
+Dealt to grotle [5d Ks]
+Mrtoddy folds
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+igotthatbeat2.0 folds
+Deadmoney13 calls 12500.00
+zeeland checks
+*** FLOP *** [Kh 5h 7h]
+Main pot 71000.00
+Deadmoney13 checks
+zeeland checks
+*** TURN *** [Kh 5h 7h] [8s]
+Main pot 71000.00
+Deadmoney13 checks
+zeeland checks
+*** RIVER *** [Kh 5h 7h 8s] [9d]
+Main pot 71000.00
+Deadmoney13 checks
+zeeland bets 71000.00
+Deadmoney13 folds
+Uncalled bet (71000.00) returned to zeeland
+zeeland does not show
+*** SUMMARY ***
+Total pot 71000.00
+Board [Kh 5h 7h 8s 9d]
+Seat 1: Deadmoney13 (small blind) folded on the River
+Seat 2: zeeland did not show and won 71000.00
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 (button) folded on the Pre-Flop
+
+Game Hand #2492692910 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:32:43 UTC
+Table '15' 8-max Seat #1 is the button
+Seat 1: Deadmoney13 (738950.00)
+Seat 2: zeeland (539300.00)
+Seat 3: Mrtoddy (712148.00)
+Seat 4: JDtheAstronuat (573738.00)
+Seat 5: grotle (387398.00)
+Seat 6: flaquito (708028.00)
+Seat 7: S O D (245321.00)
+Seat 8: igotthatbeat2.0 (70417.00)
+Deadmoney13 posts ante 3000.00
+zeeland posts ante 3000.00
+Mrtoddy posts ante 3000.00
+JDtheAstronuat posts ante 3000.00
+grotle posts ante 3000.00
+flaquito posts ante 3000.00
+S O D posts ante 3000.00
+igotthatbeat2.0 posts ante 3000.00
+zeeland posts the small blind 12500.00
+Mrtoddy posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 24000.00
+Dealt to grotle [5h Qh]
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland folds
+Mrtoddy does not show
+*** SUMMARY ***
+Total pot 61500.00
+Seat 1: Deadmoney13 (button) folded on the Pre-Flop
+Seat 2: zeeland (small blind) folded on the Pre-Flop
+Seat 3: Mrtoddy did not show and won 61500.00
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492693887 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:33:49 UTC
+Table '15' 8-max Seat #2 is the button
+Seat 1: Deadmoney13 (735950.00)
+Seat 2: zeeland (523800.00)
+Seat 3: Mrtoddy (745648.00)
+Seat 4: JDtheAstronuat (570738.00)
+Seat 5: grotle (384398.00)
+Seat 6: flaquito (705028.00)
+Seat 7: S O D (242321.00)
+Seat 8: igotthatbeat2.0 (67417.00)
+Deadmoney13 posts ante 3000.00
+zeeland posts ante 3000.00
+Mrtoddy posts ante 3000.00
+JDtheAstronuat posts ante 3000.00
+grotle posts ante 3000.00
+flaquito posts ante 3000.00
+S O D posts ante 3000.00
+igotthatbeat2.0 posts ante 3000.00
+Mrtoddy posts the small blind 12500.00
+JDtheAstronuat posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 24000.00
+Dealt to grotle [4c 3s]
+grotle folds
+flaquito folds
+S O D raises 239321.00 to 239321.00 and is all-in
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland folds
+Mrtoddy calls 226821.00
+JDtheAstronuat folds
+*** FLOP *** [9s Ks 6h]
+Main pot 527642.00
+*** TURN *** [9s Ks 6h] [9h]
+Main pot 527642.00
+*** RIVER *** [9s Ks 6h 9h] [Js]
+Main pot 527642.00
+*** SHOW DOWN ***
+Main pot 527642.00
+Mrtoddy shows [Ts Ah] (a pair of Nines [9s 9h Ah Ks Js])
+S O D shows [Jc As] (two pair, Jacks and Nines [Js Jc 9s 9h As])
+S O D collected 527642.00 from main pot
+*** SUMMARY ***
+Total pot 527642.00
+Board [9s Ks 6h 9h Js]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland (button) folded on the Pre-Flop
+Seat 3: Mrtoddy (small blind) showed [Ts Ah] and lost with a pair of Nines [9s 9h Ah Ks Js]
+Seat 4: JDtheAstronuat (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D showed [Jc As] and won 527642.00 with two pair, Jacks and Nines [Js Jc 9s 9h As]
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492694847 - Tournament #33638791 - Holdem (No Limit) - Level 20 (12500.00/25000.00) - 2025/06/30 01:34:51 UTC
+Table '15' 8-max Seat #3 is the button
+Seat 1: Deadmoney13 (732950.00)
+Seat 2: zeeland (520800.00)
+Seat 3: Mrtoddy (503327.00)
+Seat 4: JDtheAstronuat (542738.00)
+Seat 5: grotle (381398.00)
+Seat 6: flaquito (702028.00)
+Seat 7: S O D (527642.00)
+Seat 8: igotthatbeat2.0 (64417.00)
+Deadmoney13 posts ante 3000.00
+zeeland posts ante 3000.00
+Mrtoddy posts ante 3000.00
+JDtheAstronuat posts ante 3000.00
+grotle posts ante 3000.00
+flaquito posts ante 3000.00
+S O D posts ante 3000.00
+igotthatbeat2.0 posts ante 3000.00
+JDtheAstronuat posts the small blind 12500.00
+grotle posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 24000.00
+Dealt to grotle [Kh 2s]
+flaquito folds
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland folds
+Mrtoddy raises 50000.00 to 50000.00
+JDtheAstronuat folds
+grotle calls 25000.00
+*** FLOP *** [3c 7h 8d]
+Main pot 136500.00
+grotle checks
+Mrtoddy checks
+*** TURN *** [3c 7h 8d] [6s]
+Main pot 136500.00
+grotle checks
+Mrtoddy bets 37500.00
+grotle folds
+Uncalled bet (37500.00) returned to Mrtoddy
+Mrtoddy does not show
+*** SUMMARY ***
+Total pot 136500.00
+Board [3c 7h 8d 6s]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy did not show and won 136500.00
+Seat 4: JDtheAstronuat (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Turn
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492696394 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:36:32 UTC
+Table '15' 8-max Seat #4 is the button
+Seat 1: Deadmoney13 (729950.00)
+Seat 2: zeeland (517800.00)
+Seat 3: Mrtoddy (586827.00)
+Seat 4: JDtheAstronuat (527238.00)
+Seat 5: grotle (328398.00)
+Seat 6: flaquito (699028.00)
+Seat 7: S O D (524642.00)
+Seat 8: igotthatbeat2.0 (61417.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+grotle posts the small blind 15000.00
+flaquito posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [As 6d]
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland folds
+Mrtoddy folds
+JDtheAstronuat raises 90000.00 to 90000.00
+grotle folds
+flaquito folds
+Uncalled bet (60000.00) returned to JDtheAstronuat
+JDtheAstronuat does not show
+*** SUMMARY ***
+Total pot 103000.00
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat did not show and won 103000.00
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: flaquito (big blind) folded on the Pre-Flop
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492697168 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:37:25 UTC
+Table '15' 8-max Seat #5 is the button
+Seat 1: Deadmoney13 (726450.00)
+Seat 2: zeeland (514300.00)
+Seat 3: Mrtoddy (583327.00)
+Seat 4: JDtheAstronuat (596738.00)
+Seat 5: grotle (309898.00)
+Seat 6: flaquito (665528.00)
+Seat 7: S O D (521142.00)
+Seat 8: igotthatbeat2.0 (57917.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+flaquito posts the small blind 15000.00
+S O D posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [5s 6c]
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland folds
+Mrtoddy folds
+JDtheAstronuat raises 96500.00 to 96500.00
+grotle folds
+flaquito folds
+S O D folds
+Uncalled bet (66500.00) returned to JDtheAstronuat
+JDtheAstronuat does not show
+*** SUMMARY ***
+Total pot 103000.00
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat did not show and won 103000.00
+Seat 5: grotle (button) folded on the Pre-Flop
+Seat 6: flaquito (small blind) folded on the Pre-Flop
+Seat 7: S O D (big blind) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492697786 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:38:05 UTC
+Table '15' 8-max Seat #6 is the button
+Seat 1: Deadmoney13 (722950.00)
+Seat 2: zeeland (510800.00)
+Seat 3: Mrtoddy (579827.00)
+Seat 4: JDtheAstronuat (666238.00)
+Seat 5: grotle (306398.00)
+Seat 6: flaquito (647028.00)
+Seat 7: S O D (487642.00)
+Seat 8: igotthatbeat2.0 (54417.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+S O D posts the small blind 15000.00
+igotthatbeat2.0 posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [3d As]
+Deadmoney13 folds
+zeeland folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 does not show
+*** SUMMARY ***
+Total pot 73000.00
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito (button) folded on the Pre-Flop
+Seat 7: S O D (small blind) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 did not show and won 73000.00
+
+Game Hand #2492698684 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:39:02 UTC
+Table '15' 8-max Seat #7 is the button
+Seat 1: Deadmoney13 (719450.00)
+Seat 2: zeeland (507300.00)
+Seat 3: Mrtoddy (576327.00)
+Seat 4: JDtheAstronuat (662738.00)
+Seat 5: grotle (302898.00)
+Seat 6: flaquito (643528.00) is sitting out
+Seat 7: S O D (469142.00)
+Seat 8: igotthatbeat2.0 (93917.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+igotthatbeat2.0 posts the small blind 15000.00
+Deadmoney13 posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [Qd 5c]
+zeeland folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 raises 75417.00 to 90417.00 and is all-in
+Deadmoney13 folds
+Uncalled bet (60417.00) returned to igotthatbeat2.0
+igotthatbeat2.0 does not show
+*** SUMMARY ***
+Total pot 88000.00
+Seat 1: Deadmoney13 (big blind) folded on the Pre-Flop
+Seat 2: zeeland folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D (button) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 did not show and won 88000.00
+
+Game Hand #2492699423 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:39:51 UTC
+Table '15' 8-max Seat #8 is the button
+Seat 1: Deadmoney13 (685950.00)
+Seat 2: zeeland (503800.00)
+Seat 3: Mrtoddy (572827.00)
+Seat 4: JDtheAstronuat (659238.00)
+Seat 5: grotle (299398.00)
+Seat 6: flaquito (640028.00) is sitting out
+Seat 7: S O D (465642.00)
+Seat 8: igotthatbeat2.0 (148417.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+Deadmoney13 posts the small blind 15000.00
+zeeland posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [5c 3s]
+Mrtoddy folds
+JDtheAstronuat raises 60000.00 to 60000.00
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland calls 30000.00
+*** FLOP *** [7c 4c Jh]
+Main pot 163000.00
+zeeland bets 440300.00 and is all-in
+JDtheAstronuat folds
+Uncalled bet (440300.00) returned to zeeland
+zeeland does not show
+*** SUMMARY ***
+Total pot 163000.00
+Board [7c 4c Jh]
+Seat 1: Deadmoney13 (small blind) folded on the Pre-Flop
+Seat 2: zeeland did not show and won 163000.00
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 (button) folded on the Pre-Flop
+
+Game Hand #2492700337 - Tournament #33638791 - Holdem (No Limit) - Level 21 (15000.00/30000.00) - 2025/06/30 01:40:49 UTC
+Table '15' 8-max Seat #1 is the button
+Seat 1: Deadmoney13 (667450.00)
+Seat 2: zeeland (603300.00)
+Seat 3: Mrtoddy (569327.00)
+Seat 4: JDtheAstronuat (595738.00)
+Seat 5: grotle (295898.00)
+Seat 6: flaquito (636528.00) is sitting out
+Seat 7: S O D (462142.00)
+Seat 8: igotthatbeat2.0 (144917.00)
+Deadmoney13 posts ante 3500.00
+zeeland posts ante 3500.00
+Mrtoddy posts ante 3500.00
+JDtheAstronuat posts ante 3500.00
+grotle posts ante 3500.00
+flaquito posts ante 3500.00
+S O D posts ante 3500.00
+igotthatbeat2.0 posts ante 3500.00
+zeeland posts the small blind 15000.00
+Mrtoddy posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 28000.00
+Dealt to grotle [3s 4s]
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 raises 141417.00 to 141417.00 and is all-in
+Deadmoney13 folds
+zeeland folds
+Mrtoddy folds
+Uncalled bet (111417.00) returned to igotthatbeat2.0
+igotthatbeat2.0 does not show
+*** SUMMARY ***
+Total pot 103000.00
+Seat 1: Deadmoney13 (button) folded on the Pre-Flop
+Seat 2: zeeland (small blind) folded on the Pre-Flop
+Seat 3: Mrtoddy (big blind) folded on the Pre-Flop
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 did not show and won 103000.00
+
+Game Hand #2492700984 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:41:34 UTC
+Table '15' 8-max Seat #2 is the button
+Seat 1: Deadmoney13 (663950.00)
+Seat 2: zeeland (584800.00)
+Seat 3: Mrtoddy (535827.00)
+Seat 4: JDtheAstronuat (592238.00)
+Seat 5: grotle (292398.00)
+Seat 6: flaquito (633028.00) is sitting out
+Seat 7: S O D (458642.00)
+Seat 8: igotthatbeat2.0 (214417.00)
+Deadmoney13 posts ante 4500.00
+zeeland posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+Mrtoddy posts the small blind 17500.00
+JDtheAstronuat posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [5h 6s]
+grotle folds
+flaquito folds
+S O D raises 454142.00 to 454142.00 and is all-in
+igotthatbeat2.0 folds
+Deadmoney13 folds
+zeeland raises 580300.00 to 580300.00 and is all-in
+Mrtoddy folds
+JDtheAstronuat folds
+Uncalled bet (126158.00) returned to zeeland
+*** FLOP *** [Jd 4d 4h]
+Main pot 996784.00
+*** TURN *** [Jd 4d 4h] [Ac]
+Main pot 996784.00
+*** RIVER *** [Jd 4d 4h Ac] [4s]
+Main pot 996784.00
+*** SHOW DOWN ***
+Main pot 996784.00
+zeeland shows [Kd Ks] (a full house, Fours full of Kings [4s 4h 4d Ks Kd])
+S O D shows [Qc As] (a full house, Fours full of Aces [4s 4h 4d As Ac])
+S O D collected 996784.00 from main pot
+*** SUMMARY ***
+Total pot 996784.00
+Board [Jd 4d 4h Ac 4s]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland (button) showed [Kd Ks] and lost with a full house, Fours full of Kings [4s 4h 4d Ks Kd]
+Seat 3: Mrtoddy (small blind) folded on the Pre-Flop
+Seat 4: JDtheAstronuat (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D showed [Qc As] and won 996784.00 with a full house, Fours full of Aces [4s 4h 4d As Ac]
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492701666 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:42:20 UTC
+Table '15' 8-max Seat #3 is the button
+Seat 1: Deadmoney13 (659450.00)
+Seat 2: zeeland (126158.00)
+Seat 3: Mrtoddy (513827.00)
+Seat 4: JDtheAstronuat (552738.00)
+Seat 5: grotle (287898.00)
+Seat 6: flaquito (628528.00) is sitting out
+Seat 7: S O D (996784.00)
+Seat 8: igotthatbeat2.0 (209917.00)
+Deadmoney13 posts ante 4500.00
+zeeland posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+JDtheAstronuat posts the small blind 17500.00
+grotle posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [3c Ad]
+flaquito folds
+S O D folds
+igotthatbeat2.0 raises 205417.00 to 205417.00 and is all-in
+Deadmoney13 folds
+zeeland calls 121658.00 and is all-in
+Mrtoddy folds
+JDtheAstronuat folds
+grotle calls 170417.00
+*** FLOP *** [3d 7d 2c]
+Main pot 418474.00
+Side pot(1) 167518.00
+*** TURN *** [3d 7d 2c] [5h]
+Main pot 418474.00
+Side pot(1) 167518.00
+*** RIVER *** [3d 7d 2c 5h] [8h]
+Main pot 418474.00
+Side pot(1) 167518.00
+*** SHOW DOWN ***
+Main pot 418474.00
+Side pot(1) 167518.00
+zeeland shows [Qd Jc] (a high card, Queen high [Qd Jc 8h 7d 5h])
+grotle shows [3c Ad] (a pair of Threes [3d 3c Ad 8h 7d])
+igotthatbeat2.0 shows [Jh Jd] (a pair of Jacks [Jh Jd 8h 7d 5h])
+igotthatbeat2.0 collected 418474.00 from main pot
+igotthatbeat2.0 collected 167518.00 from side pot-1
+*** SUMMARY ***
+Total pot 585992.00
+Board [3d 7d 2c 5h 8h]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 2: zeeland showed [Qd Jc] and lost with a high card, Queen high [Qd Jc 8h 7d 5h]
+Seat 3: Mrtoddy (button) folded on the Pre-Flop
+Seat 4: JDtheAstronuat (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) showed [3c Ad] and lost with a pair of Threes [3d 3c Ad 8h 7d]
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 showed [Jh Jd] and won 585992.00 with a pair of Jacks [Jh Jd 8h 7d 5h]
+
+Game Hand #2492702583 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:43:22 UTC
+Table '15' 8-max Seat #4 is the button
+Seat 1: Deadmoney13 (654950.00)
+Seat 3: Mrtoddy (509327.00)
+Seat 4: JDtheAstronuat (530738.00)
+Seat 5: grotle (77981.00)
+Seat 6: flaquito (624028.00)
+Seat 7: S O D (992284.00)
+Seat 8: igotthatbeat2.0 (585992.00)
+Deadmoney13 posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+grotle posts the small blind 17500.00
+flaquito posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [2d 5h]
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle folds
+flaquito does not show
+*** SUMMARY ***
+Total pot 84000.00
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: flaquito did not show and won 84000.00
+Seat 7: S O D folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492702995 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:43:50 UTC
+Table '15' 8-max Seat #5 is the button
+Seat 1: Deadmoney13 (650450.00)
+Seat 3: Mrtoddy (504827.00)
+Seat 4: JDtheAstronuat (526238.00)
+Seat 5: grotle (55981.00)
+Seat 6: flaquito (668528.00)
+Seat 7: S O D (987784.00)
+Seat 8: igotthatbeat2.0 (581492.00)
+Deadmoney13 posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+flaquito posts the small blind 17500.00
+S O D posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [8h As]
+igotthatbeat2.0 folds
+Deadmoney13 folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle raises 51481.00 to 51481.00 and is all-in
+flaquito folds
+S O D calls 16481.00
+*** FLOP *** [Jd Ah 9c]
+Main pot 151962.00
+*** TURN *** [Jd Ah 9c] [Ac]
+Main pot 151962.00
+*** RIVER *** [Jd Ah 9c Ac] [5h]
+Main pot 151962.00
+*** SHOW DOWN ***
+Main pot 151962.00
+grotle shows [8h As] (three of a kind, Set of Aces [As Ah Ac Jd 9c])
+S O D shows [2s 8s] (a pair of Aces [Ah Ac Jd 9c 8s])
+grotle collected 151962.00 from main pot
+*** SUMMARY ***
+Total pot 151962.00
+Board [Jd Ah 9c Ac 5h]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle (button) showed [8h As] and won 151962.00 with three of a kind, Set of Aces [As Ah Ac Jd 9c]
+Seat 6: flaquito (small blind) folded on the Pre-Flop
+Seat 7: S O D (big blind) showed [2s 8s] and lost with a pair of Aces [Ah Ac Jd 9c 8s]
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2492703648 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:44:33 UTC
+Table '15' 8-max Seat #6 is the button
+Seat 1: Deadmoney13 (645950.00)
+Seat 3: Mrtoddy (500327.00)
+Seat 4: JDtheAstronuat (521738.00)
+Seat 5: grotle (151962.00)
+Seat 6: flaquito (646528.00)
+Seat 7: S O D (931803.00)
+Seat 8: igotthatbeat2.0 (576992.00)
+Deadmoney13 posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+S O D posts the small blind 17500.00
+igotthatbeat2.0 posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [5d Ah]
+Deadmoney13 folds
+Mrtoddy folds
+JDtheAstronuat folds
+grotle folds
+flaquito folds
+S O D calls 17500.00
+igotthatbeat2.0 checks
+*** FLOP *** [4d 6c 3c]
+Main pot 101500.00
+S O D bets 35000.00
+igotthatbeat2.0 folds
+Uncalled bet (35000.00) returned to S O D
+S O D does not show
+*** SUMMARY ***
+Total pot 101500.00
+Board [4d 6c 3c]
+Seat 1: Deadmoney13 folded on the Pre-Flop and did not bet
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito (button) folded on the Pre-Flop
+Seat 7: S O D did not show and won 101500.00
+Seat 8: igotthatbeat2.0 (big blind) folded on the Flop
+
+Game Hand #2492704506 - Tournament #33638791 - Holdem (No Limit) - Level 22 (17500.00/35000.00) - 2025/06/30 01:45:32 UTC
+Table '15' 8-max Seat #7 is the button
+Seat 1: Deadmoney13 (641450.00)
+Seat 3: Mrtoddy (495827.00)
+Seat 4: JDtheAstronuat (517238.00)
+Seat 5: grotle (147462.00)
+Seat 6: flaquito (642028.00)
+Seat 7: S O D (993803.00)
+Seat 8: igotthatbeat2.0 (537492.00)
+Deadmoney13 posts ante 4500.00
+Mrtoddy posts ante 4500.00
+JDtheAstronuat posts ante 4500.00
+grotle posts ante 4500.00
+flaquito posts ante 4500.00
+S O D posts ante 4500.00
+igotthatbeat2.0 posts ante 4500.00
+igotthatbeat2.0 posts the small blind 17500.00
+Deadmoney13 posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [4s 5s]
+Mrtoddy folds
+JDtheAstronuat raises 70000.00 to 70000.00
+grotle folds
+flaquito folds
+S O D folds
+igotthatbeat2.0 folds
+Deadmoney13 folds
+Uncalled bet (35000.00) returned to JDtheAstronuat
+JDtheAstronuat does not show
+*** SUMMARY ***
+Total pot 119000.00
+Seat 1: Deadmoney13 (big blind) folded on the Pre-Flop
+Seat 3: Mrtoddy folded on the Pre-Flop and did not bet
+Seat 4: JDtheAstronuat did not show and won 119000.00
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: flaquito folded on the Pre-Flop and did not bet
+Seat 7: S O D (button) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 (small blind) folded on the Pre-Flop
+

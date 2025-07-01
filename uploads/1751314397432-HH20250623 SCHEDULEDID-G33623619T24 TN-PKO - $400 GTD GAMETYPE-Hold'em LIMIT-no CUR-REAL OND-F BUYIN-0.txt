@@ -1,0 +1,544 @@
+Game Hand #2487600123 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:14:13 UTC
+Table '14' 8-max Seat #3 is the button
+Seat 1: fappuccino (496536.00)
+Seat 2: MAG_77 (145974.00)
+Seat 3: ArgentinianE (451648.00)
+Seat 4: liejacker (110222.00)
+Seat 5: IM_MPREST (253550.00)
+Seat 6: grotle (181850.00)
+Seat 7: ScottyCTempe (140250.00)
+Seat 8: TrevFish (89500.00)
+fappuccino posts ante 600.00
+MAG_77 posts ante 600.00
+ArgentinianE posts ante 600.00
+liejacker posts ante 600.00
+IM_MPREST posts ante 600.00
+grotle posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+liejacker posts the small blind 2500.00
+IM_MPREST posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Jh 6s]
+grotle folds
+ScottyCTempe folds
+TrevFish folds
+fappuccino folds
+MAG_77 folds
+ArgentinianE raises 10000.00 to 10000.00
+liejacker folds
+IM_MPREST raises 44500.00 to 49500.00
+ArgentinianE calls 39500.00
+*** FLOP *** [9s 5h 8c]
+Main pot 106300.00
+IM_MPREST bets 203450.00 and is all-in
+ArgentinianE calls 203450.00
+*** TURN *** [9s 5h 8c] [Kd]
+Main pot 513200.00
+*** RIVER *** [9s 5h 8c Kd] [2s]
+Main pot 513200.00
+*** SHOW DOWN ***
+Main pot 513200.00
+ArgentinianE shows [Jc 9h] (a pair of Nines [9s 9h Kd Jc 8c])
+IM_MPREST shows [3s Qs] (a high card, King high [Kd Qs 9s 8c 5h])
+ArgentinianE collected 513200.00 from main pot
+*** SUMMARY ***
+Total pot 513200.00
+Board [9s 5h 8c Kd 2s]
+Seat 1: fappuccino folded on the Pre-Flop and did not bet
+Seat 2: MAG_77 folded on the Pre-Flop and did not bet
+Seat 3: ArgentinianE (button) showed [Jc 9h] and won 513200.00 with a pair of Nines [9s 9h Kd Jc 8c]
+Seat 4: liejacker (small blind) folded on the Pre-Flop
+Seat 5: IM_MPREST (big blind) showed [3s Qs] and lost with a high card, King high [Kd Qs 9s 8c 5h]
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 8: TrevFish folded on the Pre-Flop and did not bet
+
+Game Hand #2487600711 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:15:09 UTC
+Table '24' 8-max Seat #1 is the button
+Seat 1: tymclovin86 (100000.00)
+Seat 2: liejacker (107122.00)
+Seat 3: ArgentinianE (711298.00)
+Seat 4: fappuccino (495936.00)
+Seat 5: ScottyCTempe (139650.00)
+Seat 6: TrevFish (88900.00)
+Seat 7: MAG_77 (145374.00)
+Seat 8: grotle (181250.00)
+tymclovin86 posts ante 600.00
+liejacker posts ante 600.00
+ArgentinianE posts ante 600.00
+fappuccino posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+MAG_77 posts ante 600.00
+grotle posts ante 600.00
+liejacker posts the small blind 2500.00
+ArgentinianE posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [9h 5d]
+fappuccino folds
+ScottyCTempe raises 10000.00 to 10000.00
+TrevFish folds
+MAG_77 folds
+grotle folds
+tymclovin86 raises 42300.00 to 42300.00
+liejacker folds
+ArgentinianE folds
+ScottyCTempe raises 64600.00 to 74600.00
+tymclovin86 raises 57100.00 to 99400.00 and is all-in
+ScottyCTempe calls 24800.00
+*** FLOP *** [5c Tc 4s]
+Main pot 211100.00
+*** TURN *** [5c Tc 4s] [Ah]
+Main pot 211100.00
+*** RIVER *** [5c Tc 4s Ah] [3d]
+Main pot 211100.00
+*** SHOW DOWN ***
+Main pot 211100.00
+tymclovin86 shows [6d Ac] (a pair of Aces [Ah Ac Tc 6d 5c])
+ScottyCTempe shows [Jd Ks] (a high card, Ace high [Ah Ks Jd Tc 5c])
+tymclovin86 collected 211100.00 from main pot
+*** SUMMARY ***
+Total pot 211100.00
+Board [5c Tc 4s Ah 3d]
+Seat 1: tymclovin86 (button) showed [6d Ac] and won 211100.00 with a pair of Aces [Ah Ac Tc 6d 5c]
+Seat 2: liejacker (small blind) folded on the Pre-Flop
+Seat 3: ArgentinianE (big blind) folded on the Pre-Flop
+Seat 4: fappuccino folded on the Pre-Flop and did not bet
+Seat 5: ScottyCTempe showed [Jd Ks] and lost with a high card, Ace high [Ah Ks Jd Tc 5c]
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487601125 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:15:50 UTC
+Table '24' 8-max Seat #2 is the button
+Seat 1: tymclovin86 (211100.00)
+Seat 2: liejacker (104022.00)
+Seat 3: ArgentinianE (705698.00)
+Seat 4: fappuccino (495336.00)
+Seat 5: ScottyCTempe (39650.00)
+Seat 6: TrevFish (88300.00)
+Seat 7: MAG_77 (144774.00)
+Seat 8: grotle (180650.00)
+tymclovin86 posts ante 600.00
+liejacker posts ante 600.00
+ArgentinianE posts ante 600.00
+fappuccino posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+MAG_77 posts ante 600.00
+grotle posts ante 600.00
+ArgentinianE posts the small blind 2500.00
+fappuccino posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Ad 4h]
+ScottyCTempe folds
+TrevFish folds
+MAG_77 folds
+grotle folds
+tymclovin86 raises 17500.00 to 17500.00
+liejacker raises 103422.00 to 103422.00 and is all-in
+ArgentinianE folds
+fappuccino folds
+tymclovin86 calls 85922.00
+*** FLOP *** [5s Js 6h]
+Main pot 219144.00
+*** TURN *** [5s Js 6h] [Jc]
+Main pot 219144.00
+*** RIVER *** [5s Js 6h Jc] [4d]
+Main pot 219144.00
+*** SHOW DOWN ***
+Main pot 219144.00
+tymclovin86 shows [Qh Kh] (a pair of Jacks [Js Jc Kh Qh 6h])
+liejacker shows [5h 5c] (a full house, Fives full of Jacks [5s 5h 5c Js Jc])
+liejacker collected 219144.00 from main pot
+*** SUMMARY ***
+Total pot 219144.00
+Board [5s Js 6h Jc 4d]
+Seat 1: tymclovin86 showed [Qh Kh] and lost with a pair of Jacks [Js Jc Kh Qh 6h]
+Seat 2: liejacker (button) showed [5h 5c] and won 219144.00 with a full house, Fives full of Jacks [5s 5h 5c Js Jc]
+Seat 3: ArgentinianE (small blind) folded on the Pre-Flop
+Seat 4: fappuccino (big blind) folded on the Pre-Flop
+Seat 5: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487601477 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:16:27 UTC
+Table '24' 8-max Seat #3 is the button
+Seat 1: tymclovin86 (107078.00)
+Seat 2: liejacker (219144.00)
+Seat 3: ArgentinianE (702598.00)
+Seat 4: fappuccino (489736.00)
+Seat 5: ScottyCTempe (39050.00)
+Seat 6: TrevFish (87700.00)
+Seat 7: MAG_77 (144174.00)
+Seat 8: grotle (180050.00)
+tymclovin86 posts ante 600.00
+liejacker posts ante 600.00
+ArgentinianE posts ante 600.00
+fappuccino posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+MAG_77 posts ante 600.00
+grotle posts ante 600.00
+fappuccino posts the small blind 2500.00
+ScottyCTempe posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [9c 2d]
+TrevFish folds
+MAG_77 folds
+grotle folds
+tymclovin86 folds
+liejacker folds
+ArgentinianE raises 10000.00 to 10000.00
+fappuccino folds
+ScottyCTempe calls 5000.00
+*** FLOP *** [Jh As 9d]
+Main pot 27300.00
+ScottyCTempe checks
+ArgentinianE checks
+*** TURN *** [Jh As 9d] [Jc]
+Main pot 27300.00
+ScottyCTempe checks
+ArgentinianE checks
+*** RIVER *** [Jh As 9d Jc] [8h]
+Main pot 27300.00
+ScottyCTempe bets 17745.00
+ArgentinianE folds
+Uncalled bet (17745.00) returned to ScottyCTempe
+ScottyCTempe does not show
+*** SUMMARY ***
+Total pot 27300.00
+Board [Jh As 9d Jc 8h]
+Seat 1: tymclovin86 folded on the Pre-Flop and did not bet
+Seat 2: liejacker folded on the Pre-Flop and did not bet
+Seat 3: ArgentinianE (button) folded on the River
+Seat 4: fappuccino (small blind) folded on the Pre-Flop
+Seat 5: ScottyCTempe did not show and won 27300.00
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487602320 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:17:49 UTC
+Table '24' 8-max Seat #4 is the button
+Seat 1: tymclovin86 (106478.00)
+Seat 2: liejacker (218544.00)
+Seat 3: ArgentinianE (691998.00)
+Seat 4: fappuccino (486636.00)
+Seat 5: ScottyCTempe (55750.00)
+Seat 6: TrevFish (87100.00)
+Seat 7: MAG_77 (143574.00)
+Seat 8: grotle (179450.00)
+tymclovin86 posts ante 600.00
+liejacker posts ante 600.00
+ArgentinianE posts ante 600.00
+fappuccino posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+MAG_77 posts ante 600.00
+grotle posts ante 600.00
+ScottyCTempe posts the small blind 2500.00
+TrevFish posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [5h Ah]
+MAG_77 folds
+grotle raises 10000.00 to 10000.00
+tymclovin86 folds
+liejacker raises 35500.00 to 35500.00
+ArgentinianE folds
+fappuccino folds
+ScottyCTempe folds
+TrevFish folds
+grotle calls 25500.00
+*** FLOP *** [8d 6c 7d]
+Main pot 83300.00
+grotle checks
+liejacker bets 182444.00 and is all-in
+grotle calls 143350.00 and is all-in
+Uncalled bet (39094.00) returned to liejacker
+*** TURN *** [8d 6c 7d] [3c]
+Main pot 370000.00
+*** RIVER *** [8d 6c 7d 3c] [5s]
+Main pot 370000.00
+*** SHOW DOWN ***
+Main pot 370000.00
+liejacker shows [Ad Kd] (a high card, Ace high [Ad Kd 8d 7d 6c])
+grotle shows [5h Ah] (a pair of Fives [5s 5h Ah 8d 7d])
+grotle collected 370000.00 from main pot
+*** SUMMARY ***
+Total pot 370000.00
+Board [8d 6c 7d 3c 5s]
+Seat 1: tymclovin86 folded on the Pre-Flop and did not bet
+Seat 2: liejacker showed [Ad Kd] and lost with a high card, Ace high [Ad Kd 8d 7d 6c]
+Seat 3: ArgentinianE folded on the Pre-Flop and did not bet
+Seat 4: fappuccino (button) folded on the Pre-Flop
+Seat 5: ScottyCTempe (small blind) folded on the Pre-Flop
+Seat 6: TrevFish (big blind) folded on the Pre-Flop
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [5h Ah] and won 370000.00 with a pair of Fives [5s 5h Ah 8d 7d]
+
+Game Hand #2487602838 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:18:38 UTC
+Table '24' 8-max Seat #5 is the button
+Seat 1: tymclovin86 (105878.00)
+Seat 2: liejacker (39094.00)
+Seat 3: ArgentinianE (691398.00)
+Seat 4: fappuccino (486036.00)
+Seat 5: ScottyCTempe (52650.00)
+Seat 6: TrevFish (81500.00)
+Seat 7: MAG_77 (142974.00)
+Seat 8: grotle (370000.00)
+tymclovin86 posts ante 750.00
+liejacker posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+TrevFish posts the small blind 3000.00
+MAG_77 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Tc 8s]
+grotle folds
+tymclovin86 folds
+liejacker raises 38344.00 to 38344.00 and is all-in
+ArgentinianE calls 38344.00
+fappuccino folds
+ScottyCTempe folds
+TrevFish raises 77750.00 to 80750.00 and is all-in
+MAG_77 folds
+ArgentinianE calls 42406.00
+*** FLOP *** [Qs 9h 5d]
+Main pot 127032.00
+Side pot(1) 84812.00
+*** TURN *** [Qs 9h 5d] [8d]
+Main pot 127032.00
+Side pot(1) 84812.00
+*** RIVER *** [Qs 9h 5d 8d] [Ts]
+Main pot 127032.00
+Side pot(1) 84812.00
+*** SHOW DOWN ***
+Main pot 127032.00
+Side pot(1) 84812.00
+liejacker shows [Th Kc] (a pair of Tens [Ts Th Kc Qs 9h])
+ArgentinianE shows [Qh 8c] (two pair, Queens and Eights [Qs Qh 8d 8c Ts])
+TrevFish shows [Jc As] (a straight, Queen high [Qs Jc Ts 9h 8d])
+TrevFish collected 127032.00 from main pot
+TrevFish collected 84812.00 from side pot-1
+*** SUMMARY ***
+Total pot 211844.00
+Board [Qs 9h 5d 8d Ts]
+Seat 1: tymclovin86 folded on the Pre-Flop and did not bet
+Seat 2: liejacker showed [Th Kc] and lost with a pair of Tens [Ts Th Kc Qs 9h]
+Seat 3: ArgentinianE showed [Qh 8c] and lost with two pair, Queens and Eights [Qs Qh 8d 8c Ts]
+Seat 4: fappuccino folded on the Pre-Flop and did not bet
+Seat 5: ScottyCTempe (button) folded on the Pre-Flop
+Seat 6: TrevFish (small blind) showed [Jc As] and won 211844.00 with a straight, Queen high [Qs Jc Ts 9h 8d]
+Seat 7: MAG_77 (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487603352 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:19:29 UTC
+Table '24' 8-max Seat #6 is the button
+Seat 1: tymclovin86 (105128.00)
+Seat 3: ArgentinianE (609898.00)
+Seat 4: fappuccino (485286.00)
+Seat 5: ScottyCTempe (51900.00)
+Seat 6: TrevFish (211844.00)
+Seat 7: MAG_77 (136224.00)
+Seat 8: grotle (369250.00)
+tymclovin86 posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+MAG_77 posts the small blind 3000.00
+grotle posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Jh 2d]
+tymclovin86 raises 104378.00 to 104378.00 and is all-in
+ArgentinianE folds
+fappuccino raises 484536.00 to 484536.00 and is all-in
+ScottyCTempe folds
+TrevFish folds
+MAG_77 folds
+grotle folds
+Uncalled bet (380158.00) returned to fappuccino
+*** FLOP *** [9h Qd 6h]
+Main pot 223006.00
+*** TURN *** [9h Qd 6h] [Js]
+Main pot 223006.00
+*** RIVER *** [9h Qd 6h Js] [5c]
+Main pot 223006.00
+*** SHOW DOWN ***
+Main pot 223006.00
+tymclovin86 shows [As 4c] (a high card, Ace high [As Qd Js 9h 6h])
+fappuccino shows [Qc Ac] (a pair of Queens [Qd Qc Ac Js 9h])
+fappuccino collected 223006.00 from main pot
+*** SUMMARY ***
+Total pot 223006.00
+Board [9h Qd 6h Js 5c]
+Seat 1: tymclovin86 showed [As 4c] and lost with a high card, Ace high [As Qd Js 9h 6h]
+Seat 3: ArgentinianE folded on the Pre-Flop and did not bet
+Seat 4: fappuccino showed [Qc Ac] and won 223006.00 with a pair of Queens [Qd Qc Ac Js 9h]
+Seat 5: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 6: TrevFish (button) folded on the Pre-Flop
+Seat 7: MAG_77 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Game Hand #2487603838 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:20:20 UTC
+Table '24' 8-max Seat #7 is the button
+Seat 2: KidGamble (478476.00)
+Seat 3: ArgentinianE (609148.00)
+Seat 4: fappuccino (603164.00)
+Seat 5: ScottyCTempe (51150.00)
+Seat 6: TrevFish (211094.00)
+Seat 7: MAG_77 (132474.00)
+Seat 8: grotle (362500.00)
+KidGamble posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+grotle posts the small blind 3000.00
+KidGamble posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [8h 5h]
+ArgentinianE folds
+fappuccino raises 12000.00 to 12000.00
+ScottyCTempe folds
+TrevFish folds
+MAG_77 folds
+grotle calls 9000.00
+KidGamble folds
+*** FLOP *** [4d Tc 7d]
+Main pot 35250.00
+grotle checks
+fappuccino bets 11625.00
+grotle raises 41340.00 to 41340.00
+fappuccino raises 118163.00 to 129788.00
+grotle calls 88448.00
+*** TURN *** [4d Tc 7d] [9d]
+Main pot 294826.00
+grotle checks
+fappuccino checks
+*** RIVER *** [4d Tc 7d 9d] [8c]
+Main pot 294826.00
+grotle checks
+fappuccino checks
+*** SHOW DOWN ***
+Main pot 294826.00
+fappuccino shows [Kc Kh] (a pair of Kings [Kh Kc Tc 9d 8c])
+grotle shows [8h 5h] (a pair of Eights [8h 8c Tc 9d 7d])
+fappuccino collected 294826.00 from main pot
+*** SUMMARY ***
+Total pot 294826.00
+Board [4d Tc 7d 9d 8c]
+Seat 2: KidGamble (big blind) folded on the Pre-Flop
+Seat 3: ArgentinianE folded on the Pre-Flop and did not bet
+Seat 4: fappuccino showed [Kc Kh] and won 294826.00 with a pair of Kings [Kh Kc Tc 9d 8c]
+Seat 5: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) showed [8h 5h] and lost with a pair of Eights [8h 8c Tc 9d 7d]
+
+Game Hand #2487604944 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:22:06 UTC
+Table '24' 8-max Seat #8 is the button
+Seat 2: KidGamble (471726.00)
+Seat 3: ArgentinianE (608398.00)
+Seat 4: fappuccino (755452.00)
+Seat 5: ScottyCTempe (50400.00)
+Seat 6: TrevFish (210344.00)
+Seat 7: MAG_77 (131724.00)
+Seat 8: grotle (219962.00)
+KidGamble posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+KidGamble posts the small blind 3000.00
+ArgentinianE posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Jd 3c]
+fappuccino folds
+ScottyCTempe folds
+TrevFish folds
+MAG_77 folds
+grotle folds
+KidGamble folds
+ArgentinianE does not show
+*** SUMMARY ***
+Total pot 14250.00
+Seat 2: KidGamble (small blind) folded on the Pre-Flop
+Seat 3: ArgentinianE did not show and won 14250.00
+Seat 4: fappuccino folded on the Pre-Flop and did not bet
+Seat 5: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2487605193 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:22:32 UTC
+Table '24' 8-max Seat #2 is the button
+Seat 2: KidGamble (467976.00)
+Seat 3: ArgentinianE (615898.00)
+Seat 4: fappuccino (754702.00)
+Seat 5: ScottyCTempe (49650.00)
+Seat 6: TrevFish (209594.00)
+Seat 7: MAG_77 (130974.00)
+Seat 8: grotle (219212.00)
+KidGamble posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+ArgentinianE posts the small blind 3000.00
+fappuccino posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [7h 6c]
+ScottyCTempe folds
+TrevFish folds
+MAG_77 folds
+grotle folds
+KidGamble folds
+ArgentinianE raises 15000.00 to 18000.00
+fappuccino calls 12000.00
+*** FLOP *** [4s Td Js]
+Main pot 41250.00
+ArgentinianE bets 21450.00
+fappuccino calls 21450.00
+*** TURN *** [4s Td Js] [8c]
+Main pot 84150.00
+ArgentinianE bets 43758.00
+fappuccino folds
+fappuccino shows [As Th]
+Uncalled bet (43758.00) returned to ArgentinianE
+ArgentinianE does not show
+*** SUMMARY ***
+Total pot 84150.00
+Board [4s Td Js 8c]
+Seat 2: KidGamble (button) folded on the Pre-Flop
+Seat 3: ArgentinianE did not show and won 84150.00
+Seat 4: fappuccino (big blind) showed [As Th] and folded on the Turn
+Seat 5: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 6: TrevFish folded on the Pre-Flop and did not bet
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,2355 @@
+Game Hand #2478775064 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:16:10 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: BossTroll77 (89275.00) is sitting out
+Seat 2: Nikkag1227 (67960.00)
+Seat 3: grotle (198360.00)
+Seat 4: vasutas73 (95775.00)
+Seat 7: activistshark0 (81421.00)
+Seat 8: alkzar (95525.00)
+BossTroll77 posts ante 300.00
+Nikkag1227 posts ante 300.00
+grotle posts ante 300.00
+vasutas73 posts ante 300.00
+activistshark0 posts ante 300.00
+alkzar posts ante 300.00
+BossTroll77 posts the small blind 1200.00
+Nikkag1227 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Kh Qs]
+grotle raises 4800.00 to 4800.00
+vasutas73 folds
+activistshark0 folds
+alkzar raises 15600.00 to 15600.00
+BossTroll77 folds
+Nikkag1227 calls 13200.00
+grotle calls 10800.00
+*** FLOP *** [3s 6h Th]
+Main pot 49800.00
+Nikkag1227 checks
+grotle checks
+alkzar checks
+*** TURN *** [3s 6h Th] [2h]
+Main pot 49800.00
+Nikkag1227 bets 11250.00
+grotle calls 11250.00
+alkzar folds
+*** RIVER *** [3s 6h Th 2h] [Qd]
+Main pot 72300.00
+Nikkag1227 bets 40810.00 and is all-in
+grotle calls 40810.00
+*** SHOW DOWN ***
+Main pot 153920.00
+Nikkag1227 shows [6c 7c] (a pair of Sixs [6h 6c Qd Th 7c])
+grotle shows [Kh Qs] (a pair of Queens [Qs Qd Kh Th 6h])
+grotle collected 153920.00 from main pot
+*** SUMMARY ***
+Total pot 153920.00
+Board [3s 6h Th 2h Qd]
+Seat 1: BossTroll77 (small blind) folded on the Pre-Flop
+Seat 2: Nikkag1227 (big blind) showed [6c 7c] and lost with a pair of Sixs [6h 6c Qd Th 7c]
+Seat 3: grotle showed [Kh Qs] and won 153920.00 with a pair of Queens [Qs Qd Kh Th 6h]
+Seat 4: vasutas73 folded on the Pre-Flop and did not bet
+Seat 7: activistshark0 folded on the Pre-Flop and did not bet
+Seat 8: alkzar (button) folded on the Turn
+
+Game Hand #2478775475 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:17:58 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Understood508 (81000.00)
+Seat 2: grotle (284320.00)
+Seat 3: KKvb2323 (95318.00)
+Seat 4: Mattistheking6 (124374.00)
+Seat 5: Birr (85750.00)
+Seat 6: Xirius1 (214141.00)
+Seat 7: paulaaronscholes (208196.00)
+Seat 8: alkzar will be allowed to play after the button
+Understood508 posts ante 300.00
+grotle posts ante 300.00
+KKvb2323 posts ante 300.00
+Mattistheking6 posts ante 300.00
+Birr posts ante 300.00
+Xirius1 posts ante 300.00
+paulaaronscholes posts ante 300.00
+Understood508 posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [5h Jd]
+KKvb2323 folds
+Mattistheking6 folds
+Birr calls 2400.00
+Xirius1 folds
+paulaaronscholes folds
+Understood508 calls 1200.00
+grotle checks
+*** FLOP *** [4c As 3h]
+Main pot 9300.00
+Understood508 checks
+grotle checks
+Birr checks
+*** TURN *** [4c As 3h] [3c]
+Main pot 9300.00
+Understood508 bets 9300.00
+grotle folds
+Birr folds
+Uncalled bet (9300.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 9300.00
+Board [4c As 3h 3c]
+Seat 1: Understood508 did not show and won 9300.00
+Seat 2: grotle (big blind) folded on the Turn
+Seat 3: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 4: Mattistheking6 folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Turn
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+
+Game Hand #2478775674 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:18:55 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Understood508 (87600.00)
+Seat 2: grotle (281620.00)
+Seat 3: KKvb2323 (95018.00)
+Seat 4: Mattistheking6 (124074.00)
+Seat 5: Birr (83050.00)
+Seat 6: Xirius1 (213841.00)
+Seat 7: paulaaronscholes (207896.00)
+Seat 8: alkzar (79625.00)
+Understood508 posts ante 300.00
+grotle posts ante 300.00
+KKvb2323 posts ante 300.00
+Mattistheking6 posts ante 300.00
+Birr posts ante 300.00
+Xirius1 posts ante 300.00
+paulaaronscholes posts ante 300.00
+alkzar posts ante 300.00
+grotle posts the small blind 1200.00
+KKvb2323 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [3d 2d]
+Mattistheking6 folds
+Birr folds
+Xirius1 folds
+paulaaronscholes raises 4800.00 to 4800.00
+alkzar folds
+Understood508 calls 4800.00
+grotle calls 3600.00
+KKvb2323 folds
+*** FLOP *** [Js 2h 5h]
+Main pot 19200.00
+grotle checks
+paulaaronscholes checks
+Understood508 checks
+*** TURN *** [Js 2h 5h] [Th]
+Main pot 19200.00
+grotle checks
+paulaaronscholes checks
+Understood508 bets 14400.00
+grotle folds
+paulaaronscholes folds
+Uncalled bet (14400.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 19200.00
+Board [Js 2h 5h Th]
+Seat 1: Understood508 did not show and won 19200.00
+Seat 2: grotle (small blind) folded on the Turn
+Seat 3: KKvb2323 (big blind) folded on the Pre-Flop
+Seat 4: Mattistheking6 folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Turn
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478776136 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:21:03 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Understood508 (101700.00)
+Seat 2: grotle (276520.00)
+Seat 5: Birr (82750.00)
+Seat 6: Xirius1 (213541.00)
+Seat 7: paulaaronscholes (202796.00)
+Seat 8: alkzar (79325.00)
+Understood508 posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+Xirius1 posts ante 300.00
+paulaaronscholes posts ante 300.00
+alkzar posts ante 300.00
+Birr posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2c Th]
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 2400.00
+grotle folds
+Birr raises 3300.00 to 5700.00
+Understood508 calls 3300.00
+*** FLOP *** [Tc Ts Ah]
+Main pot 13200.00
+Birr checks
+Understood508 checks
+*** TURN *** [Tc Ts Ah] [8h]
+Main pot 13200.00
+Birr checks
+Understood508 bets 7800.00
+Birr folds
+Uncalled bet (7800.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 13200.00
+Board [Tc Ts Ah 8h]
+Seat 1: Understood508 did not show and won 13200.00
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 5: Birr (big blind) folded on the Turn
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478776399 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:22:16 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Understood508 (108900.00)
+Seat 2: grotle (276220.00)
+Seat 5: Birr (76750.00)
+Seat 6: Xirius1 (213241.00)
+Seat 7: paulaaronscholes (202496.00)
+Seat 8: alkzar (79025.00)
+Understood508 posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+Xirius1 posts ante 300.00
+paulaaronscholes posts ante 300.00
+alkzar posts ante 300.00
+Birr posts the small blind 1200.00
+Xirius1 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2d Jc]
+paulaaronscholes folds
+alkzar folds
+Understood508 raises 4800.00 to 4800.00
+grotle folds
+Birr folds
+Xirius1 folds
+Uncalled bet (2400.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 7800.00
+Seat 1: Understood508 did not show and won 7800.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 5: Birr (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478776514 - Tournament #33592580 - Holdem (No Limit) - Level 6 (1200.00/2400.00) - 2025/06/11 12:22:46 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: Understood508 (114000.00)
+Seat 2: grotle (275920.00)
+Seat 3: Johnyyy (187975.00)
+Seat 4: gonefisting (85350.00)
+Seat 5: Birr (75250.00)
+Seat 6: Xirius1 (210541.00)
+Seat 7: paulaaronscholes (202196.00)
+Seat 8: alkzar (78725.00)
+Understood508 posts ante 300.00
+grotle posts ante 300.00
+Johnyyy posts ante 300.00
+gonefisting posts ante 300.00
+Birr posts ante 300.00
+Xirius1 posts ante 300.00
+paulaaronscholes posts ante 300.00
+alkzar posts ante 300.00
+Xirius1 posts the small blind 1200.00
+paulaaronscholes posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7c 6d]
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy calls 2400.00
+gonefisting calls 2400.00
+Birr calls 2400.00
+Xirius1 folds
+paulaaronscholes raises 21600.00 to 24000.00
+Johnyyy folds
+gonefisting calls 21600.00
+Birr folds
+*** FLOP *** [Ad 5s 8h]
+Main pot 56400.00
+paulaaronscholes bets 28200.00
+gonefisting folds
+Uncalled bet (28200.00) returned to paulaaronscholes
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 56400.00
+Board [Ad 5s 8h]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Flop
+Seat 5: Birr (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes did not show and won 56400.00
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478776758 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:23:52 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Understood508 (113700.00)
+Seat 2: grotle (275620.00)
+Seat 3: Johnyyy (185275.00)
+Seat 4: gonefisting (61050.00)
+Seat 5: Birr (72550.00)
+Seat 6: Xirius1 (209041.00)
+Seat 7: paulaaronscholes (234296.00)
+Seat 8: alkzar (78425.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+paulaaronscholes posts the small blind 1400.00
+alkzar posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [9s Jh]
+Understood508 raises 5600.00 to 5600.00
+grotle folds
+Johnyyy folds
+gonefisting folds
+Birr folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Uncalled bet (2800.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 9800.00
+Seat 1: Understood508 did not show and won 9800.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 8: alkzar (big blind) folded on the Pre-Flop
+
+Game Hand #2478776856 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:24:18 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Understood508 (120350.00)
+Seat 2: grotle (275270.00)
+Seat 3: Johnyyy (184925.00)
+Seat 4: gonefisting (60700.00)
+Seat 5: Birr (72200.00)
+Seat 6: Xirius1 (208691.00)
+Seat 7: paulaaronscholes (232546.00)
+Seat 8: alkzar (75275.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+alkzar posts the small blind 1400.00
+Understood508 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ac 5s]
+grotle folds
+Johnyyy folds
+gonefisting folds
+Birr folds
+Xirius1 folds
+paulaaronscholes raises 5600.00 to 5600.00
+alkzar raises 21000.00 to 22400.00
+Understood508 folds
+paulaaronscholes folds
+Uncalled bet (16800.00) returned to alkzar
+alkzar does not show
+*** SUMMARY ***
+Total pot 16800.00
+Seat 1: Understood508 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+Seat 8: alkzar did not show and won 16800.00
+
+Game Hand #2478776982 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:24:53 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: Understood508 (117200.00)
+Seat 2: grotle (274920.00)
+Seat 3: Johnyyy (184575.00)
+Seat 4: gonefisting (60350.00)
+Seat 5: Birr (71850.00)
+Seat 6: Xirius1 (208341.00)
+Seat 7: paulaaronscholes (226596.00)
+Seat 8: alkzar (86125.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+Understood508 posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7d 4d]
+Johnyyy folds
+gonefisting raises 5600.00 to 5600.00
+Birr folds
+Xirius1 folds
+paulaaronscholes calls 5600.00
+alkzar folds
+Understood508 calls 4200.00
+grotle calls 2800.00
+*** FLOP *** [Kh 7c 5h]
+Main pot 25200.00
+Understood508 checks
+grotle checks
+gonefisting checks
+paulaaronscholes bets 6300.00
+Understood508 calls 6300.00
+grotle calls 6300.00
+gonefisting calls 6300.00
+*** TURN *** [Kh 7c 5h] [Jh]
+Main pot 50400.00
+Understood508 checks
+grotle checks
+gonefisting checks
+paulaaronscholes checks
+*** RIVER *** [Kh 7c 5h Jh] [Ah]
+Main pot 50400.00
+Understood508 bets 7000.00
+grotle folds
+gonefisting calls 7000.00
+paulaaronscholes folds
+*** SHOW DOWN ***
+Main pot 64400.00
+Understood508 shows [3d Kd] (a pair of Kings [Kh Kd Ah Jh 7c])
+gonefisting shows [8h 8s] (a flush, Ace high [Ah Kh Jh 8h 5h])
+gonefisting collected 64400.00 from main pot
+*** SUMMARY ***
+Total pot 64400.00
+Board [Kh 7c 5h Jh Ah]
+Seat 1: Understood508 (small blind) showed [3d Kd] and lost with a pair of Kings [Kh Kd Ah Jh 7c]
+Seat 2: grotle (big blind) folded on the River
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting showed [8h 8s] and won 64400.00 with a flush, Ace high [Ah Kh Jh 8h 5h]
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the River
+Seat 8: alkzar (button) folded on the Pre-Flop
+
+Game Hand #2478777410 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:26:54 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Understood508 (97950.00)
+Seat 2: grotle (262670.00)
+Seat 3: Johnyyy (184225.00)
+Seat 4: gonefisting (105500.00)
+Seat 5: Birr (71500.00)
+Seat 6: Xirius1 (207991.00)
+Seat 7: paulaaronscholes (214346.00)
+Seat 8: alkzar (85775.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+grotle posts the small blind 1400.00
+Johnyyy posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7d Jc]
+gonefisting folds
+Birr folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 raises 5600.00 to 5600.00
+grotle folds
+Johnyyy raises 18200.00 to 21000.00
+Understood508 folds
+Uncalled bet (15400.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 15400.00
+Seat 1: Understood508 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Johnyyy did not show and won 15400.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478777505 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:27:22 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Understood508 (92000.00)
+Seat 2: grotle (260920.00)
+Seat 3: Johnyyy (193675.00)
+Seat 4: gonefisting (105150.00)
+Seat 5: Birr (71150.00)
+Seat 6: Xirius1 (207641.00)
+Seat 7: paulaaronscholes (213996.00)
+Seat 8: alkzar (85425.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+Johnyyy posts the small blind 1400.00
+gonefisting posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7s 6c]
+Birr folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 2800.00
+grotle raises 11200.00 to 11200.00
+Johnyyy folds
+gonefisting calls 8400.00
+Understood508 folds
+*** FLOP *** [Jd 9h As]
+Main pot 29400.00
+gonefisting checks
+grotle checks
+*** TURN *** [Jd 9h As] [6d]
+Main pot 29400.00
+gonefisting checks
+grotle checks
+*** RIVER *** [Jd 9h As 6d] [Ks]
+Main pot 29400.00
+gonefisting checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 29400.00
+grotle shows [7s 6c] (a pair of Sixs [6d 6c As Ks Jd])
+gonefisting shows [8d 8h] (a pair of Eights [8h 8d As Ks Jd])
+gonefisting collected 29400.00 from main pot
+*** SUMMARY ***
+Total pot 29400.00
+Board [Jd 9h As 6d Ks]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [7s 6c] and lost with a pair of Sixs [6d 6c As Ks Jd]
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) showed [8d 8h] and won 29400.00 with a pair of Eights [8h 8d As Ks Jd]
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478777762 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:28:39 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Understood508 (88850.00)
+Seat 2: grotle (249370.00)
+Seat 3: Johnyyy (191925.00)
+Seat 4: gonefisting (123000.00)
+Seat 5: Birr (70800.00)
+Seat 6: Xirius1 (207291.00)
+Seat 7: paulaaronscholes (213646.00)
+Seat 8: alkzar (85075.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+gonefisting posts the small blind 1400.00
+Birr posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [5s 2h]
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy raises 11200.00 to 11200.00
+gonefisting folds
+Birr folds
+Uncalled bet (8400.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 9800.00
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 9800.00
+Seat 4: gonefisting (small blind) folded on the Pre-Flop
+Seat 5: Birr (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478777847 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:29:10 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Understood508 (88500.00)
+Seat 2: grotle (249020.00)
+Seat 3: Johnyyy (198575.00)
+Seat 4: gonefisting (121250.00)
+Seat 5: Birr (67650.00)
+Seat 6: Xirius1 (206941.00)
+Seat 7: paulaaronscholes (213296.00)
+Seat 8: alkzar (84725.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+Birr posts the small blind 1400.00
+Xirius1 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [5h Ah]
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 2800.00
+grotle raises 5600.00 to 5600.00
+Johnyyy folds
+gonefisting folds
+Birr folds
+Xirius1 calls 2800.00
+Understood508 calls 2800.00
+*** FLOP *** [As Jh Kc]
+Main pot 21000.00
+Xirius1 checks
+Understood508 checks
+grotle checks
+*** TURN *** [As Jh Kc] [Kh]
+Main pot 21000.00
+Xirius1 checks
+Understood508 checks
+grotle bets 14000.00
+Xirius1 folds
+Understood508 folds
+Uncalled bet (14000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 21000.00
+Board [As Jh Kc Kh]
+Seat 1: Understood508 folded on the Turn
+Seat 2: grotle did not show and won 21000.00
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting (button) folded on the Pre-Flop
+Seat 5: Birr (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Turn
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478778287 - Tournament #33592580 - Holdem (No Limit) - Level 7 (1400.00/2800.00) - 2025/06/11 12:31:26 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: Understood508 (82550.00)
+Seat 2: grotle (264070.00)
+Seat 3: Johnyyy (198225.00)
+Seat 4: gonefisting (120900.00)
+Seat 5: Birr (65900.00)
+Seat 6: Xirius1 (200991.00)
+Seat 7: paulaaronscholes (212946.00)
+Seat 8: alkzar (84375.00)
+Understood508 posts ante 350.00
+grotle posts ante 350.00
+Johnyyy posts ante 350.00
+gonefisting posts ante 350.00
+Birr posts ante 350.00
+Xirius1 posts ante 350.00
+paulaaronscholes posts ante 350.00
+alkzar posts ante 350.00
+Xirius1 posts the small blind 1400.00
+paulaaronscholes posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2h 4s]
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy folds
+gonefisting folds
+Birr folds
+Xirius1 folds
+paulaaronscholes does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: Birr (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes did not show and won 7000.00
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478778415 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:32:04 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Understood508 (82200.00)
+Seat 2: grotle (263720.00)
+Seat 3: Johnyyy (197875.00)
+Seat 4: gonefisting (120550.00)
+Seat 5: Birr (65550.00)
+Seat 6: Xirius1 (199241.00)
+Seat 7: paulaaronscholes (216796.00)
+Seat 8: alkzar (84025.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Birr posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+paulaaronscholes posts the small blind 1600.00
+alkzar posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Td Ah]
+Understood508 folds
+grotle raises 6400.00 to 6400.00
+Johnyyy calls 6400.00
+gonefisting folds
+Birr folds
+Xirius1 folds
+paulaaronscholes raises 36800.00 to 38400.00
+alkzar folds
+grotle calls 32000.00
+Johnyyy folds
+*** FLOP *** [8h Kc Qc]
+Main pot 89600.00
+paulaaronscholes checks
+grotle checks
+*** TURN *** [8h Kc Qc] [4h]
+Main pot 89600.00
+paulaaronscholes bets 44800.00
+grotle calls 44800.00
+*** RIVER *** [8h Kc Qc 4h] [2h]
+Main pot 179200.00
+paulaaronscholes bets 89600.00
+grotle raises 180120.00 to 180120.00 and is all-in
+paulaaronscholes folds
+Uncalled bet (90520.00) returned to grotle
+grotle shows [- Ah]
+*** SUMMARY ***
+Total pot 358400.00
+Board [8h Kc Qc 4h 2h]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [- Ah] and won 358400.00
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: paulaaronscholes (small blind) folded on the River
+Seat 8: alkzar (big blind) folded on the Pre-Flop
+
+Game Hand #2478778858 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:34:19 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Understood508 (81800.00)
+Seat 2: grotle (448920.00)
+Seat 3: Johnyyy (191075.00)
+Seat 4: gonefisting (120150.00)
+Seat 5: Birr (65150.00)
+Seat 6: Xirius1 (198841.00)
+Seat 7: paulaaronscholes (43596.00)
+Seat 8: alkzar (80425.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Birr posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+alkzar posts the small blind 1600.00
+Understood508 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [3h 8d]
+grotle folds
+Johnyyy calls 3200.00
+gonefisting raises 14400.00 to 14400.00
+Birr folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+Johnyyy calls 11200.00
+*** FLOP *** [5c 7d Qc]
+Main pot 36800.00
+Johnyyy checks
+gonefisting checks
+*** TURN *** [5c 7d Qc] [3s]
+Main pot 36800.00
+Johnyyy checks
+gonefisting bets 9200.00
+Johnyyy raises 23200.00 to 23200.00
+gonefisting calls 14000.00
+*** RIVER *** [5c 7d Qc 3s] [Ts]
+Main pot 83200.00
+Johnyyy bets 59200.00
+gonefisting folds
+Uncalled bet (59200.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 83200.00
+Board [5c 7d Qc 3s Ts]
+Seat 1: Understood508 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 83200.00
+Seat 4: gonefisting folded on the River
+Seat 5: Birr folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+Seat 8: alkzar (small blind) folded on the Pre-Flop
+
+Game Hand #2478779159 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:35:48 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: Understood508 (78200.00)
+Seat 2: grotle (448520.00)
+Seat 3: Johnyyy (236275.00)
+Seat 4: gonefisting (82150.00)
+Seat 6: Xirius1 (198441.00)
+Seat 7: paulaaronscholes (43196.00)
+Seat 8: alkzar (78425.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+Understood508 posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [4d As]
+Johnyyy folds
+gonefisting folds
+Xirius1 raises 6400.00 to 6400.00
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 4800.00
+grotle calls 3200.00
+*** FLOP *** [Ad 6d 6s]
+Main pot 22000.00
+Understood508 checks
+grotle checks
+Xirius1 checks
+*** TURN *** [Ad 6d 6s] [9h]
+Main pot 22000.00
+Understood508 bets 11000.00
+grotle calls 11000.00
+Xirius1 folds
+*** RIVER *** [Ad 6d 6s 9h] [Td]
+Main pot 44000.00
+Understood508 checks
+grotle bets 22000.00
+Understood508 folds
+Uncalled bet (22000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 44000.00
+Board [Ad 6d 6s 9h Td]
+Seat 1: Understood508 (small blind) folded on the River
+Seat 2: grotle did not show and won 44000.00
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Turn
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar (button) folded on the Pre-Flop
+
+Game Hand #2478779403 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:37:11 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Understood508 (60400.00)
+Seat 2: grotle (474720.00)
+Seat 3: Johnyyy (235875.00)
+Seat 4: gonefisting (81750.00)
+Seat 6: Xirius1 (191641.00)
+Seat 7: paulaaronscholes (42796.00)
+Seat 8: alkzar (78025.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+grotle posts the small blind 1600.00
+Johnyyy posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Jc 4d]
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 raises 6400.00 to 6400.00
+grotle folds
+Johnyyy calls 3200.00
+*** FLOP *** [Ac 4c 6d]
+Main pot 17200.00
+Johnyyy checks
+Understood508 checks
+*** TURN *** [Ac 4c 6d] [Ah]
+Main pot 17200.00
+Johnyyy bets 10200.00
+Understood508 folds
+Uncalled bet (10200.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 17200.00
+Board [Ac 4c 6d Ah]
+Seat 1: Understood508 (button) folded on the Turn
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Johnyyy did not show and won 17200.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478779650 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:38:23 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Understood508 (53600.00)
+Seat 2: grotle (472720.00)
+Seat 3: Johnyyy (246275.00)
+Seat 4: gonefisting (81350.00)
+Seat 6: Xirius1 (191241.00)
+Seat 7: paulaaronscholes (42396.00)
+Seat 8: alkzar (77625.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+Johnyyy posts the small blind 1600.00
+gonefisting posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7h Ac]
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle raises 6400.00 to 6400.00
+Johnyyy folds
+gonefisting calls 3200.00
+*** FLOP *** [6h Ks 3d]
+Main pot 17200.00
+gonefisting checks
+grotle checks
+*** TURN *** [6h Ks 3d] [9d]
+Main pot 17200.00
+gonefisting checks
+grotle checks
+*** RIVER *** [6h Ks 3d 9d] [Qs]
+Main pot 17200.00
+gonefisting checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 17200.00
+grotle shows [7h Ac] (a high card, Ace high [Ac Ks Qs 9d 7h])
+gonefisting shows [Ah Ts] (a high card, Ace high [Ah Ks Qs Ts 9d])
+gonefisting collected 17200.00 from main pot
+*** SUMMARY ***
+Total pot 17200.00
+Board [6h Ks 3d 9d Qs]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [7h Ac] and lost with a high card, Ace high [Ac Ks Qs 9d 7h]
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) showed [Ah Ts] and won 17200.00 with a high card, Ace high [Ah Ks Qs Ts 9d] with the kicker Ten
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478779842 - Tournament #33592580 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/11 12:39:25 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Understood508 (53200.00)
+Seat 2: grotle (465920.00)
+Seat 3: Johnyyy (244275.00)
+Seat 4: gonefisting (91750.00)
+Seat 6: Xirius1 (190841.00)
+Seat 7: paulaaronscholes (41996.00)
+Seat 8: alkzar (77225.00)
+Understood508 posts ante 400.00
+grotle posts ante 400.00
+Johnyyy posts ante 400.00
+gonefisting posts ante 400.00
+Xirius1 posts ante 400.00
+paulaaronscholes posts ante 400.00
+alkzar posts ante 400.00
+gonefisting posts the small blind 1600.00
+Xirius1 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [5d Qc]
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy folds
+gonefisting raises 4800.00 to 6400.00
+Xirius1 calls 3200.00
+*** FLOP *** [Qs 6h 8s]
+Main pot 15600.00
+gonefisting checks
+Xirius1 checks
+*** TURN *** [Qs 6h 8s] [2s]
+Main pot 15600.00
+gonefisting checks
+Xirius1 checks
+*** RIVER *** [Qs 6h 8s 2s] [Jc]
+Main pot 15600.00
+gonefisting checks
+Xirius1 checks
+*** SHOW DOWN ***
+Main pot 15600.00
+gonefisting shows [3d Kd] (a high card, King high [Kd Qs Jc 8s 6h])
+Xirius1 shows [As 4d] (a high card, Ace high [As Qs Jc 8s 6h])
+Xirius1 collected 15600.00 from main pot
+*** SUMMARY ***
+Total pot 15600.00
+Board [Qs 6h 8s 2s Jc]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy (button) folded on the Pre-Flop
+Seat 4: gonefisting (small blind) showed [3d Kd] and lost with a high card, King high [Kd Qs Jc 8s 6h]
+Seat 6: Xirius1 (big blind) showed [As 4d] and won 15600.00 with a high card, Ace high [As Qs Jc 8s 6h]
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478780078 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:40:34 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Understood508 (52800.00)
+Seat 2: grotle (465520.00)
+Seat 3: Johnyyy (243875.00)
+Seat 4: gonefisting (84950.00)
+Seat 6: Xirius1 (199641.00)
+Seat 7: paulaaronscholes (41596.00)
+Seat 8: alkzar (76825.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+Xirius1 posts the small blind 1800.00
+paulaaronscholes posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [8c 7d]
+alkzar folds
+Understood508 raises 52350.00 to 52350.00 and is all-in
+grotle folds
+Johnyyy folds
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+Uncalled bet (48750.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 12150.00
+Seat 1: Understood508 did not show and won 12150.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes (big blind) folded on the Pre-Flop
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478780195 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:41:10 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Understood508 (60900.00)
+Seat 2: grotle (465070.00)
+Seat 3: Johnyyy (243425.00)
+Seat 4: gonefisting (84500.00)
+Seat 6: Xirius1 (197391.00)
+Seat 7: paulaaronscholes (37546.00)
+Seat 8: alkzar (76375.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+paulaaronscholes posts the small blind 1800.00
+alkzar posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [8h Ac]
+Understood508 folds
+grotle folds
+Johnyyy folds
+gonefisting folds
+Xirius1 raises 9000.00 to 9000.00
+paulaaronscholes folds
+alkzar folds
+Uncalled bet (5400.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 12150.00
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 did not show and won 12150.00
+Seat 7: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 8: alkzar (big blind) folded on the Pre-Flop
+
+Game Hand #2478780311 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:41:42 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Understood508 (60450.00)
+Seat 2: grotle (464620.00)
+Seat 3: Johnyyy (242975.00)
+Seat 4: gonefisting (84050.00)
+Seat 6: Xirius1 (205491.00)
+Seat 7: paulaaronscholes (35296.00)
+Seat 8: alkzar (72325.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+alkzar posts the small blind 1800.00
+Understood508 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [7d 4d]
+grotle folds
+Johnyyy raises 7200.00 to 7200.00
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 3600.00
+*** FLOP *** [Kh 9s 7c]
+Main pot 19350.00
+Understood508 checks
+Johnyyy bets 7200.00
+Understood508 calls 7200.00
+*** TURN *** [Kh 9s 7c] [Jh]
+Main pot 33750.00
+Understood508 checks
+Johnyyy bets 12600.00
+Understood508 calls 12600.00
+*** RIVER *** [Kh 9s 7c Jh] [Qc]
+Main pot 58950.00
+Understood508 checks
+Johnyyy bets 215525.00 and is all-in
+Understood508 folds
+Uncalled bet (215525.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 58950.00
+Board [Kh 9s 7c Jh Qc]
+Seat 1: Understood508 (big blind) folded on the River
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 58950.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+Seat 8: alkzar (small blind) folded on the Pre-Flop
+
+Game Hand #2478780588 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:42:58 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: Understood508 (33000.00)
+Seat 2: grotle (464170.00)
+Seat 3: Johnyyy (274475.00)
+Seat 4: gonefisting (83600.00)
+Seat 6: Xirius1 (205041.00)
+Seat 7: paulaaronscholes (34846.00)
+Seat 8: alkzar (70075.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+Understood508 posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [4s 8s]
+Johnyyy folds
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 1800.00
+grotle raises 9000.00 to 12600.00
+Understood508 raises 28950.00 to 32550.00 and is all-in
+grotle folds
+Uncalled bet (19950.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 28350.00
+Seat 1: Understood508 did not show and won 28350.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar (button) folded on the Pre-Flop
+
+Game Hand #2478780828 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:44:05 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Understood508 (48300.00)
+Seat 2: grotle (451120.00)
+Seat 3: Johnyyy (274025.00)
+Seat 4: gonefisting (83150.00)
+Seat 6: Xirius1 (204591.00)
+Seat 7: paulaaronscholes (34396.00)
+Seat 8: alkzar (69625.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+grotle posts the small blind 1800.00
+Johnyyy posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5c 4d]
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 8550.00
+Seat 1: Understood508 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Johnyyy did not show and won 8550.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478780990 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:44:50 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Understood508 (47850.00)
+Seat 2: grotle (448870.00)
+Seat 3: Johnyyy (278525.00)
+Seat 4: gonefisting (82700.00)
+Seat 6: Xirius1 (204141.00)
+Seat 7: paulaaronscholes (33946.00)
+Seat 8: alkzar (69175.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+Johnyyy posts the small blind 1800.00
+gonefisting posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Ad 9h]
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 3600.00
+grotle raises 14400.00 to 14400.00
+Johnyyy folds
+gonefisting folds
+Understood508 raises 43800.00 to 47400.00 and is all-in
+grotle calls 33000.00
+*** FLOP *** [5c Qh Jh]
+Main pot 103350.00
+*** TURN *** [5c Qh Jh] [7c]
+Main pot 103350.00
+*** RIVER *** [5c Qh Jh 7c] [8s]
+Main pot 103350.00
+*** SHOW DOWN ***
+Main pot 103350.00
+Understood508 shows [9d As] (a high card, Ace high [As Qh Jh 9d 8s])
+grotle shows [Ad 9h] (a high card, Ace high [Ad Qh Jh 9h 8s])
+Understood508 collected 51675.00 from main pot
+grotle collected 51675.00 from main pot
+*** SUMMARY ***
+Total pot 103350.00
+Board [5c Qh Jh 7c 8s]
+Seat 1: Understood508 showed [9d As] and won 51675.00 with a high card, Ace high [As Qh Jh 9d 8s]
+Seat 2: grotle (button) showed [Ad 9h] and won 51675.00 with a high card, Ace high [Ad Qh Jh 9h 8s]
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478781192 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:45:47 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Understood508 (51675.00)
+Seat 2: grotle (452695.00)
+Seat 3: Johnyyy (276275.00)
+Seat 4: gonefisting (78650.00)
+Seat 6: Xirius1 (203691.00)
+Seat 7: paulaaronscholes (33496.00)
+Seat 8: alkzar (68725.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+gonefisting posts the small blind 1800.00
+Xirius1 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [2s 6h]
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle folds
+Johnyyy folds
+gonefisting raises 5400.00 to 7200.00
+Xirius1 calls 3600.00
+*** FLOP *** [Js Ah Qd]
+Main pot 17550.00
+gonefisting checks
+Xirius1 checks
+*** TURN *** [Js Ah Qd] [5s]
+Main pot 17550.00
+gonefisting bets 4388.00
+Xirius1 folds
+Uncalled bet (4388.00) returned to gonefisting
+gonefisting does not show
+*** SUMMARY ***
+Total pot 17550.00
+Board [Js Ah Qd 5s]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy (button) folded on the Pre-Flop
+Seat 4: gonefisting did not show and won 17550.00
+Seat 6: Xirius1 (big blind) folded on the Turn
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478781410 - Tournament #33592580 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/11 12:46:48 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Understood508 (51225.00)
+Seat 2: grotle (452245.00)
+Seat 3: Johnyyy (275825.00)
+Seat 4: gonefisting (88550.00)
+Seat 6: Xirius1 (196041.00)
+Seat 7: paulaaronscholes (33046.00)
+Seat 8: alkzar (68275.00)
+Understood508 posts ante 450.00
+grotle posts ante 450.00
+Johnyyy posts ante 450.00
+gonefisting posts ante 450.00
+Xirius1 posts ante 450.00
+paulaaronscholes posts ante 450.00
+alkzar posts ante 450.00
+Xirius1 posts the small blind 1800.00
+paulaaronscholes posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5c 3c]
+alkzar raises 7200.00 to 7200.00
+Understood508 folds
+grotle folds
+Johnyyy folds
+gonefisting folds
+Xirius1 folds
+paulaaronscholes calls 3600.00
+*** FLOP *** [9c Kd Kc]
+Main pot 19350.00
+paulaaronscholes checks
+alkzar checks
+*** TURN *** [9c Kd Kc] [5s]
+Main pot 19350.00
+paulaaronscholes bets 5796.00
+alkzar calls 5796.00
+*** RIVER *** [9c Kd Kc 5s] [3h]
+Main pot 30942.00
+paulaaronscholes bets 19600.00 and is all-in
+alkzar calls 19600.00
+*** SHOW DOWN ***
+Main pot 70142.00
+paulaaronscholes shows [Jc Kh] (three of a kind, Set of Kings [Kh Kd Kc Jc 9c])
+alkzar shows [Qh Ac] (a pair of Kings [Kd Kc Ac Qh 9c])
+paulaaronscholes collected 70142.00 from main pot
+*** SUMMARY ***
+Total pot 70142.00
+Board [9c Kd Kc 5s 3h]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes (big blind) showed [Jc Kh] and won 70142.00 with three of a kind, Set of Kings [Kh Kd Kc Jc 9c]
+Seat 8: alkzar showed [Qh Ac] and lost with a pair of Kings [Kd Kc Ac Qh 9c]
+
+Game Hand #2478781696 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:48:07 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Understood508 (50775.00)
+Seat 2: grotle (451795.00)
+Seat 3: Johnyyy (275375.00)
+Seat 4: gonefisting (88100.00)
+Seat 6: Xirius1 (193791.00)
+Seat 7: paulaaronscholes (70142.00)
+Seat 8: alkzar (35229.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+paulaaronscholes posts the small blind 2000.00
+alkzar posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [9s Td]
+Understood508 raises 10000.00 to 10000.00
+grotle folds
+Johnyyy folds
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar calls 6000.00
+*** FLOP *** [5c Qs Jh]
+Main pot 25500.00
+alkzar checks
+Understood508 checks
+*** TURN *** [5c Qs Jh] [5d]
+Main pot 25500.00
+alkzar checks
+Understood508 bets 40275.00 and is all-in
+alkzar folds
+Uncalled bet (40275.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 25500.00
+Board [5c Qs Jh 5d]
+Seat 1: Understood508 did not show and won 25500.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 8: alkzar (big blind) folded on the Turn
+
+Game Hand #2478781870 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:48:59 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Understood508 (65775.00)
+Seat 2: grotle (451295.00)
+Seat 3: Johnyyy (274875.00)
+Seat 4: gonefisting (87600.00)
+Seat 6: Xirius1 (193291.00)
+Seat 7: paulaaronscholes (67642.00)
+Seat 8: alkzar (24729.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+alkzar posts the small blind 2000.00
+Understood508 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [4s Jd]
+grotle folds
+Johnyyy raises 17500.00 to 17500.00
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+Uncalled bet (13500.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 13500.00
+Seat 1: Understood508 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 13500.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+Seat 8: alkzar (small blind) folded on the Pre-Flop
+
+Game Hand #2478781983 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:49:27 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: Understood508 (61275.00)
+Seat 2: grotle (450795.00)
+Seat 3: Johnyyy (283875.00)
+Seat 4: gonefisting (87100.00)
+Seat 6: Xirius1 (192791.00)
+Seat 7: paulaaronscholes (67142.00)
+Seat 8: alkzar (22229.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+Understood508 posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [4c 7c]
+Johnyyy folds
+gonefisting folds
+Xirius1 raises 8000.00 to 8000.00
+paulaaronscholes folds
+alkzar folds
+Understood508 folds
+grotle calls 4000.00
+*** FLOP *** [2s 8s Ts]
+Main pot 21500.00
+grotle checks
+Xirius1 bets 4280.00
+grotle folds
+Uncalled bet (4280.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 21500.00
+Board [2s 8s Ts]
+Seat 1: Understood508 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Flop
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 did not show and won 21500.00
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar (button) folded on the Pre-Flop
+
+Game Hand #2478782238 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:50:45 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Understood508 (58775.00)
+Seat 2: grotle (442295.00)
+Seat 3: Johnyyy (283375.00)
+Seat 4: gonefisting (86600.00)
+Seat 6: Xirius1 (205791.00)
+Seat 7: paulaaronscholes (66642.00)
+Seat 8: alkzar (21729.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+grotle posts the small blind 2000.00
+Johnyyy posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Ks Ts]
+gonefisting raises 8000.00 to 8000.00
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+Understood508 calls 8000.00
+grotle raises 29625.00 to 31625.00
+Johnyyy folds
+gonefisting raises 78100.00 to 86100.00 and is all-in
+Understood508 folds
+grotle calls 54475.00
+*** FLOP *** [3h 4c 2h]
+Main pot 187700.00
+*** TURN *** [3h 4c 2h] [9h]
+Main pot 187700.00
+*** RIVER *** [3h 4c 2h 9h] [7d]
+Main pot 187700.00
+*** SHOW DOWN ***
+Main pot 187700.00
+grotle shows [Ks Ts] (a high card, King high [Ks Ts 9h 7d 4c])
+gonefisting shows [Qd Qs] (a pair of Queens [Qs Qd 9h 7d 4c])
+gonefisting collected 187700.00 from main pot
+*** SUMMARY ***
+Total pot 187700.00
+Board [3h 4c 2h 9h 7d]
+Seat 1: Understood508 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) showed [Ks Ts] and lost with a high card, King high [Ks Ts 9h 7d 4c]
+Seat 3: Johnyyy (big blind) folded on the Pre-Flop
+Seat 4: gonefisting showed [Qd Qs] and won 187700.00 with a pair of Queens [Qs Qd 9h 7d 4c]
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478782438 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:51:39 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Understood508 (50275.00)
+Seat 2: grotle (355695.00)
+Seat 3: Johnyyy (278875.00)
+Seat 4: gonefisting (187700.00)
+Seat 6: Xirius1 (205291.00)
+Seat 7: paulaaronscholes (66142.00)
+Seat 8: alkzar (21229.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+Johnyyy posts the small blind 2000.00
+gonefisting posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [As 8d]
+Xirius1 folds
+paulaaronscholes raises 8000.00 to 8000.00
+alkzar folds
+Understood508 folds
+grotle raises 27125.00 to 27125.00
+Johnyyy folds
+gonefisting folds
+paulaaronscholes raises 57642.00 to 65642.00 and is all-in
+grotle calls 38517.00
+*** FLOP *** [2d 5c Th]
+Main pot 140784.00
+*** TURN *** [2d 5c Th] [9c]
+Main pot 140784.00
+*** RIVER *** [2d 5c Th 9c] [9d]
+Main pot 140784.00
+*** SHOW DOWN ***
+Main pot 140784.00
+grotle shows [As 8d] (a pair of Nines [9d 9c As Th 8d])
+paulaaronscholes shows [6h 6d] (two pair, Nines and Sixs [9d 9c 6h 6d Th])
+paulaaronscholes collected 140784.00 from main pot
+*** SUMMARY ***
+Total pot 140784.00
+Board [2d 5c Th 9c 9d]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [As 8d] and lost with a pair of Nines [9d 9c As Th 8d]
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes showed [6h 6d] and won 140784.00 with two pair, Nines and Sixs [9d 9c 6h 6d Th]
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478782674 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:52:43 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Understood508 (49775.00)
+Seat 2: grotle (289553.00)
+Seat 3: Johnyyy (276375.00)
+Seat 4: gonefisting (183200.00)
+Seat 6: Xirius1 (204791.00)
+Seat 7: paulaaronscholes (140784.00)
+Seat 8: alkzar (20729.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+gonefisting posts the small blind 2000.00
+Xirius1 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [9c 6d]
+paulaaronscholes folds
+alkzar folds
+Understood508 raises 10000.00 to 10000.00
+grotle calls 10000.00
+Johnyyy calls 10000.00
+gonefisting folds
+Xirius1 calls 6000.00
+*** FLOP *** [5h 2h 3h]
+Main pot 45500.00
+Xirius1 checks
+Understood508 checks
+grotle checks
+Johnyyy checks
+*** TURN *** [5h 2h 3h] [6h]
+Main pot 45500.00
+Xirius1 checks
+Understood508 checks
+grotle checks
+Johnyyy checks
+*** RIVER *** [5h 2h 3h 6h] [9s]
+Main pot 45500.00
+Xirius1 checks
+Understood508 checks
+grotle bets 11375.00
+Johnyyy folds
+Xirius1 calls 11375.00
+Understood508 folds
+*** SHOW DOWN ***
+Main pot 68250.00
+grotle shows [9c 6d] (two pair, Nines and Sixs [9s 9c 6h 6d 5h])
+Xirius1 shows [9h Qh] (a flush, Queen high [Qh 9h 6h 5h 3h])
+Xirius1 collected 68250.00 from main pot
+*** SUMMARY ***
+Total pot 68250.00
+Board [5h 2h 3h 6h 9s]
+Seat 1: Understood508 folded on the River
+Seat 2: grotle showed [9c 6d] and lost with two pair, Nines and Sixs [9s 9c 6h 6d 5h]
+Seat 3: Johnyyy (button) folded on the River
+Seat 4: gonefisting (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) showed [9h Qh] and won 68250.00 with a flush, Queen high [Qh 9h 6h 5h 3h]
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478783022 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 12:54:22 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Understood508 (39275.00)
+Seat 2: grotle (267678.00)
+Seat 3: Johnyyy (265875.00)
+Seat 4: gonefisting (180700.00)
+Seat 6: Xirius1 (251166.00)
+Seat 7: paulaaronscholes (140284.00)
+Seat 8: alkzar (20229.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+Xirius1 posts the small blind 2000.00
+paulaaronscholes posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Ah Jh]
+alkzar folds
+Understood508 folds
+grotle raises 8000.00 to 8000.00
+Johnyyy folds
+gonefisting folds
+Xirius1 folds
+paulaaronscholes calls 4000.00
+*** FLOP *** [4s 5d 7c]
+Main pot 21500.00
+paulaaronscholes bets 6440.00
+grotle calls 6440.00
+*** TURN *** [4s 5d 7c] [Js]
+Main pot 34380.00
+paulaaronscholes bets 17200.00
+grotle calls 17200.00
+*** RIVER *** [4s 5d 7c Js] [7d]
+Main pot 68780.00
+paulaaronscholes checks
+grotle bets 27195.00
+paulaaronscholes calls 27195.00
+*** SHOW DOWN ***
+Main pot 123170.00
+grotle shows [Ah Jh] (two pair, Jacks and Sevens [Js Jh 7d 7c Ah])
+paulaaronscholes shows [4d 3s] (two pair, Sevens and Fours [7d 7c 4s 4d Js])
+grotle collected 123170.00 from main pot
+*** SUMMARY ***
+Total pot 123170.00
+Board [4s 5d 7c Js 7d]
+Seat 1: Understood508 folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Ah Jh] and won 123170.00 with two pair, Jacks and Sevens [Js Jh 7d 7c Ah]
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes (big blind) showed [4d 3s] and lost with two pair, Sevens and Fours [7d 7c 4s 4d Js]
+Seat 8: alkzar folded on the Pre-Flop and did not bet
+
+Game Hand #2478783763 - Tournament #33592580 - Holdem (No Limit) - Level 10 (2000.00/4000.00) - 2025/06/11 13:01:00 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Understood508 (38775.00)
+Seat 2: grotle (331513.00)
+Seat 3: Johnyyy (265375.00)
+Seat 4: gonefisting (180200.00)
+Seat 6: Xirius1 (248666.00)
+Seat 7: paulaaronscholes (80949.00)
+Seat 8: alkzar (19729.00)
+Understood508 posts ante 500.00
+grotle posts ante 500.00
+Johnyyy posts ante 500.00
+gonefisting posts ante 500.00
+Xirius1 posts ante 500.00
+paulaaronscholes posts ante 500.00
+alkzar posts ante 500.00
+paulaaronscholes posts the small blind 2000.00
+alkzar posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Th Jc]
+Understood508 raises 38275.00 to 38275.00 and is all-in
+grotle folds
+Johnyyy folds
+gonefisting folds
+Xirius1 raises 248166.00 to 248166.00 and is all-in
+paulaaronscholes folds
+alkzar folds
+Uncalled bet (209891.00) returned to Xirius1
+*** FLOP *** [5h 3c 4d]
+Main pot 86050.00
+*** TURN *** [5h 3c 4d] [Qs]
+Main pot 86050.00
+*** RIVER *** [5h 3c 4d Qs] [9s]
+Main pot 86050.00
+*** SHOW DOWN ***
+Main pot 86050.00
+Understood508 shows [6d Qd] (a pair of Queens [Qs Qd 9s 6d 5h])
+Xirius1 shows [9h 9d] (three of a kind, Set of Nines [9s 9h 9d Qs 5h])
+Xirius1 collected 86050.00 from main pot
+*** SUMMARY ***
+Total pot 86050.00
+Board [5h 3c 4d Qs 9s]
+Seat 1: Understood508 showed [6d Qd] and lost with a pair of Queens [Qs Qd 9s 6d 5h]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) showed [9h 9d] and won 86050.00 with three of a kind, Set of Nines [9s 9h 9d Qs 5h]
+Seat 7: paulaaronscholes (small blind) folded on the Pre-Flop
+Seat 8: alkzar (big blind) folded on the Pre-Flop
+
+Game Hand #2478783902 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:01:49 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 2: grotle (331013.00)
+Seat 3: Johnyyy (264875.00)
+Seat 4: gonefisting (179700.00)
+Seat 6: Xirius1 (295941.00)
+Seat 7: paulaaronscholes (78449.00)
+Seat 8: alkzar (15229.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+alkzar posts ante 600.00
+alkzar posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Qh 2d]
+Johnyyy raises 17500.00 to 17500.00
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar folds
+grotle folds
+Uncalled bet (12500.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 16100.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: Johnyyy did not show and won 16100.00
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+Seat 8: alkzar (small blind) folded on the Pre-Flop
+
+Game Hand #2478784016 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:02:26 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 2: grotle (325413.00)
+Seat 3: Johnyyy (275375.00)
+Seat 4: gonefisting (179100.00)
+Seat 6: Xirius1 (295341.00)
+Seat 7: paulaaronscholes (77849.00)
+Seat 8: alkzar (12129.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+alkzar posts ante 600.00
+grotle posts the small blind 2500.00
+Johnyyy posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [2s 4c]
+gonefisting folds
+Xirius1 folds
+paulaaronscholes folds
+alkzar raises 11529.00 to 11529.00 and is all-in
+grotle folds
+Johnyyy calls 6529.00
+*** FLOP *** [3h Ah 7c]
+Main pot 29158.00
+*** TURN *** [3h Ah 7c] [Jd]
+Main pot 29158.00
+*** RIVER *** [3h Ah 7c Jd] [5d]
+Main pot 29158.00
+*** SHOW DOWN ***
+Main pot 29158.00
+Johnyyy shows [7h 7s] (three of a kind, Set of Sevens [7s 7h 7c Ah Jd])
+alkzar shows [Kd Kh] (a pair of Kings [Kh Kd Ah Jd 7c])
+Johnyyy collected 29158.00 from main pot
+*** SUMMARY ***
+Total pot 29158.00
+Board [3h Ah 7c Jd 5d]
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Johnyyy (big blind) showed [7h 7s] and won 29158.00 with three of a kind, Set of Sevens [7s 7h 7c Ah Jd]
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+Seat 8: alkzar (button) showed [Kd Kh] and lost with a pair of Kings [Kh Kd Ah Jd 7c]
+
+Game Hand #2478784117 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:02:55 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 2: grotle (322313.00)
+Seat 3: Johnyyy (292404.00)
+Seat 4: gonefisting (178500.00)
+Seat 6: Xirius1 (294741.00)
+Seat 7: paulaaronscholes (77249.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+Johnyyy posts the small blind 2500.00
+gonefisting posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to grotle [2d As]
+Xirius1 folds
+paulaaronscholes raises 10000.00 to 10000.00
+grotle calls 10000.00
+Johnyyy folds
+gonefisting folds
+*** FLOP *** [4s Th 7s]
+Main pot 30500.00
+paulaaronscholes checks
+grotle checks
+*** TURN *** [4s Th 7s] [6s]
+Main pot 30500.00
+paulaaronscholes checks
+grotle checks
+*** RIVER *** [4s Th 7s 6s] [Qh]
+Main pot 30500.00
+paulaaronscholes checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 30500.00
+grotle shows [2d As] (a high card, Ace high [As Qh Th 7s 6s])
+paulaaronscholes shows [8d Kd] (a high card, King high [Kd Qh Th 8d 7s])
+grotle collected 30500.00 from main pot
+*** SUMMARY ***
+Total pot 30500.00
+Board [4s Th 7s 6s Qh]
+Seat 2: grotle (button) showed [2d As] and won 30500.00 with a high card, Ace high [As Qh Th 7s 6s]
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes showed [8d Kd] and lost with a high card, King high [Kd Qh Th 8d 7s]
+
+Game Hand #2478784304 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:03:51 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Snupeee (81145.00)
+Seat 2: grotle (342213.00)
+Seat 3: Johnyyy (289304.00)
+Seat 4: gonefisting (172900.00)
+Seat 5: yespls (100000.00)
+Seat 6: Xirius1 (294141.00)
+Seat 7: paulaaronscholes (66649.00)
+Snupeee posts ante 600.00
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+gonefisting posts the small blind 2500.00
+yespls posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [8d Jh]
+Xirius1 folds
+paulaaronscholes folds
+Snupeee folds
+grotle folds
+Johnyyy raises 12500.00 to 12500.00
+gonefisting folds
+yespls folds
+Uncalled bet (7500.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 16700.00
+Seat 1: Snupeee folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 16700.00
+Seat 4: gonefisting (small blind) folded on the Pre-Flop
+Seat 5: yespls (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+
+Game Hand #2478784455 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:04:38 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Snupeee (80545.00)
+Seat 2: grotle (341613.00)
+Seat 3: Johnyyy (300404.00)
+Seat 4: gonefisting (169800.00)
+Seat 5: yespls (94400.00)
+Seat 6: Xirius1 (293541.00)
+Seat 7: paulaaronscholes (66049.00)
+Snupeee posts ante 600.00
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+yespls posts the small blind 2500.00
+Xirius1 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [Jc 4s]
+paulaaronscholes folds
+Snupeee raises 79945.00 to 79945.00 and is all-in
+grotle folds
+Johnyyy folds
+gonefisting calls 79945.00
+yespls folds
+Xirius1 folds
+*** FLOP *** [5h 2c 5d]
+Main pot 171590.00
+*** TURN *** [5h 2c 5d] [8h]
+Main pot 171590.00
+*** RIVER *** [5h 2c 5d 8h] [5c]
+Main pot 171590.00
+*** SHOW DOWN ***
+Main pot 171590.00
+Snupeee shows [Ah 2h] (a full house, Fives full of Deuces [5h 5d 5c 2h 2c])
+gonefisting shows [Ts Td] (a full house, Fives full of Tens [5h 5d 5c Ts Td])
+gonefisting collected 171590.00 from main pot
+*** SUMMARY ***
+Total pot 171590.00
+Board [5h 2c 5d 8h 5c]
+Seat 1: Snupeee showed [Ah 2h] and lost with a full house, Fives full of Deuces [5h 5d 5c 2h 2c]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting (button) showed [Ts Td] and won 171590.00 with a full house, Fives full of Tens [5h 5d 5c Ts Td]
+Seat 5: yespls (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+
+Game Hand #2478784757 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:05:44 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 2: grotle (341013.00)
+Seat 3: Johnyyy (299804.00)
+Seat 4: gonefisting (260845.00)
+Seat 5: yespls (91300.00)
+Seat 6: Xirius1 (287941.00)
+Seat 7: paulaaronscholes (65449.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+Xirius1 posts the small blind 2500.00
+paulaaronscholes posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Tc Kd]
+grotle folds
+Johnyyy folds
+gonefisting folds
+yespls folds
+Xirius1 raises 284841.00 to 287341.00 and is all-in
+paulaaronscholes folds
+Uncalled bet (282341.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 13600.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: yespls (button) folded on the Pre-Flop
+Seat 6: Xirius1 did not show and won 13600.00
+Seat 7: paulaaronscholes (big blind) folded on the Pre-Flop
+
+Game Hand #2478784898 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:06:15 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 2: grotle (340413.00)
+Seat 3: Johnyyy (299204.00)
+Seat 4: gonefisting (260245.00)
+Seat 5: yespls (90700.00)
+Seat 6: Xirius1 (295941.00)
+Seat 7: paulaaronscholes (59849.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+paulaaronscholes posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [7d 9h]
+Johnyyy folds
+gonefisting folds
+yespls raises 10000.00 to 10000.00
+Xirius1 raises 30000.00 to 30000.00
+paulaaronscholes folds
+grotle folds
+yespls folds
+Uncalled bet (20000.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 31100.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: yespls folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 did not show and won 31100.00
+Seat 7: paulaaronscholes (small blind) folded on the Pre-Flop
+
+Game Hand #2478785025 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:06:44 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 2: grotle (334813.00)
+Seat 3: Johnyyy (298604.00)
+Seat 4: gonefisting (259645.00)
+Seat 5: yespls (80100.00)
+Seat 6: Xirius1 (316441.00)
+Seat 7: paulaaronscholes (56749.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+grotle posts the small blind 2500.00
+Johnyyy posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [5d 9d]
+gonefisting folds
+yespls folds
+Xirius1 raises 10000.00 to 10000.00
+paulaaronscholes folds
+grotle calls 7500.00
+Johnyyy calls 5000.00
+*** FLOP *** [3c 7c Kh]
+Main pot 33600.00
+grotle checks
+Johnyyy checks
+Xirius1 bets 11100.00
+grotle folds
+Johnyyy calls 11100.00
+*** TURN *** [3c 7c Kh] [Qh]
+Main pot 55800.00
+Johnyyy checks
+Xirius1 bets 41850.00
+Johnyyy folds
+Uncalled bet (41850.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 55800.00
+Board [3c 7c Kh Qh]
+Seat 2: grotle (small blind) folded on the Flop
+Seat 3: Johnyyy (big blind) folded on the Turn
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: yespls folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 did not show and won 55800.00
+Seat 7: paulaaronscholes (button) folded on the Pre-Flop
+
+Game Hand #2478785365 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:08:02 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 2: grotle (324213.00)
+Seat 3: Johnyyy (276904.00)
+Seat 4: gonefisting (259045.00)
+Seat 5: yespls (79500.00)
+Seat 6: Xirius1 (350541.00)
+Seat 7: paulaaronscholes (56149.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+Johnyyy posts the small blind 2500.00
+gonefisting posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [3c 2c]
+yespls folds
+Xirius1 folds
+paulaaronscholes folds
+grotle raises 10000.00 to 10000.00
+Johnyyy folds
+gonefisting folds
+Uncalled bet (5000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 16100.00
+Seat 2: grotle did not show and won 16100.00
+Seat 3: Johnyyy (small blind) folded on the Pre-Flop
+Seat 4: gonefisting (big blind) folded on the Pre-Flop
+Seat 5: yespls folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+
+Game Hand #2478785440 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:08:19 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 2: grotle (334713.00)
+Seat 3: Johnyyy (273804.00)
+Seat 4: gonefisting (253445.00)
+Seat 5: yespls (78900.00)
+Seat 6: Xirius1 (349941.00)
+Seat 7: paulaaronscholes (55549.00)
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+gonefisting posts the small blind 2500.00
+yespls posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Td As]
+Xirius1 folds
+paulaaronscholes folds
+grotle raises 10000.00 to 10000.00
+Johnyyy folds
+gonefisting folds
+yespls calls 5000.00
+*** FLOP *** [Qh 4d 5s]
+Main pot 26100.00
+yespls checks
+grotle checks
+*** TURN *** [Qh 4d 5s] [Th]
+Main pot 26100.00
+yespls checks
+grotle checks
+*** RIVER *** [Qh 4d 5s Th] [7h]
+Main pot 26100.00
+yespls checks
+grotle bets 26100.00
+yespls folds
+Uncalled bet (26100.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 26100.00
+Board [Qh 4d 5s Th 7h]
+Seat 2: grotle did not show and won 26100.00
+Seat 3: Johnyyy (button) folded on the Pre-Flop
+Seat 4: gonefisting (small blind) folded on the Pre-Flop
+Seat 5: yespls (big blind) folded on the River
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+
+Game Hand #2478785815 - Tournament #33592580 - Holdem (No Limit) - Level 11 (2500.00/5000.00) - 2025/06/11 13:09:39 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Fildy (100000.00)
+Seat 2: grotle (350213.00)
+Seat 3: Johnyyy (273204.00)
+Seat 4: gonefisting (250345.00)
+Seat 5: yespls (68300.00)
+Seat 6: Xirius1 (349341.00)
+Seat 7: paulaaronscholes (54949.00)
+Fildy posts ante 600.00
+grotle posts ante 600.00
+Johnyyy posts ante 600.00
+gonefisting posts ante 600.00
+yespls posts ante 600.00
+Xirius1 posts ante 600.00
+paulaaronscholes posts ante 600.00
+yespls posts the small blind 2500.00
+Xirius1 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [9h Ks]
+paulaaronscholes folds
+Fildy folds
+grotle folds
+Johnyyy raises 12500.00 to 12500.00
+gonefisting folds
+yespls folds
+Xirius1 folds
+Uncalled bet (7500.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 16700.00
+Seat 1: Fildy folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy did not show and won 16700.00
+Seat 4: gonefisting (button) folded on the Pre-Flop
+Seat 5: yespls (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes folded on the Pre-Flop and did not bet
+
+Game Hand #2478786061 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:10:30 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: Fildy (99400.00)
+Seat 2: grotle (349613.00)
+Seat 3: Johnyyy (284304.00)
+Seat 4: gonefisting (249745.00)
+Seat 5: yespls (65200.00)
+Seat 6: Xirius1 (343741.00)
+Seat 7: paulaaronscholes (54349.00)
+Fildy posts ante 750.00
+grotle posts ante 750.00
+Johnyyy posts ante 750.00
+gonefisting posts ante 750.00
+yespls posts ante 750.00
+Xirius1 posts ante 750.00
+paulaaronscholes posts ante 750.00
+Xirius1 posts the small blind 3000.00
+paulaaronscholes posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Kh 6h]
+Fildy raises 12000.00 to 12000.00
+grotle folds
+Johnyyy folds
+gonefisting folds
+yespls folds
+Xirius1 folds
+paulaaronscholes calls 6000.00
+*** FLOP *** [Ad 5h 9s]
+Main pot 32250.00
+paulaaronscholes checks
+Fildy bets 12000.00
+paulaaronscholes calls 12000.00
+*** TURN *** [Ad 5h 9s] [9d]
+Main pot 56250.00
+paulaaronscholes checks
+Fildy bets 56250.00
+paulaaronscholes calls 29599.00 and is all-in
+Uncalled bet (26651.00) returned to Fildy
+*** RIVER *** [Ad 5h 9s 9d] [5s]
+Main pot 115448.00
+*** SHOW DOWN ***
+Main pot 115448.00
+Fildy shows [5d 6d] (a full house, Fives full of Nines [5s 5h 5d 9s 9d])
+paulaaronscholes shows [7d As] (two pair, Aces and Nines [As Ad 9s 9d 7d])
+Fildy collected 115448.00 from main pot
+*** SUMMARY ***
+Total pot 115448.00
+Board [Ad 5h 9s 9d 5s]
+Seat 1: Fildy showed [5d 6d] and won 115448.00 with a full house, Fives full of Nines [5s 5h 5d 9s 9d]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting folded on the Pre-Flop and did not bet
+Seat 5: yespls (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: paulaaronscholes (big blind) showed [7d As] and lost with two pair, Aces and Nines [As Ad 9s 9d 7d]
+

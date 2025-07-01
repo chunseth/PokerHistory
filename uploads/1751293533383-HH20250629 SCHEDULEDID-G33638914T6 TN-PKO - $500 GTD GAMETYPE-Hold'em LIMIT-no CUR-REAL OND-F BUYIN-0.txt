@@ -1,0 +1,1904 @@
+Game Hand #2492600438 - Tournament #33638914 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/06/29 23:42:41 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: 99beers1 (102188.00)
+Seat 2: reeaper714 (92140.00)
+Seat 3: Discin4ever (257941.00)
+Seat 4: vadushkin (141580.00)
+Seat 5: Mmccl30 (66135.00)
+Seat 6: Akunamatata1 (96425.00)
+Seat 7: grotle (100000.00)
+Seat 8: Timmay52 (141255.00)
+99beers1 posts ante 200.00
+reeaper714 posts ante 200.00
+Discin4ever posts ante 200.00
+vadushkin posts ante 200.00
+Mmccl30 posts ante 200.00
+Akunamatata1 posts ante 200.00
+grotle posts ante 200.00
+Timmay52 posts ante 200.00
+vadushkin posts the small blind 800.00
+Mmccl30 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Td 3c]
+Akunamatata1 folds
+grotle folds
+Timmay52 folds
+99beers1 folds
+reeaper714 raises 4400.00 to 4400.00
+Discin4ever calls 4400.00
+vadushkin folds
+Mmccl30 folds
+*** FLOP *** [5s 5h Ah]
+Main pot 12800.00
+reeaper714 checks
+Discin4ever checks
+*** TURN *** [5s 5h Ah] [Ad]
+Main pot 12800.00
+reeaper714 checks
+Discin4ever bets 11136.00
+reeaper714 folds
+Uncalled bet (11136.00) returned to Discin4ever
+Discin4ever does not show
+*** SUMMARY ***
+Total pot 12800.00
+Board [5s 5h Ah Ad]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Turn
+Seat 3: Discin4ever did not show and won 12800.00
+Seat 4: vadushkin (small blind) folded on the Pre-Flop
+Seat 5: Mmccl30 (big blind) folded on the Pre-Flop
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Timmay52 folded on the Pre-Flop and did not bet
+
+Game Hand #2492601148 - Tournament #33638914 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/06/29 23:43:29 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: 99beers1 (101988.00)
+Seat 2: reeaper714 (87540.00)
+Seat 3: Discin4ever (266141.00)
+Seat 4: vadushkin (140580.00)
+Seat 5: Mmccl30 (64335.00)
+Seat 6: Akunamatata1 (96225.00)
+Seat 7: grotle (99800.00)
+Seat 8: Timmay52 (141055.00)
+99beers1 posts ante 200.00
+reeaper714 posts ante 200.00
+Discin4ever posts ante 200.00
+vadushkin posts ante 200.00
+Mmccl30 posts ante 200.00
+Akunamatata1 posts ante 200.00
+grotle posts ante 200.00
+Timmay52 posts ante 200.00
+Mmccl30 posts the small blind 800.00
+Akunamatata1 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Ts 6d]
+grotle folds
+Timmay52 folds
+99beers1 folds
+reeaper714 folds
+Discin4ever calls 1600.00
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 checks
+*** FLOP *** [5s Ad 8h]
+Main pot 5600.00
+Akunamatata1 checks
+Discin4ever bets 1904.00
+Akunamatata1 calls 1904.00
+*** TURN *** [5s Ad 8h] [Jh]
+Main pot 9408.00
+Akunamatata1 checks
+Discin4ever bets 262437.00 and is all-in
+Akunamatata1 folds
+Uncalled bet (262437.00) returned to Discin4ever
+Discin4ever shows [As 8s]
+*** SUMMARY ***
+Total pot 9408.00
+Board [5s Ad 8h Jh]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever showed [As 8s] and won 9408.00
+Seat 4: vadushkin (button) folded on the Pre-Flop
+Seat 5: Mmccl30 (small blind) folded on the Pre-Flop
+Seat 6: Akunamatata1 (big blind) folded on the Turn
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Timmay52 folded on the Pre-Flop and did not bet
+
+Game Hand #2492602002 - Tournament #33638914 - Holdem (No Limit) - Level 4 (800.00/1600.00) - 2025/06/29 23:44:24 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: 99beers1 (101788.00)
+Seat 2: reeaper714 (87340.00)
+Seat 3: Discin4ever (271845.00)
+Seat 4: vadushkin (140380.00)
+Seat 5: Mmccl30 (63335.00)
+Seat 6: Akunamatata1 (92521.00)
+Seat 7: grotle (99600.00)
+Seat 8: Timmay52 (140855.00)
+99beers1 posts ante 200.00
+reeaper714 posts ante 200.00
+Discin4ever posts ante 200.00
+vadushkin posts ante 200.00
+Mmccl30 posts ante 200.00
+Akunamatata1 posts ante 200.00
+grotle posts ante 200.00
+Timmay52 posts ante 200.00
+Akunamatata1 posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Jh 4c]
+Timmay52 folds
+99beers1 folds
+reeaper714 folds
+Discin4ever raises 3360.00 to 3360.00
+vadushkin calls 3360.00
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+*** FLOP *** [6s Qs Kh]
+Main pot 10720.00
+Discin4ever checks
+vadushkin checks
+*** TURN *** [6s Qs Kh] [Th]
+Main pot 10720.00
+Discin4ever checks
+vadushkin checks
+*** RIVER *** [6s Qs Kh Th] [Js]
+Main pot 10720.00
+Discin4ever checks
+vadushkin checks
+*** SHOW DOWN ***
+Main pot 10720.00
+Discin4ever shows [9d 9s] (a straight, King high [Kh Qs Js Th 9s])
+vadushkin shows [2s 2d] (a pair of Deuces [2s 2d Kh Qs Js])
+Discin4ever collected 10720.00 from main pot
+*** SUMMARY ***
+Total pot 10720.00
+Board [6s Qs Kh Th Js]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever showed [9d 9s] and won 10720.00 with a straight, King high [Kh Qs Js Th 9s]
+Seat 4: vadushkin showed [2s 2d] and lost with a pair of Deuces [2s 2d Kh Qs Js]
+Seat 5: Mmccl30 (button) folded on the Pre-Flop
+Seat 6: Akunamatata1 (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: Timmay52 folded on the Pre-Flop and did not bet
+
+Game Hand #2492603131 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:45:36 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: 99beers1 (101588.00)
+Seat 2: reeaper714 (87140.00)
+Seat 3: Discin4ever (279005.00)
+Seat 4: vadushkin (136820.00)
+Seat 5: Mmccl30 (63135.00)
+Seat 6: Akunamatata1 (91521.00)
+Seat 7: grotle (97800.00)
+Seat 8: Timmay52 (140655.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+Timmay52 posts ante 225.00
+grotle posts the small blind 900.00
+Timmay52 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Qd 3h]
+99beers1 folds
+reeaper714 folds
+Discin4ever calls 1800.00
+vadushkin folds
+Mmccl30 calls 1800.00
+Akunamatata1 folds
+grotle folds
+Timmay52 checks
+*** FLOP *** [Qc Js 9s]
+Main pot 8100.00
+Timmay52 checks
+Discin4ever checks
+Mmccl30 bets 2025.00
+Timmay52 calls 2025.00
+Discin4ever calls 2025.00
+*** TURN *** [Qc Js 9s] [7d]
+Main pot 14175.00
+Timmay52 checks
+Discin4ever checks
+Mmccl30 bets 3544.00
+Timmay52 calls 3544.00
+Discin4ever calls 3544.00
+*** RIVER *** [Qc Js 9s 7d] [3c]
+Main pot 24807.00
+Timmay52 checks
+Discin4ever checks
+Mmccl30 checks
+*** SHOW DOWN ***
+Main pot 24807.00
+Discin4ever shows [Kc Ah] (a high card, Ace high [Ah Kc Qc Js 9s])
+Mmccl30 shows [As 7c] (a pair of Sevens [7d 7c As Qc Js])
+Timmay52 shows [Td Ts] (a pair of Tens [Ts Td Qc Js 9s])
+Timmay52 collected 24807.00 from main pot
+*** SUMMARY ***
+Total pot 24807.00
+Board [Qc Js 9s 7d 3c]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever showed [Kc Ah] and lost with a high card, Ace high [Ah Kc Qc Js 9s]
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 showed [As 7c] and lost with a pair of Sevens [7d 7c As Qc Js]
+Seat 6: Akunamatata1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: Timmay52 (big blind) showed [Td Ts] and won 24807.00 with a pair of Tens [Ts Td Qc Js 9s]
+
+Game Hand #2492604394 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:46:56 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: 99beers1 (101363.00)
+Seat 2: reeaper714 (86915.00)
+Seat 3: Discin4ever (271411.00)
+Seat 4: vadushkin (136595.00)
+Seat 5: Mmccl30 (55541.00)
+Seat 6: Akunamatata1 (91296.00)
+Seat 7: grotle (96675.00)
+Seat 8: Timmay52 (157868.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+Timmay52 posts ante 225.00
+Timmay52 posts the small blind 900.00
+99beers1 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Kh 6s]
+reeaper714 folds
+Discin4ever folds
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 folds
+grotle raises 3600.00 to 3600.00
+Timmay52 folds
+99beers1 calls 1800.00
+*** FLOP *** [7h Ac 8c]
+Main pot 9900.00
+99beers1 checks
+grotle checks
+*** TURN *** [7h Ac 8c] [Qs]
+Main pot 9900.00
+99beers1 checks
+grotle bets 2700.00
+99beers1 calls 2700.00
+*** RIVER *** [7h Ac 8c Qs] [Qh]
+Main pot 15300.00
+99beers1 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 15300.00
+99beers1 shows [8h Qc] (a full house, Queens full of Eights [Qs Qh Qc 8h 8c])
+grotle shows [Kh 6s] (a pair of Queens [Qs Qh Ac Kh 8c])
+99beers1 collected 15300.00 from main pot
+*** SUMMARY ***
+Total pot 15300.00
+Board [7h Ac 8c Qs Qh]
+Seat 1: 99beers1 (big blind) showed [8h Qc] and won 15300.00 with a full house, Queens full of Eights [Qs Qh Qc 8h 8c]
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) showed [Kh 6s] and lost with a pair of Queens [Qs Qh Ac Kh 8c]
+Seat 8: Timmay52 (small blind) folded on the Pre-Flop
+
+Game Hand #2492605796 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:48:22 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: 99beers1 (110138.00)
+Seat 2: reeaper714 (86690.00)
+Seat 3: Discin4ever (271186.00)
+Seat 4: vadushkin (136370.00)
+Seat 5: Mmccl30 (55316.00)
+Seat 6: Akunamatata1 (91071.00)
+Seat 7: grotle (90150.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+99beers1 posts the small blind 900.00
+reeaper714 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [Td 3h]
+Discin4ever calls 1800.00
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 raises 3600.00 to 3600.00
+grotle folds
+99beers1 folds
+reeaper714 folds
+Discin4ever calls 1800.00
+*** FLOP *** [As 4h 9c]
+Main pot 11475.00
+Discin4ever checks
+Akunamatata1 checks
+*** TURN *** [As 4h 9c] [6d]
+Main pot 11475.00
+Discin4ever checks
+Akunamatata1 checks
+*** RIVER *** [As 4h 9c 6d] [Kc]
+Main pot 11475.00
+Discin4ever bets 3902.00
+Akunamatata1 calls 3902.00
+*** SHOW DOWN ***
+Main pot 19279.00
+Discin4ever shows [Ks Js] (a pair of Kings [Ks Kc As Js 9c])
+Akunamatata1 shows [Kh Qs] (a pair of Kings [Kh Kc As Qs 9c])
+Akunamatata1 collected 19279.00 from main pot
+*** SUMMARY ***
+Total pot 19279.00
+Board [As 4h 9c 6d Kc]
+Seat 1: 99beers1 (small blind) folded on the Pre-Flop
+Seat 2: reeaper714 (big blind) folded on the Pre-Flop
+Seat 3: Discin4ever showed [Ks Js] and lost with a pair of Kings [Ks Kc As Js 9c]
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 showed [Kh Qs] and won 19279.00 with a pair of Kings [Kh Kc As Qs 9c] with the kicker Queen
+Seat 7: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2492607249 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:49:53 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: 99beers1 (109013.00)
+Seat 2: reeaper714 (84665.00)
+Seat 3: Discin4ever (263459.00)
+Seat 4: vadushkin (136145.00)
+Seat 5: Mmccl30 (55091.00)
+Seat 6: Akunamatata1 (102623.00)
+Seat 7: grotle (89925.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+reeaper714 posts the small blind 900.00
+Discin4ever posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [6s 4s]
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 folds
+grotle raises 3600.00 to 3600.00
+99beers1 folds
+reeaper714 calls 2700.00
+Discin4ever calls 1800.00
+*** FLOP *** [Jh 7s 4d]
+Main pot 12375.00
+reeaper714 checks
+Discin4ever checks
+grotle checks
+*** TURN *** [Jh 7s 4d] [Ts]
+Main pot 12375.00
+reeaper714 checks
+Discin4ever bets 4208.00
+grotle calls 4208.00
+reeaper714 calls 4208.00
+*** RIVER *** [Jh 7s 4d Ts] [7c]
+Main pot 24999.00
+reeaper714 checks
+Discin4ever checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 24999.00
+reeaper714 shows [7d 8d] (three of a kind, Set of Sevens [7s 7d 7c Jh Ts])
+Discin4ever shows [9h Jd] (two pair, Jacks and Sevens [Jh Jd 7s 7c Ts])
+grotle shows [6s 4s] (two pair, Sevens and Fours [7s 7c 4s 4d Jh])
+reeaper714 collected 24999.00 from main pot
+*** SUMMARY ***
+Total pot 24999.00
+Board [Jh 7s 4d Ts 7c]
+Seat 1: 99beers1 (button) folded on the Pre-Flop
+Seat 2: reeaper714 (small blind) showed [7d 8d] and won 24999.00 with three of a kind, Set of Sevens [7s 7d 7c Jh Ts]
+Seat 3: Discin4ever (big blind) showed [9h Jd] and lost with two pair, Jacks and Sevens [Jh Jd 7s 7c Ts]
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle showed [6s 4s] and lost with two pair, Sevens and Fours [7s 7c 4s 4d Jh]
+
+Game Hand #2492608184 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:50:52 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: 99beers1 (108788.00)
+Seat 2: reeaper714 (101631.00)
+Seat 3: Discin4ever (255426.00)
+Seat 4: vadushkin (135920.00)
+Seat 5: Mmccl30 (54866.00)
+Seat 6: Akunamatata1 (102398.00)
+Seat 7: grotle (81892.00)
+Seat 8: H2chick (100000.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+H2chick posts ante 225.00
+Discin4ever posts the small blind 900.00
+vadushkin posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Tc 8h]
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+H2chick raises 9000.00 to 9000.00
+99beers1 folds
+reeaper714 folds
+Discin4ever folds
+vadushkin folds
+Uncalled bet (7200.00) returned to H2chick
+H2chick does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 (button) folded on the Pre-Flop
+Seat 3: Discin4ever (small blind) folded on the Pre-Flop
+Seat 4: vadushkin (big blind) folded on the Pre-Flop
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: H2chick did not show and won 6300.00
+
+Game Hand #2492608665 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:51:23 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: 99beers1 (108563.00)
+Seat 2: reeaper714 (101406.00)
+Seat 3: Discin4ever (254301.00)
+Seat 4: vadushkin (133895.00)
+Seat 5: Mmccl30 (54641.00)
+Seat 6: Akunamatata1 (102173.00)
+Seat 7: grotle (81667.00)
+Seat 8: H2chick (104275.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+H2chick posts ante 225.00
+vadushkin posts the small blind 900.00
+Mmccl30 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jh Qc]
+Akunamatata1 folds
+grotle folds
+H2chick raises 6525.00 to 6525.00
+99beers1 folds
+reeaper714 folds
+Discin4ever folds
+vadushkin folds
+Mmccl30 calls 4725.00
+*** FLOP *** [7c 2d 3d]
+Main pot 15750.00
+Mmccl30 checks
+H2chick bets 24750.00
+Mmccl30 raises 47891.00 to 47891.00 and is all-in
+H2chick calls 23141.00
+*** TURN *** [7c 2d 3d] [5s]
+Main pot 111532.00
+*** RIVER *** [7c 2d 3d 5s] [Qd]
+Main pot 111532.00
+*** SHOW DOWN ***
+Main pot 111532.00
+Mmccl30 shows [Ah 4d] (a straight, Five high [5s 4d 3d 2d Ah])
+H2chick shows [Qh Jd] (a pair of Queens [Qh Qd Jd 7c 5s])
+Mmccl30 collected 111532.00 from main pot
+*** SUMMARY ***
+Total pot 111532.00
+Board [7c 2d 3d 5s Qd]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever (button) folded on the Pre-Flop
+Seat 4: vadushkin (small blind) folded on the Pre-Flop
+Seat 5: Mmccl30 (big blind) showed [Ah 4d] and won 111532.00 with a straight, Five high [5s 4d 3d 2d Ah]
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: H2chick showed [Qh Jd] and lost with a pair of Queens [Qh Qd Jd 7c 5s]
+
+Game Hand #2492609799 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:52:34 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: 99beers1 (108338.00)
+Seat 2: reeaper714 (101181.00)
+Seat 3: Discin4ever (254076.00)
+Seat 4: vadushkin (132770.00)
+Seat 5: Mmccl30 (111532.00)
+Seat 6: Akunamatata1 (101948.00)
+Seat 7: grotle (81442.00)
+Seat 8: H2chick (49634.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+H2chick posts ante 225.00
+Mmccl30 posts the small blind 900.00
+Akunamatata1 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [7c 6s]
+grotle folds
+H2chick folds
+99beers1 folds
+reeaper714 raises 4950.00 to 4950.00
+Discin4ever folds
+vadushkin folds
+Mmccl30 calls 4050.00
+Akunamatata1 folds
+*** FLOP *** [As 3c 6h]
+Main pot 13500.00
+Mmccl30 checks
+reeaper714 bets 6750.00
+Mmccl30 folds
+Uncalled bet (6750.00) returned to reeaper714
+reeaper714 does not show
+*** SUMMARY ***
+Total pot 13500.00
+Board [As 3c 6h]
+Seat 1: 99beers1 folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 did not show and won 13500.00
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin (button) folded on the Pre-Flop
+Seat 5: Mmccl30 (small blind) folded on the Flop
+Seat 6: Akunamatata1 (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: H2chick folded on the Pre-Flop and did not bet
+
+Game Hand #2492610714 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:53:32 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: 99beers1 (108113.00)
+Seat 2: reeaper714 (109506.00)
+Seat 3: Discin4ever (253851.00)
+Seat 4: vadushkin (132545.00)
+Seat 5: Mmccl30 (106357.00)
+Seat 6: Akunamatata1 (99923.00)
+Seat 7: grotle (81217.00)
+Seat 8: H2chick (49409.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+H2chick posts ante 225.00
+Akunamatata1 posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [9s 5h]
+H2chick raises 3600.00 to 3600.00
+99beers1 calls 3600.00
+reeaper714 calls 3600.00
+Discin4ever folds
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+*** FLOP *** [Th Jd 9c]
+Main pot 15300.00
+H2chick checks
+99beers1 checks
+reeaper714 checks
+*** TURN *** [Th Jd 9c] [Ah]
+Main pot 15300.00
+H2chick bets 45584.00 and is all-in
+99beers1 calls 45584.00
+reeaper714 folds
+*** RIVER *** [Th Jd 9c Ah] [Jh]
+Main pot 106468.00
+*** SHOW DOWN ***
+Main pot 106468.00
+99beers1 shows [Ad Qs] (two pair, Aces and Jacks [Ah Ad Jh Jd Qs])
+H2chick shows [Kh 6d] (a pair of Jacks [Jh Jd Ah Kh Th])
+99beers1 collected 106468.00 from main pot
+*** SUMMARY ***
+Total pot 106468.00
+Board [Th Jd 9c Ah Jh]
+Seat 1: 99beers1 showed [Ad Qs] and won 106468.00 with two pair, Aces and Jacks [Ah Ad Jh Jd Qs]
+Seat 2: reeaper714 folded on the Turn
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 (button) folded on the Pre-Flop
+Seat 6: Akunamatata1 (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: H2chick showed [Kh 6d] and lost with a pair of Jacks [Jh Jd Ah Kh Th]
+
+Game Hand #2492611822 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/29 23:54:42 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: 99beers1 (165172.00)
+Seat 2: reeaper714 (105681.00)
+Seat 3: Discin4ever (253626.00)
+Seat 4: vadushkin (132320.00)
+Seat 5: Mmccl30 (106132.00)
+Seat 6: Akunamatata1 (98798.00)
+Seat 7: grotle (79192.00)
+99beers1 posts ante 225.00
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+grotle posts the small blind 900.00
+99beers1 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [9s 8h]
+reeaper714 folds
+Discin4ever folds
+vadushkin raises 3600.00 to 3600.00
+Mmccl30 raises 7200.00 to 7200.00
+Akunamatata1 folds
+grotle folds
+99beers1 folds
+vadushkin calls 3600.00
+*** FLOP *** [5s Qc Tc]
+Main pot 18675.00
+vadushkin bets 7063.00
+Mmccl30 raises 98707.00 to 98707.00 and is all-in
+vadushkin calls 91644.00
+*** TURN *** [5s Qc Tc] [Kh]
+Main pot 216089.00
+*** RIVER *** [5s Qc Tc Kh] [5h]
+Main pot 216089.00
+*** SHOW DOWN ***
+Main pot 216089.00
+vadushkin shows [Qh As] (two pair, Queens and Fives [Qh Qc 5s 5h As])
+Mmccl30 shows [Ks Kd] (a full house, Kings full of Fives [Ks Kh Kd 5s 5h])
+Mmccl30 collected 216089.00 from main pot
+*** SUMMARY ***
+Total pot 216089.00
+Board [5s Qc Tc Kh 5h]
+Seat 1: 99beers1 (big blind) folded on the Pre-Flop
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin showed [Qh As] and lost with two pair, Queens and Fives [Qh Qc 5s 5h As]
+Seat 5: Mmccl30 showed [Ks Kd] and won 216089.00 with a full house, Kings full of Fives [Ks Kh Kd 5s 5h]
+Seat 6: Akunamatata1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2492614362 - Tournament #33638914 - Holdem (No Limit) - Level 5 (900.00/1800.00) - 2025/06/30 00:01:24 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 2: reeaper714 (105456.00)
+Seat 3: Discin4ever (253401.00)
+Seat 4: vadushkin (26188.00)
+Seat 5: Mmccl30 (216089.00)
+Seat 6: Akunamatata1 (98573.00)
+Seat 7: grotle (78067.00)
+Seat 8: Gnine99 will be allowed to play after the button
+reeaper714 posts ante 225.00
+Discin4ever posts ante 225.00
+vadushkin posts ante 225.00
+Mmccl30 posts ante 225.00
+Akunamatata1 posts ante 225.00
+grotle posts ante 225.00
+reeaper714 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Jd 9s]
+Discin4ever folds
+vadushkin folds
+Mmccl30 raises 3780.00 to 3780.00
+Akunamatata1 folds
+grotle folds
+reeaper714 folds
+Uncalled bet (1980.00) returned to Mmccl30
+Mmccl30 does not show
+*** SUMMARY ***
+Total pot 4950.00
+Seat 2: reeaper714 (big blind) folded on the Pre-Flop
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 did not show and won 4950.00
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+
+Game Hand #2492615042 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:02:13 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 2: reeaper714 (103431.00) is sitting out
+Seat 3: Discin4ever (253176.00)
+Seat 4: vadushkin (25963.00)
+Seat 5: Mmccl30 (219014.00)
+Seat 6: Akunamatata1 (98348.00)
+Seat 7: grotle (77842.00)
+Seat 8: Gnine99 (100000.00)
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+vadushkin posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+reeaper714 posts the small blind 1000.00
+Discin4ever posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [Ac 9c]
+vadushkin folds
+Mmccl30 folds
+Akunamatata1 folds
+grotle raises 4000.00 to 4000.00
+Gnine99 folds
+reeaper714 folds
+Discin4ever calls 2000.00
+*** FLOP *** [Qh As Ks]
+Main pot 10750.00
+Discin4ever checks
+grotle checks
+*** TURN *** [Qh As Ks] [4s]
+Main pot 10750.00
+Discin4ever checks
+grotle bets 4000.00
+Discin4ever calls 4000.00
+*** RIVER *** [Qh As Ks 4s] [Jd]
+Main pot 18750.00
+Discin4ever checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 18750.00
+Discin4ever shows [Kd 3s] (a pair of Kings [Ks Kd As Qh Jd])
+grotle shows [Ac 9c] (a pair of Aces [As Ac Ks Qh Jd])
+grotle collected 18750.00 from main pot
+*** SUMMARY ***
+Total pot 18750.00
+Board [Qh As Ks 4s Jd]
+Seat 2: reeaper714 (small blind) folded on the Pre-Flop
+Seat 3: Discin4ever (big blind) showed [Kd 3s] and lost with a pair of Kings [Ks Kd As Qh Jd]
+Seat 4: vadushkin folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle showed [Ac 9c] and won 18750.00 with a pair of Aces [As Ac Ks Qh Jd]
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492615853 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:03:09 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: 5eles (100000.00)
+Seat 2: reeaper714 (102181.00)
+Seat 3: Discin4ever (244926.00)
+Seat 4: vadushkin (25713.00)
+Seat 5: Mmccl30 (218764.00)
+Seat 6: Akunamatata1 (98098.00)
+Seat 7: grotle (88342.00)
+Seat 8: Gnine99 (99750.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+vadushkin posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+Discin4ever posts the small blind 1000.00
+vadushkin posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8s Qc]
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+Gnine99 raises 4000.00 to 4000.00
+5eles folds
+reeaper714 folds
+Discin4ever calls 3000.00
+vadushkin calls 2000.00
+*** FLOP *** [4c Qs Jh]
+Main pot 14000.00
+Discin4ever checks
+vadushkin checks
+Gnine99 bets 2000.00
+Discin4ever calls 2000.00
+vadushkin folds
+*** TURN *** [4c Qs Jh] [3s]
+Main pot 18000.00
+Discin4ever checks
+Gnine99 checks
+*** RIVER *** [4c Qs Jh 3s] [Kh]
+Main pot 18000.00
+Discin4ever bets 15660.00
+Gnine99 calls 15660.00
+*** SHOW DOWN ***
+Main pot 49320.00
+Discin4ever shows [Td Ad] (a straight, Ace high [Ad Kh Qs Jh Td])
+Gnine99 shows [Ac Kd] (a pair of Kings [Kh Kd Ac Qs Jh])
+Discin4ever collected 49320.00 from main pot
+*** SUMMARY ***
+Total pot 49320.00
+Board [4c Qs Jh 3s Kh]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 (button) folded on the Pre-Flop
+Seat 3: Discin4ever (small blind) showed [Td Ad] and won 49320.00 with a straight, Ace high [Ad Kh Qs Jh Td]
+Seat 4: vadushkin (big blind) folded on the Flop
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 showed [Ac Kd] and lost with a pair of Kings [Kh Kd Ac Qs Jh]
+
+Game Hand #2492617603 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:05:05 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: 5eles (99750.00)
+Seat 2: reeaper714 (101931.00)
+Seat 3: Discin4ever (272336.00)
+Seat 4: vadushkin (21463.00)
+Seat 5: Mmccl30 (218514.00)
+Seat 6: Akunamatata1 (97848.00)
+Seat 7: grotle (88092.00)
+Seat 8: Gnine99 (77840.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+vadushkin posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+vadushkin posts the small blind 1000.00
+Mmccl30 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ac Ks]
+Akunamatata1 folds
+grotle raises 4000.00 to 4000.00
+Gnine99 folds
+5eles calls 4000.00
+reeaper714 folds
+Discin4ever folds
+vadushkin folds
+Mmccl30 calls 2000.00
+*** FLOP *** [9c 9h 5h]
+Main pot 15000.00
+Mmccl30 checks
+grotle bets 4000.00
+5eles calls 4000.00
+Mmccl30 calls 4000.00
+*** TURN *** [9c 9h 5h] [Td]
+Main pot 27000.00
+Mmccl30 checks
+grotle checks
+5eles checks
+*** RIVER *** [9c 9h 5h Td] [Tc]
+Main pot 27000.00
+Mmccl30 checks
+grotle bets 7000.00
+5eles folds
+Mmccl30 folds
+Uncalled bet (7000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27000.00
+Board [9c 9h 5h Td Tc]
+Seat 1: 5eles folded on the River
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever (button) folded on the Pre-Flop
+Seat 4: vadushkin (small blind) folded on the Pre-Flop
+Seat 5: Mmccl30 (big blind) folded on the River
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle did not show and won 27000.00
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492619869 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:07:34 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: 5eles (91500.00)
+Seat 2: reeaper714 (101681.00)
+Seat 3: Discin4ever (272086.00)
+Seat 4: vadushkin (20213.00)
+Seat 5: Mmccl30 (210264.00)
+Seat 6: Akunamatata1 (97598.00)
+Seat 7: grotle (106842.00)
+Seat 8: Gnine99 (77590.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+vadushkin posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+Mmccl30 posts the small blind 1000.00
+Akunamatata1 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7h Qh]
+grotle folds
+Gnine99 folds
+5eles folds
+reeaper714 raises 5500.00 to 5500.00
+Discin4ever folds
+vadushkin raises 19963.00 to 19963.00 and is all-in
+Mmccl30 folds
+Akunamatata1 folds
+reeaper714 calls 14463.00
+*** FLOP *** [7c 8h 9h]
+Main pot 44926.00
+*** TURN *** [7c 8h 9h] [5c]
+Main pot 44926.00
+*** RIVER *** [7c 8h 9h 5c] [2d]
+Main pot 44926.00
+*** SHOW DOWN ***
+Main pot 44926.00
+reeaper714 shows [Ah Tc] (a high card, Ace high [Ah Tc 9h 8h 7c])
+vadushkin shows [8c Ks] (a pair of Eights [8h 8c Ks 9h 7c])
+vadushkin collected 44926.00 from main pot
+*** SUMMARY ***
+Total pot 44926.00
+Board [7c 8h 9h 5c 2d]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 showed [Ah Tc] and lost with a high card, Ace high [Ah Tc 9h 8h 7c]
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: vadushkin (button) showed [8c Ks] and won 44926.00 with a pair of Eights [8h 8c Ks 9h 7c]
+Seat 5: Mmccl30 (small blind) folded on the Pre-Flop
+Seat 6: Akunamatata1 (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492620851 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:08:35 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: 5eles (91250.00)
+Seat 2: reeaper714 (81468.00)
+Seat 3: Discin4ever (271836.00)
+Seat 4: vadushkin (44926.00)
+Seat 5: Mmccl30 (209014.00)
+Seat 6: Akunamatata1 (95348.00)
+Seat 7: grotle (106592.00)
+Seat 8: Gnine99 (77340.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+vadushkin posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+Akunamatata1 posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7h Jd]
+Gnine99 folds
+5eles folds
+reeaper714 folds
+Discin4ever raises 4200.00 to 4200.00
+vadushkin raises 44676.00 to 44676.00 and is all-in
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+Discin4ever calls 40476.00
+*** FLOP *** [3d 8d 9c]
+Main pot 94352.00
+*** TURN *** [3d 8d 9c] [Qh]
+Main pot 94352.00
+*** RIVER *** [3d 8d 9c Qh] [Kc]
+Main pot 94352.00
+*** SHOW DOWN ***
+Main pot 94352.00
+Discin4ever shows [As Ad] (a pair of Aces [As Ad Kc Qh 9c])
+vadushkin shows [2c Ac] (a high card, Ace high [Ac Kc Qh 9c 8d])
+Discin4ever collected 94352.00 from main pot
+*** SUMMARY ***
+Total pot 94352.00
+Board [3d 8d 9c Qh Kc]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever showed [As Ad] and won 94352.00 with a pair of Aces [As Ad Kc Qh 9c]
+Seat 4: vadushkin showed [2c Ac] and lost with a high card, Ace high [Ac Kc Qh 9c 8d]
+Seat 5: Mmccl30 (button) folded on the Pre-Flop
+Seat 6: Akunamatata1 (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492621988 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:09:48 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: 5eles (91000.00)
+Seat 2: reeaper714 (81218.00)
+Seat 3: Discin4ever (321262.00)
+Seat 5: Mmccl30 (208764.00)
+Seat 6: Akunamatata1 (94098.00)
+Seat 7: grotle (104342.00)
+Seat 8: Gnine99 (77090.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+grotle posts the small blind 1000.00
+Gnine99 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [5d Qs]
+5eles folds
+reeaper714 raises 4000.00 to 4000.00
+Discin4ever folds
+Mmccl30 calls 4000.00
+Akunamatata1 folds
+grotle folds
+Gnine99 raises 9375.00 to 11375.00
+reeaper714 calls 7375.00
+Mmccl30 calls 7375.00
+*** FLOP *** [3d 6c 6h]
+Main pot 36875.00
+Gnine99 bets 2000.00
+reeaper714 folds
+Mmccl30 calls 2000.00
+*** TURN *** [3d 6c 6h] [Qd]
+Main pot 40875.00
+Gnine99 bets 2000.00
+Mmccl30 calls 2000.00
+*** RIVER *** [3d 6c 6h Qd] [Ks]
+Main pot 44875.00
+Gnine99 bets 2000.00
+Mmccl30 folds
+Uncalled bet (2000.00) returned to Gnine99
+Gnine99 does not show
+*** SUMMARY ***
+Total pot 44875.00
+Board [3d 6c 6h Qd Ks]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Flop
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the River
+Seat 6: Akunamatata1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: Gnine99 did not show and won 44875.00
+
+Game Hand #2492623176 - Tournament #33638914 - Holdem (No Limit) - Level 6 (1000.00/2000.00) - 2025/06/30 00:11:02 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: 5eles (90750.00)
+Seat 2: reeaper714 (69593.00)
+Seat 3: Discin4ever (321012.00)
+Seat 5: Mmccl30 (193139.00)
+Seat 6: Akunamatata1 (93848.00)
+Seat 7: grotle (103092.00)
+Seat 8: Gnine99 (106340.00)
+5eles posts ante 250.00
+reeaper714 posts ante 250.00
+Discin4ever posts ante 250.00
+Mmccl30 posts ante 250.00
+Akunamatata1 posts ante 250.00
+grotle posts ante 250.00
+Gnine99 posts ante 250.00
+Gnine99 posts the small blind 1000.00
+5eles posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [2d 8h]
+reeaper714 folds
+Discin4ever folds
+Mmccl30 folds
+Akunamatata1 raises 4000.00 to 4000.00
+grotle folds
+Gnine99 folds
+5eles raises 88500.00 to 90500.00 and is all-in
+Akunamatata1 folds
+Uncalled bet (86500.00) returned to 5eles
+5eles does not show
+*** SUMMARY ***
+Total pot 10750.00
+Seat 1: 5eles did not show and won 10750.00
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: Gnine99 (small blind) folded on the Pre-Flop
+
+Game Hand #2492623991 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:11:56 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: 5eles (97250.00)
+Seat 2: reeaper714 (69343.00)
+Seat 3: Discin4ever (320762.00)
+Seat 4: Muck3msayuh (100000.00)
+Seat 5: Mmccl30 (192889.00)
+Seat 6: Akunamatata1 (89598.00)
+Seat 7: grotle (102842.00)
+Seat 8: Gnine99 (105090.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+Discin4ever posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+Akunamatata1 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+5eles posts the small blind 1200.00
+reeaper714 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [3s 5s]
+Discin4ever folds
+Muck3msayuh folds
+Mmccl30 folds
+Akunamatata1 folds
+grotle calls 2400.00
+Gnine99 folds
+5eles folds
+reeaper714 checks
+*** FLOP *** [Jh 9c 3d]
+Main pot 8400.00
+reeaper714 checks
+grotle checks
+*** TURN *** [Jh 9c 3d] [Td]
+Main pot 8400.00
+reeaper714 checks
+grotle checks
+*** RIVER *** [Jh 9c 3d Td] [As]
+Main pot 8400.00
+reeaper714 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 8400.00
+reeaper714 shows [4s Ad] (a pair of Aces [As Ad Jh Td 9c])
+grotle shows [3s 5s] (a pair of Threes [3s 3d As Jh Td])
+reeaper714 collected 8400.00 from main pot
+*** SUMMARY ***
+Total pot 8400.00
+Board [Jh 9c 3d Td As]
+Seat 1: 5eles (small blind) folded on the Pre-Flop
+Seat 2: reeaper714 (big blind) showed [4s Ad] and won 8400.00 with a pair of Aces [As Ad Jh Td 9c]
+Seat 3: Discin4ever folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle showed [3s 5s] and lost with a pair of Threes [3s 3d As Jh Td]
+Seat 8: Gnine99 (button) folded on the Pre-Flop
+
+Game Hand #2492625218 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:13:16 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: 5eles (95750.00)
+Seat 2: reeaper714 (75043.00)
+Seat 3: Discin4ever (320462.00)
+Seat 4: Muck3msayuh (99700.00)
+Seat 5: Mmccl30 (192589.00)
+Seat 6: Akunamatata1 (89298.00)
+Seat 7: grotle (100142.00)
+Seat 8: Gnine99 (104790.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+Discin4ever posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+Akunamatata1 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+reeaper714 posts the small blind 1200.00
+Discin4ever posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Kc 6c]
+Muck3msayuh folds
+Mmccl30 folds
+Akunamatata1 raises 4800.00 to 4800.00
+grotle calls 4800.00
+Gnine99 folds
+5eles folds
+reeaper714 calls 3600.00
+Discin4ever calls 2400.00
+*** FLOP *** [4d 4s 3s]
+Main pot 21600.00
+reeaper714 checks
+Discin4ever checks
+Akunamatata1 bets 5400.00
+grotle folds
+reeaper714 folds
+Discin4ever folds
+Uncalled bet (5400.00) returned to Akunamatata1
+Akunamatata1 does not show
+*** SUMMARY ***
+Total pot 21600.00
+Board [4d 4s 3s]
+Seat 1: 5eles (button) folded on the Pre-Flop
+Seat 2: reeaper714 (small blind) folded on the Flop
+Seat 3: Discin4ever (big blind) folded on the Flop
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 did not show and won 21600.00
+Seat 7: grotle folded on the Flop
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492626503 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:14:39 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: 5eles (95450.00)
+Seat 2: reeaper714 (69943.00) is sitting out
+Seat 3: Discin4ever (315362.00)
+Seat 4: Muck3msayuh (99400.00)
+Seat 5: Mmccl30 (192289.00)
+Seat 6: Akunamatata1 (105798.00)
+Seat 7: grotle (95042.00)
+Seat 8: Gnine99 (104490.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+Discin4ever posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+Akunamatata1 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+Discin4ever posts the small blind 1200.00
+Muck3msayuh posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [3s Jd]
+Mmccl30 folds
+Akunamatata1 folds
+grotle folds
+Gnine99 folds
+5eles raises 4800.00 to 4800.00
+reeaper714 folds
+Discin4ever folds
+Muck3msayuh calls 2400.00
+*** FLOP *** [8d Tc 4h]
+Main pot 13200.00
+Muck3msayuh checks
+5eles checks
+*** TURN *** [8d Tc 4h] [8s]
+Main pot 13200.00
+Muck3msayuh checks
+5eles checks
+*** RIVER *** [8d Tc 4h 8s] [3d]
+Main pot 13200.00
+Muck3msayuh checks
+5eles checks
+*** SHOW DOWN ***
+Main pot 13200.00
+5eles shows [9h Ac] (a pair of Eights [8s 8d Ac Tc 9h])
+Muck3msayuh shows [Qd Kd] (a pair of Eights [8s 8d Kd Qd Tc])
+5eles collected 13200.00 from main pot
+*** SUMMARY ***
+Total pot 13200.00
+Board [8d Tc 4h 8s 3d]
+Seat 1: 5eles showed [9h Ac] and won 13200.00 with a pair of Eights [8s 8d Ac Tc 9h] with the kicker Ace
+Seat 2: reeaper714 (button) folded on the Pre-Flop
+Seat 3: Discin4ever (small blind) folded on the Pre-Flop
+Seat 4: Muck3msayuh (big blind) showed [Qd Kd] and lost with a pair of Eights [8s 8d Kd Qd Tc]
+Seat 5: Mmccl30 folded on the Pre-Flop and did not bet
+Seat 6: Akunamatata1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492627532 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:15:45 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: 5eles (103550.00)
+Seat 2: reeaper714 (69643.00)
+Seat 4: Muck3msayuh (94300.00)
+Seat 5: Mmccl30 (191989.00)
+Seat 7: grotle (94742.00)
+Seat 8: Gnine99 (104190.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+Muck3msayuh posts the small blind 1200.00
+Mmccl30 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [3s Jh]
+grotle folds
+Gnine99 raises 8250.00 to 8250.00
+5eles folds
+reeaper714 folds
+Muck3msayuh folds
+Mmccl30 calls 5850.00
+*** FLOP *** [5h Td Kc]
+Main pot 19500.00
+Mmccl30 checks
+Gnine99 bets 4875.00
+Mmccl30 calls 4875.00
+*** TURN *** [5h Td Kc] [3h]
+Main pot 29250.00
+Mmccl30 checks
+Gnine99 bets 9346.00
+Mmccl30 calls 9346.00
+*** RIVER *** [5h Td Kc 3h] [4c]
+Main pot 47942.00
+Mmccl30 checks
+Gnine99 bets 12212.00
+Mmccl30 calls 12212.00
+*** SHOW DOWN ***
+Main pot 72366.00
+Mmccl30 shows [5d 7d] (a pair of Fives [5h 5d Kc Td 7d])
+Gnine99 shows [Qh Ks] (a pair of Kings [Ks Kc Qh Td 5h])
+Gnine99 collected 72366.00 from main pot
+*** SUMMARY ***
+Total pot 72366.00
+Board [5h Td Kc 3h 4c]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh (small blind) folded on the Pre-Flop
+Seat 5: Mmccl30 (big blind) showed [5d 7d] and lost with a pair of Fives [5h 5d Kc Td 7d]
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 showed [Qh Ks] and won 72366.00 with a pair of Kings [Ks Kc Qh Td 5h]
+
+Game Hand #2492629097 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:17:29 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: 5eles (103250.00)
+Seat 2: reeaper714 (69343.00)
+Seat 4: Muck3msayuh (92800.00)
+Seat 5: Mmccl30 (157006.00)
+Seat 7: grotle (94442.00)
+Seat 8: Gnine99 (141573.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+Mmccl30 posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Kc 9h]
+Gnine99 raises 10200.00 to 10200.00
+5eles folds
+reeaper714 folds
+Muck3msayuh folds
+Mmccl30 calls 9000.00
+grotle folds
+*** FLOP *** [8s Ks Qc]
+Main pot 24600.00
+Mmccl30 checks
+Gnine99 bets 6150.00
+Mmccl30 calls 6150.00
+*** TURN *** [8s Ks Qc] [2h]
+Main pot 36900.00
+Mmccl30 checks
+Gnine99 bets 9225.00
+Mmccl30 folds
+Uncalled bet (9225.00) returned to Gnine99
+Gnine99 does not show
+*** SUMMARY ***
+Total pot 36900.00
+Board [8s Ks Qc 2h]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh (button) folded on the Pre-Flop
+Seat 5: Mmccl30 (small blind) folded on the Turn
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: Gnine99 did not show and won 36900.00
+
+Game Hand #2492630025 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:18:32 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: 5eles (102950.00)
+Seat 2: reeaper714 (69043.00)
+Seat 3: catrakaa (51030.00)
+Seat 4: Muck3msayuh (92500.00)
+Seat 5: Mmccl30 (140356.00)
+Seat 6: TeGz will be allowed to play after the button
+Seat 7: grotle (91742.00)
+Seat 8: Gnine99 (161823.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+catrakaa posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+grotle posts the small blind 1200.00
+Gnine99 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qh 6s]
+5eles raises 4800.00 to 4800.00
+reeaper714 raises 16275.00 to 16275.00
+catrakaa folds
+Muck3msayuh folds
+Mmccl30 folds
+grotle folds
+Gnine99 folds
+5eles folds
+Uncalled bet (11475.00) returned to reeaper714
+reeaper714 does not show
+*** SUMMARY ***
+Total pot 15300.00
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 did not show and won 15300.00
+Seat 3: catrakaa folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: Gnine99 (big blind) folded on the Pre-Flop
+
+Game Hand #2492630571 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:19:08 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: 5eles (97850.00) is sitting out
+Seat 2: reeaper714 (79243.00)
+Seat 3: catrakaa (50730.00)
+Seat 4: Muck3msayuh (92200.00)
+Seat 5: Mmccl30 (140056.00)
+Seat 6: TeGz (100000.00)
+Seat 7: grotle (90242.00)
+Seat 8: Gnine99 (159123.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+catrakaa posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+TeGz posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+Gnine99 posts the small blind 1200.00
+5eles posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7h 5h]
+reeaper714 folds
+catrakaa folds
+Muck3msayuh folds
+Mmccl30 raises 5040.00 to 5040.00
+TeGz folds
+grotle folds
+Gnine99 calls 3840.00
+5eles folds
+*** FLOP *** [2s 4c Jh]
+Main pot 14880.00
+Gnine99 checks
+Mmccl30 checks
+*** TURN *** [2s 4c Jh] [3s]
+Main pot 14880.00
+Gnine99 bets 5064.00
+Mmccl30 calls 5064.00
+*** RIVER *** [2s 4c Jh 3s] [8d]
+Main pot 25008.00
+Gnine99 checks
+Mmccl30 checks
+*** SHOW DOWN ***
+Main pot 25008.00
+Mmccl30 shows [Qd Ah] (a high card, Ace high [Ah Qd Jh 8d 4c])
+Gnine99 shows [Qh Jc] (a pair of Jacks [Jh Jc Qh 8d 4c])
+Gnine99 collected 25008.00 from main pot
+*** SUMMARY ***
+Total pot 25008.00
+Board [2s 4c Jh 3s 8d]
+Seat 1: 5eles (big blind) folded on the Pre-Flop
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: catrakaa folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 showed [Qd Ah] and lost with a high card, Ace high [Ah Qd Jh 8d 4c]
+Seat 6: TeGz folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: Gnine99 (small blind) showed [Qh Jc] and won 25008.00 with a pair of Jacks [Jh Jc Qh 8d 4c]
+
+Game Hand #2492631563 - Tournament #33638914 - Holdem (No Limit) - Level 7 (1200.00/2400.00) - 2025/06/30 00:20:13 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: 5eles (95150.00)
+Seat 2: reeaper714 (78943.00)
+Seat 3: catrakaa (50430.00)
+Seat 4: Muck3msayuh (91900.00)
+Seat 5: Mmccl30 (129652.00)
+Seat 6: TeGz (99700.00)
+Seat 7: grotle (89942.00)
+Seat 8: Gnine99 (173727.00)
+5eles posts ante 300.00
+reeaper714 posts ante 300.00
+catrakaa posts ante 300.00
+Muck3msayuh posts ante 300.00
+Mmccl30 posts ante 300.00
+TeGz posts ante 300.00
+grotle posts ante 300.00
+Gnine99 posts ante 300.00
+5eles posts the small blind 1200.00
+reeaper714 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [4c Kc]
+catrakaa folds
+Muck3msayuh folds
+Mmccl30 raises 5040.00 to 5040.00
+TeGz calls 5040.00
+grotle folds
+Gnine99 folds
+5eles calls 3840.00
+reeaper714 folds
+*** FLOP *** [2c 5d 9d]
+Main pot 19920.00
+5eles checks
+Mmccl30 checks
+TeGz checks
+*** TURN *** [2c 5d 9d] [Ah]
+Main pot 19920.00
+5eles checks
+Mmccl30 bets 4980.00
+TeGz calls 4980.00
+5eles folds
+*** RIVER *** [2c 5d 9d Ah] [3s]
+Main pot 29880.00
+Mmccl30 bets 7470.00
+TeGz raises 41085.00 to 41085.00
+Mmccl30 folds
+Uncalled bet (33615.00) returned to TeGz
+TeGz does not show
+*** SUMMARY ***
+Total pot 44820.00
+Board [2c 5d 9d Ah 3s]
+Seat 1: 5eles (small blind) folded on the Turn
+Seat 2: reeaper714 (big blind) folded on the Pre-Flop
+Seat 3: catrakaa folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the River
+Seat 6: TeGz did not show and won 44820.00
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 (button) folded on the Pre-Flop
+
+Game Hand #2492634077 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:22:59 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: 5eles (89810.00)
+Seat 2: reeaper714 (76243.00)
+Seat 3: catrakaa (50130.00)
+Seat 4: Muck3msayuh (91600.00)
+Seat 5: Mmccl30 (111862.00)
+Seat 6: TeGz (126730.00)
+Seat 7: grotle (89642.00)
+Seat 8: Gnine99 (173427.00) is sitting out
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+catrakaa posts ante 350.00
+Muck3msayuh posts ante 350.00
+Mmccl30 posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+reeaper714 posts the small blind 1400.00
+catrakaa posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2c Ah]
+Muck3msayuh folds
+Mmccl30 calls 2800.00
+TeGz folds
+grotle folds
+Gnine99 folds
+5eles folds
+reeaper714 folds
+catrakaa checks
+*** FLOP *** [6h Qd Ks]
+Main pot 9800.00
+catrakaa checks
+Mmccl30 checks
+*** TURN *** [6h Qd Ks] [6d]
+Main pot 9800.00
+catrakaa bets 4900.00
+Mmccl30 folds
+Uncalled bet (4900.00) returned to catrakaa
+catrakaa does not show
+*** SUMMARY ***
+Total pot 9800.00
+Board [6h Qd Ks 6d]
+Seat 1: 5eles (button) folded on the Pre-Flop
+Seat 2: reeaper714 (small blind) folded on the Pre-Flop
+Seat 3: catrakaa did not show and won 9800.00
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mmccl30 folded on the Turn
+Seat 6: TeGz folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492635302 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:24:20 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: 5eles (89460.00)
+Seat 2: reeaper714 (74493.00)
+Seat 3: catrakaa (56780.00)
+Seat 4: Muck3msayuh (91250.00)
+Seat 6: TeGz (126380.00)
+Seat 7: grotle (89292.00) is sitting out
+Seat 8: Gnine99 (173077.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+catrakaa posts ante 350.00
+Muck3msayuh posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+catrakaa posts the small blind 1400.00
+Muck3msayuh posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Ad 8c]
+TeGz folds
+grotle folds
+Gnine99 folds
+5eles raises 5600.00 to 5600.00
+reeaper714 folds
+catrakaa folds
+Muck3msayuh folds
+Uncalled bet (2800.00) returned to 5eles
+5eles does not show
+*** SUMMARY ***
+Total pot 9450.00
+Seat 1: 5eles did not show and won 9450.00
+Seat 2: reeaper714 (button) folded on the Pre-Flop
+Seat 3: catrakaa (small blind) folded on the Pre-Flop
+Seat 4: Muck3msayuh (big blind) folded on the Pre-Flop
+Seat 6: TeGz folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492635943 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:25:05 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: 5eles (95760.00)
+Seat 2: reeaper714 (74143.00)
+Seat 3: catrakaa (55030.00)
+Seat 4: Muck3msayuh (88100.00)
+Seat 6: TeGz (126030.00)
+Seat 7: grotle (88942.00) is sitting out
+Seat 8: Gnine99 (172727.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+catrakaa posts ante 350.00
+Muck3msayuh posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+Muck3msayuh posts the small blind 1400.00
+TeGz posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Th 2s]
+grotle folds
+Gnine99 folds
+5eles folds
+reeaper714 folds
+catrakaa raises 54680.00 to 54680.00 and is all-in
+Muck3msayuh folds
+TeGz folds
+Uncalled bet (51880.00) returned to catrakaa
+catrakaa does not show
+*** SUMMARY ***
+Total pot 9450.00
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: catrakaa did not show and won 9450.00
+Seat 4: Muck3msayuh (small blind) folded on the Pre-Flop
+Seat 6: TeGz (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492636499 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:25:41 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: 5eles (95410.00)
+Seat 2: reeaper714 (73793.00)
+Seat 3: catrakaa (61330.00)
+Seat 4: Muck3msayuh (86350.00)
+Seat 5: Mcgarnicle40 will be allowed to play after the button
+Seat 6: TeGz (122880.00)
+Seat 7: grotle (88592.00) is sitting out
+Seat 8: Gnine99 (172377.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+catrakaa posts ante 350.00
+Muck3msayuh posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+TeGz posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [6d 2c]
+Gnine99 folds
+5eles folds
+reeaper714 folds
+catrakaa raises 60980.00 to 60980.00 and is all-in
+Muck3msayuh folds
+TeGz raises 121130.00 to 122530.00 and is all-in
+grotle folds
+Uncalled bet (61550.00) returned to TeGz
+*** FLOP *** [4h 3d Jh]
+Main pot 127210.00
+*** TURN *** [4h 3d Jh] [Ts]
+Main pot 127210.00
+*** RIVER *** [4h 3d Jh Ts] [As]
+Main pot 127210.00
+*** SHOW DOWN ***
+Main pot 127210.00
+catrakaa shows [8h 8d] (a pair of Eights [8h 8d As Jh Ts])
+TeGz shows [Qh Qc] (a pair of Queens [Qh Qc As Jh Ts])
+TeGz collected 127210.00 from main pot
+*** SUMMARY ***
+Total pot 127210.00
+Board [4h 3d Jh Ts As]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: catrakaa showed [8h 8d] and lost with a pair of Eights [8h 8d As Jh Ts]
+Seat 4: Muck3msayuh (button) folded on the Pre-Flop
+Seat 6: TeGz (small blind) showed [Qh Qc] and won 127210.00 with a pair of Queens [Qh Qc As Jh Ts]
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: Gnine99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492637046 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:26:17 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: 5eles (95060.00)
+Seat 2: reeaper714 (73443.00)
+Seat 4: Muck3msayuh (86000.00)
+Seat 5: Mcgarnicle40 (100000.00)
+Seat 6: TeGz (188760.00)
+Seat 7: grotle (85442.00) is sitting out
+Seat 8: Gnine99 (172027.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+Muck3msayuh posts ante 350.00
+Mcgarnicle40 posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+grotle posts the small blind 1400.00
+Gnine99 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [4s 4c]
+5eles folds
+reeaper714 raises 5600.00 to 5600.00
+Muck3msayuh folds
+Mcgarnicle40 calls 5600.00
+TeGz calls 5600.00
+grotle folds
+Gnine99 raises 15925.00 to 18725.00
+reeaper714 folds
+Mcgarnicle40 calls 13125.00
+TeGz calls 13125.00
+*** FLOP *** [7h 2s 3s]
+Main pot 65625.00
+Gnine99 bets 2800.00
+Mcgarnicle40 folds
+TeGz calls 2800.00
+*** TURN *** [7h 2s 3s] [Tc]
+Main pot 71225.00
+Gnine99 checks
+TeGz checks
+*** RIVER *** [7h 2s 3s Tc] [6d]
+Main pot 71225.00
+Gnine99 checks
+TeGz checks
+*** SHOW DOWN ***
+Main pot 71225.00
+TeGz shows [8d 8h] (a pair of Eights [8h 8d Tc 7h 6d])
+Gnine99 shows [Qd Kh] (a high card, King high [Kh Qd Tc 7h 6d])
+TeGz collected 71225.00 from main pot
+*** SUMMARY ***
+Total pot 71225.00
+Board [7h 2s 3s Tc 6d]
+Seat 1: 5eles folded on the Pre-Flop and did not bet
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mcgarnicle40 folded on the Flop
+Seat 6: TeGz (button) showed [8d 8h] and won 71225.00 with a pair of Eights [8h 8d Tc 7h 6d]
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: Gnine99 (big blind) showed [Qd Kh] and lost with a high card, King high [Kh Qd Tc 7h 6d]
+
+Game Hand #2492637934 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:27:16 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: 5eles (94710.00)
+Seat 2: reeaper714 (67493.00)
+Seat 3: pensive (119530.00)
+Seat 4: Muck3msayuh (85650.00)
+Seat 5: Mcgarnicle40 (80925.00)
+Seat 6: TeGz (238110.00)
+Seat 7: grotle (83692.00)
+Seat 8: Gnine99 (150152.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+pensive posts ante 350.00
+Muck3msayuh posts ante 350.00
+Mcgarnicle40 posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+Gnine99 posts the small blind 1400.00
+5eles posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2d 9s]
+reeaper714 folds
+pensive folds
+Muck3msayuh folds
+Mcgarnicle40 calls 2800.00
+TeGz folds
+grotle folds
+Gnine99 folds
+5eles checks
+*** FLOP *** [5d 3d 6d]
+Main pot 9800.00
+5eles checks
+Mcgarnicle40 bets 4900.00
+5eles folds
+Uncalled bet (4900.00) returned to Mcgarnicle40
+Mcgarnicle40 does not show
+*** SUMMARY ***
+Total pot 9800.00
+Board [5d 3d 6d]
+Seat 1: 5eles (big blind) folded on the Flop
+Seat 2: reeaper714 folded on the Pre-Flop and did not bet
+Seat 3: pensive folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mcgarnicle40 did not show and won 9800.00
+Seat 6: TeGz folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: Gnine99 (small blind) folded on the Pre-Flop
+
+Game Hand #2492638808 - Tournament #33638914 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/30 00:28:15 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: 5eles (91560.00)
+Seat 2: reeaper714 (67143.00)
+Seat 3: pensive (119180.00)
+Seat 4: Muck3msayuh (85300.00)
+Seat 5: Mcgarnicle40 (87575.00)
+Seat 6: TeGz (237760.00)
+Seat 7: grotle (83342.00)
+Seat 8: Gnine99 (148402.00)
+5eles posts ante 350.00
+reeaper714 posts ante 350.00
+pensive posts ante 350.00
+Muck3msayuh posts ante 350.00
+Mcgarnicle40 posts ante 350.00
+TeGz posts ante 350.00
+grotle posts ante 350.00
+Gnine99 posts ante 350.00
+5eles posts the small blind 1400.00
+reeaper714 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Td Ad]
+pensive folds
+Muck3msayuh folds
+Mcgarnicle40 raises 5600.00 to 5600.00
+TeGz raises 14000.00 to 14000.00
+grotle calls 14000.00
+Gnine99 folds
+5eles folds
+reeaper714 folds
+Mcgarnicle40 calls 8400.00
+*** FLOP *** [Qc Jh Tc]
+Main pot 49000.00
+Mcgarnicle40 bets 12250.00
+TeGz calls 12250.00
+grotle calls 12250.00
+*** TURN *** [Qc Jh Tc] [9c]
+Main pot 85750.00
+Mcgarnicle40 checks
+TeGz checks
+grotle bets 56742.00 and is all-in
+Mcgarnicle40 raises 60975.00 to 60975.00 and is all-in
+TeGz folds
+Uncalled bet (4233.00) returned to Mcgarnicle40
+*** RIVER *** [Qc Jh Tc 9c] [Jd]
+Main pot 199234.00
+*** SHOW DOWN ***
+Main pot 199234.00
+Mcgarnicle40 shows [Kc Jc] (a straight flush, King high [Kc Qc Jc Tc 9c])
+grotle shows [Td Ad] (two pair, Jacks and Tens [Jh Jd Td Tc Ad])
+Mcgarnicle40 collected 199234.00 from main pot
+*** SUMMARY ***
+Total pot 199234.00
+Board [Qc Jh Tc 9c Jd]
+Seat 1: 5eles (small blind) folded on the Pre-Flop
+Seat 2: reeaper714 (big blind) folded on the Pre-Flop
+Seat 3: pensive folded on the Pre-Flop and did not bet
+Seat 4: Muck3msayuh folded on the Pre-Flop and did not bet
+Seat 5: Mcgarnicle40 showed [Kc Jc] and won 199234.00 with a straight flush, King high [Kc Qc Jc Tc 9c]
+Seat 6: TeGz folded on the Turn
+Seat 7: grotle showed [Td Ad] and lost with two pair, Jacks and Tens [Jh Jd Td Tc Ad]
+Seat 8: Gnine99 (button) folded on the Pre-Flop
+

@@ -1,0 +1,1072 @@
+Game Hand #2478822278 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:01:04 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (445259.00)
+Seat 2: Ferreira1985 (438500.00)
+Seat 3: TiPicoFumo (213110.00)
+Seat 4: jmnold (202050.00)
+Seat 5: Seyfer (337368.00)
+Seat 6: Tchaka (94648.00)
+Seat 7: Lemonade76 (61081.00)
+Seat 8: 3BetBluff (100000.00)
+grotle posts ante 600.00
+Ferreira1985 posts ante 600.00
+TiPicoFumo posts ante 600.00
+jmnold posts ante 600.00
+Seyfer posts ante 600.00
+Tchaka posts ante 600.00
+Lemonade76 posts ante 600.00
+3BetBluff posts ante 600.00
+Lemonade76 posts the small blind 2500.00
+3BetBluff posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Ac 4c]
+grotle raises 10000.00 to 10000.00
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Seyfer folds
+Tchaka calls 10000.00
+Lemonade76 calls 7500.00
+3BetBluff folds
+*** FLOP *** [8h 9s As]
+Main pot 39800.00
+Lemonade76 checks
+grotle checks
+Tchaka bets 9950.00
+Lemonade76 calls 9950.00
+grotle raises 89600.00 to 89600.00
+Tchaka folds
+Lemonade76 calls 40531.00 and is all-in
+Uncalled bet (39119.00) returned to grotle
+*** TURN *** [8h 9s As] [2s]
+Main pot 150712.00
+*** RIVER *** [8h 9s As 2s] [Kd]
+Main pot 150712.00
+*** SHOW DOWN ***
+Main pot 150712.00
+grotle shows [Ac 4c] (a pair of Aces [As Ac Kd 9s 8h])
+Lemonade76 shows [9h Ks] (two pair, Kings and Nines [Ks Kd 9s 9h As])
+Lemonade76 collected 150712.00 from main pot
+*** SUMMARY ***
+Total pot 150712.00
+Board [8h 9s As 2s Kd]
+Seat 1: grotle showed [Ac 4c] and lost with a pair of Aces [As Ac Kd 9s 8h]
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka (button) folded on the Flop
+Seat 7: Lemonade76 (small blind) showed [9h Ks] and won 150712.00 with two pair, Kings and Nines [Ks Kd 9s 9h As]
+Seat 8: 3BetBluff (big blind) folded on the Pre-Flop
+
+Game Hand #2478822921 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:02:52 UTC
+Table '17' 8-max Seat #3 is the button
+Seat 1: SqueezeJobs (98800.00)
+Seat 2: roi1713 (88300.00)
+Seat 3: grotle will be allowed to play after the button
+Seat 4: daffy19 (369061.00)
+Seat 5: fAnatjke (419782.00)
+Seat 6: CIA06 (130874.00)
+Seat 7: Monkmaster (614994.00)
+SqueezeJobs posts ante 600.00
+roi1713 posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+daffy19 posts the small blind 2500.00
+fAnatjke posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 3600.00
+CIA06 raises 10000.00 to 10000.00
+Monkmaster folds
+SqueezeJobs folds
+roi1713 calls 10000.00
+daffy19 folds
+fAnatjke calls 5000.00
+*** FLOP *** [8s 4d Jh]
+Main pot 36100.00
+fAnatjke checks
+CIA06 checks
+roi1713 checks
+*** TURN *** [8s 4d Jh] [Qh]
+Main pot 36100.00
+fAnatjke checks
+CIA06 bets 11913.00
+roi1713 raises 77700.00 to 77700.00 and is all-in
+fAnatjke folds
+CIA06 calls 65787.00
+*** RIVER *** [8s 4d Jh Qh] [Tc]
+Main pot 191500.00
+*** SHOW DOWN ***
+Main pot 191500.00
+roi1713 shows [Qs Kh] (a pair of Queens [Qs Qh Kh Jh Tc])
+CIA06 shows [Ah Qc] (a pair of Queens [Qh Qc Ah Jh Tc])
+CIA06 collected 191500.00 from main pot
+*** SUMMARY ***
+Total pot 191500.00
+Board [8s 4d Jh Qh Tc]
+Seat 1: SqueezeJobs folded on the Pre-Flop and did not bet
+Seat 2: roi1713 showed [Qs Kh] and lost with a pair of Queens [Qs Qh Kh Jh Tc]
+Seat 4: daffy19 (small blind) folded on the Pre-Flop
+Seat 5: fAnatjke (big blind) folded on the Turn
+Seat 6: CIA06 showed [Ah Qc] and won 191500.00 with a pair of Queens [Qh Qc Ah Jh Tc] with the kicker Ace
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+
+Game Hand #2478823432 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:04:16 UTC
+Table '17' 8-max Seat #4 is the button
+Seat 1: SqueezeJobs (98200.00)
+Seat 3: grotle (384178.00)
+Seat 4: daffy19 (365961.00)
+Seat 5: fAnatjke (409182.00)
+Seat 6: CIA06 (234074.00)
+Seat 7: Monkmaster (614394.00)
+Seat 8: BloodTaJLeR (390140.00)
+SqueezeJobs posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+fAnatjke posts the small blind 2500.00
+CIA06 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [8h 7c]
+Monkmaster folds
+BloodTaJLeR raises 11000.00 to 11000.00
+SqueezeJobs folds
+grotle folds
+daffy19 calls 11000.00
+fAnatjke folds
+CIA06 calls 6000.00
+*** FLOP *** [Jc 3s 7d]
+Main pot 39700.00
+CIA06 checks
+BloodTaJLeR bets 13895.00
+daffy19 calls 13895.00
+CIA06 folds
+*** TURN *** [Jc 3s 7d] [9h]
+Main pot 67490.00
+BloodTaJLeR bets 34619.00
+daffy19 folds
+Uncalled bet (34619.00) returned to BloodTaJLeR
+BloodTaJLeR does not show
+*** SUMMARY ***
+Total pot 67490.00
+Board [Jc 3s 7d 9h]
+Seat 1: SqueezeJobs folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 (button) folded on the Turn
+Seat 5: fAnatjke (small blind) folded on the Pre-Flop
+Seat 6: CIA06 (big blind) folded on the Flop
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR did not show and won 67490.00
+
+Game Hand #2478824050 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:05:57 UTC
+Table '17' 8-max Seat #5 is the button
+Seat 1: SqueezeJobs (97600.00)
+Seat 3: grotle (383578.00)
+Seat 4: daffy19 (340466.00)
+Seat 5: fAnatjke (406082.00)
+Seat 6: CIA06 (222474.00)
+Seat 7: Monkmaster (613794.00)
+Seat 8: BloodTaJLeR (432135.00)
+SqueezeJobs posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+CIA06 posts the small blind 2500.00
+Monkmaster posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [2s 3h]
+BloodTaJLeR folds
+SqueezeJobs folds
+grotle folds
+daffy19 folds
+fAnatjke raises 12500.00 to 12500.00
+CIA06 folds
+Monkmaster folds
+Uncalled bet (7500.00) returned to fAnatjke
+fAnatjke does not show
+*** SUMMARY ***
+Total pot 16700.00
+Seat 1: SqueezeJobs folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke did not show and won 16700.00
+Seat 6: CIA06 (small blind) folded on the Pre-Flop
+Seat 7: Monkmaster (big blind) folded on the Pre-Flop
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478824195 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:06:21 UTC
+Table '17' 8-max Seat #6 is the button
+Seat 1: SqueezeJobs (97000.00)
+Seat 3: grotle (382978.00)
+Seat 4: daffy19 (339866.00)
+Seat 5: fAnatjke (417182.00)
+Seat 6: CIA06 (219374.00)
+Seat 7: Monkmaster (608194.00)
+Seat 8: BloodTaJLeR (431535.00)
+SqueezeJobs posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+Monkmaster posts the small blind 2500.00
+BloodTaJLeR posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [3d Td]
+SqueezeJobs folds
+grotle folds
+daffy19 folds
+fAnatjke raises 10000.00 to 10000.00
+CIA06 folds
+Monkmaster folds
+BloodTaJLeR calls 5000.00
+*** FLOP *** [4h 2s Jh]
+Main pot 26700.00
+BloodTaJLeR checks
+fAnatjke checks
+*** TURN *** [4h 2s Jh] [9c]
+Main pot 26700.00
+BloodTaJLeR bets 17185.00
+fAnatjke folds
+Uncalled bet (17185.00) returned to BloodTaJLeR
+BloodTaJLeR does not show
+*** SUMMARY ***
+Total pot 26700.00
+Board [4h 2s Jh 9c]
+Seat 1: SqueezeJobs folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Turn
+Seat 6: CIA06 (button) folded on the Pre-Flop
+Seat 7: Monkmaster (small blind) folded on the Pre-Flop
+Seat 8: BloodTaJLeR did not show and won 26700.00
+
+Game Hand #2478824734 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:07:48 UTC
+Table '17' 8-max Seat #7 is the button
+Seat 1: SqueezeJobs (96400.00)
+Seat 3: grotle (382378.00)
+Seat 4: daffy19 (339266.00)
+Seat 5: fAnatjke (406582.00)
+Seat 6: CIA06 (218774.00)
+Seat 7: Monkmaster (605094.00)
+Seat 8: BloodTaJLeR (447635.00)
+SqueezeJobs posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+BloodTaJLeR posts the small blind 2500.00
+SqueezeJobs posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [Ah Qd]
+grotle raises 10000.00 to 10000.00
+daffy19 folds
+fAnatjke folds
+CIA06 folds
+Monkmaster folds
+BloodTaJLeR raises 47500.00 to 50000.00
+SqueezeJobs folds
+grotle raises 371778.00 to 381778.00 and is all-in
+BloodTaJLeR calls 331778.00
+*** FLOP *** [7s Ac 7h]
+Main pot 772756.00
+*** TURN *** [7s Ac 7h] [3h]
+Main pot 772756.00
+*** RIVER *** [7s Ac 7h 3h] [Td]
+Main pot 772756.00
+*** SHOW DOWN ***
+Main pot 772756.00
+grotle shows [Ah Qd] (two pair, Aces and Sevens [Ah Ac 7s 7h Qd])
+BloodTaJLeR shows [Qc Qs] (two pair, Queens and Sevens [Qs Qc 7s 7h Ac])
+grotle collected 772756.00 from main pot
+*** SUMMARY ***
+Total pot 772756.00
+Board [7s Ac 7h 3h Td]
+Seat 1: SqueezeJobs (big blind) folded on the Pre-Flop
+Seat 3: grotle showed [Ah Qd] and won 772756.00 with two pair, Aces and Sevens [Ah Ac 7s 7h Qd]
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster (button) folded on the Pre-Flop
+Seat 8: BloodTaJLeR (small blind) showed [Qc Qs] and lost with two pair, Queens and Sevens [Qs Qc 7s 7h Ac]
+
+Game Hand #2478825007 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:08:36 UTC
+Table '17' 8-max Seat #8 is the button
+Seat 1: SqueezeJobs (90800.00)
+Seat 2: Ryanpeste (100000.00)
+Seat 3: grotle (772756.00)
+Seat 4: daffy19 (338666.00)
+Seat 5: fAnatjke (405982.00)
+Seat 6: CIA06 (218174.00)
+Seat 7: Monkmaster (604494.00)
+Seat 8: BloodTaJLeR (65257.00)
+SqueezeJobs posts ante 600.00
+Ryanpeste posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+SqueezeJobs posts the small blind 2500.00
+Ryanpeste posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Tc 6s]
+grotle folds
+daffy19 folds
+fAnatjke folds
+CIA06 folds
+Monkmaster folds
+BloodTaJLeR folds
+SqueezeJobs raises 17500.00 to 20000.00
+Ryanpeste folds
+Uncalled bet (15000.00) returned to SqueezeJobs
+SqueezeJobs does not show
+*** SUMMARY ***
+Total pot 14800.00
+Seat 1: SqueezeJobs did not show and won 14800.00
+Seat 2: Ryanpeste (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR (button) folded on the Pre-Flop
+
+Game Hand #2478825175 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:09:04 UTC
+Table '17' 8-max Seat #1 is the button
+Seat 1: SqueezeJobs (100000.00)
+Seat 2: Ryanpeste (94400.00)
+Seat 3: grotle (772156.00)
+Seat 4: daffy19 (338066.00)
+Seat 5: fAnatjke (405382.00)
+Seat 6: CIA06 (217574.00)
+Seat 7: Monkmaster (603894.00)
+Seat 8: BloodTaJLeR (64657.00)
+SqueezeJobs posts ante 600.00
+Ryanpeste posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+Ryanpeste posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [6d 2c]
+daffy19 folds
+fAnatjke folds
+CIA06 folds
+Monkmaster raises 11000.00 to 11000.00
+BloodTaJLeR folds
+SqueezeJobs folds
+Ryanpeste raises 91300.00 to 93800.00 and is all-in
+grotle folds
+Monkmaster folds
+Uncalled bet (82800.00) returned to Ryanpeste
+Ryanpeste does not show
+*** SUMMARY ***
+Total pot 31800.00
+Seat 1: SqueezeJobs (button) folded on the Pre-Flop
+Seat 2: Ryanpeste did not show and won 31800.00
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478825436 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:09:46 UTC
+Table '17' 8-max Seat #2 is the button
+Seat 1: SqueezeJobs (99400.00)
+Seat 2: Ryanpeste (114600.00)
+Seat 3: grotle (766556.00)
+Seat 4: daffy19 (337466.00)
+Seat 5: fAnatjke (404782.00)
+Seat 6: CIA06 (216974.00)
+Seat 7: Monkmaster (592294.00)
+Seat 8: BloodTaJLeR (64057.00)
+SqueezeJobs posts ante 600.00
+Ryanpeste posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+grotle posts the small blind 2500.00
+daffy19 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Jc 4h]
+fAnatjke folds
+CIA06 folds
+Monkmaster folds
+BloodTaJLeR raises 63457.00 to 63457.00 and is all-in
+SqueezeJobs folds
+Ryanpeste folds
+grotle folds
+daffy19 folds
+Uncalled bet (58457.00) returned to BloodTaJLeR
+BloodTaJLeR does not show
+*** SUMMARY ***
+Total pot 17300.00
+Seat 1: SqueezeJobs folded on the Pre-Flop and did not bet
+Seat 2: Ryanpeste (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: daffy19 (big blind) folded on the Pre-Flop
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR did not show and won 17300.00
+
+Game Hand #2478825801 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 15:10:43 UTC
+Table '17' 8-max Seat #3 is the button
+Seat 1: SqueezeJobs (98800.00)
+Seat 2: Ryanpeste (114000.00)
+Seat 3: grotle (763456.00)
+Seat 4: daffy19 (331866.00)
+Seat 5: fAnatjke (404182.00)
+Seat 6: CIA06 (216374.00)
+Seat 7: Monkmaster (591694.00)
+Seat 8: BloodTaJLeR (75757.00)
+SqueezeJobs posts ante 600.00
+Ryanpeste posts ante 600.00
+grotle posts ante 600.00
+daffy19 posts ante 600.00
+fAnatjke posts ante 600.00
+CIA06 posts ante 600.00
+Monkmaster posts ante 600.00
+BloodTaJLeR posts ante 600.00
+daffy19 posts the small blind 2500.00
+fAnatjke posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [7d 6h]
+CIA06 folds
+Monkmaster raises 11000.00 to 11000.00
+BloodTaJLeR folds
+SqueezeJobs raises 98200.00 to 98200.00 and is all-in
+Ryanpeste folds
+grotle folds
+daffy19 folds
+fAnatjke folds
+Monkmaster calls 87200.00
+*** FLOP *** [5h 6d 2h]
+Main pot 208700.00
+*** TURN *** [5h 6d 2h] [5d]
+Main pot 208700.00
+*** RIVER *** [5h 6d 2h 5d] [Jh]
+Main pot 208700.00
+*** SHOW DOWN ***
+Main pot 208700.00
+SqueezeJobs shows [Js Jc] (a full house, Jacks full of Fives [Js Jh Jc 5h 5d])
+Monkmaster shows [Ad Ac] (two pair, Aces and Fives [Ad Ac 5h 5d Jh])
+SqueezeJobs collected 208700.00 from main pot
+*** SUMMARY ***
+Total pot 208700.00
+Board [5h 6d 2h 5d Jh]
+Seat 1: SqueezeJobs showed [Js Jc] and won 208700.00 with a full house, Jacks full of Fives [Js Jh Jc 5h 5d]
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: daffy19 (small blind) folded on the Pre-Flop
+Seat 5: fAnatjke (big blind) folded on the Pre-Flop
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster showed [Ad Ac] and lost with two pair, Aces and Fives [Ad Ac 5h 5d Jh]
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478826175 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:11:41 UTC
+Table '17' 8-max Seat #4 is the button
+Seat 1: SqueezeJobs (208700.00)
+Seat 2: Ryanpeste (113400.00)
+Seat 3: grotle (762856.00)
+Seat 4: daffy19 (328766.00)
+Seat 5: fAnatjke (398582.00)
+Seat 6: CIA06 (215774.00)
+Seat 7: Monkmaster (492894.00)
+Seat 8: BloodTaJLeR (75157.00)
+SqueezeJobs posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+fAnatjke posts the small blind 3000.00
+CIA06 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [6h Jd]
+Monkmaster folds
+BloodTaJLeR raises 74407.00 to 74407.00 and is all-in
+SqueezeJobs calls 74407.00
+Ryanpeste folds
+grotle folds
+daffy19 folds
+fAnatjke folds
+CIA06 folds
+*** FLOP *** [Kd 8d Ad]
+Main pot 163814.00
+*** TURN *** [Kd 8d Ad] [Ac]
+Main pot 163814.00
+*** RIVER *** [Kd 8d Ad Ac] [5c]
+Main pot 163814.00
+*** SHOW DOWN ***
+Main pot 163814.00
+SqueezeJobs shows [Jh As] (three of a kind, Set of Aces [As Ad Ac Kd Jh])
+BloodTaJLeR shows [Ah Qc] (three of a kind, Set of Aces [Ah Ad Ac Kd Qc])
+BloodTaJLeR collected 163814.00 from main pot
+*** SUMMARY ***
+Total pot 163814.00
+Board [Kd 8d Ad Ac 5c]
+Seat 1: SqueezeJobs showed [Jh As] and lost with three of a kind, Set of Aces [As Ad Ac Kd Jh]
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 (button) folded on the Pre-Flop
+Seat 5: fAnatjke (small blind) folded on the Pre-Flop
+Seat 6: CIA06 (big blind) folded on the Pre-Flop
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR showed [Ah Qc] and won 163814.00 with three of a kind, Set of Aces [Ah Ad Ac Kd Qc] with the kicker Queen
+
+Game Hand #2478826405 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:12:18 UTC
+Table '17' 8-max Seat #5 is the button
+Seat 1: SqueezeJobs (133543.00)
+Seat 2: Ryanpeste (112650.00)
+Seat 3: grotle (762106.00)
+Seat 4: daffy19 (328016.00)
+Seat 5: fAnatjke (394832.00)
+Seat 6: CIA06 (209024.00)
+Seat 7: Monkmaster (492144.00)
+Seat 8: BloodTaJLeR (163814.00)
+SqueezeJobs posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+CIA06 posts the small blind 3000.00
+Monkmaster posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [2c 5d]
+BloodTaJLeR folds
+SqueezeJobs raises 12600.00 to 12600.00
+Ryanpeste folds
+grotle folds
+daffy19 folds
+fAnatjke calls 12600.00
+CIA06 folds
+Monkmaster folds
+*** FLOP *** [2h 2s Kh]
+Main pot 40200.00
+SqueezeJobs checks
+fAnatjke bets 30150.00
+SqueezeJobs calls 30150.00
+*** TURN *** [2h 2s Kh] [Td]
+Main pot 100500.00
+SqueezeJobs checks
+fAnatjke bets 100500.00
+SqueezeJobs calls 90043.00 and is all-in
+Uncalled bet (10457.00) returned to fAnatjke
+*** RIVER *** [2h 2s Kh Td] [Ah]
+Main pot 280586.00
+*** SHOW DOWN ***
+Main pot 280586.00
+SqueezeJobs shows [Js Jc] (two pair, Jacks and Deuces [Js Jc 2s 2h Ah])
+fAnatjke shows [Qs Kc] (two pair, Kings and Deuces [Kh Kc 2s 2h Ah])
+fAnatjke collected 280586.00 from main pot
+*** SUMMARY ***
+Total pot 280586.00
+Board [2h 2s Kh Td Ah]
+Seat 1: SqueezeJobs showed [Js Jc] and lost with two pair, Jacks and Deuces [Js Jc 2s 2h Ah]
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke (button) showed [Qs Kc] and won 280586.00 with two pair, Kings and Deuces [Kh Kc 2s 2h Ah]
+Seat 6: CIA06 (small blind) folded on the Pre-Flop
+Seat 7: Monkmaster (big blind) folded on the Pre-Flop
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478826893 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:13:37 UTC
+Table '17' 8-max Seat #6 is the button
+Seat 2: Ryanpeste (111900.00)
+Seat 3: grotle (761356.00)
+Seat 4: daffy19 (327266.00)
+Seat 5: fAnatjke (541875.00)
+Seat 6: CIA06 (205274.00)
+Seat 7: Monkmaster (485394.00)
+Seat 8: BloodTaJLeR (163064.00)
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+Monkmaster posts the small blind 3000.00
+BloodTaJLeR posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Tc Js]
+Ryanpeste folds
+grotle folds
+daffy19 folds
+fAnatjke folds
+CIA06 raises 12000.00 to 12000.00
+Monkmaster folds
+BloodTaJLeR raises 36000.00 to 42000.00
+CIA06 raises 192524.00 to 204524.00 and is all-in
+BloodTaJLeR folds
+Uncalled bet (162524.00) returned to CIA06
+CIA06 does not show
+*** SUMMARY ***
+Total pot 92250.00
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 did not show and won 92250.00
+Seat 7: Monkmaster (small blind) folded on the Pre-Flop
+Seat 8: BloodTaJLeR (big blind) folded on the Pre-Flop
+
+Game Hand #2478827216 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:14:28 UTC
+Table '17' 8-max Seat #7 is the button
+Seat 1: supatroopa (100000.00)
+Seat 2: Ryanpeste (111150.00)
+Seat 3: grotle (760606.00)
+Seat 4: daffy19 (326516.00)
+Seat 5: fAnatjke (541125.00)
+Seat 6: CIA06 (254774.00)
+Seat 7: Monkmaster (481644.00)
+Seat 8: BloodTaJLeR (120314.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+BloodTaJLeR posts the small blind 3000.00
+supatroopa posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [2c Qc]
+Ryanpeste folds
+grotle folds
+daffy19 folds
+fAnatjke folds
+CIA06 raises 12000.00 to 12000.00
+Monkmaster raises 39000.00 to 39000.00
+BloodTaJLeR folds
+supatroopa folds
+CIA06 calls 27000.00
+*** FLOP *** [Kc Js 4h]
+Main pot 93000.00
+CIA06 checks
+Monkmaster checks
+*** TURN *** [Kc Js 4h] [7c]
+Main pot 93000.00
+CIA06 checks
+Monkmaster checks
+*** RIVER *** [Kc Js 4h 7c] [8s]
+Main pot 93000.00
+CIA06 checks
+Monkmaster checks
+*** SHOW DOWN ***
+Main pot 93000.00
+CIA06 shows [4c 5c] (a pair of Fours [4h 4c Kc Js 8s])
+Monkmaster shows [Qh Ac] (a high card, Ace high [Ac Kc Qh Js 8s])
+CIA06 collected 93000.00 from main pot
+*** SUMMARY ***
+Total pot 93000.00
+Board [Kc Js 4h 7c 8s]
+Seat 1: supatroopa (big blind) folded on the Pre-Flop
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 showed [4c 5c] and won 93000.00 with a pair of Fours [4h 4c Kc Js 8s]
+Seat 7: Monkmaster (button) showed [Qh Ac] and lost with a high card, Ace high [Ac Kc Qh Js 8s]
+Seat 8: BloodTaJLeR (small blind) folded on the Pre-Flop
+
+Game Hand #2478827752 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:15:52 UTC
+Table '17' 8-max Seat #8 is the button
+Seat 1: supatroopa (93250.00)
+Seat 2: Ryanpeste (110400.00)
+Seat 3: grotle (759856.00)
+Seat 4: daffy19 (325766.00)
+Seat 5: fAnatjke (540375.00)
+Seat 6: CIA06 (308024.00)
+Seat 7: Monkmaster (441894.00)
+Seat 8: BloodTaJLeR (116564.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+supatroopa posts the small blind 3000.00
+Ryanpeste posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [9c Td]
+grotle folds
+daffy19 folds
+fAnatjke folds
+CIA06 raises 12000.00 to 12000.00
+Monkmaster raises 39000.00 to 39000.00
+BloodTaJLeR folds
+supatroopa folds
+Ryanpeste folds
+CIA06 raises 295274.00 to 307274.00 and is all-in
+Monkmaster folds
+Uncalled bet (268274.00) returned to CIA06
+CIA06 does not show
+*** SUMMARY ***
+Total pot 93000.00
+Seat 1: supatroopa (small blind) folded on the Pre-Flop
+Seat 2: Ryanpeste (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: daffy19 folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 did not show and won 93000.00
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR (button) folded on the Pre-Flop
+
+Game Hand #2478828129 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:16:51 UTC
+Table '17' 8-max Seat #1 is the button
+Seat 1: supatroopa (89500.00)
+Seat 2: Ryanpeste (103650.00)
+Seat 3: grotle (759106.00)
+Seat 4: daffy19 (325016.00)
+Seat 5: fAnatjke (539625.00)
+Seat 6: CIA06 (361274.00)
+Seat 7: Monkmaster (402144.00)
+Seat 8: BloodTaJLeR (115814.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+daffy19 posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+Ryanpeste posts the small blind 3000.00
+grotle posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [6h 5d]
+daffy19 raises 12000.00 to 12000.00
+fAnatjke raises 36000.00 to 36000.00
+CIA06 calls 36000.00
+Monkmaster folds
+BloodTaJLeR folds
+supatroopa folds
+Ryanpeste folds
+grotle folds
+daffy19 calls 24000.00
+*** FLOP *** [2d Ac 3s]
+Main pot 123000.00
+daffy19 checks
+fAnatjke checks
+CIA06 checks
+*** TURN *** [2d Ac 3s] [9s]
+Main pot 123000.00
+daffy19 checks
+fAnatjke checks
+CIA06 checks
+*** RIVER *** [2d Ac 3s 9s] [Jc]
+Main pot 123000.00
+daffy19 checks
+fAnatjke checks
+CIA06 checks
+*** SHOW DOWN ***
+Main pot 123000.00
+daffy19 shows [5s 5c] (a pair of Fives [5s 5c Ac Jc 9s])
+fAnatjke shows [8c 8d] (a pair of Eights [8d 8c Ac Jc 9s])
+CIA06 shows [Td Tc] (a pair of Tens [Td Tc Ac Jc 9s])
+CIA06 collected 123000.00 from main pot
+*** SUMMARY ***
+Total pot 123000.00
+Board [2d Ac 3s 9s Jc]
+Seat 1: supatroopa (button) folded on the Pre-Flop
+Seat 2: Ryanpeste (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: daffy19 showed [5s 5c] and lost with a pair of Fives [5s 5c Ac Jc 9s]
+Seat 5: fAnatjke showed [8c 8d] and lost with a pair of Eights [8d 8c Ac Jc 9s]
+Seat 6: CIA06 showed [Td Tc] and won 123000.00 with a pair of Tens [Td Tc Ac Jc 9s]
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478828988 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:19:08 UTC
+Table '17' 8-max Seat #2 is the button
+Seat 1: supatroopa (88750.00)
+Seat 2: Ryanpeste (99900.00)
+Seat 3: grotle (752356.00)
+Seat 5: fAnatjke (502875.00)
+Seat 6: CIA06 (447524.00)
+Seat 7: Monkmaster (401394.00)
+Seat 8: BloodTaJLeR (115064.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+grotle posts the small blind 3000.00
+fAnatjke posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [5c Ac]
+CIA06 folds
+Monkmaster raises 12600.00 to 12600.00
+BloodTaJLeR folds
+supatroopa folds
+Ryanpeste folds
+grotle raises 36938.00 to 39938.00
+fAnatjke folds
+Monkmaster calls 27338.00
+*** FLOP *** [Qd Qc Jh]
+Main pot 91126.00
+grotle checks
+Monkmaster checks
+*** TURN *** [Qd Qc Jh] [7d]
+Main pot 91126.00
+grotle bets 45563.00
+Monkmaster calls 45563.00
+*** RIVER *** [Qd Qc Jh 7d] [8s]
+Main pot 182252.00
+grotle bets 48563.00
+Monkmaster raises 246921.00 to 246921.00
+grotle folds
+Uncalled bet (198358.00) returned to Monkmaster
+Monkmaster does not show
+*** SUMMARY ***
+Total pot 279378.00
+Board [Qd Qc Jh 7d 8s]
+Seat 1: supatroopa folded on the Pre-Flop and did not bet
+Seat 2: Ryanpeste (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the River
+Seat 5: fAnatjke (big blind) folded on the Pre-Flop
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster did not show and won 279378.00
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478829883 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:21:29 UTC
+Table '17' 8-max Seat #3 is the button
+Seat 1: supatroopa (88000.00)
+Seat 2: Ryanpeste (99150.00)
+Seat 3: grotle (617542.00)
+Seat 5: fAnatjke (496125.00)
+Seat 6: CIA06 (446774.00)
+Seat 7: Monkmaster (545958.00)
+Seat 8: BloodTaJLeR (114314.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+fAnatjke posts the small blind 3000.00
+CIA06 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [8d Jh]
+Monkmaster raises 13200.00 to 13200.00
+BloodTaJLeR raises 32400.00 to 32400.00
+supatroopa folds
+Ryanpeste folds
+grotle folds
+fAnatjke folds
+CIA06 folds
+Monkmaster folds
+Uncalled bet (19200.00) returned to BloodTaJLeR
+BloodTaJLeR does not show
+*** SUMMARY ***
+Total pot 40650.00
+Seat 1: supatroopa folded on the Pre-Flop and did not bet
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 5: fAnatjke (small blind) folded on the Pre-Flop
+Seat 6: CIA06 (big blind) folded on the Pre-Flop
+Seat 7: Monkmaster folded on the Pre-Flop and did not bet
+Seat 8: BloodTaJLeR did not show and won 40650.00
+
+Game Hand #2478830247 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:22:25 UTC
+Table '17' 8-max Seat #5 is the button
+Seat 1: supatroopa (87250.00)
+Seat 2: Ryanpeste (98400.00)
+Seat 3: grotle (616792.00)
+Seat 5: fAnatjke (492375.00)
+Seat 6: CIA06 (440024.00)
+Seat 7: Monkmaster (532008.00)
+Seat 8: BloodTaJLeR (141014.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+CIA06 posts the small blind 3000.00
+Monkmaster posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Jc 4c]
+BloodTaJLeR folds
+supatroopa folds
+Ryanpeste raises 12000.00 to 12000.00
+grotle folds
+fAnatjke folds
+CIA06 folds
+Monkmaster calls 6000.00
+*** FLOP *** [Qs 9d Js]
+Main pot 32250.00
+Monkmaster checks
+Ryanpeste bets 10643.00
+Monkmaster folds
+Uncalled bet (10643.00) returned to Ryanpeste
+Ryanpeste does not show
+*** SUMMARY ***
+Total pot 32250.00
+Board [Qs 9d Js]
+Seat 1: supatroopa folded on the Pre-Flop and did not bet
+Seat 2: Ryanpeste did not show and won 32250.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke (button) folded on the Pre-Flop
+Seat 6: CIA06 (small blind) folded on the Pre-Flop
+Seat 7: Monkmaster (big blind) folded on the Flop
+Seat 8: BloodTaJLeR folded on the Pre-Flop and did not bet
+
+Game Hand #2478830681 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:23:34 UTC
+Table '17' 8-max Seat #6 is the button
+Seat 1: supatroopa (86500.00)
+Seat 2: Ryanpeste (117900.00)
+Seat 3: grotle (616042.00)
+Seat 4: saynotoblackj (100000.00)
+Seat 5: fAnatjke (491625.00)
+Seat 6: CIA06 (436274.00)
+Seat 7: Monkmaster (519258.00)
+Seat 8: BloodTaJLeR (140264.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+saynotoblackj posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+Monkmaster posts the small blind 3000.00
+BloodTaJLeR posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [8h 6h]
+supatroopa folds
+Ryanpeste folds
+grotle raises 12000.00 to 12000.00
+saynotoblackj folds
+fAnatjke calls 12000.00
+CIA06 folds
+Monkmaster raises 64800.00 to 67800.00
+BloodTaJLeR folds
+grotle calls 55800.00
+fAnatjke folds
+*** FLOP *** [7h Jh 2s]
+Main pot 159600.00
+Monkmaster bets 52668.00
+grotle calls 52668.00
+*** TURN *** [7h Jh 2s] [5s]
+Main pot 264936.00
+Monkmaster bets 398040.00 and is all-in
+grotle calls 398040.00
+*** RIVER *** [7h Jh 2s 5s] [Ac]
+Main pot 1061016.00
+*** SHOW DOWN ***
+Main pot 1061016.00
+grotle shows [8h 6h] (a high card, Ace high [Ac Jh 8h 7h 6h])
+Monkmaster shows [3h Ah] (a pair of Aces [Ah Ac Jh 7h 5s])
+Monkmaster collected 1061016.00 from main pot
+*** SUMMARY ***
+Total pot 1061016.00
+Board [7h Jh 2s 5s Ac]
+Seat 1: supatroopa folded on the Pre-Flop and did not bet
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [8h 6h] and lost with a high card, Ace high [Ac Jh 8h 7h 6h]
+Seat 4: saynotoblackj folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 (button) folded on the Pre-Flop
+Seat 7: Monkmaster (small blind) showed [3h Ah] and won 1061016.00 with a pair of Aces [Ah Ac Jh 7h 5s]
+Seat 8: BloodTaJLeR (big blind) folded on the Pre-Flop
+
+Game Hand #2478831247 - Tournament #33592572 - Holdem (No Limit) - Level 15 (3000.00/6000.00) - 2025/06/11 15:25:06 UTC
+Table '17' 8-max Seat #7 is the button
+Seat 1: supatroopa (85750.00)
+Seat 2: Ryanpeste (117150.00)
+Seat 3: grotle (96784.00)
+Seat 4: saynotoblackj (99250.00)
+Seat 5: fAnatjke (478875.00)
+Seat 6: CIA06 (435524.00)
+Seat 7: Monkmaster (1061016.00)
+Seat 8: BloodTaJLeR (133514.00)
+supatroopa posts ante 750.00
+Ryanpeste posts ante 750.00
+grotle posts ante 750.00
+saynotoblackj posts ante 750.00
+fAnatjke posts ante 750.00
+CIA06 posts ante 750.00
+Monkmaster posts ante 750.00
+BloodTaJLeR posts ante 750.00
+BloodTaJLeR posts the small blind 3000.00
+supatroopa posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [6s 5h]
+Ryanpeste folds
+grotle folds
+saynotoblackj raises 12000.00 to 12000.00
+fAnatjke folds
+CIA06 folds
+Monkmaster folds
+BloodTaJLeR folds
+supatroopa raises 79000.00 to 85000.00 and is all-in
+saynotoblackj folds
+Uncalled bet (73000.00) returned to supatroopa
+supatroopa does not show
+*** SUMMARY ***
+Total pot 33000.00
+Seat 1: supatroopa did not show and won 33000.00
+Seat 2: Ryanpeste folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: saynotoblackj folded on the Pre-Flop and did not bet
+Seat 5: fAnatjke folded on the Pre-Flop and did not bet
+Seat 6: CIA06 folded on the Pre-Flop and did not bet
+Seat 7: Monkmaster (button) folded on the Pre-Flop
+Seat 8: BloodTaJLeR (small blind) folded on the Pre-Flop
+

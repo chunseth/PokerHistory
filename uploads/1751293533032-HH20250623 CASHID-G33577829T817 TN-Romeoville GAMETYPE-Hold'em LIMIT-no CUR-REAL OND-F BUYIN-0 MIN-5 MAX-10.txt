@@ -1,0 +1,3514 @@
+Hand #2487601277 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:16:05 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 2: Fishka1kk ($10.00)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($10.00)
+Fishka1kk posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [3c 2s]
+Fishka1kk raises $0.21 to $0.26
+grotle folds
+Uncalled bet ($0.16) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 2: Fishka1kk did not show and won $0.20
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Hand #2487601390 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:16:18 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 2: Fishka1kk ($10.10)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($9.90)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9c Qh]
+Fishka1kk folds
+grotle raises $0.15 to $0.20
+xxDeadwoodxx calls $0.10
+*** FLOP *** [5d 2d Kh]
+Main pot $0.38 | Rake $0.02
+grotle checks
+xxDeadwoodxx checks
+*** TURN *** [5d 2d Kh] [4h]
+Main pot $0.38 | Rake $0.02
+grotle checks
+xxDeadwoodxx checks
+*** RIVER *** [5d 2d Kh 4h] [3d]
+Main pot $0.38 | Rake $0.02
+grotle checks
+xxDeadwoodxx bets $0.30
+grotle folds
+Uncalled bet ($0.30) returned to xxDeadwoodxx
+xxDeadwoodxx does not show
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02
+Board [5d 2d Kh 4h 3d]
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the River
+Seat 9: xxDeadwoodxx did not show and won $0.38
+
+Hand #2487601919 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:17:09 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: Ec1lop ($10.00)
+Seat 2: Fishka1kk ($10.10)
+Seat 5: Makersdrinker ($10.00)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.18)
+xxDeadwoodxx posts the small blind $0.05
+Ec1lop posts the big blind $0.10
+Makersdrinker posts $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4c Th]
+Fishka1kk folds
+Makersdrinker checks
+grotle folds
+xxDeadwoodxx raises $0.45 to $0.50
+Ec1lop raises $1.20 to $1.30
+Makersdrinker folds
+xxDeadwoodxx calls $0.80
+*** FLOP *** [2h 5s Ts]
+Main pot $2.57 | Rake $0.13
+xxDeadwoodxx checks
+Ec1lop bets $0.64
+xxDeadwoodxx calls $0.64
+*** TURN *** [2h 5s Ts] [Td]
+Main pot $3.79 | Rake $0.19
+xxDeadwoodxx checks
+Ec1lop bets $2.65
+xxDeadwoodxx calls $2.65
+*** RIVER *** [2h 5s Ts Td] [9d]
+Main pot $8.82 | Rake $0.46
+xxDeadwoodxx checks
+Ec1lop bets $5.41 and is all-in
+xxDeadwoodxx folds
+Uncalled bet ($5.41) returned to Ec1lop
+Ec1lop does not show
+*** SUMMARY ***
+Total pot $8.82 | Rake $0.32 | JP Fee $0.14
+Board [2h 5s Ts Td 9d]
+Seat 1: Ec1lop did not show and won $8.82
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 5: Makersdrinker folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the River
+
+Hand #2487602948 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:18:50 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: Ec1lop ($14.23)
+Seat 2: Fishka1kk ($10.10)
+Seat 5: Makersdrinker ($9.90)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.00)
+Ec1lop posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+TorOldinson waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ts 8h]
+Makersdrinker folds
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+Ec1lop folds
+Fishka1kk folds
+Uncalled bet ($0.20) returned to xxDeadwoodxx
+xxDeadwoodxx does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop (small blind) folded on the Pre-Flop
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 5: Makersdrinker folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx did not show and won $0.25
+
+Hand #2487603133 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:19:08 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: Ec1lop ($14.18)
+Seat 2: Fishka1kk ($10.00)
+Seat 4: HappyChessLife ($10.00)
+Seat 5: Makersdrinker ($9.90)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.15)
+Fishka1kk posts the small blind $0.05
+HappyChessLife posts the big blind $0.10
+TorOldinson waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Td 5s]
+Makersdrinker folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk raises $0.27 to $0.32
+HappyChessLife folds
+Uncalled bet ($0.22) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $0.20
+Seat 1: Ec1lop (button) folded on the Pre-Flop
+Seat 2: Fishka1kk did not show and won $0.20
+Seat 4: HappyChessLife (big blind) folded on the Pre-Flop
+Seat 5: Makersdrinker folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487603402 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:19:34 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: Ec1lop ($14.18)
+Seat 2: Fishka1kk ($10.10)
+Seat 3: AlexSexy will be allowed to play after the button
+Seat 4: HappyChessLife ($9.90)
+Seat 5: Makersdrinker ($9.90)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.39) is sitting out
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.15)
+HappyChessLife posts the small blind $0.05
+Makersdrinker posts the big blind $0.10
+TorOldinson waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [As 7c]
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+Ec1lop folds
+Fishka1kk raises $0.87 to $0.87
+HappyChessLife folds
+Makersdrinker calls $0.77
+xxDeadwoodxx calls $0.57
+*** FLOP *** [3c 3h 8s]
+Main pot $2.53 | Rake $0.13
+Makersdrinker checks
+xxDeadwoodxx checks
+Fishka1kk bets $2.24
+Makersdrinker folds
+xxDeadwoodxx folds
+Uncalled bet ($2.24) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $2.53 | Rake $0.09 | JP Fee $0.04
+Board [3c 3h 8s]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk did not show and won $2.53
+Seat 4: HappyChessLife (small blind) folded on the Pre-Flop
+Seat 5: Makersdrinker (big blind) folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Flop
+
+Hand #2487604119 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:20:46 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: Ec1lop ($14.18)
+Seat 2: Fishka1kk ($11.76)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: Makersdrinker ($9.03)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.39)
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.00)
+Makersdrinker posts the small blind $0.05
+TorOldinson posts the big blind $0.10
+UrbansFelix waits for big blind
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Td 9h]
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+Ec1lop calls $0.30
+Fishka1kk folds
+HappyChessLife folds
+Makersdrinker folds
+TorOldinson raises $1.49 to $1.59
+xxDeadwoodxx folds
+Ec1lop raises $13.88 to $14.18 and is all-in
+TorOldinson folds
+Uncalled bet ($12.59) returned to Ec1lop
+Ec1lop does not show
+*** SUMMARY ***
+Total pot $3.53
+Seat 1: Ec1lop did not show and won $3.53
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife (button) folded on the Pre-Flop
+Seat 5: Makersdrinker (small blind) folded on the Pre-Flop
+Seat 6: TorOldinson (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487604675 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:21:40 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: Ec1lop ($16.12)
+Seat 2: Fishka1kk ($11.76)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: Makersdrinker ($8.98)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.39)
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.00)
+TorOldinson posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [3c 3d]
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+HappyChessLife folds
+Makersdrinker folds
+TorOldinson folds
+UrbansFelix folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: Makersdrinker (button) folded on the Pre-Flop
+Seat 6: TorOldinson (small blind) folded on the Pre-Flop
+Seat 7: UrbansFelix (big blind) folded on the Pre-Flop
+Seat 8: grotle did not show and won $0.25
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487605045 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:22:17 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: Ec1lop ($16.12)
+Seat 2: Fishka1kk ($11.76)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: Makersdrinker ($8.98)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.29)
+Seat 8: grotle ($9.85)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [8h 6c]
+xxDeadwoodxx raises $0.30 to $0.30
+Ec1lop folds
+Fishka1kk folds
+HappyChessLife folds
+Makersdrinker calls $0.30
+TorOldinson folds
+UrbansFelix folds
+grotle calls $0.20
+*** FLOP *** [Jc 8s Js]
+Main pot $0.91 | Rake $0.04
+grotle checks
+xxDeadwoodxx checks
+Makersdrinker bets $0.95
+grotle calls $0.95
+xxDeadwoodxx folds
+*** TURN *** [Jc 8s Js] [7c]
+Main pot $2.71 | Rake $0.14
+grotle checks
+Makersdrinker checks
+*** RIVER *** [Jc 8s Js 7c] [Th]
+Main pot $2.71 | Rake $0.14
+grotle checks
+Makersdrinker checks
+*** SHOW DOWN ***
+Main pot $2.71 | Rake $0.14
+Makersdrinker shows [5s 5c] (two pair, Jacks and Fives [Js Jc 5s 5c Th])
+grotle shows [8h 6c] (two pair, Jacks and Eights [Js Jc 8s 8h Th])
+grotle collected $2.71 from main pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.10 | JP Fee $0.04
+Board [Jc 8s Js 7c Th]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: Makersdrinker showed [5s 5c] and lost with two pair, Jacks and Fives [Js Jc 5s 5c Th]
+Seat 6: TorOldinson (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) showed [8h 6c] and won $2.71 with two pair, Jacks and Eights [Js Jc 8s 8h Th]
+Seat 9: xxDeadwoodxx folded on the Flop
+
+Hand #2487605659 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:23:20 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: Ec1lop ($16.12)
+Seat 2: Fishka1kk ($11.76)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: Makersdrinker ($7.73)
+Seat 6: TorOldinson ($10.00)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($11.31)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ks 8h]
+Ec1lop folds
+Fishka1kk folds
+HappyChessLife folds
+Makersdrinker calls $0.10
+TorOldinson raises $0.50 to $0.50
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Makersdrinker calls $0.40
+*** FLOP *** [Jc Ah 8c]
+Main pot $1.10 | Rake $0.05
+Makersdrinker checks
+TorOldinson bets $0.86
+Makersdrinker calls $0.86
+*** TURN *** [Jc Ah 8c] [Kc]
+Main pot $2.73 | Rake $0.14
+Makersdrinker bets $6.37 and is all-in
+TorOldinson calls $6.37
+*** RIVER *** [Jc Ah 8c Kc] [8s]
+Main pot $14.83 | Rake $0.78
+*** SHOW DOWN ***
+Main pot $14.83 | Rake $0.78
+Makersdrinker shows [Kd Jd] (two pair, Kings and Jacks [Kd Kc Jd Jc Ah])
+TorOldinson shows [Qc Ac] (a flush, Ace high [Ac Kc Qc Jc 8c])
+TorOldinson collected $14.83 from main pot
+*** SUMMARY ***
+Total pot $14.83 | Rake $0.54 | JP Fee $0.24
+Board [Jc Ah 8c Kc 8s]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: Makersdrinker showed [Kd Jd] and lost with two pair, Kings and Jacks [Kd Kc Jd Jc Ah]
+Seat 6: TorOldinson showed [Qc Ac] and won $14.83 with a flush, Ace high [Ac Kc Qc Jc 8c]
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487606178 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:24:11 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: Ec1lop ($16.12)
+Seat 2: Fishka1kk ($11.76)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($11.26)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+Ec1lop posts the big blind $0.10
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7d 9s]
+Fishka1kk raises $0.26 to $0.26
+HappyChessLife folds
+TorOldinson folds
+UrbansFelix folds
+grotle calls $0.26
+xxDeadwoodxx folds
+Ec1lop calls $0.16
+*** FLOP *** [Qs 6d 6c]
+Main pot $0.79 | Rake $0.04
+Ec1lop checks
+Fishka1kk bets $0.28
+grotle folds
+Ec1lop folds
+Uncalled bet ($0.28) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.04
+Board [Qs 6d 6c]
+Seat 1: Ec1lop (big blind) folded on the Flop
+Seat 2: Fishka1kk did not show and won $0.79
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487606911 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:25:26 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: Ec1lop ($15.86)
+Seat 2: Fishka1kk ($12.29)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($11.00)
+Seat 9: xxDeadwoodxx ($10.00)
+Ec1lop posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+AlexSexy waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [6d 7c]
+HappyChessLife raises $0.32 to $0.32
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+Uncalled bet ($0.22) returned to HappyChessLife
+HappyChessLife does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop (small blind) folded on the Pre-Flop
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 4: HappyChessLife did not show and won $0.25
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487607124 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:25:48 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: Ec1lop ($15.81)
+Seat 2: Fishka1kk ($12.19)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.00)
+Seat 5: teddekgb ($10.00)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($11.00)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+teddekgb waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [As 7d]
+HappyChessLife folds
+TorOldinson folds
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+Ec1lop calls $0.20
+Fishka1kk raises $1.10 to $1.15
+AlexSexy folds
+grotle folds
+Ec1lop folds
+Uncalled bet ($0.95) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $0.70
+Seat 1: Ec1lop (button) folded on the Pre-Flop
+Seat 2: Fishka1kk did not show and won $0.70
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487608036 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:27:23 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: Ec1lop ($15.61)
+Seat 2: Fishka1kk ($12.69)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.00)
+Seat 5: teddekgb ($10.00)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($10.80)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+HappyChessLife posts the big blind $0.10
+teddekgb waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ks Tc]
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop raises $0.22 to $0.22
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+Uncalled bet ($0.12) returned to Ec1lop
+Ec1lop does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop did not show and won $0.25
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 4: HappyChessLife (big blind) folded on the Pre-Flop
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487608376 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:27:57 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: Ec1lop ($15.76)
+Seat 2: Fishka1kk ($12.69)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.90)
+Seat 5: teddekgb ($10.00)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($10.80)
+Seat 9: xxDeadwoodxx ($10.00)
+HappyChessLife posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9d 7h]
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop raises $0.22 to $0.22
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb calls $0.12
+*** FLOP *** [Ah 5s 5d]
+Main pot $0.47 | Rake $0.02
+teddekgb checks
+Ec1lop bets $0.11
+teddekgb calls $0.11
+*** TURN *** [Ah 5s 5d] [4s]
+Main pot $0.68 | Rake $0.03
+teddekgb checks
+Ec1lop checks
+*** RIVER *** [Ah 5s 5d 4s] [Qs]
+Main pot $0.68 | Rake $0.03
+teddekgb bets $0.53
+Ec1lop folds
+Uncalled bet ($0.53) returned to teddekgb
+teddekgb does not show
+*** SUMMARY ***
+Total pot $0.68 | Rake $0.03
+Board [Ah 5s 5d 4s Qs]
+Seat 1: Ec1lop folded on the River
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) folded on the Pre-Flop
+Seat 4: HappyChessLife (small blind) folded on the Pre-Flop
+Seat 5: teddekgb did not show and won $0.68
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487609194 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:29:22 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: Ec1lop ($15.43)
+Seat 2: Fishka1kk ($12.69)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: teddekgb ($10.35)
+Seat 6: TorOldinson ($17.10)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($10.80)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+TorOldinson posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qc 9s]
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop raises $0.22 to $0.22
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+TorOldinson folds
+Uncalled bet ($0.12) returned to Ec1lop
+Ec1lop does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop did not show and won $0.25
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife (button) folded on the Pre-Flop
+Seat 5: teddekgb (small blind) folded on the Pre-Flop
+Seat 6: TorOldinson (big blind) folded on the Pre-Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487609505 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:29:54 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.69)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: teddekgb ($10.30)
+Seat 6: TorOldinson ($17.00)
+Seat 7: UrbansFelix ($5.24)
+Seat 8: grotle ($10.80)
+Seat 9: xxDeadwoodxx ($10.00)
+TorOldinson posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [As 7d]
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+TorOldinson folds
+UrbansFelix folds
+Uncalled bet ($0.18) returned to teddekgb
+teddekgb does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb did not show and won $0.25
+Seat 6: TorOldinson (small blind) folded on the Pre-Flop
+Seat 7: UrbansFelix (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487609847 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:30:29 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.69)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($9.85)
+Seat 5: teddekgb ($10.45)
+Seat 6: TorOldinson ($16.95)
+Seat 7: UrbansFelix ($5.14)
+Seat 8: grotle ($10.80)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2d 9s]
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy folds
+HappyChessLife raises $0.90 to $0.90
+teddekgb folds
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+Fishka1kk folds
+Uncalled bet ($0.64) returned to HappyChessLife
+HappyChessLife does not show
+*** SUMMARY ***
+Total pot $0.67
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife did not show and won $0.67
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: TorOldinson (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487610279 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:31:12 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.43)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.26)
+Seat 5: teddekgb ($10.45)
+Seat 6: TorOldinson ($16.95)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($10.70)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Kc As]
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+TorOldinson raises $0.85 to $0.85
+UrbansFelix folds
+grotle raises $2.36 to $2.41
+xxDeadwoodxx folds
+teddekgb folds
+TorOldinson folds
+Uncalled bet ($1.56) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $2.08
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle did not show and won $2.08
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487610928 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:32:21 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.43)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.26)
+Seat 5: teddekgb ($10.17)
+Seat 6: TorOldinson ($16.10)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($11.93)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+Ec1lop posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9h 3d]
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Uncalled bet ($0.18) returned to teddekgb
+teddekgb does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop (big blind) folded on the Pre-Flop
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb did not show and won $0.25
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487611340 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:33:06 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: Ec1lop ($15.48)
+Seat 2: Fishka1kk ($12.43)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.26)
+Seat 5: teddekgb ($10.32)
+Seat 6: TorOldinson ($16.10)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($11.93)
+Seat 9: xxDeadwoodxx ($10.00)
+Ec1lop posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Tc Ts]
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+TorOldinson folds
+UrbansFelix folds
+grotle raises $0.81 to $0.81
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+teddekgb raises $1.95 to $2.23
+grotle calls $1.42
+*** FLOP *** [7s Js 2h]
+Main pot $4.38 | Rake $0.23
+teddekgb bets $1.80
+grotle calls $1.80
+*** TURN *** [7s Js 2h] [4s]
+Main pot $7.80 | Rake $0.41
+teddekgb checks
+grotle bets $2.25
+teddekgb raises $6.29 to $6.29 and is all-in
+grotle calls $4.04
+*** RIVER *** [7s Js 2h 4s] [8d]
+Main pot $19.76 | Rake $1.03
+*** SHOW DOWN ***
+Main pot $19.76 | Rake $1.03
+teddekgb shows [Ac Ad] (a pair of Aces [Ad Ac Js 8d 7s])
+grotle shows [Tc Ts] (a pair of Tens [Ts Tc Js 8d 7s])
+teddekgb collected $19.76 from main pot
+*** SUMMARY ***
+Total pot $19.76 | Rake $0.79 | JP Fee $0.24
+Board [7s Js 2h 4s 8d]
+Seat 1: Ec1lop (small blind) folded on the Pre-Flop
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb showed [Ac Ad] and won $19.76 with a pair of Aces [Ad Ac Js 8d 7s]
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [Tc Ts] and lost with a pair of Tens [Ts Tc Js 8d 7s]
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487612494 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:35:05 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: Ec1lop ($15.43)
+Seat 2: Fishka1kk ($12.33)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.26)
+Seat 5: teddekgb ($19.76)
+Seat 6: TorOldinson ($16.10)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($1.61)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4d 2s]
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+Uncalled bet ($0.18) returned to teddekgb
+teddekgb does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop (button) folded on the Pre-Flop
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb did not show and won $0.25
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487612858 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:35:43 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: Ec1lop ($15.43)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.26)
+Seat 5: teddekgb ($19.91)
+Seat 6: TorOldinson ($16.10)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($10.00)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+HappyChessLife posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [5s Qc]
+teddekgb folds
+TorOldinson folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Ec1lop raises $0.22 to $0.22
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+Uncalled bet ($0.12) returned to Ec1lop
+Ec1lop does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop did not show and won $0.25
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 4: HappyChessLife (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487613193 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:36:18 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($10.00)
+Seat 4: HappyChessLife ($10.16)
+Seat 5: teddekgb ($19.91)
+Seat 6: TorOldinson ($16.10)
+Seat 7: UrbansFelix ($5.09)
+Seat 8: grotle ($10.00)
+Seat 9: xxDeadwoodxx ($10.00)
+HappyChessLife posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4c Ad]
+TorOldinson folds
+UrbansFelix raises $0.20 to $0.20
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy calls $0.20
+HappyChessLife raises $1.15 to $1.20
+teddekgb folds
+UrbansFelix folds
+AlexSexy calls $1.00
+*** FLOP *** [5h 6c 9s]
+Main pot $2.57 | Rake $0.13
+HappyChessLife checks
+AlexSexy bets $0.84
+HappyChessLife calls $0.84
+*** TURN *** [5h 6c 9s] [As]
+Main pot $4.17 | Rake $0.21
+HappyChessLife bets $4.38
+AlexSexy raises $7.96 to $7.96 and is all-in
+HappyChessLife calls $3.58
+*** RIVER *** [5h 6c 9s As] [Qh]
+Main pot $19.29 | Rake $1.01
+*** SHOW DOWN ***
+Main pot $19.29 | Rake $1.01
+AlexSexy shows [9h 9c] (three of a kind, Set of Nines [9s 9h 9c As Qh])
+HappyChessLife shows [Qc Ac] (two pair, Aces and Queens [As Ac Qh Qc 9s])
+AlexSexy collected $19.29 from main pot
+*** SUMMARY ***
+Total pot $19.29 | Rake $0.77 | JP Fee $0.24
+Board [5h 6c 9s As Qh]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) showed [9h 9c] and won $19.29 with three of a kind, Set of Nines [9s 9h 9c As Qh]
+Seat 4: HappyChessLife (small blind) showed [Qc Ac] and lost with two pair, Aces and Queens [As Ac Qh Qc 9s]
+Seat 5: teddekgb (big blind) folded on the Pre-Flop
+Seat 6: TorOldinson folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487614677 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:39:01 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($19.29)
+Seat 4: HappyChessLife ($0.16)
+Seat 5: teddekgb ($19.81)
+Seat 6: muddym561 ($9.82)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.00)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+muddym561 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jc 9c]
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife (button) folded on the Pre-Flop
+Seat 5: teddekgb (small blind) folded on the Pre-Flop
+Seat 6: muddym561 (big blind) folded on the Pre-Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $0.25
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487615399 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:40:18 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($19.29)
+Seat 4: HappyChessLife ($0.16)
+Seat 5: teddekgb ($19.76)
+Seat 6: muddym561 ($9.72) is sitting out
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.15)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Kh Jc]
+grotle folds
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy raises $0.30 to $0.30
+HappyChessLife calls $0.16 and is all-in
+teddekgb folds
+UrbansFelix raises $0.80 to $0.90
+AlexSexy calls $0.60
+*** FLOP *** [7d 4s 7s]
+Main pot $0.45 | Rake $0.03
+Side pot(1) $1.42 | Rake $0.06
+UrbansFelix checks
+AlexSexy checks
+*** TURN *** [7d 4s 7s] [Ac]
+Main pot $0.45 | Rake $0.03
+Side pot(1) $1.42 | Rake $0.06
+UrbansFelix bets $0.61
+AlexSexy folds
+Uncalled bet ($0.61) returned to UrbansFelix
+*** RIVER *** [7d 4s 7s Ac] [7h]
+Main pot $0.45 | Rake $0.03
+Side pot(1) $1.42 | Rake $0.06
+*** SHOW DOWN ***
+Main pot $0.45 | Rake $0.03
+Side pot(1) $1.42 | Rake $0.06
+HappyChessLife shows [As 2s] (a full house, Sevens full of Aces [7s 7h 7d As Ac])
+UrbansFelix shows [Kd Td] (three of a kind, Set of Sevens [7s 7h 7d Ac Kd])
+HappyChessLife collected $0.45 from main pot
+UrbansFelix collected $1.42 from side pot-1
+*** SUMMARY ***
+Total pot $1.87 | Rake $0.07 | JP Fee $0.02
+Board [7d 4s 7s Ac 7h]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Turn
+Seat 4: HappyChessLife showed [As 2s] and won $0.45 with a full house, Sevens full of Aces [7s 7h 7d As Ac]
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (big blind) showed [Kd Td] and won $1.42 with three of a kind, Set of Sevens [7s 7h 7d Ac Kd]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487616312 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:41:59 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($18.39)
+Seat 4: HappyChessLife ($0.45)
+Seat 5: teddekgb ($19.76)
+Seat 6: muddym561 ($9.72) is sitting out
+Seat 7: UrbansFelix ($5.52)
+Seat 8: grotle ($10.15)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qs 2c]
+xxDeadwoodxx folds
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+UrbansFelix raises $0.20 to $0.25
+grotle calls $0.15
+*** FLOP *** [7h 6s 5c]
+Main pot $0.48 | Rake $0.02
+UrbansFelix checks
+grotle checks
+*** TURN *** [7h 6s 5c] [Jh]
+Main pot $0.48 | Rake $0.02
+UrbansFelix checks
+grotle checks
+*** RIVER *** [7h 6s 5c Jh] [9d]
+Main pot $0.48 | Rake $0.02
+UrbansFelix checks
+grotle bets $0.20
+UrbansFelix folds
+Uncalled bet ($0.20) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02
+Board [7h 6s 5c Jh 9d]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix (small blind) folded on the River
+Seat 8: grotle did not show and won $0.48
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487616887 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:42:59 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($18.39)
+Seat 4: HappyChessLife ($0.45)
+Seat 5: teddekgb ($19.76)
+Seat 6: muddym561 ($9.72)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($10.38)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+muddym561 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2h Td]
+Ec1lop folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+UrbansFelix folds
+grotle calls $0.23
+xxDeadwoodxx folds
+*** FLOP *** [5c 2d 3c]
+Main pot $0.63 | Rake $0.03
+grotle bets $0.40
+teddekgb calls $0.40
+*** TURN *** [5c 2d 3c] [4h]
+Main pot $1.39 | Rake $0.07
+grotle checks
+teddekgb checks
+*** RIVER *** [5c 2d 3c 4h] [8d]
+Main pot $1.39 | Rake $0.07
+grotle checks
+teddekgb checks
+*** SHOW DOWN ***
+Main pot $1.39 | Rake $0.07
+teddekgb shows [Jh Js] (a pair of Jacks [Js Jh 8d 5c 4h])
+grotle shows [2h Td] (a pair of Deuces [2h 2d Td 8d 5c])
+teddekgb collected $1.39 from main pot
+*** SUMMARY ***
+Total pot $1.39 | Rake $0.05 | JP Fee $0.02
+Board [5c 2d 3c 4h 8d]
+Seat 1: Ec1lop folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb showed [Jh Js] and won $1.39 with a pair of Jacks [Js Jh 8d 5c 4h]
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) showed [2h Td] and lost with a pair of Deuces [2h 2d Td 8d 5c]
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487617326 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:43:47 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: Ec1lop ($15.58)
+Seat 2: Fishka1kk ($12.28)
+Seat 3: AlexSexy ($18.39)
+Seat 4: HappyChessLife ($0.45)
+Seat 5: teddekgb ($20.47)
+Seat 6: muddym561 ($9.72)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+Ec1lop sits out
+Fishka1kk posts the big blind $0.10
+muddym561 posts dead $0.05
+*** HOLE CARDS ***
+Dealt to grotle [Td 6h]
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 calls $0.10
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx calls $0.05
+Fishka1kk raises $0.42 to $0.52
+muddym561 calls $0.42
+xxDeadwoodxx folds
+*** FLOP *** [5h 9c 8h]
+Main pot $1.14 | Rake $0.05
+Fishka1kk checks
+muddym561 checks
+*** TURN *** [5h 9c 8h] [Ac]
+Main pot $1.14 | Rake $0.05
+Fishka1kk bets $0.40
+muddym561 calls $0.40
+*** RIVER *** [5h 9c 8h Ac] [8s]
+Main pot $1.90 | Rake $0.09
+Fishka1kk checks
+muddym561 checks
+*** SHOW DOWN ***
+Main pot $1.90 | Rake $0.09
+Fishka1kk shows [Th Jd] (a pair of Eights [8s 8h Ac Jd Th])
+muddym561 shows [Js 9h] (two pair, Nines and Eights [9h 9c 8s 8h Ac])
+muddym561 collected $1.90 from main pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.07 | JP Fee $0.02
+Board [5h 9c 8h Ac 8s]
+Seat 2: Fishka1kk (big blind) showed [Th Jd] and lost with a pair of Eights [8s 8h Ac Jd Th]
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 showed [Js 9h] and won $1.90 with two pair, Nines and Eights [9h 9c 8s 8h Ac]
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487618139 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:45:16 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 2: Fishka1kk ($11.36)
+Seat 3: AlexSexy ($18.39)
+Seat 4: HappyChessLife ($0.45)
+Seat 5: teddekgb ($20.47)
+Seat 6: muddym561 ($10.65)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.70)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ac Kd]
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+Fishka1kk folds
+AlexSexy folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $0.25
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487618437 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:45:47 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($10.00)
+Seat 2: Fishka1kk ($11.31)
+Seat 3: AlexSexy ($18.29)
+Seat 4: HappyChessLife ($0.45)
+Seat 5: teddekgb ($20.47)
+Seat 6: muddym561 ($10.65)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.85)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+HappyChessLife posts the big blind $0.10
+FilthyFlips posts $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7s 8h]
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips checks
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife checks
+*** FLOP *** [Jd 2d 7h]
+Main pot $0.24 | Rake $0.01
+HappyChessLife checks
+FilthyFlips bets $0.10
+HappyChessLife folds
+Uncalled bet ($0.10) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Jd 2d 7h]
+Seat 1: FilthyFlips did not show and won $0.24
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 4: HappyChessLife (big blind) folded on the Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487619019 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:46:56 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($11.31)
+Seat 3: AlexSexy ($18.24)
+Seat 4: HappyChessLife ($0.35)
+Seat 5: teddekgb ($20.47)
+Seat 6: muddym561 ($10.65)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.85)
+Seat 9: xxDeadwoodxx ($10.00)
+HappyChessLife posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6h 8d]
+muddym561 folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy raises $1.00 to $1.00
+HappyChessLife folds
+teddekgb folds
+Fishka1kk calls $0.74
+*** FLOP *** [3c Qd 6s]
+Main pot $2.05 | Rake $0.10
+Fishka1kk checks
+AlexSexy bets $1.02
+Fishka1kk calls $1.02
+*** TURN *** [3c Qd 6s] [7c]
+Main pot $3.99 | Rake $0.20
+Fishka1kk checks
+AlexSexy checks
+*** RIVER *** [3c Qd 6s 7c] [Jd]
+Main pot $3.99 | Rake $0.20
+Fishka1kk checks
+AlexSexy checks
+*** SHOW DOWN ***
+Main pot $3.99 | Rake $0.20
+Fishka1kk shows [9s 9h] (a pair of Nines [9s 9h Qd Jd 7c])
+AlexSexy shows [Ad Js] (a pair of Jacks [Js Jd Ad Qd 7c])
+AlexSexy collected $3.99 from main pot
+*** SUMMARY ***
+Total pot $3.99 | Rake $0.14 | JP Fee $0.06
+Board [3c Qd 6s 7c Jd]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk showed [9s 9h] and lost with a pair of Nines [9s 9h Qd Jd 7c]
+Seat 3: AlexSexy (button) showed [Ad Js] and won $3.99 with a pair of Jacks [Js Jd Ad Qd 7c]
+Seat 4: HappyChessLife (small blind) folded on the Pre-Flop
+Seat 5: teddekgb (big blind) folded on the Pre-Flop
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487619864 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:48:30 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.37)
+Seat 6: muddym561 ($10.65)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.85)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+muddym561 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ac Qh]
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 calls $0.10
+*** FLOP *** [Js Td 4h]
+Main pot $0.43 | Rake $0.02
+muddym561 checks
+grotle bets $0.15
+muddym561 calls $0.15
+*** TURN *** [Js Td 4h] [3c]
+Main pot $0.72 | Rake $0.03
+muddym561 checks
+grotle checks
+*** RIVER *** [Js Td 4h 3c] [3s]
+Main pot $0.72 | Rake $0.03
+muddym561 checks
+grotle bets $0.15
+muddym561 raises $0.30 to $0.30
+grotle calls $0.15
+*** SHOW DOWN ***
+Main pot $1.29 | Rake $0.06
+muddym561 shows [4d 6s] (two pair, Fours and Threes [4h 4d 3s 3c Js])
+grotle shows [Ac Qh] (a pair of Threes [3s 3c Ac Qh Js])
+muddym561 collected $1.29 from main pot
+*** SUMMARY ***
+Total pot $1.29 | Rake $0.04 | JP Fee $0.02
+Board [Js Td 4h 3c 3s]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife (button) folded on the Pre-Flop
+Seat 5: teddekgb (small blind) folded on the Pre-Flop
+Seat 6: muddym561 (big blind) showed [4d 6s] and won $1.29 with two pair, Fours and Threes [4h 4d 3s 3c Js]
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [Ac Qh] and lost with a pair of Threes [3s 3c Ac Qh Js]
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487620348 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:49:23 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.32)
+Seat 6: muddym561 ($11.29)
+Seat 7: UrbansFelix ($5.27)
+Seat 8: grotle ($9.20)
+Seat 9: xxDeadwoodxx ($10.00)
+muddym561 posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6d 3s]
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 calls $0.05
+UrbansFelix checks
+*** FLOP *** [Ah Ts Tc]
+Main pot $0.19 | Rake $0.01
+muddym561 checks
+UrbansFelix checks
+*** TURN *** [Ah Ts Tc] [As]
+Main pot $0.19 | Rake $0.01
+muddym561 checks
+UrbansFelix checks
+*** RIVER *** [Ah Ts Tc As] [7d]
+Main pot $0.19 | Rake $0.01
+muddym561 checks
+UrbansFelix checks
+*** SHOW DOWN ***
+Main pot $0.19 | Rake $0.01
+muddym561 shows [7h Jd] (two pair, Aces and Tens [As Ah Ts Tc Jd])
+UrbansFelix shows [2h 2c] (two pair, Aces and Tens [As Ah Ts Tc 7d])
+muddym561 collected $0.19 from main pot
+*** SUMMARY ***
+Total pot $0.19 | Rake $0.01
+Board [Ah Ts Tc As 7d]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 6: muddym561 (small blind) showed [7h Jd] and won $0.19 with two pair, Aces and Tens [As Ah Ts Tc Jd] with the kicker Jack
+Seat 7: UrbansFelix (big blind) showed [2h 2c] and lost with two pair, Aces and Tens [As Ah Ts Tc 7d]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487620905 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:50:26 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.32)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($5.17)
+Seat 8: grotle ($9.20)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Kd 8s]
+xxDeadwoodxx raises $0.30 to $0.30
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix calls $0.25
+grotle folds
+*** FLOP *** [Th 4h Jc]
+Main pot $0.67 | Rake $0.03
+UrbansFelix checks
+xxDeadwoodxx bets $0.52
+UrbansFelix folds
+Uncalled bet ($0.52) returned to xxDeadwoodxx
+xxDeadwoodxx does not show
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03
+Board [Th 4h Jc]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (small blind) folded on the Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx did not show and won $0.67
+
+Hand #2487621370 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:51:18 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.32)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($9.10)
+Seat 9: xxDeadwoodxx ($10.37)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qd 5d]
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix raises $0.25 to $0.25
+grotle calls $0.20
+xxDeadwoodxx calls $0.15
+*** FLOP *** [Ts 6s 2h]
+Main pot $0.72 | Rake $0.03
+grotle checks
+xxDeadwoodxx checks
+UrbansFelix checks
+*** TURN *** [Ts 6s 2h] [9c]
+Main pot $0.72 | Rake $0.03
+grotle checks
+xxDeadwoodxx bets $0.56
+UrbansFelix raises $1.94 to $1.94
+grotle folds
+xxDeadwoodxx calls $1.38
+*** RIVER *** [Ts 6s 2h 9c] [Kc]
+Main pot $4.40 | Rake $0.23
+xxDeadwoodxx checks
+UrbansFelix bets $2.81 and is all-in
+xxDeadwoodxx folds
+Uncalled bet ($2.81) returned to UrbansFelix
+UrbansFelix does not show
+*** SUMMARY ***
+Total pot $4.40 | Rake $0.17 | JP Fee $0.06
+Board [Ts 6s 2h 9c Kc]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix did not show and won $4.40
+Seat 8: grotle (small blind) folded on the Turn
+Seat 9: xxDeadwoodxx (big blind) folded on the River
+
+Hand #2487622397 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:53:14 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($10.14)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.32)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($8.85)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2d 3d]
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips calls $0.10
+*** FLOP *** [Qh 9h 4c]
+Main pot $0.43 | Rake $0.02
+FilthyFlips checks
+grotle bets $0.15
+FilthyFlips calls $0.15
+*** TURN *** [Qh 9h 4c] [2h]
+Main pot $0.72 | Rake $0.03
+FilthyFlips checks
+grotle checks
+*** RIVER *** [Qh 9h 4c 2h] [Ah]
+Main pot $0.72 | Rake $0.03
+FilthyFlips checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $0.72 | Rake $0.03
+FilthyFlips shows [7c 7h] (a flush, Ace high [Ah Qh 9h 7h 2h])
+grotle shows [2d 3d] (a pair of Deuces [2h 2d Ah Qh 9h])
+FilthyFlips collected $0.72 from main pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [Qh 9h 4c 2h Ah]
+Seat 1: FilthyFlips (big blind) showed [7c 7h] and won $0.72 with a flush, Ace high [Ah Qh 9h 7h 2h]
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) showed [2d 3d] and lost with a pair of Deuces [2h 2d Ah Qh 9h]
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487623025 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:54:28 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: FilthyFlips ($10.51)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($20.32)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($8.50)
+Seat 9: xxDeadwoodxx ($10.00)
+FilthyFlips posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Kh Ad]
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $0.28 to $0.28
+muddym561 folds
+UrbansFelix folds
+grotle raises $0.81 to $0.81
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+teddekgb calls $0.53
+*** FLOP *** [5d Td Qh]
+Main pot $1.69 | Rake $0.08
+teddekgb checks
+grotle bets $0.35
+teddekgb calls $0.35
+*** TURN *** [5d Td Qh] [6d]
+Main pot $2.35 | Rake $0.12
+teddekgb checks
+grotle bets $1.23
+teddekgb folds
+Uncalled bet ($1.23) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.08 | JP Fee $0.04
+Board [5d Td Qh 6d]
+Seat 1: FilthyFlips (small blind) folded on the Pre-Flop
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Turn
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $2.35
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487623521 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:55:52 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: FilthyFlips ($10.46)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.21)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($19.16)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($9.69)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4s 5h]
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy folds
+Uncalled bet ($0.25) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips did not show and won $0.25
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487623651 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:56:23 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($10.61)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.11)
+Seat 4: HappyChessLife ($0.30)
+Seat 5: teddekgb ($19.16)
+Seat 6: muddym561 ($11.38)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($9.69)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+HappyChessLife posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [3d Jd]
+teddekgb folds
+muddym561 calls $0.10
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife checks
+*** FLOP *** [3c 9c 7d]
+Main pot $0.24 | Rake $0.01
+HappyChessLife checks
+muddym561 checks
+*** TURN *** [3c 9c 7d] [Jc]
+Main pot $0.24 | Rake $0.01
+HappyChessLife checks
+muddym561 checks
+*** RIVER *** [3c 9c 7d Jc] [As]
+Main pot $0.24 | Rake $0.01
+HappyChessLife checks
+muddym561 checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+HappyChessLife shows [Qd 9h] (a pair of Nines [9h 9c As Qd Jc])
+muddym561 shows [4s 4h] (a pair of Fours [4s 4h As Jc 9c])
+HappyChessLife collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [3c 9c 7d Jc As]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 4: HappyChessLife (big blind) showed [Qd 9h] and won $0.24 with a pair of Nines [9h 9c As Qd Jc]
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 showed [4s 4h] and lost with a pair of Fours [4s 4h As Jc 9c]
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487623892 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:57:26 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($10.61)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.06)
+Seat 4: HappyChessLife ($0.44)
+Seat 5: teddekgb ($19.16)
+Seat 6: muddym561 ($11.28)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($9.69)
+Seat 9: xxDeadwoodxx ($10.00)
+HappyChessLife posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [As 9d]
+muddym561 folds
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) folded on the Pre-Flop
+Seat 4: HappyChessLife (small blind) folded on the Pre-Flop
+Seat 5: teddekgb (big blind) folded on the Pre-Flop
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $0.25
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487624015 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:57:54 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: FilthyFlips ($10.61)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.06)
+Seat 4: HappyChessLife ($0.39)
+Seat 5: teddekgb ($19.06)
+Seat 6: muddym561 ($11.28)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($9.84)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+muddym561 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jh 4h]
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb raises $1.05 to $1.10
+muddym561 folds
+xxDeadwoodxx calls $0.80
+*** FLOP *** [6h Tc 3h]
+Main pot $2.19 | Rake $0.11
+teddekgb bets $1.00
+xxDeadwoodxx calls $1.00
+*** TURN *** [6h Tc 3h] [3s]
+Main pot $4.09 | Rake $0.21
+teddekgb bets $2.00
+xxDeadwoodxx calls $2.00
+*** RIVER *** [6h Tc 3h 3s] [9s]
+Main pot $7.89 | Rake $0.41
+teddekgb bets $6.22
+xxDeadwoodxx calls $5.90 and is all-in
+Uncalled bet ($0.32) returned to teddekgb
+*** SHOW DOWN ***
+Main pot $19.10 | Rake $1.00
+teddekgb shows [Ac Ad] (two pair, Aces and Threes [Ad Ac 3s 3h Tc])
+xxDeadwoodxx shows [Qs Qh] (two pair, Queens and Threes [Qs Qh 3s 3h Tc])
+teddekgb collected $19.10 from main pot
+*** SUMMARY ***
+Total pot $19.10 | Rake $0.76 | JP Fee $0.24
+Board [6h Tc 3h 3s 9s]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife (button) folded on the Pre-Flop
+Seat 5: teddekgb (small blind) showed [Ac Ad] and won $19.10 with two pair, Aces and Threes [Ad Ac 3s 3h Tc]
+Seat 6: muddym561 (big blind) folded on the Pre-Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx showed [Qs Qh] and lost with two pair, Queens and Threes [Qs Qh 3s 3h Tc]
+
+Hand #2487624433 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 04:59:38 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($10.61)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.06)
+Seat 4: HappyChessLife ($0.39)
+Seat 5: teddekgb ($28.16)
+Seat 6: muddym561 ($11.18)
+Seat 7: UrbansFelix ($7.21)
+Seat 8: grotle ($9.84)
+Seat 9: xxDeadwoodxx ($10.00)
+muddym561 posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Tc 3s]
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+Uncalled bet ($0.25) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips did not show and won $0.25
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 6: muddym561 (small blind) folded on the Pre-Flop
+Seat 7: UrbansFelix (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487624652 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:00:24 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: FilthyFlips ($10.76)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.06)
+Seat 4: HappyChessLife ($0.39)
+Seat 5: teddekgb ($28.16)
+Seat 6: muddym561 ($11.13)
+Seat 7: UrbansFelix ($7.11)
+Seat 8: grotle ($9.84)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8h 2s]
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+HappyChessLife folds
+teddekgb folds
+muddym561 calls $0.10
+UrbansFelix folds
+grotle checks
+*** FLOP *** [4d 6s Ac]
+Main pot $0.24 | Rake $0.01
+grotle checks
+muddym561 bets $0.10
+grotle calls $0.10
+*** TURN *** [4d 6s Ac] [Qh]
+Main pot $0.43 | Rake $0.02
+grotle checks
+muddym561 bets $0.20
+grotle folds
+Uncalled bet ($0.20) returned to muddym561
+muddym561 does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [4d 6s Ac Qh]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 did not show and won $0.43
+Seat 7: UrbansFelix (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Turn
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487624928 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:01:09 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: FilthyFlips ($10.76)
+Seat 2: Fishka1kk ($10.00)
+Seat 3: AlexSexy ($20.06)
+Seat 4: HappyChessLife ($0.39)
+Seat 5: teddekgb ($28.16)
+Seat 6: muddym561 ($11.36)
+Seat 7: UrbansFelix ($7.06)
+Seat 8: grotle ($9.64)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c 3s]
+FilthyFlips folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy folds
+HappyChessLife raises $0.39 to $0.39 and is all-in
+teddekgb folds
+muddym561 calls $0.39
+UrbansFelix calls $0.39
+grotle folds
+xxDeadwoodxx folds
+Fishka1kk calls $0.13
+*** FLOP *** [As 2d 5h]
+Main pot $1.63 | Rake $0.08
+Fishka1kk checks
+muddym561 checks
+UrbansFelix bets $0.53
+Fishka1kk calls $0.53
+muddym561 folds
+*** TURN *** [As 2d 5h] [Jd]
+Main pot $1.62 | Rake $0.09
+Side pot(1) $1.02 | Rake $0.04
+Fishka1kk checks
+UrbansFelix checks
+*** RIVER *** [As 2d 5h Jd] [Td]
+Main pot $1.62 | Rake $0.09
+Side pot(1) $1.02 | Rake $0.04
+Fishka1kk checks
+UrbansFelix checks
+*** SHOW DOWN ***
+Main pot $1.62 | Rake $0.09
+Side pot(1) $1.02 | Rake $0.04
+Fishka1kk shows [Kc Ad] (a pair of Aces [As Ad Kc Jd Td])
+HappyChessLife shows [Kh Jc] (a pair of Jacks [Jd Jc As Kh Td])
+UrbansFelix shows [4c 4h] (a pair of Fours [4h 4c As Jd Td])
+Fishka1kk collected $1.62 from main pot
+Fishka1kk collected $1.02 from side pot-1
+*** SUMMARY ***
+Total pot $2.64 | Rake $0.09 | JP Fee $0.04
+Board [As 2d 5h Jd Td]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk showed [Kc Ad] and won $2.64 with a pair of Aces [As Ad Kc Jd Td]
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: HappyChessLife showed [Kh Jc] and lost with a pair of Jacks [Jd Jc As Kh Td]
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Flop
+Seat 7: UrbansFelix (button) showed [4c 4h] and lost with a pair of Fours [4h 4c As Jd Td]
+Seat 8: grotle (small blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487625682 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:02:45 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($10.76)
+Seat 2: Fishka1kk ($11.72)
+Seat 3: AlexSexy ($20.06)
+Seat 5: teddekgb ($28.16)
+Seat 6: muddym561 ($10.97)
+Seat 7: UrbansFelix ($6.14)
+Seat 8: grotle ($9.59)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qd 9h]
+Fishka1kk raises $0.26 to $0.26
+AlexSexy folds
+teddekgb folds
+muddym561 folds
+UrbansFelix folds
+grotle calls $0.26
+xxDeadwoodxx folds
+FilthyFlips calls $0.16
+*** FLOP *** [4s 2d 5s]
+Main pot $0.79 | Rake $0.04
+FilthyFlips bets $0.30
+Fishka1kk calls $0.30
+grotle calls $0.30
+*** TURN *** [4s 2d 5s] [Ts]
+Main pot $1.65 | Rake $0.08
+FilthyFlips checks
+Fishka1kk bets $0.58
+grotle folds
+FilthyFlips calls $0.58
+*** RIVER *** [4s 2d 5s Ts] [Qc]
+Main pot $2.75 | Rake $0.14
+FilthyFlips checks
+Fishka1kk bets $2.22
+FilthyFlips calls $2.22
+*** SHOW DOWN ***
+Main pot $6.97 | Rake $0.36
+FilthyFlips shows [2c 2s] (three of a kind, Set of Deuces [2s 2d 2c Qc Ts])
+Fishka1kk shows [Js Ks] (a flush, King high [Ks Js Ts 5s 4s])
+Fishka1kk collected $6.97 from main pot
+*** SUMMARY ***
+Total pot $6.97 | Rake $0.24 | JP Fee $0.12
+Board [4s 2d 5s Ts Qc]
+Seat 1: FilthyFlips (big blind) showed [2c 2s] and lost with three of a kind, Set of Deuces [2s 2d 2c Qc Ts]
+Seat 2: Fishka1kk showed [Js Ks] and won $6.97 with a flush, King high [Ks Js Ts 5s 4s]
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: muddym561 folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Turn
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487626329 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:04:03 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: FilthyFlips ($7.40)
+Seat 2: Fishka1kk ($15.33)
+Seat 3: AlexSexy ($20.06)
+Seat 5: teddekgb ($28.16)
+Seat 7: UrbansFelix ($6.14)
+Seat 8: grotle ($9.03)
+Seat 9: xxDeadwoodxx ($10.00)
+FilthyFlips posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [As 2s]
+AlexSexy folds
+teddekgb folds
+UrbansFelix raises $0.25 to $0.25
+grotle calls $0.25
+xxDeadwoodxx folds
+FilthyFlips calls $0.20
+Fishka1kk calls $0.15
+*** FLOP *** [Ah 9d 7s]
+Main pot $0.95 | Rake $0.05
+FilthyFlips checks
+Fishka1kk checks
+UrbansFelix checks
+grotle bets $0.30
+FilthyFlips folds
+Fishka1kk folds
+UrbansFelix raises $1.07 to $1.07
+grotle calls $0.77
+*** TURN *** [Ah 9d 7s] [Ks]
+Main pot $2.99 | Rake $0.15
+UrbansFelix checks
+grotle checks
+*** RIVER *** [Ah 9d 7s Ks] [Qh]
+Main pot $2.99 | Rake $0.15
+UrbansFelix checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $2.99 | Rake $0.15
+UrbansFelix shows [Jd Qc] (a pair of Queens [Qh Qc Ah Ks Jd])
+grotle shows [As 2s] (a pair of Aces [As Ah Ks Qh 9d])
+grotle collected $2.99 from main pot
+*** SUMMARY ***
+Total pot $2.99 | Rake $0.11 | JP Fee $0.04
+Board [Ah 9d 7s Ks Qh]
+Seat 1: FilthyFlips (small blind) folded on the Flop
+Seat 2: Fishka1kk (big blind) folded on the Flop
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix showed [Jd Qc] and lost with a pair of Queens [Qh Qc Ah Ks Jd]
+Seat 8: grotle showed [As 2s] and won $2.99 with a pair of Aces [As Ah Ks Qh 9d]
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487627294 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:06:01 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: FilthyFlips ($10.00)
+Seat 2: Fishka1kk ($15.08)
+Seat 3: AlexSexy ($20.06)
+Seat 5: teddekgb ($28.16)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.70)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9c 7s]
+teddekgb raises $0.28 to $0.28
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips raises $0.99 to $0.99
+Fishka1kk folds
+AlexSexy folds
+teddekgb folds
+Uncalled bet ($0.71) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.71
+Seat 1: FilthyFlips did not show and won $0.71
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487627656 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:06:43 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($10.43)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.96)
+Seat 5: teddekgb ($27.88)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.70)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8c 4s]
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+teddekgb folds
+Uncalled bet ($0.15) returned to UrbansFelix
+UrbansFelix does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 5: teddekgb (big blind) folded on the Pre-Flop
+Seat 7: UrbansFelix did not show and won $0.25
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487627855 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:07:08 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($10.43)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.91)
+Seat 5: teddekgb ($27.78)
+Seat 7: UrbansFelix ($5.15)
+Seat 8: grotle ($10.70)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9h 7s]
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy raises $0.30 to $0.30
+teddekgb raises $1.15 to $1.20
+UrbansFelix folds
+AlexSexy raises $2.40 to $2.70
+teddekgb calls $1.50
+*** FLOP *** [Td Qh 5c]
+Main pot $5.23 | Rake $0.27
+teddekgb checks
+AlexSexy checks
+*** TURN *** [Td Qh 5c] [Js]
+Main pot $5.23 | Rake $0.27
+teddekgb bets $1.57
+AlexSexy raises $5.75 to $5.75
+teddekgb calls $4.18
+*** RIVER *** [Td Qh 5c Js] [Qd]
+Main pot $16.15 | Rake $0.85
+teddekgb checks
+AlexSexy checks
+*** SHOW DOWN ***
+Main pot $16.15 | Rake $0.85
+AlexSexy shows [Kh Ad] (a straight, Ace high [Ad Kh Qh Js Td])
+teddekgb shows [Ah Ks] (a straight, Ace high [Ah Ks Qh Js Td])
+AlexSexy collected $8.07 from main pot
+teddekgb collected $8.08 from main pot
+*** SUMMARY ***
+Total pot $16.15 | Rake $0.61 | JP Fee $0.24
+Board [Td Qh 5c Js Qd]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) showed [Kh Ad] and won $8.07 with a straight, Ace high [Ad Kh Qh Js Td]
+Seat 5: teddekgb (small blind) showed [Ah Ks] and won $8.08 with a straight, Ace high [Ah Ks Qh Js Td]
+Seat 7: UrbansFelix (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487628882 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:09:15 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($10.43)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.53)
+Seat 5: teddekgb ($27.41)
+Seat 7: UrbansFelix ($5.05)
+Seat 8: grotle ($10.70)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4d 3s]
+xxDeadwoodxx folds
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy folds
+teddekgb folds
+UrbansFelix raises $0.55 to $0.60
+grotle folds
+FilthyFlips calls $0.25
+*** FLOP *** [7s Td 2h]
+Main pot $1.24 | Rake $0.06
+UrbansFelix checks
+FilthyFlips checks
+*** TURN *** [7s Td 2h] [Qs]
+Main pot $1.24 | Rake $0.06
+UrbansFelix checks
+FilthyFlips bets $0.97
+UrbansFelix folds
+Uncalled bet ($0.97) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.04 | JP Fee $0.02
+Board [7s Td 2h Qs]
+Seat 1: FilthyFlips did not show and won $1.24
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (small blind) folded on the Turn
+Seat 8: grotle (big blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487629563 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:10:43 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: FilthyFlips ($11.07)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.53)
+Seat 5: teddekgb ($27.41)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.60)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4c 2d]
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy folds
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Uncalled bet ($0.25) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips did not show and won $0.25
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487629756 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:11:09 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($11.22)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.53)
+Seat 5: teddekgb ($27.41)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.55)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qs 4d]
+Fishka1kk folds
+AlexSexy folds
+teddekgb folds
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips calls $0.15
+*** FLOP *** [2c Qd 9d]
+Main pot $0.53 | Rake $0.02
+FilthyFlips checks
+UrbansFelix checks
+*** TURN *** [2c Qd 9d] [Kd]
+Main pot $0.53 | Rake $0.02
+FilthyFlips checks
+UrbansFelix checks
+*** RIVER *** [2c Qd 9d Kd] [Ad]
+Main pot $0.53 | Rake $0.02
+FilthyFlips checks
+UrbansFelix checks
+*** SHOW DOWN ***
+Main pot $0.53 | Rake $0.02
+FilthyFlips shows [As 8h] (a pair of Aces [As Ad Kd Qd 9d])
+UrbansFelix shows [5c Ac] (a pair of Aces [Ad Ac Kd Qd 9d])
+FilthyFlips collected $0.27 from main pot
+UrbansFelix collected $0.26 from main pot
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [2c Qd 9d Kd Ad]
+Seat 1: FilthyFlips (big blind) showed [As 8h] and won $0.27 with a pair of Aces [As Ad Kd Qd 9d]
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix showed [5c Ac] and won $0.26 with a pair of Aces [Ad Ac Kd Qd 9d]
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487630218 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:12:07 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: FilthyFlips ($11.24)
+Seat 2: Fishka1kk ($15.03)
+Seat 3: AlexSexy ($19.53)
+Seat 5: teddekgb ($27.41)
+Seat 7: UrbansFelix ($5.01)
+Seat 8: grotle ($10.55)
+Seat 9: xxDeadwoodxx ($10.00)
+FilthyFlips posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [5c 2s]
+AlexSexy folds
+teddekgb raises $0.28 to $0.28
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+Uncalled bet ($0.18) returned to teddekgb
+teddekgb does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips (small blind) folded on the Pre-Flop
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 5: teddekgb did not show and won $0.25
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487630448 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:12:37 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($14.93)
+Seat 3: AlexSexy ($19.53)
+Seat 5: teddekgb ($27.56)
+Seat 7: UrbansFelix ($5.01)
+Seat 8: grotle ($10.55)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8c Qc]
+teddekgb folds
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk raises $1.15 to $1.20
+AlexSexy folds
+UrbansFelix folds
+Uncalled bet ($0.95) returned to Fishka1kk
+Fishka1kk does not show
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: FilthyFlips (button) folded on the Pre-Flop
+Seat 2: Fishka1kk did not show and won $0.60
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487630786 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:13:21 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($15.28)
+Seat 3: AlexSexy ($19.43)
+Seat 4: GnarskiMcshlonky ($8.00)
+Seat 5: teddekgb ($27.56)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.55)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+GnarskiMcshlonky posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9h 2s]
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy raises $0.95 to $1.00
+GnarskiMcshlonky folds
+Fishka1kk folds
+Uncalled bet ($0.74) returned to AlexSexy
+AlexSexy does not show
+*** SUMMARY ***
+Total pot $0.62
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy did not show and won $0.62
+Seat 4: GnarskiMcshlonky (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487631212 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:14:17 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($15.02)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($7.90)
+Seat 5: teddekgb ($27.56)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.55)
+Seat 9: xxDeadwoodxx ($10.00)
+GnarskiMcshlonky posts the small blind $0.05
+teddekgb posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ts Ac]
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky calls $0.15
+teddekgb calls $0.10
+*** FLOP *** [8h 7s 7h]
+Main pot $0.57 | Rake $0.03
+GnarskiMcshlonky checks
+teddekgb checks
+grotle bets $0.20
+GnarskiMcshlonky folds
+teddekgb folds
+Uncalled bet ($0.20) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [8h 7s 7h]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) folded on the Pre-Flop
+Seat 4: GnarskiMcshlonky (small blind) folded on the Flop
+Seat 5: teddekgb (big blind) folded on the Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $0.57
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487631622 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:15:10 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($15.02)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($7.70)
+Seat 5: teddekgb ($27.36)
+Seat 6: Aqostol ($5.37)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.92)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+Aqostol posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2c 5h]
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb folds
+Aqostol calls $0.15
+*** FLOP *** [7d 6s 9h]
+Main pot $0.53 | Rake $0.02
+Aqostol bets $0.10
+UrbansFelix calls $0.10
+*** TURN *** [7d 6s 9h] [Ks]
+Main pot $0.72 | Rake $0.03
+Aqostol bets $1.01
+UrbansFelix folds
+Uncalled bet ($1.01) returned to Aqostol
+Aqostol does not show
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [7d 6s 9h Ks]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky (button) folded on the Pre-Flop
+Seat 5: teddekgb (small blind) folded on the Pre-Flop
+Seat 6: Aqostol did not show and won $0.72
+Seat 7: UrbansFelix folded on the Turn
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487632061 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:16:08 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($15.02)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($7.70)
+Seat 5: teddekgb ($27.31)
+Seat 6: Aqostol ($5.74)
+Seat 7: UrbansFelix ($5.00)
+Seat 8: grotle ($10.92)
+Seat 9: xxDeadwoodxx ($10.00)
+Aqostol posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4d Ts]
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy folds
+GnarskiMcshlonky calls $0.26
+teddekgb folds
+Aqostol calls $0.21
+UrbansFelix raises $1.50 to $1.60
+Fishka1kk folds
+GnarskiMcshlonky calls $1.34
+Aqostol calls $1.34
+*** FLOP *** [Jc Ks 3h]
+Main pot $4.81 | Rake $0.25
+Aqostol bets $0.75
+UrbansFelix calls $0.75
+GnarskiMcshlonky calls $0.75
+*** TURN *** [Jc Ks 3h] [As]
+Main pot $6.95 | Rake $0.36
+Aqostol bets $0.51
+UrbansFelix calls $0.51
+GnarskiMcshlonky raises $5.35 to $5.35 and is all-in
+Aqostol calls $2.88 and is all-in
+UrbansFelix calls $2.14 and is all-in
+Uncalled bet ($1.96) returned to GnarskiMcshlonky
+*** RIVER *** [Jc Ks 3h As] [9h]
+Main pot $14.50 | Rake $0.76
+Side pot(1) $1.41 | Rake $0.07
+*** SHOW DOWN ***
+Main pot $14.50 | Rake $0.76
+Side pot(1) $1.41 | Rake $0.07
+GnarskiMcshlonky shows [Qs Js] (a pair of Jacks [Js Jc As Ks Qs])
+Aqostol shows [9c Qc] (a pair of Nines [9h 9c As Ks Qc])
+UrbansFelix shows [Kd Ac] (two pair, Aces and Kings [As Ac Ks Kd Jc])
+UrbansFelix collected $14.50 from main pot
+GnarskiMcshlonky collected $1.41 from side pot-1
+*** SUMMARY ***
+Total pot $15.91 | Rake $0.59 | JP Fee $0.24
+Board [Jc Ks 3h As 9h]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky showed [Qs Js] and won $1.41 with a pair of Jacks [Js Jc As Ks Qs]
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 6: Aqostol (small blind) showed [9c Qc] and lost with a pair of Nines [9h 9c As Ks Qc]
+Seat 7: UrbansFelix (big blind) showed [Kd Ac] and won $14.50 with two pair, Aces and Kings [As Ac Ks Kd Jc]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487633073 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:18:21 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($14.76)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($3.37)
+Seat 5: teddekgb ($27.31)
+Seat 7: UrbansFelix ($14.50)
+Seat 8: grotle ($10.92)
+Seat 9: xxDeadwoodxx ($10.00)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4h Qs]
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky raises $0.20 to $0.20
+teddekgb folds
+UrbansFelix raises $0.85 to $0.90
+grotle folds
+GnarskiMcshlonky folds
+Uncalled bet ($0.70) returned to UrbansFelix
+UrbansFelix does not show
+*** SUMMARY ***
+Total pot $0.50
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix did not show and won $0.50
+Seat 8: grotle (big blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487633382 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:19:02 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: FilthyFlips ($11.19)
+Seat 2: Fishka1kk ($14.76)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($3.17)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($14.80)
+Seat 8: grotle ($10.82)
+Seat 9: xxDeadwoodxx ($10.00)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Td 8h]
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+Uncalled bet ($0.25) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips did not show and won $0.25
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487633797 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:19:56 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($11.34)
+Seat 2: Fishka1kk ($14.76)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($3.17)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($14.80)
+Seat 8: grotle ($10.77)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2c 3h]
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 1: FilthyFlips did not show and won $0.15
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487633979 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:20:22 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: FilthyFlips ($11.39)
+Seat 2: Fishka1kk ($14.76)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($3.17)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($14.80)
+Seat 8: grotle ($10.77)
+Seat 9: xxDeadwoodxx ($10.00)
+FilthyFlips posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [6c 5s]
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+FilthyFlips raises $0.95 to $1.00
+Fishka1kk folds
+xxDeadwoodxx folds
+Uncalled bet ($0.70) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $0.70
+Seat 1: FilthyFlips did not show and won $0.70
+Seat 2: Fishka1kk (big blind) folded on the Pre-Flop
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487634342 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:21:09 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: FilthyFlips ($11.79)
+Seat 2: Fishka1kk ($14.66)
+Seat 3: AlexSexy ($19.79)
+Seat 4: GnarskiMcshlonky ($3.17)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($14.80)
+Seat 8: grotle ($10.77)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [As 9c]
+GnarskiMcshlonky folds
+teddekgb folds
+UrbansFelix raises $0.25 to $0.25
+grotle calls $0.25
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+*** FLOP *** [5s 8h 3s]
+Main pot $0.62 | Rake $0.03
+UrbansFelix bets $0.20
+grotle calls $0.20
+*** TURN *** [5s 8h 3s] [2c]
+Main pot $1.00 | Rake $0.05
+UrbansFelix checks
+grotle checks
+*** RIVER *** [5s 8h 3s 2c] [7c]
+Main pot $1.00 | Rake $0.05
+UrbansFelix bets $0.75
+grotle folds
+Uncalled bet ($0.75) returned to UrbansFelix
+UrbansFelix does not show
+*** SUMMARY ***
+Total pot $1.00 | Rake $0.05
+Board [5s 8h 3s 2c 7c]
+Seat 1: FilthyFlips (button) folded on the Pre-Flop
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Pre-Flop
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix did not show and won $1.00
+Seat 8: grotle folded on the River
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487634915 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:22:32 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($11.79)
+Seat 2: Fishka1kk ($14.61)
+Seat 3: AlexSexy ($19.69)
+Seat 4: GnarskiMcshlonky ($3.17)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($15.35)
+Seat 8: grotle ($10.32)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+GnarskiMcshlonky posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2c Kh]
+teddekgb folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk raises $0.26 to $0.26
+AlexSexy raises $0.95 to $1.00
+GnarskiMcshlonky folds
+Fishka1kk folds
+Uncalled bet ($0.74) returned to AlexSexy
+AlexSexy does not show
+*** SUMMARY ***
+Total pot $0.62
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy did not show and won $0.62
+Seat 4: GnarskiMcshlonky (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487635190 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:23:09 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($11.79)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($20.05)
+Seat 4: GnarskiMcshlonky ($3.07)
+Seat 5: teddekgb ($27.31)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($15.35)
+Seat 8: grotle ($10.32)
+Seat 9: xxDeadwoodxx ($10.00)
+GnarskiMcshlonky posts the small blind $0.05
+teddekgb posts the big blind $0.10
+1zemun waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [4d 8h]
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips calls $0.25
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky calls $0.20
+teddekgb calls $0.15
+*** FLOP *** [2c 9d Kc]
+Main pot $0.95 | Rake $0.05
+GnarskiMcshlonky bets $0.60
+teddekgb folds
+UrbansFelix folds
+FilthyFlips calls $0.60
+*** TURN *** [2c 9d Kc] [As]
+Main pot $2.09 | Rake $0.11
+GnarskiMcshlonky checks
+FilthyFlips checks
+*** RIVER *** [2c 9d Kc As] [7d]
+Main pot $2.09 | Rake $0.11
+GnarskiMcshlonky checks
+FilthyFlips checks
+*** SHOW DOWN ***
+Main pot $2.09 | Rake $0.11
+FilthyFlips shows [Qc Jd] (a high card, Ace high [As Kc Qc Jd 9d])
+GnarskiMcshlonky shows [Qs 9s] (a pair of Nines [9s 9d As Kc Qs])
+GnarskiMcshlonky collected $2.09 from main pot
+*** SUMMARY ***
+Total pot $2.09 | Rake $0.09 | JP Fee $0.02
+Board [2c 9d Kc As 7d]
+Seat 1: FilthyFlips showed [Qc Jd] and lost with a high card, Ace high [As Kc Qc Jd 9d]
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) folded on the Pre-Flop
+Seat 4: GnarskiMcshlonky (small blind) showed [Qs 9s] and won $2.09 with a pair of Nines [9s 9d As Kc Qs]
+Seat 5: teddekgb (big blind) folded on the Flop
+Seat 7: UrbansFelix folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487635782 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:24:38 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: FilthyFlips ($10.94)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($20.05)
+Seat 4: GnarskiMcshlonky ($4.31)
+Seat 5: teddekgb ($27.06)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($15.10)
+Seat 8: grotle ($10.32)
+Seat 9: xxDeadwoodxx ($10.00)
+teddekgb posts the small blind $0.05
+1zemun posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ac 2c]
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky raises $0.55 to $0.55
+teddekgb folds
+1zemun calls $0.45
+grotle calls $0.35
+*** FLOP *** [8s Jd Jh]
+Main pot $1.62 | Rake $0.08
+1zemun checks
+grotle checks
+GnarskiMcshlonky bets $0.90
+1zemun folds
+grotle folds
+Uncalled bet ($0.90) returned to GnarskiMcshlonky
+GnarskiMcshlonky does not show
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.06 | JP Fee $0.02
+Board [8s Jd Jh]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky did not show and won $1.62
+Seat 5: teddekgb (small blind) folded on the Pre-Flop
+Seat 6: 1zemun (big blind) folded on the Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Flop
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487636174 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:25:31 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($10.94)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($20.05)
+Seat 4: GnarskiMcshlonky ($5.38)
+Seat 5: teddekgb ($27.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($15.10)
+Seat 8: grotle ($9.77)
+Seat 9: xxDeadwoodxx ($10.00)
+1zemun posts the small blind $0.05
+UrbansFelix posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 8c]
+grotle folds
+xxDeadwoodxx raises $0.30 to $0.30
+FilthyFlips raises $1.00 to $1.00
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb calls $1.00
+1zemun folds
+UrbansFelix folds
+xxDeadwoodxx raises $9.70 to $10.00 and is all-in
+FilthyFlips raises $9.94 to $10.94 and is all-in
+teddekgb folds
+Uncalled bet ($0.94) returned to FilthyFlips
+*** FLOP *** [Qs 4c 4s]
+Main pot $20.10 | Rake $1.05
+*** TURN *** [Qs 4c 4s] [6d]
+Main pot $20.10 | Rake $1.05
+*** RIVER *** [Qs 4c 4s 6d] [8s]
+Main pot $20.10 | Rake $1.05
+*** SHOW DOWN ***
+Main pot $20.10 | Rake $1.05
+FilthyFlips shows [Ks Kd] (two pair, Kings and Fours [Ks Kd 4s 4c Qs])
+xxDeadwoodxx shows [Kh Kc] (two pair, Kings and Fours [Kh Kc 4s 4c Qs])
+FilthyFlips collected $10.05 from main pot
+xxDeadwoodxx collected $10.05 from main pot
+*** SUMMARY ***
+Total pot $20.10 | Rake $0.81 | JP Fee $0.24
+Board [Qs 4c 4s 6d 8s]
+Seat 1: FilthyFlips showed [Ks Kd] and won $10.05 with two pair, Kings and Fours [Ks Kd 4s 4c Qs]
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb (button) folded on the Pre-Flop
+Seat 6: 1zemun (small blind) folded on the Pre-Flop
+Seat 7: UrbansFelix (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx showed [Kh Kc] and won $10.05 with two pair, Kings and Fours [Kh Kc 4s 4c Qs]
+
+Hand #2487636569 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:26:28 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: FilthyFlips ($10.99)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($20.05)
+Seat 4: GnarskiMcshlonky ($5.38)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($15.00)
+Seat 8: grotle ($9.77)
+Seat 9: xxDeadwoodxx ($10.05)
+UrbansFelix posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ad Qc]
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky raises $0.25 to $0.25
+teddekgb folds
+1zemun folds
+UrbansFelix raises $1.05 to $1.10
+grotle calls $1.00
+GnarskiMcshlonky folds
+*** FLOP *** [6s Qh Tc]
+Main pot $2.33 | Rake $0.12
+UrbansFelix bets $0.76
+grotle calls $0.76
+*** TURN *** [6s Qh Tc] [6h]
+Main pot $3.78 | Rake $0.19
+UrbansFelix checks
+grotle bets $1.23
+UrbansFelix folds
+Uncalled bet ($1.23) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $3.78 | Rake $0.13 | JP Fee $0.06
+Board [6s Qh Tc 6h]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun (button) folded on the Pre-Flop
+Seat 7: UrbansFelix (small blind) folded on the Turn
+Seat 8: grotle did not show and won $3.78
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487637353 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:28:23 UTC
+Romeoville 9-max Seat #7 is the button
+Seat 1: FilthyFlips ($10.99)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($20.05)
+Seat 4: GnarskiMcshlonky ($5.13)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($13.14)
+Seat 8: grotle ($11.69)
+Seat 9: xxDeadwoodxx ($10.05)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9d Qd]
+FilthyFlips raises $0.35 to $0.35
+Fishka1kk folds
+AlexSexy raises $1.00 to $1.00
+GnarskiMcshlonky folds
+teddekgb folds
+1zemun folds
+UrbansFelix folds
+grotle calls $0.95
+xxDeadwoodxx folds
+FilthyFlips calls $0.65
+*** FLOP *** [Tc Kh 2h]
+Main pot $2.95 | Rake $0.15
+grotle checks
+FilthyFlips checks
+AlexSexy bets $1.47
+grotle calls $1.47
+FilthyFlips calls $1.47
+*** TURN *** [Tc Kh 2h] [Ks]
+Main pot $7.14 | Rake $0.37
+grotle checks
+FilthyFlips checks
+AlexSexy bets $17.58 and is all-in
+grotle folds
+FilthyFlips folds
+Uncalled bet ($17.58) returned to AlexSexy
+AlexSexy does not show
+*** SUMMARY ***
+Total pot $7.14 | Rake $0.25 | JP Fee $0.12
+Board [Tc Kh 2h Ks]
+Seat 1: FilthyFlips folded on the Turn
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy did not show and won $7.14
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Turn
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487638094 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:30:13 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($8.52)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($24.72)
+Seat 4: GnarskiMcshlonky ($5.13)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($13.14)
+Seat 8: grotle ($9.22)
+Seat 9: xxDeadwoodxx ($10.00)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2c Kd]
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky raises $0.25 to $0.25
+teddekgb folds
+1zemun folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips calls $0.15
+*** FLOP *** [Ad 7d 8s]
+Main pot $0.53 | Rake $0.02
+FilthyFlips checks
+GnarskiMcshlonky checks
+*** TURN *** [Ad 7d 8s] [2s]
+Main pot $0.53 | Rake $0.02
+FilthyFlips checks
+GnarskiMcshlonky bets $0.40
+FilthyFlips folds
+Uncalled bet ($0.40) returned to GnarskiMcshlonky
+GnarskiMcshlonky does not show
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02
+Board [Ad 7d 8s 2s]
+Seat 1: FilthyFlips (big blind) folded on the Turn
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky did not show and won $0.53
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+
+Hand #2487638564 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:31:24 UTC
+Romeoville 9-max Seat #9 is the button
+Seat 1: FilthyFlips ($8.27)
+Seat 2: Fishka1kk ($14.35)
+Seat 3: AlexSexy ($24.72)
+Seat 4: GnarskiMcshlonky ($5.41)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($13.14)
+Seat 8: grotle ($9.22)
+Seat 9: xxDeadwoodxx ($10.00)
+FilthyFlips posts the small blind $0.05
+Fishka1kk posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 7s]
+AlexSexy folds
+GnarskiMcshlonky folds
+teddekgb folds
+1zemun folds
+UrbansFelix raises $0.25 to $0.25
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips raises $0.90 to $0.95
+Fishka1kk raises $2.15 to $2.25
+UrbansFelix folds
+FilthyFlips calls $1.30
+*** FLOP *** [7d 5h Jh]
+Main pot $4.52 | Rake $0.23
+FilthyFlips checks
+Fishka1kk checks
+*** TURN *** [7d 5h Jh] [3s]
+Main pot $4.52 | Rake $0.23
+FilthyFlips bets $2.32
+Fishka1kk folds
+Uncalled bet ($2.32) returned to FilthyFlips
+FilthyFlips does not show
+*** SUMMARY ***
+Total pot $4.52 | Rake $0.17 | JP Fee $0.06
+Board [7d 5h Jh 3s]
+Seat 1: FilthyFlips did not show and won $4.52
+Seat 2: Fishka1kk (big blind) folded on the Turn
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx (button) folded on the Pre-Flop
+
+Hand #2487638988 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:32:27 UTC
+Romeoville 9-max Seat #1 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.10)
+Seat 3: AlexSexy ($24.72)
+Seat 4: GnarskiMcshlonky ($5.41)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($9.22)
+Seat 9: xxDeadwoodxx ($10.00)
+Fishka1kk posts the small blind $0.05
+AlexSexy posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [5c 9d]
+GnarskiMcshlonky calls $0.10
+teddekgb folds
+1zemun folds
+UrbansFelix folds
+grotle folds
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy checks
+*** FLOP *** [Td 8d Tc]
+Main pot $0.24 | Rake $0.01
+AlexSexy checks
+GnarskiMcshlonky bets $0.20
+AlexSexy folds
+Uncalled bet ($0.20) returned to GnarskiMcshlonky
+GnarskiMcshlonky does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Td 8d Tc]
+Seat 1: FilthyFlips (button) folded on the Pre-Flop
+Seat 2: Fishka1kk (small blind) folded on the Pre-Flop
+Seat 3: AlexSexy (big blind) folded on the Flop
+Seat 4: GnarskiMcshlonky did not show and won $0.24
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487639355 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:33:21 UTC
+Romeoville 9-max Seat #2 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($24.62)
+Seat 4: GnarskiMcshlonky ($5.55)
+Seat 5: teddekgb ($26.01)
+Seat 6: 1zemun ($10.00)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($9.22)
+Seat 9: xxDeadwoodxx ($10.00)
+AlexSexy posts the small blind $0.05
+GnarskiMcshlonky posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6s Ad]
+teddekgb folds
+1zemun raises $0.25 to $0.25
+UrbansFelix folds
+grotle calls $0.25
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+*** FLOP *** [3d 8s As]
+Main pot $0.62 | Rake $0.03
+1zemun bets $0.40
+grotle calls $0.40
+*** TURN *** [3d 8s As] [9h]
+Main pot $1.38 | Rake $0.07
+1zemun bets $0.70
+grotle calls $0.70
+*** RIVER *** [3d 8s As 9h] [7h]
+Main pot $2.71 | Rake $0.14
+1zemun checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $2.71 | Rake $0.14
+1zemun shows [Ah Kc] (a pair of Aces [As Ah Kc 9h 8s])
+grotle shows [6s Ad] (a pair of Aces [As Ad 9h 8s 7h])
+1zemun collected $2.71 from main pot
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.10 | JP Fee $0.04
+Board [3d 8s As 9h 7h]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk (button) folded on the Pre-Flop
+Seat 3: AlexSexy (small blind) folded on the Pre-Flop
+Seat 4: GnarskiMcshlonky (big blind) folded on the Pre-Flop
+Seat 5: teddekgb folded on the Pre-Flop and did not bet
+Seat 6: 1zemun showed [Ah Kc] and won $2.71 with a pair of Aces [As Ah Kc 9h 8s] with the kicker King
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [6s Ad] and lost with a pair of Aces [As Ad 9h 8s 7h]
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487639857 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:34:37 UTC
+Romeoville 9-max Seat #3 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($24.57)
+Seat 4: GnarskiMcshlonky ($5.45)
+Seat 5: yesamhere ($10.00)
+Seat 6: 1zemun ($11.36)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($7.87)
+Seat 9: xxDeadwoodxx ($10.00)
+GnarskiMcshlonky posts the small blind $0.05
+yesamhere posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ac Qh]
+1zemun folds
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+yesamhere calls $0.10
+*** FLOP *** [5s Ts 8s]
+Main pot $0.43 | Rake $0.02
+yesamhere checks
+grotle bets $0.15
+yesamhere raises $0.52 to $0.52
+grotle folds
+Uncalled bet ($0.37) returned to yesamhere
+yesamhere does not show
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [5s Ts 8s]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy (button) folded on the Pre-Flop
+Seat 4: GnarskiMcshlonky (small blind) folded on the Pre-Flop
+Seat 5: yesamhere did not show and won $0.72
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Flop
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487640330 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:35:50 UTC
+Romeoville 9-max Seat #4 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($24.57)
+Seat 4: GnarskiMcshlonky ($5.40)
+Seat 5: yesamhere ($10.37)
+Seat 6: 1zemun ($11.36)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($7.52)
+Seat 9: xxDeadwoodxx ($10.00)
+yesamhere posts the small blind $0.05
+1zemun posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6h 6d]
+UrbansFelix folds
+grotle raises $0.20 to $0.20
+xxDeadwoodxx folds
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+yesamhere folds
+1zemun folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky (button) folded on the Pre-Flop
+Seat 5: yesamhere (small blind) folded on the Pre-Flop
+Seat 6: 1zemun (big blind) folded on the Pre-Flop
+Seat 7: UrbansFelix folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $0.25
+Seat 9: xxDeadwoodxx folded on the Pre-Flop and did not bet
+
+Hand #2487640574 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:36:28 UTC
+Romeoville 9-max Seat #5 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($24.57)
+Seat 4: GnarskiMcshlonky ($5.40)
+Seat 5: yesamhere ($10.32)
+Seat 6: 1zemun ($11.26)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($7.67)
+Seat 9: xxDeadwoodxx ($10.00)
+1zemun posts the small blind $0.05
+UrbansFelix sits out
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7s 4c]
+xxDeadwoodxx raises $0.30 to $0.30
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy folds
+GnarskiMcshlonky folds
+yesamhere folds
+1zemun folds
+grotle folds
+Uncalled bet ($0.20) returned to xxDeadwoodxx
+xxDeadwoodxx does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Pre-Flop and did not bet
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: yesamhere (button) folded on the Pre-Flop
+Seat 6: 1zemun (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+Seat 9: xxDeadwoodxx did not show and won $0.25
+
+Hand #2487640930 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:37:24 UTC
+Romeoville 9-max Seat #6 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($24.57)
+Seat 4: GnarskiMcshlonky ($5.40)
+Seat 5: yesamhere ($10.32)
+Seat 6: 1zemun ($11.21)
+Seat 7: UrbansFelix will be allowed to play after the button
+Seat 8: grotle ($7.57)
+Seat 9: xxDeadwoodxx ($10.15)
+grotle posts the small blind $0.05
+xxDeadwoodxx posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7s 8d]
+FilthyFlips folds
+Fishka1kk folds
+AlexSexy raises $0.30 to $0.30
+GnarskiMcshlonky folds
+yesamhere folds
+1zemun folds
+grotle calls $0.25
+xxDeadwoodxx folds
+*** FLOP *** [Kh 9s Td]
+Main pot $0.67 | Rake $0.03
+grotle checks
+AlexSexy bets $0.33
+grotle raises $1.01 to $1.01
+AlexSexy folds
+Uncalled bet ($0.68) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.04 | JP Fee $0.02
+Board [Kh 9s Td]
+Seat 1: FilthyFlips folded on the Pre-Flop and did not bet
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Flop
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: yesamhere folded on the Pre-Flop and did not bet
+Seat 6: 1zemun (button) folded on the Pre-Flop
+Seat 8: grotle did not show and won $1.30
+Seat 9: xxDeadwoodxx (big blind) folded on the Pre-Flop
+
+Hand #2487641329 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/23 05:38:22 UTC
+Romeoville 9-max Seat #8 is the button
+Seat 1: FilthyFlips ($10.54)
+Seat 2: Fishka1kk ($12.05)
+Seat 3: AlexSexy ($23.94)
+Seat 4: GnarskiMcshlonky ($5.40)
+Seat 5: yesamhere ($10.32)
+Seat 6: 1zemun ($11.21)
+Seat 7: UrbansFelix ($12.89)
+Seat 8: grotle ($8.24)
+Seat 9: xxDeadwoodxx ($10.05)
+xxDeadwoodxx posts the small blind $0.05
+FilthyFlips posts the big blind $0.10
+UrbansFelix waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Tc 6c]
+Fishka1kk folds
+AlexSexy raises $0.30 to $0.30
+GnarskiMcshlonky folds
+yesamhere folds
+1zemun folds
+grotle calls $0.30
+xxDeadwoodxx folds
+FilthyFlips folds
+*** FLOP *** [9s Kh 6h]
+Main pot $0.72 | Rake $0.03
+AlexSexy bets $0.36
+grotle calls $0.36
+*** TURN *** [9s Kh 6h] [Td]
+Main pot $1.40 | Rake $0.07
+AlexSexy bets $0.70
+grotle raises $1.40 to $1.40
+AlexSexy folds
+Uncalled bet ($0.70) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $2.73 | Rake $0.10 | JP Fee $0.04
+Board [9s Kh 6h Td]
+Seat 1: FilthyFlips (big blind) folded on the Pre-Flop
+Seat 2: Fishka1kk folded on the Pre-Flop and did not bet
+Seat 3: AlexSexy folded on the Turn
+Seat 4: GnarskiMcshlonky folded on the Pre-Flop and did not bet
+Seat 5: yesamhere folded on the Pre-Flop and did not bet
+Seat 6: 1zemun folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won $2.73
+Seat 9: xxDeadwoodxx (small blind) folded on the Pre-Flop
+

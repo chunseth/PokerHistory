@@ -1,0 +1,3228 @@
+Game Hand #2478780266 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:41:28 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 1: MrBrilliance (236634.00)
+Seat 2: Hogir (142583.00)
+Seat 3: dibraldim (51375.00)
+Seat 4: b0tanik (32982.00)
+Seat 5: Limon931407 (209022.00)
+Seat 6: MindOverChips2 (99734.00)
+Seat 7: AnDreW2350 (100000.00)
+Seat 8: grotle (216358.00)
+MrBrilliance posts ante 225.00
+Hogir posts ante 225.00
+dibraldim posts ante 225.00
+b0tanik posts ante 225.00
+Limon931407 posts ante 225.00
+MindOverChips2 posts ante 225.00
+AnDreW2350 posts ante 225.00
+grotle posts ante 225.00
+dibraldim posts the small blind 900.00
+b0tanik posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5c 4c]
+Limon931407 folds
+MindOverChips2 folds
+AnDreW2350 folds
+grotle raises 3600.00 to 3600.00
+MrBrilliance folds
+Hogir folds
+dibraldim calls 2700.00
+b0tanik raises 30957.00 to 32757.00 and is all-in
+grotle folds
+dibraldim folds
+Uncalled bet (29157.00) returned to b0tanik
+b0tanik does not show
+*** SUMMARY ***
+Total pot 12600.00
+Seat 1: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 2: Hogir (button) folded on the Pre-Flop
+Seat 3: dibraldim (small blind) folded on the Pre-Flop
+Seat 4: b0tanik did not show and won 12600.00
+Seat 5: Limon931407 folded on the Pre-Flop and did not bet
+Seat 6: MindOverChips2 folded on the Pre-Flop and did not bet
+Seat 7: AnDreW2350 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478780474 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:42:27 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (127251.00)
+Seat 2: grotle (212533.00)
+Seat 3: yellowyepper (437708.00)
+Seat 4: Birr (100000.00)
+Seat 5: VictorCheers (181041.00)
+Seat 6: alkzar (244301.00)
+Seat 7: targinodsv (90451.00)
+Seat 8: Augustos357 (142023.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+alkzar posts the small blind 900.00
+targinodsv posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [9c 4s]
+Augustos357 raises 3600.00 to 3600.00
+275iqpeter folds
+grotle folds
+yellowyepper folds
+Birr folds
+VictorCheers calls 3600.00
+alkzar folds
+targinodsv folds
+*** FLOP *** [6s 9s Tc]
+Main pot 11700.00
+Augustos357 checks
+VictorCheers bets 5850.00
+Augustos357 calls 5850.00
+*** TURN *** [6s 9s Tc] [6d]
+Main pot 23400.00
+Augustos357 bets 17550.00
+VictorCheers calls 17550.00
+*** RIVER *** [6s 9s Tc 6d] [9d]
+Main pot 58500.00
+Augustos357 checks
+VictorCheers checks
+*** SHOW DOWN ***
+Main pot 58500.00
+VictorCheers shows [Qd Th] (two pair, Tens and Nines [Th Tc 9s 9d Qd])
+Augustos357 shows [Kh Jd] (two pair, Nines and Sixs [9s 9d 6s 6d Kh])
+VictorCheers collected 58500.00 from main pot
+*** SUMMARY ***
+Total pot 58500.00
+Board [6s 9s Tc 6d 9d]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers (button) showed [Qd Th] and won 58500.00 with two pair, Tens and Nines [Th Tc 9s 9d Qd]
+Seat 6: alkzar (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: Augustos357 showed [Kh Jd] and lost with two pair, Nines and Sixs [9s 9d 6s 6d Kh]
+
+Game Hand #2478780896 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:44:24 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (127026.00)
+Seat 2: grotle (212308.00)
+Seat 3: yellowyepper (437483.00)
+Seat 4: Birr (99775.00)
+Seat 5: VictorCheers (212316.00)
+Seat 6: alkzar (243176.00)
+Seat 7: targinodsv (88426.00)
+Seat 8: Augustos357 (114798.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+targinodsv posts the small blind 900.00
+Augustos357 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2s As]
+275iqpeter calls 1800.00
+grotle raises 6300.00 to 6300.00
+yellowyepper folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 4500.00
+*** FLOP *** [3s Qh 6h]
+Main pot 17100.00
+275iqpeter checks
+grotle checks
+*** TURN *** [3s Qh 6h] [5s]
+Main pot 17100.00
+275iqpeter checks
+grotle bets 8550.00
+275iqpeter folds
+Uncalled bet (8550.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 17100.00
+Board [3s Qh 6h 5s]
+Seat 1: 275iqpeter folded on the Turn
+Seat 2: grotle did not show and won 17100.00
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 (big blind) folded on the Pre-Flop
+
+Game Hand #2478781123 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:45:29 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (120501.00)
+Seat 2: grotle (222883.00)
+Seat 3: yellowyepper (437258.00)
+Seat 4: Birr (99550.00)
+Seat 5: VictorCheers (212091.00)
+Seat 6: alkzar (242951.00)
+Seat 7: targinodsv (87301.00)
+Seat 8: Augustos357 (112773.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+Augustos357 posts the small blind 900.00
+275iqpeter posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jd Td]
+grotle raises 3600.00 to 3600.00
+yellowyepper folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv calls 3600.00
+Augustos357 folds
+275iqpeter calls 1800.00
+*** FLOP *** [6c Tc Js]
+Main pot 13500.00
+275iqpeter bets 6750.00
+grotle calls 6750.00
+targinodsv calls 6750.00
+*** TURN *** [6c Tc Js] [Qh]
+Main pot 33750.00
+275iqpeter bets 16875.00
+grotle calls 16875.00
+targinodsv calls 16875.00
+*** RIVER *** [6c Tc Js Qh] [Ad]
+Main pot 84375.00
+275iqpeter checks
+grotle bets 42188.00
+targinodsv raises 59851.00 to 59851.00 and is all-in
+275iqpeter raises 93051.00 to 93051.00 and is all-in
+grotle calls 50863.00
+*** SHOW DOWN ***
+Main pot 263928.00
+Side pot(1) 66400.00
+275iqpeter shows [Jh Ts] (two pair, Jacks and Tens [Js Jh Ts Tc Ad])
+grotle shows [Jd Td] (two pair, Jacks and Tens [Js Jd Td Tc Ad])
+targinodsv shows [Kc 9c] (a straight, Ace high [Ad Kc Qh Js Tc])
+targinodsv collected 263928.00 from main pot
+275iqpeter collected 33200.00 from side pot-1
+grotle collected 33200.00 from side pot-1
+*** SUMMARY ***
+Total pot 330328.00
+Board [6c Tc Js Qh Ad]
+Seat 1: 275iqpeter (big blind) showed [Jh Ts] and won 33200.00 with two pair, Jacks and Tens [Js Jh Ts Tc Ad]
+Seat 2: grotle showed [Jd Td] and won 33200.00 with two pair, Jacks and Tens [Js Jd Td Tc Ad]
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) showed [Kc 9c] and won 263928.00 with a straight, Ace high [Ad Kc Qh Js Tc]
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478781492 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:47:08 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (33200.00)
+Seat 2: grotle (135582.00)
+Seat 3: yellowyepper (437033.00)
+Seat 4: Birr (99325.00)
+Seat 5: VictorCheers (211866.00)
+Seat 6: alkzar (242726.00)
+Seat 7: targinodsv (263928.00)
+Seat 8: Augustos357 (111648.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+275iqpeter posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [2s 4c]
+yellowyepper folds
+Birr folds
+VictorCheers folds
+alkzar raises 3600.00 to 3600.00
+targinodsv folds
+Augustos357 folds
+275iqpeter raises 32075.00 to 32975.00 and is all-in
+grotle folds
+alkzar folds
+Uncalled bet (29375.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 10800.00
+Seat 1: 275iqpeter did not show and won 10800.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478781693 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:48:06 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (40175.00)
+Seat 2: grotle (133557.00)
+Seat 3: yellowyepper (436808.00)
+Seat 4: Birr (99100.00)
+Seat 5: VictorCheers (211641.00)
+Seat 6: alkzar (238901.00)
+Seat 7: targinodsv (263703.00)
+Seat 8: Augustos357 (111423.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+grotle posts the small blind 900.00
+yellowyepper posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jc 2c]
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+yellowyepper does not show
+*** SUMMARY ***
+Total pot 4500.00
+Seat 1: 275iqpeter (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: yellowyepper did not show and won 4500.00
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478781756 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:48:24 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (39950.00)
+Seat 2: grotle (132432.00)
+Seat 3: yellowyepper (439283.00)
+Seat 4: Birr (98875.00)
+Seat 5: VictorCheers (211416.00)
+Seat 6: alkzar (238676.00)
+Seat 7: targinodsv (263478.00)
+Seat 8: Augustos357 (111198.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+yellowyepper posts the small blind 900.00
+Birr posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [4s 2c]
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 raises 3600.00 to 3600.00
+275iqpeter raises 39725.00 to 39725.00 and is all-in
+grotle folds
+yellowyepper folds
+Birr folds
+Augustos357 folds
+Uncalled bet (36125.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 11700.00
+Seat 1: 275iqpeter did not show and won 11700.00
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: yellowyepper (small blind) folded on the Pre-Flop
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478781971 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:49:23 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (47825.00)
+Seat 2: grotle (132207.00)
+Seat 3: yellowyepper (438158.00)
+Seat 4: Birr (96850.00)
+Seat 5: VictorCheers (211191.00)
+Seat 6: alkzar (238451.00)
+Seat 7: targinodsv (263253.00)
+Seat 8: Augustos357 (107373.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+Birr posts the small blind 900.00
+VictorCheers posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Js 7h]
+alkzar raises 3600.00 to 3600.00
+targinodsv folds
+Augustos357 calls 3600.00
+275iqpeter folds
+grotle folds
+yellowyepper folds
+Birr folds
+VictorCheers folds
+*** FLOP *** [Kh 2h 3c]
+Main pot 11700.00
+alkzar bets 4761.00
+Augustos357 calls 4761.00
+*** TURN *** [Kh 2h 3c] [6c]
+Main pot 21222.00
+alkzar bets 14950.00
+Augustos357 calls 14950.00
+*** RIVER *** [Kh 2h 3c 6c] [7s]
+Main pot 51122.00
+alkzar checks
+Augustos357 checks
+*** SHOW DOWN ***
+Main pot 51122.00
+alkzar shows [4s As] (a high card, Ace high [As Kh 7s 6c 4s])
+Augustos357 shows [Ks Qd] (a pair of Kings [Ks Kh Qd 7s 6c])
+Augustos357 collected 51122.00 from main pot
+*** SUMMARY ***
+Total pot 51122.00
+Board [Kh 2h 3c 6c 7s]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper (button) folded on the Pre-Flop
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: VictorCheers (big blind) folded on the Pre-Flop
+Seat 6: alkzar showed [4s As] and lost with a high card, Ace high [As Kh 7s 6c 4s]
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 showed [Ks Qd] and won 51122.00 with a pair of Kings [Ks Kh Qd 7s 6c]
+
+Game Hand #2478782269 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:50:52 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (47600.00)
+Seat 2: grotle (131982.00)
+Seat 3: yellowyepper (437933.00)
+Seat 4: Birr (95725.00)
+Seat 5: VictorCheers (209166.00)
+Seat 6: alkzar (214915.00)
+Seat 7: targinodsv (263028.00)
+Seat 8: Augustos357 (134959.00)
+275iqpeter posts ante 225.00
+grotle posts ante 225.00
+yellowyepper posts ante 225.00
+Birr posts ante 225.00
+VictorCheers posts ante 225.00
+alkzar posts ante 225.00
+targinodsv posts ante 225.00
+Augustos357 posts ante 225.00
+VictorCheers posts the small blind 900.00
+alkzar posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jc Kc]
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle raises 3600.00 to 3600.00
+yellowyepper folds
+Birr calls 3600.00
+VictorCheers raises 18000.00 to 18900.00
+alkzar folds
+grotle calls 15300.00
+Birr folds
+*** FLOP *** [8h 8c 7s]
+Main pot 45000.00
+VictorCheers checks
+grotle checks
+*** TURN *** [8h 8c 7s] [Jd]
+Main pot 45000.00
+VictorCheers checks
+grotle checks
+*** RIVER *** [8h 8c 7s Jd] [2h]
+Main pot 45000.00
+VictorCheers checks
+grotle bets 22500.00
+VictorCheers folds
+Uncalled bet (22500.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 45000.00
+Board [8h 8c 7s Jd 2h]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 45000.00
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 5: VictorCheers (small blind) folded on the River
+Seat 6: alkzar (big blind) folded on the Pre-Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478782800 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 12:53:20 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (47375.00)
+Seat 2: grotle (157857.00)
+Seat 3: yellowyepper (437708.00)
+Seat 4: Birr (91900.00)
+Seat 5: VictorCheers (190041.00)
+Seat 6: alkzar (212890.00)
+Seat 7: targinodsv (262803.00)
+Seat 8: Augustos357 (134734.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+alkzar posts the small blind 1000.00
+targinodsv posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [9d 9h]
+Augustos357 folds
+275iqpeter folds
+grotle raises 4000.00 to 4000.00
+yellowyepper folds
+Birr raises 91650.00 to 91650.00 and is all-in
+VictorCheers folds
+alkzar folds
+targinodsv folds
+grotle calls 87650.00
+*** FLOP *** [3h 2d Kd]
+Main pot 188300.00
+*** TURN *** [3h 2d Kd] [9s]
+Main pot 188300.00
+*** RIVER *** [3h 2d Kd 9s] [7c]
+Main pot 188300.00
+*** SHOW DOWN ***
+Main pot 188300.00
+grotle shows [9d 9h] (three of a kind, Set of Nines [9s 9h 9d Kd 7c])
+Birr shows [8s 8h] (a pair of Eights [8s 8h Kd 9s 7c])
+grotle collected 188300.00 from main pot
+*** SUMMARY ***
+Total pot 188300.00
+Board [3h 2d Kd 9s 7c]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [9d 9h] and won 188300.00 with three of a kind, Set of Nines [9s 9h 9d Kd 7c]
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr showed [8s 8h] and lost with a pair of Eights [8s 8h Kd 9s 7c]
+Seat 5: VictorCheers (button) folded on the Pre-Flop
+Seat 6: alkzar (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478782942 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 12:53:59 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (47125.00)
+Seat 2: grotle (254257.00)
+Seat 3: yellowyepper (437458.00)
+Seat 5: VictorCheers (189791.00)
+Seat 6: alkzar (211640.00)
+Seat 7: targinodsv (260553.00)
+Seat 8: Augustos357 (134484.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+targinodsv posts the small blind 1000.00
+Augustos357 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [4d 5d]
+275iqpeter folds
+grotle raises 4000.00 to 4000.00
+yellowyepper folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 calls 2000.00
+*** FLOP *** [Kc 5c Qc]
+Main pot 10750.00
+Augustos357 checks
+grotle checks
+*** TURN *** [Kc 5c Qc] [Jd]
+Main pot 10750.00
+Augustos357 checks
+grotle checks
+*** RIVER *** [Kc 5c Qc Jd] [Ts]
+Main pot 10750.00
+Augustos357 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 10750.00
+grotle shows [4d 5d] (a pair of Fives [5d 5c Kc Qc Jd])
+Augustos357 shows [8h 6h] (a high card, King high [Kc Qc Jd Ts 8h])
+grotle collected 10750.00 from main pot
+*** SUMMARY ***
+Total pot 10750.00
+Board [Kc 5c Qc Jd Ts]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [4d 5d] and won 10750.00 with a pair of Fives [5d 5c Kc Qc Jd]
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 (big blind) showed [8h 6h] and lost with a high card, King high [Kc Qc Jd Ts 8h]
+
+Game Hand #2478783844 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:01:31 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (46875.00)
+Seat 2: grotle (260757.00)
+Seat 3: yellowyepper (437208.00)
+Seat 4: Birr (100000.00)
+Seat 5: VictorCheers (189541.00)
+Seat 6: alkzar (211390.00)
+Seat 7: targinodsv (259303.00) is sitting out
+Seat 8: Augustos357 (130234.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+Augustos357 posts the small blind 1000.00
+275iqpeter posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Kc 4d]
+grotle folds
+yellowyepper raises 4000.00 to 4000.00
+Birr folds
+VictorCheers folds
+alkzar raises 16000.00 to 16000.00
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+yellowyepper folds
+Uncalled bet (12000.00) returned to alkzar
+alkzar does not show
+*** SUMMARY ***
+Total pot 13000.00
+Seat 1: 275iqpeter (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar did not show and won 13000.00
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478783970 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:02:13 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (44625.00)
+Seat 2: grotle (260507.00)
+Seat 3: yellowyepper (432958.00)
+Seat 4: Birr (99750.00)
+Seat 5: VictorCheers (189291.00)
+Seat 6: alkzar (220140.00)
+Seat 7: targinodsv (259053.00) is sitting out
+Seat 8: Augustos357 (128984.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+275iqpeter posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Js 5c]
+yellowyepper raises 4000.00 to 4000.00
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+Uncalled bet (2000.00) returned to yellowyepper
+yellowyepper does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: 275iqpeter (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: yellowyepper did not show and won 7000.00
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478784060 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:02:41 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (43375.00)
+Seat 2: grotle (258257.00)
+Seat 3: yellowyepper (437708.00)
+Seat 4: Birr (99500.00)
+Seat 5: VictorCheers (189041.00)
+Seat 6: alkzar (219890.00)
+Seat 7: targinodsv (258803.00) is sitting out
+Seat 8: Augustos357 (128734.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+grotle posts the small blind 1000.00
+yellowyepper posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [4s 9h]
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter raises 43125.00 to 43125.00 and is all-in
+grotle folds
+yellowyepper folds
+Uncalled bet (41125.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: 275iqpeter did not show and won 7000.00
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: yellowyepper (big blind) folded on the Pre-Flop
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478784174 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:03:14 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (48125.00)
+Seat 2: grotle (257007.00)
+Seat 3: yellowyepper (435458.00)
+Seat 4: Birr (99250.00)
+Seat 5: VictorCheers (188791.00)
+Seat 6: alkzar (219640.00)
+Seat 7: targinodsv (258553.00) is sitting out
+Seat 8: Augustos357 (128484.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+yellowyepper posts the small blind 1000.00
+Birr posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Kh Jh]
+VictorCheers raises 5000.00 to 5000.00
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter raises 8000.00 to 8000.00
+grotle calls 8000.00
+yellowyepper folds
+Birr folds
+VictorCheers calls 3000.00
+*** FLOP *** [Qs Ks 9s]
+Main pot 29000.00
+VictorCheers checks
+275iqpeter checks
+grotle bets 14500.00
+VictorCheers folds
+275iqpeter raises 39875.00 to 39875.00 and is all-in
+grotle calls 25375.00
+*** TURN *** [Qs Ks 9s] [5h]
+Main pot 108750.00
+*** RIVER *** [Qs Ks 9s 5h] [6c]
+Main pot 108750.00
+*** SHOW DOWN ***
+Main pot 108750.00
+275iqpeter shows [9d 9c] (three of a kind, Set of Nines [9s 9d 9c Ks Qs])
+grotle shows [Kh Jh] (a pair of Kings [Ks Kh Qs Jh 9s])
+275iqpeter collected 108750.00 from main pot
+*** SUMMARY ***
+Total pot 108750.00
+Board [Qs Ks 9s 5h 6c]
+Seat 1: 275iqpeter showed [9d 9c] and won 108750.00 with three of a kind, Set of Nines [9s 9d 9c Ks Qs]
+Seat 2: grotle (button) showed [Kh Jh] and lost with a pair of Kings [Ks Kh Qs Jh 9s]
+Seat 3: yellowyepper (small blind) folded on the Pre-Flop
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: VictorCheers folded on the Flop
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478784388 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:04:17 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (108750.00)
+Seat 2: grotle (208882.00)
+Seat 3: yellowyepper (434208.00)
+Seat 4: Birr (97000.00)
+Seat 5: VictorCheers (180541.00)
+Seat 6: alkzar (219390.00)
+Seat 7: targinodsv (258303.00) is sitting out
+Seat 8: Augustos357 (128234.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+Birr posts the small blind 1000.00
+VictorCheers posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Tc 7s]
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+yellowyepper raises 7250.00 to 7250.00
+Birr folds
+VictorCheers calls 5250.00
+*** FLOP *** [9s 4h Kc]
+Main pot 17500.00
+VictorCheers checks
+yellowyepper bets 8750.00
+VictorCheers calls 8750.00
+*** TURN *** [9s 4h Kc] [Td]
+Main pot 35000.00
+VictorCheers checks
+yellowyepper checks
+*** RIVER *** [9s 4h Kc Td] [6d]
+Main pot 35000.00
+VictorCheers checks
+yellowyepper checks
+*** SHOW DOWN ***
+Main pot 35000.00
+yellowyepper shows [5d 3d] (a high card, King high [Kc Td 9s 6d 5d])
+VictorCheers shows [9d 2d] (a pair of Nines [9s 9d Kc Td 6d])
+VictorCheers collected 35000.00 from main pot
+*** SUMMARY ***
+Total pot 35000.00
+Board [9s 4h Kc Td 6d]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper (button) showed [5d 3d] and lost with a high card, King high [Kc Td 9s 6d 5d]
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: VictorCheers (big blind) showed [9d 2d] and won 35000.00 with a pair of Nines [9s 9d Kc Td 6d]
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478784639 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:05:30 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (108500.00)
+Seat 2: grotle (208632.00)
+Seat 3: yellowyepper (417958.00)
+Seat 4: Birr (95750.00)
+Seat 5: VictorCheers (199291.00)
+Seat 6: alkzar (219140.00)
+Seat 7: targinodsv (258053.00) is sitting out
+Seat 8: Augustos357 (127984.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+VictorCheers posts the small blind 1000.00
+alkzar posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [9d 7c]
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 2000.00
+grotle folds
+yellowyepper raises 8750.00 to 8750.00
+Birr raises 95500.00 to 95500.00 and is all-in
+VictorCheers folds
+alkzar folds
+275iqpeter folds
+yellowyepper folds
+Uncalled bet (86750.00) returned to Birr
+Birr does not show
+*** SUMMARY ***
+Total pot 24500.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr did not show and won 24500.00
+Seat 5: VictorCheers (small blind) folded on the Pre-Flop
+Seat 6: alkzar (big blind) folded on the Pre-Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478784891 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:06:14 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (106250.00)
+Seat 2: grotle (208382.00)
+Seat 3: yellowyepper (408958.00)
+Seat 4: Birr (111250.00)
+Seat 5: VictorCheers (198041.00)
+Seat 6: alkzar (216890.00)
+Seat 7: targinodsv (257803.00) is sitting out
+Seat 8: Augustos357 (127734.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+alkzar posts the small blind 1000.00
+targinodsv posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Th 5c]
+Augustos357 folds
+275iqpeter folds
+grotle folds
+yellowyepper folds
+Birr folds
+VictorCheers raises 5000.00 to 5000.00
+alkzar folds
+targinodsv folds
+Uncalled bet (3000.00) returned to VictorCheers
+VictorCheers does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers did not show and won 7000.00
+Seat 6: alkzar (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478785022 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:06:42 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (106000.00)
+Seat 2: grotle (208132.00)
+Seat 3: yellowyepper (408708.00)
+Seat 4: Birr (111000.00)
+Seat 5: VictorCheers (202791.00)
+Seat 6: alkzar (215640.00)
+Seat 7: targinodsv (255553.00) is sitting out
+Seat 8: Augustos357 (127484.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+targinodsv posts the small blind 1000.00
+Augustos357 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [6s 3c]
+275iqpeter folds
+grotle folds
+yellowyepper raises 4000.00 to 4000.00
+Birr folds
+VictorCheers calls 4000.00
+alkzar folds
+targinodsv folds
+Augustos357 folds
+*** FLOP *** [Jh Td Ts]
+Main pot 13000.00
+yellowyepper checks
+VictorCheers checks
+*** TURN *** [Jh Td Ts] [8d]
+Main pot 13000.00
+yellowyepper bets 6500.00
+VictorCheers calls 6500.00
+*** RIVER *** [Jh Td Ts 8d] [4h]
+Main pot 26000.00
+yellowyepper checks
+VictorCheers bets 29900.00
+yellowyepper folds
+Uncalled bet (29900.00) returned to VictorCheers
+VictorCheers does not show
+*** SUMMARY ***
+Total pot 26000.00
+Board [Jh Td Ts 8d 4h]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: yellowyepper folded on the River
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers did not show and won 26000.00
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 (big blind) folded on the Pre-Flop
+
+Game Hand #2478785429 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:08:17 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (105750.00)
+Seat 2: grotle (207882.00)
+Seat 3: yellowyepper (397958.00)
+Seat 4: Birr (110750.00)
+Seat 5: VictorCheers (218041.00)
+Seat 6: alkzar (215390.00)
+Seat 7: targinodsv (254303.00) is sitting out
+Seat 8: Augustos357 (125234.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+Augustos357 posts the small blind 1000.00
+275iqpeter posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Tc Kc]
+grotle raises 4000.00 to 4000.00
+yellowyepper folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 2000.00
+*** FLOP *** [7s Jd Js]
+Main pot 11000.00
+275iqpeter checks
+grotle checks
+*** TURN *** [7s Jd Js] [Ac]
+Main pot 11000.00
+275iqpeter checks
+grotle checks
+*** RIVER *** [7s Jd Js Ac] [Kh]
+Main pot 11000.00
+275iqpeter bets 2750.00
+grotle raises 5500.00 to 5500.00
+275iqpeter folds
+Uncalled bet (2750.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 16500.00
+Board [7s Jd Js Ac Kh]
+Seat 1: 275iqpeter (big blind) folded on the River
+Seat 2: grotle did not show and won 16500.00
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478785757 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:09:28 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (98750.00)
+Seat 2: grotle (217382.00)
+Seat 3: yellowyepper (397708.00)
+Seat 4: Birr (110500.00)
+Seat 5: VictorCheers (217791.00)
+Seat 6: alkzar (215140.00)
+Seat 7: targinodsv (254053.00) is sitting out
+Seat 8: Augustos357 (123984.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+275iqpeter posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [7h 4d]
+yellowyepper folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 1000.00
+grotle checks
+*** FLOP *** [Qh Kc 6h]
+Main pot 6000.00
+275iqpeter checks
+grotle checks
+*** TURN *** [Qh Kc 6h] [8h]
+Main pot 6000.00
+275iqpeter checks
+grotle checks
+*** RIVER *** [Qh Kc 6h 8h] [Td]
+Main pot 6000.00
+275iqpeter checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 6000.00
+275iqpeter shows [4c 5c] (a high card, King high [Kc Qh Td 8h 6h])
+grotle shows [7h 4d] (a high card, King high [Kc Qh Td 8h 7h])
+grotle collected 6000.00 from main pot
+*** SUMMARY ***
+Total pot 6000.00
+Board [Qh Kc 6h 8h Td]
+Seat 1: 275iqpeter (small blind) showed [4c 5c] and lost with a high card, King high [Kc Qh Td 8h 6h]
+Seat 2: grotle (big blind) showed [7h 4d] and won 6000.00 with a high card, King high [Kc Qh Td 8h 7h] with the kicker Seven
+Seat 3: yellowyepper folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478786067 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:10:31 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (96500.00)
+Seat 2: grotle (221132.00)
+Seat 3: yellowyepper (397458.00)
+Seat 4: Birr (110250.00)
+Seat 5: VictorCheers (217541.00)
+Seat 6: alkzar (214890.00)
+Seat 7: targinodsv (253803.00) is sitting out
+Seat 8: Augustos357 (123734.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+yellowyepper posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+grotle posts the small blind 1000.00
+yellowyepper posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [6d 3c]
+Birr folds
+VictorCheers folds
+alkzar raises 4000.00 to 4000.00
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+yellowyepper calls 2000.00
+*** FLOP *** [8h Ac 4c]
+Main pot 11000.00
+yellowyepper checks
+alkzar bets 6950.00
+yellowyepper folds
+Uncalled bet (6950.00) returned to alkzar
+alkzar does not show
+*** SUMMARY ***
+Total pot 11000.00
+Board [8h Ac 4c]
+Seat 1: 275iqpeter (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: yellowyepper (big blind) folded on the Flop
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar did not show and won 11000.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478786315 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:11:25 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (96250.00)
+Seat 2: grotle (219882.00)
+Seat 4: Birr (110000.00)
+Seat 5: VictorCheers (217291.00)
+Seat 6: alkzar (221640.00)
+Seat 7: targinodsv (253553.00) is sitting out
+Seat 8: Augustos357 (123484.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+Birr posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [7c 5c]
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 raises 4000.00 to 4000.00
+275iqpeter folds
+grotle calls 4000.00
+Birr folds
+*** FLOP *** [Ks 3c Ad]
+Main pot 11750.00
+Augustos357 bets 3938.00
+grotle calls 3938.00
+*** TURN *** [Ks 3c Ad] [Qh]
+Main pot 19626.00
+Augustos357 checks
+grotle checks
+*** RIVER *** [Ks 3c Ad Qh] [8c]
+Main pot 19626.00
+Augustos357 checks
+grotle bets 7000.00
+Augustos357 calls 7000.00
+*** SHOW DOWN ***
+Main pot 33626.00
+grotle shows [7c 5c] (a high card, Ace high [Ad Ks Qh 8c 7c])
+Augustos357 shows [Ah 2h] (a pair of Aces [Ah Ad Ks Qh 8c])
+Augustos357 collected 33626.00 from main pot
+*** SUMMARY ***
+Total pot 33626.00
+Board [Ks 3c Ad Qh 8c]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [7c 5c] and lost with a high card, Ace high [Ad Ks Qh 8c 7c]
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 showed [Ah 2h] and won 33626.00 with a pair of Aces [Ah Ad Ks Qh 8c]
+
+Game Hand #2478786720 - Tournament #33592572 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:12:51 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (96000.00)
+Seat 2: grotle (204694.00)
+Seat 4: Birr (107750.00)
+Seat 5: VictorCheers (217041.00)
+Seat 6: alkzar (221390.00)
+Seat 7: targinodsv (253303.00) is sitting out
+Seat 8: Augustos357 (141922.00)
+275iqpeter posts ante 250.00
+grotle posts ante 250.00
+Birr posts ante 250.00
+VictorCheers posts ante 250.00
+alkzar posts ante 250.00
+targinodsv posts ante 250.00
+Augustos357 posts ante 250.00
+Birr posts the small blind 1000.00
+VictorCheers posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1750.00
+Dealt to grotle [Ad Kd]
+alkzar raises 4000.00 to 4000.00
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle raises 13000.00 to 13000.00
+Birr folds
+VictorCheers folds
+alkzar folds
+Uncalled bet (9000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12750.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 12750.00
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: VictorCheers (big blind) folded on the Pre-Flop
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478786993 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:13:45 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (95750.00)
+Seat 2: grotle (213194.00)
+Seat 4: Birr (106500.00)
+Seat 5: VictorCheers (214791.00)
+Seat 6: alkzar (217140.00)
+Seat 7: targinodsv (253053.00) is sitting out
+Seat 8: Augustos357 (141672.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+VictorCheers posts the small blind 1200.00
+alkzar posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Ks 2d]
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 2400.00
+grotle folds
+Birr folds
+VictorCheers calls 1200.00
+alkzar checks
+*** FLOP *** [8d Ah 2s]
+Main pot 9300.00
+VictorCheers checks
+alkzar checks
+275iqpeter bets 4650.00
+VictorCheers folds
+alkzar folds
+Uncalled bet (4650.00) returned to 275iqpeter
+275iqpeter shows [7d -]
+*** SUMMARY ***
+Total pot 9300.00
+Board [8d Ah 2s]
+Seat 1: 275iqpeter showed [7d -] and won 9300.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 5: VictorCheers (small blind) folded on the Flop
+Seat 6: alkzar (big blind) folded on the Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478787336 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:14:54 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (102350.00)
+Seat 2: grotle (212894.00)
+Seat 4: Birr (106200.00)
+Seat 5: VictorCheers (212091.00)
+Seat 6: alkzar (214440.00)
+Seat 7: targinodsv (252753.00) is sitting out
+Seat 8: Augustos357 (141372.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+alkzar posts the small blind 1200.00
+targinodsv posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [8s 6d]
+Augustos357 folds
+275iqpeter folds
+grotle folds
+Birr folds
+VictorCheers folds
+alkzar raises 3600.00 to 4800.00
+targinodsv folds
+Uncalled bet (2400.00) returned to alkzar
+alkzar does not show
+*** SUMMARY ***
+Total pot 6900.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers (button) folded on the Pre-Flop
+Seat 6: alkzar did not show and won 6900.00
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478787416 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:15:12 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (102050.00)
+Seat 2: grotle (212594.00)
+Seat 4: Birr (105900.00)
+Seat 5: VictorCheers (211791.00)
+Seat 6: alkzar (218640.00)
+Seat 7: targinodsv (250053.00) is sitting out
+Seat 8: Augustos357 (141072.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+targinodsv posts the small blind 1200.00
+Augustos357 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [6d 3c]
+275iqpeter folds
+grotle folds
+Birr folds
+VictorCheers raises 6000.00 to 6000.00
+alkzar folds
+targinodsv folds
+Augustos357 folds
+Uncalled bet (3600.00) returned to VictorCheers
+VictorCheers does not show
+*** SUMMARY ***
+Total pot 8100.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers did not show and won 8100.00
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 (big blind) folded on the Pre-Flop
+
+Game Hand #2478787554 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:15:40 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (101750.00)
+Seat 2: grotle (212294.00)
+Seat 4: Birr (105600.00)
+Seat 5: VictorCheers (217191.00)
+Seat 6: alkzar (218340.00)
+Seat 7: targinodsv (248553.00) is sitting out
+Seat 8: Augustos357 (138372.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+Augustos357 posts the small blind 1200.00
+275iqpeter posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Ac 7c]
+grotle raises 4800.00 to 4800.00
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+Uncalled bet (2400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 8100.00
+Seat 1: 275iqpeter (big blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 8100.00
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478787756 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:16:22 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (99050.00)
+Seat 2: grotle (217694.00)
+Seat 4: Birr (105300.00)
+Seat 5: VictorCheers (216891.00)
+Seat 6: alkzar (218040.00)
+Seat 7: targinodsv (248253.00)
+Seat 8: Augustos357 (136872.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+275iqpeter posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [9d 9h]
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv raises 4800.00 to 4800.00
+Augustos357 folds
+275iqpeter folds
+grotle raises 16800.00 to 19200.00
+targinodsv raises 28800.00 to 33600.00
+grotle calls 14400.00
+*** FLOP *** [6h 6d Kc]
+Main pot 70500.00
+grotle checks
+targinodsv bets 23265.00
+grotle calls 23265.00
+*** TURN *** [6h 6d Kc] [Qs]
+Main pot 117030.00
+grotle checks
+targinodsv bets 38620.00
+grotle folds
+Uncalled bet (38620.00) returned to targinodsv
+targinodsv does not show
+*** SUMMARY ***
+Total pot 117030.00
+Board [6h 6d Kc Qs]
+Seat 1: 275iqpeter (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Turn
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv did not show and won 117030.00
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478788340 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:18:24 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (97550.00)
+Seat 2: grotle (160529.00)
+Seat 4: Birr (105000.00)
+Seat 5: VictorCheers (216591.00)
+Seat 6: alkzar (217740.00)
+Seat 7: targinodsv (308118.00)
+Seat 8: Augustos357 (136572.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+grotle posts the small blind 1200.00
+Birr posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Ad Tc]
+VictorCheers folds
+alkzar raises 4800.00 to 4800.00
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 4800.00
+grotle calls 3600.00
+Birr folds
+*** FLOP *** [4s Ac 6s]
+Main pot 18900.00
+grotle checks
+alkzar checks
+275iqpeter checks
+*** TURN *** [4s Ac 6s] [9c]
+Main pot 18900.00
+grotle bets 9450.00
+alkzar folds
+275iqpeter raises 18900.00 to 18900.00
+grotle calls 9450.00
+*** RIVER *** [4s Ac 6s 9c] [Ts]
+Main pot 56700.00
+grotle bets 18960.00
+275iqpeter raises 73550.00 to 73550.00 and is all-in
+grotle calls 54590.00
+*** SHOW DOWN ***
+Main pot 203800.00
+275iqpeter shows [9h 8h] (a pair of Nines [9h 9c Ac Ts 8h])
+grotle shows [Ad Tc] (two pair, Aces and Tens [Ad Ac Ts Tc 9c])
+grotle collected 203800.00 from main pot
+*** SUMMARY ***
+Total pot 203800.00
+Board [4s Ac 6s 9c Ts]
+Seat 1: 275iqpeter (button) showed [9h 8h] and lost with a pair of Nines [9h 9c Ac Ts 8h]
+Seat 2: grotle (small blind) showed [Ad Tc] and won 203800.00 with two pair, Aces and Tens [Ad Ac Ts Tc 9c]
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Turn
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478788758 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:19:48 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 2: grotle (266779.00)
+Seat 3: noslinedbtm will be allowed to play after the button
+Seat 4: Birr (102300.00)
+Seat 5: VictorCheers (216291.00)
+Seat 6: alkzar (212640.00)
+Seat 7: targinodsv (307818.00)
+Seat 8: Augustos357 (136272.00)
+grotle posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+Birr posts the small blind 1200.00
+VictorCheers posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Tc 2d]
+alkzar folds
+targinodsv folds
+Augustos357 folds
+grotle folds
+Birr folds
+VictorCheers does not show
+*** SUMMARY ***
+Total pot 5400.00
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: VictorCheers did not show and won 5400.00
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478788870 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:20:06 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (100000.00)
+Seat 2: grotle (266479.00)
+Seat 3: noslinedbtm (100000.00)
+Seat 4: Birr (100800.00)
+Seat 5: VictorCheers (218991.00)
+Seat 6: alkzar (212340.00)
+Seat 7: targinodsv (307518.00)
+Seat 8: Augustos357 (135972.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+VictorCheers posts the small blind 1200.00
+alkzar posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Qd Qc]
+targinodsv raises 4800.00 to 4800.00
+Augustos357 folds
+275iqpeter folds
+grotle raises 20400.00 to 20400.00
+noslinedbtm folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv calls 15600.00
+*** FLOP *** [4c 2s 2d]
+Main pot 46800.00
+targinodsv checks
+grotle checks
+*** TURN *** [4c 2s 2d] [Ts]
+Main pot 46800.00
+targinodsv bets 28080.00
+grotle raises 56160.00 to 56160.00
+targinodsv calls 28080.00
+*** RIVER *** [4c 2s 2d Ts] [Kc]
+Main pot 159120.00
+targinodsv checks
+grotle bets 79560.00
+targinodsv folds
+Uncalled bet (79560.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 159120.00
+Board [4c 2s 2d Ts Kc]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 159120.00
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 5: VictorCheers (small blind) folded on the Pre-Flop
+Seat 6: alkzar (big blind) folded on the Pre-Flop
+Seat 7: targinodsv folded on the River
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478789307 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:21:35 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (99700.00)
+Seat 2: grotle (348739.00)
+Seat 3: noslinedbtm (99700.00)
+Seat 4: Birr (100500.00)
+Seat 5: VictorCheers (217491.00)
+Seat 6: alkzar (209640.00)
+Seat 7: targinodsv (230658.00)
+Seat 8: Augustos357 (135672.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+alkzar posts the small blind 1200.00
+targinodsv posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Kd 8d]
+Augustos357 folds
+275iqpeter calls 2400.00
+grotle folds
+noslinedbtm folds
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv checks
+*** FLOP *** [Js 3c 3h]
+Main pot 8400.00
+targinodsv checks
+275iqpeter checks
+*** TURN *** [Js 3c 3h] [6d]
+Main pot 8400.00
+targinodsv checks
+275iqpeter checks
+*** RIVER *** [Js 3c 3h 6d] [7d]
+Main pot 8400.00
+targinodsv checks
+275iqpeter checks
+*** SHOW DOWN ***
+Main pot 8400.00
+275iqpeter shows [8c 9c] (a pair of Threes [3h 3c Js 9c 8c])
+targinodsv shows [Jc 8s] (two pair, Jacks and Threes [Js Jc 3h 3c 8s])
+targinodsv collected 8400.00 from main pot
+*** SUMMARY ***
+Total pot 8400.00
+Board [Js 3c 3h 6d 7d]
+Seat 1: 275iqpeter showed [8c 9c] and lost with a pair of Threes [3h 3c Js 9c 8c]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers (button) folded on the Pre-Flop
+Seat 6: alkzar (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) showed [Jc 8s] and won 8400.00 with two pair, Jacks and Threes [Js Jc 3h 3c 8s]
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478789591 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:22:35 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (97000.00)
+Seat 2: grotle (348439.00)
+Seat 3: noslinedbtm (99400.00)
+Seat 4: Birr (100200.00)
+Seat 5: VictorCheers (217191.00)
+Seat 6: alkzar (208140.00)
+Seat 7: targinodsv (236358.00)
+Seat 8: Augustos357 (135372.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+targinodsv posts the small blind 1200.00
+Augustos357 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [2c 6s]
+275iqpeter folds
+grotle folds
+noslinedbtm raises 4800.00 to 4800.00
+Birr folds
+VictorCheers raises 15600.00 to 15600.00
+alkzar folds
+targinodsv folds
+Augustos357 folds
+noslinedbtm folds
+Uncalled bet (10800.00) returned to VictorCheers
+VictorCheers does not show
+*** SUMMARY ***
+Total pot 15600.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers did not show and won 15600.00
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 (big blind) folded on the Pre-Flop
+
+Game Hand #2478790005 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:23:56 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (96700.00)
+Seat 2: grotle (348139.00)
+Seat 3: noslinedbtm (94300.00)
+Seat 4: Birr (99900.00)
+Seat 5: VictorCheers (227691.00)
+Seat 6: alkzar (207840.00)
+Seat 7: targinodsv (234858.00)
+Seat 8: Augustos357 (132672.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+Augustos357 posts the small blind 1200.00
+275iqpeter posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7d Jh]
+grotle folds
+noslinedbtm folds
+Birr folds
+VictorCheers folds
+alkzar raises 4800.00 to 4800.00
+targinodsv raises 14400.00 to 14400.00
+Augustos357 folds
+275iqpeter folds
+alkzar calls 9600.00
+*** FLOP *** [As 4d 7h]
+Main pot 34800.00
+alkzar checks
+targinodsv bets 11484.00
+alkzar folds
+Uncalled bet (11484.00) returned to targinodsv
+targinodsv does not show
+*** SUMMARY ***
+Total pot 34800.00
+Board [As 4d 7h]
+Seat 1: 275iqpeter (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Flop
+Seat 7: targinodsv did not show and won 34800.00
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478790334 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:25:02 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (94000.00)
+Seat 2: grotle (347839.00)
+Seat 3: noslinedbtm (94000.00)
+Seat 4: Birr (99600.00)
+Seat 5: VictorCheers (227391.00)
+Seat 6: alkzar (193140.00)
+Seat 7: targinodsv (254958.00)
+Seat 8: Augustos357 (131172.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+275iqpeter posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [9c Kd]
+noslinedbtm folds
+Birr folds
+VictorCheers folds
+alkzar raises 4800.00 to 4800.00
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle calls 2400.00
+*** FLOP *** [Tc 2s 4c]
+Main pot 13200.00
+grotle checks
+alkzar bets 8340.00
+grotle folds
+Uncalled bet (8340.00) returned to alkzar
+alkzar does not show
+*** SUMMARY ***
+Total pot 13200.00
+Board [Tc 2s 4c]
+Seat 1: 275iqpeter (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Flop
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar did not show and won 13200.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478790552 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:25:47 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (92500.00)
+Seat 2: grotle (342739.00)
+Seat 3: noslinedbtm (93700.00)
+Seat 4: Birr (99300.00)
+Seat 5: VictorCheers (227091.00)
+Seat 6: alkzar (201240.00)
+Seat 7: targinodsv (254658.00)
+Seat 8: Augustos357 (130872.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+VictorCheers posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+grotle posts the small blind 1200.00
+noslinedbtm posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Th 5h]
+Birr folds
+VictorCheers folds
+alkzar folds
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+noslinedbtm does not show
+*** SUMMARY ***
+Total pot 6000.00
+Seat 1: 275iqpeter (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: noslinedbtm did not show and won 6000.00
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: VictorCheers folded on the Pre-Flop and did not bet
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478790733 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:26:23 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (92200.00)
+Seat 2: grotle (341239.00)
+Seat 3: noslinedbtm (97000.00)
+Seat 4: Birr (99000.00)
+Seat 6: alkzar (200940.00)
+Seat 7: targinodsv (254358.00)
+Seat 8: Augustos357 (130572.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+noslinedbtm posts the small blind 1200.00
+Birr posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Td 6h]
+alkzar folds
+targinodsv raises 4800.00 to 4800.00
+Augustos357 folds
+275iqpeter folds
+grotle folds
+noslinedbtm calls 3600.00
+Birr folds
+*** FLOP *** [Tc 7s Jd]
+Main pot 14100.00
+noslinedbtm checks
+targinodsv bets 4653.00
+noslinedbtm folds
+Uncalled bet (4653.00) returned to targinodsv
+targinodsv does not show
+*** SUMMARY ***
+Total pot 14100.00
+Board [Tc 7s Jd]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: noslinedbtm (small blind) folded on the Flop
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 6: alkzar folded on the Pre-Flop and did not bet
+Seat 7: targinodsv did not show and won 14100.00
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478791080 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:27:32 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (91900.00)
+Seat 2: grotle (340939.00)
+Seat 3: noslinedbtm (91900.00)
+Seat 4: Birr (96300.00)
+Seat 6: alkzar (200640.00)
+Seat 7: targinodsv (263358.00)
+Seat 8: Augustos357 (130272.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+Birr posts the small blind 1200.00
+alkzar posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Jc Tc]
+targinodsv folds
+Augustos357 raises 4800.00 to 4800.00
+275iqpeter folds
+grotle raises 19200.00 to 19200.00
+noslinedbtm folds
+Birr folds
+alkzar folds
+Augustos357 folds
+Uncalled bet (14400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 15300.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 15300.00
+Seat 3: noslinedbtm (button) folded on the Pre-Flop
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 6: alkzar (big blind) folded on the Pre-Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478791303 - Tournament #33592572 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:28:13 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (91600.00)
+Seat 2: grotle (351139.00)
+Seat 3: noslinedbtm (91600.00)
+Seat 4: Birr (94800.00)
+Seat 6: alkzar (197940.00)
+Seat 7: targinodsv (263058.00)
+Seat 8: Augustos357 (125172.00)
+275iqpeter posts ante 300.00
+grotle posts ante 300.00
+noslinedbtm posts ante 300.00
+Birr posts ante 300.00
+alkzar posts ante 300.00
+targinodsv posts ante 300.00
+Augustos357 posts ante 300.00
+alkzar posts the small blind 1200.00
+targinodsv posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qc 2c]
+Augustos357 folds
+275iqpeter calls 2400.00
+grotle folds
+noslinedbtm folds
+Birr folds
+alkzar folds
+targinodsv checks
+*** FLOP *** [3h 3c 4d]
+Main pot 8100.00
+targinodsv checks
+275iqpeter checks
+*** TURN *** [3h 3c 4d] [4s]
+Main pot 8100.00
+targinodsv checks
+275iqpeter checks
+*** RIVER *** [3h 3c 4d 4s] [8s]
+Main pot 8100.00
+targinodsv checks
+275iqpeter bets 2400.00
+targinodsv folds
+Uncalled bet (2400.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 8100.00
+Board [3h 3c 4d 4s 8s]
+Seat 1: 275iqpeter did not show and won 8100.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 6: alkzar (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the River
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478791572 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:29:04 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (97000.00)
+Seat 2: grotle (350839.00)
+Seat 3: noslinedbtm (91300.00)
+Seat 4: Birr (94500.00)
+Seat 6: alkzar (196440.00)
+Seat 7: targinodsv (260358.00)
+Seat 8: Augustos357 (124872.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+alkzar posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+targinodsv posts the small blind 1400.00
+Augustos357 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Ks 3s]
+275iqpeter folds
+grotle folds
+noslinedbtm folds
+Birr folds
+alkzar folds
+targinodsv raises 7000.00 to 8400.00
+Augustos357 calls 5600.00
+*** FLOP *** [4h 8s Kh]
+Main pot 19250.00
+targinodsv checks
+Augustos357 bets 9625.00
+targinodsv calls 9625.00
+*** TURN *** [4h 8s Kh] [6h]
+Main pot 38500.00
+targinodsv checks
+Augustos357 bets 28875.00
+targinodsv folds
+Uncalled bet (28875.00) returned to Augustos357
+Augustos357 does not show
+*** SUMMARY ***
+Total pot 38500.00
+Board [4h 8s Kh 6h]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 6: alkzar (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Turn
+Seat 8: Augustos357 did not show and won 38500.00
+
+Game Hand #2478791941 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:30:14 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (96650.00)
+Seat 2: grotle (350489.00)
+Seat 3: noslinedbtm (90950.00)
+Seat 4: Birr (94150.00)
+Seat 5: h.o.c (100000.00)
+Seat 7: targinodsv (241983.00)
+Seat 8: Augustos357 (144997.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+Augustos357 posts the small blind 1400.00
+275iqpeter posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [6s Kc]
+grotle folds
+noslinedbtm folds
+Birr folds
+h.o.c folds
+targinodsv folds
+Augustos357 folds
+275iqpeter shows [7d -]
+*** SUMMARY ***
+Total pot 6650.00
+Seat 1: 275iqpeter (big blind) showed [7d -] and won 6650.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478792126 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:30:48 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (100150.00)
+Seat 2: grotle (350139.00)
+Seat 3: noslinedbtm (90600.00)
+Seat 4: Birr (93800.00)
+Seat 5: h.o.c (99650.00)
+Seat 7: targinodsv (241633.00) is sitting out
+Seat 8: Augustos357 (143247.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+275iqpeter posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [6d Ts]
+noslinedbtm raises 5600.00 to 5600.00
+Birr folds
+h.o.c folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 4200.00
+grotle folds
+*** FLOP *** [2h 6h 4c]
+Main pot 16450.00
+275iqpeter checks
+noslinedbtm bets 13983.00
+275iqpeter raises 27966.00 to 27966.00
+noslinedbtm folds
+Uncalled bet (13983.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 44416.00
+Board [2h 6h 4c]
+Seat 1: 275iqpeter did not show and won 44416.00
+Seat 2: grotle (big blind) folded on the Pre-Flop
+Seat 3: noslinedbtm folded on the Flop
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478792413 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:31:43 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (124633.00)
+Seat 2: grotle (346989.00)
+Seat 3: noslinedbtm (70667.00)
+Seat 4: Birr (93450.00)
+Seat 5: h.o.c (99300.00)
+Seat 7: targinodsv (241283.00) is sitting out
+Seat 8: Augustos357 (142897.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+grotle posts the small blind 1400.00
+noslinedbtm posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Qs 5h]
+Birr folds
+h.o.c folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 2800.00
+grotle folds
+noslinedbtm checks
+*** FLOP *** [Jc 4c Tc]
+Main pot 9450.00
+noslinedbtm checks
+275iqpeter checks
+*** TURN *** [Jc 4c Tc] [8s]
+Main pot 9450.00
+noslinedbtm bets 8033.00
+275iqpeter folds
+Uncalled bet (8033.00) returned to noslinedbtm
+noslinedbtm does not show
+*** SUMMARY ***
+Total pot 9450.00
+Board [Jc 4c Tc 8s]
+Seat 1: 275iqpeter (button) folded on the Turn
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: noslinedbtm did not show and won 9450.00
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478792684 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:32:31 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (121483.00)
+Seat 2: grotle (345239.00)
+Seat 3: noslinedbtm (76967.00)
+Seat 4: Birr (93100.00)
+Seat 5: h.o.c (98950.00)
+Seat 7: targinodsv (240933.00) is sitting out
+Seat 8: Augustos357 (142547.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+noslinedbtm posts the small blind 1400.00
+Birr posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [2c 5h]
+h.o.c raises 6440.00 to 6440.00
+targinodsv folds
+Augustos357 folds
+275iqpeter folds
+grotle folds
+noslinedbtm folds
+Birr folds
+Uncalled bet (3640.00) returned to h.o.c
+h.o.c does not show
+*** SUMMARY ***
+Total pot 9450.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: noslinedbtm (small blind) folded on the Pre-Flop
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: h.o.c did not show and won 9450.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478792872 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:33:03 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (121133.00)
+Seat 2: grotle (344889.00)
+Seat 3: noslinedbtm (75217.00)
+Seat 4: Birr (89950.00)
+Seat 5: h.o.c (105250.00)
+Seat 7: targinodsv (240583.00) is sitting out
+Seat 8: Augustos357 (142197.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+Birr posts the small blind 1400.00
+h.o.c posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [As 4d]
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 2800.00
+grotle folds
+noslinedbtm folds
+Birr folds
+h.o.c checks
+*** FLOP *** [8h 8s 2h]
+Main pot 9450.00
+h.o.c checks
+275iqpeter checks
+*** TURN *** [8h 8s 2h] [6s]
+Main pot 9450.00
+h.o.c bets 7000.00
+275iqpeter folds
+Uncalled bet (7000.00) returned to h.o.c
+h.o.c does not show
+*** SUMMARY ***
+Total pot 9450.00
+Board [8h 8s 2h 6s]
+Seat 1: 275iqpeter folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm (button) folded on the Pre-Flop
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: h.o.c did not show and won 9450.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478793202 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:34:00 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (117983.00)
+Seat 2: grotle (344539.00)
+Seat 3: noslinedbtm (74867.00)
+Seat 4: Birr (88200.00)
+Seat 5: h.o.c (111550.00)
+Seat 7: targinodsv (240233.00) is sitting out
+Seat 8: Augustos357 (141847.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+h.o.c posts the small blind 1400.00
+targinodsv posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Jh As]
+Augustos357 folds
+275iqpeter folds
+grotle raises 5600.00 to 5600.00
+noslinedbtm raises 74517.00 to 74517.00 and is all-in
+Birr folds
+h.o.c folds
+targinodsv folds
+grotle calls 68917.00
+*** FLOP *** [4d Ah Qs]
+Main pot 155684.00
+*** TURN *** [4d Ah Qs] [3d]
+Main pot 155684.00
+*** RIVER *** [4d Ah Qs 3d] [6d]
+Main pot 155684.00
+*** SHOW DOWN ***
+Main pot 155684.00
+grotle shows [Jh As] (a pair of Aces [As Ah Qs Jh 6d])
+noslinedbtm shows [8h 8c] (a pair of Eights [8h 8c Ah Qs 6d])
+grotle collected 155684.00 from main pot
+*** SUMMARY ***
+Total pot 155684.00
+Board [4d Ah Qs 3d 6d]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Jh As] and won 155684.00 with a pair of Aces [As Ah Qs Jh 6d]
+Seat 3: noslinedbtm showed [8h 8c] and lost with a pair of Eights [8h 8c Ah Qs 6d]
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 5: h.o.c (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: Augustos357 folded on the Pre-Flop and did not bet
+
+Game Hand #2478793516 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:34:58 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (117633.00)
+Seat 2: grotle (425356.00)
+Seat 4: Birr (87850.00)
+Seat 5: h.o.c (109800.00)
+Seat 7: targinodsv (237083.00) is sitting out
+Seat 8: Augustos357 (141497.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+targinodsv posts the small blind 1400.00
+Augustos357 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Kh 3h]
+275iqpeter folds
+grotle folds
+Birr folds
+h.o.c folds
+targinodsv folds
+Augustos357 does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: Augustos357 did not show and won 6300.00
+
+Game Hand #2478793659 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:35:21 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (117283.00)
+Seat 2: grotle (425006.00)
+Seat 3: noslinedbtm (100000.00)
+Seat 4: Birr (87500.00)
+Seat 5: h.o.c (109450.00)
+Seat 7: targinodsv (235333.00) is sitting out
+Seat 8: Augustos357 (144647.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+Augustos357 posts the small blind 1400.00
+275iqpeter posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Th 9d]
+grotle folds
+noslinedbtm folds
+Birr folds
+h.o.c folds
+targinodsv folds
+Augustos357 folds
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 6650.00
+Seat 1: 275iqpeter did not show and won 6650.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: Augustos357 (small blind) folded on the Pre-Flop
+
+Game Hand #2478793831 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:35:51 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (120783.00)
+Seat 2: grotle (424656.00)
+Seat 3: noslinedbtm (99650.00)
+Seat 4: Birr (87150.00)
+Seat 5: h.o.c (109100.00)
+Seat 6: CozzyP (100000.00)
+Seat 7: targinodsv (234983.00) is sitting out
+Seat 8: Augustos357 (142897.00)
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+Augustos357 posts ante 350.00
+275iqpeter posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [6c 7c]
+noslinedbtm raises 5600.00 to 5600.00
+Birr folds
+h.o.c folds
+CozzyP folds
+targinodsv folds
+Augustos357 folds
+275iqpeter calls 4200.00
+grotle calls 2800.00
+*** FLOP *** [7s 4s 4h]
+Main pot 19600.00
+275iqpeter checks
+grotle bets 9800.00
+noslinedbtm calls 9800.00
+275iqpeter folds
+*** TURN *** [7s 4s 4h] [2c]
+Main pot 39200.00
+grotle bets 29400.00
+noslinedbtm calls 29400.00
+*** RIVER *** [7s 4s 4h 2c] [3d]
+Main pot 98000.00
+grotle checks
+noslinedbtm checks
+*** SHOW DOWN ***
+Main pot 98000.00
+grotle shows [6c 7c] (two pair, Sevens and Fours [7s 7c 4s 4h 6c])
+noslinedbtm shows [As 8s] (a pair of Fours [4s 4h As 8s 7s])
+grotle collected 98000.00 from main pot
+*** SUMMARY ***
+Total pot 98000.00
+Board [7s 4s 4h 2c 3d]
+Seat 1: 275iqpeter (small blind) folded on the Flop
+Seat 2: grotle (big blind) showed [6c 7c] and won 98000.00 with two pair, Sevens and Fours [7s 7c 4s 4h 6c]
+Seat 3: noslinedbtm showed [As 8s] and lost with a pair of Fours [4s 4h As 8s 7s]
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: Augustos357 (button) folded on the Pre-Flop
+
+Game Hand #2478794414 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:37:32 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (114833.00)
+Seat 2: grotle (477506.00)
+Seat 3: noslinedbtm (54500.00)
+Seat 4: Birr (86800.00)
+Seat 5: h.o.c (108750.00)
+Seat 6: CozzyP (99650.00)
+Seat 7: targinodsv (234633.00) is sitting out
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+grotle posts the small blind 1400.00
+noslinedbtm posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [2h 5h]
+Birr folds
+h.o.c raises 6160.00 to 6160.00
+CozzyP calls 6160.00
+targinodsv folds
+275iqpeter raises 9520.00 to 9520.00
+grotle folds
+noslinedbtm folds
+h.o.c calls 3360.00
+CozzyP calls 3360.00
+*** FLOP *** [7h 3d 5s]
+Main pot 35210.00
+h.o.c checks
+CozzyP checks
+275iqpeter bets 17605.00
+h.o.c calls 17605.00
+CozzyP folds
+*** TURN *** [7h 3d 5s] [Ks]
+Main pot 70420.00
+h.o.c checks
+275iqpeter bets 87358.00 and is all-in
+h.o.c folds
+Uncalled bet (87358.00) returned to 275iqpeter
+275iqpeter does not show
+*** SUMMARY ***
+Total pot 70420.00
+Board [7h 3d 5s Ks]
+Seat 1: 275iqpeter did not show and won 70420.00
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: noslinedbtm (big blind) folded on the Pre-Flop
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Turn
+Seat 6: CozzyP folded on the Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+
+Game Hand #2478794937 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:39:07 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (157778.00)
+Seat 2: grotle (475756.00)
+Seat 3: noslinedbtm (51350.00)
+Seat 4: Birr (86450.00)
+Seat 5: h.o.c (81275.00)
+Seat 6: CozzyP (89780.00)
+Seat 7: targinodsv (234283.00) is sitting out
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+noslinedbtm posts the small blind 1400.00
+Birr posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [9s 2h]
+h.o.c folds
+CozzyP raises 5880.00 to 5880.00
+targinodsv folds
+275iqpeter raises 8960.00 to 8960.00
+grotle folds
+noslinedbtm folds
+Birr folds
+CozzyP calls 3080.00
+*** FLOP *** [3h Qc 6h]
+Main pot 24570.00
+CozzyP checks
+275iqpeter bets 6143.00
+CozzyP calls 6143.00
+*** TURN *** [3h Qc 6h] [5s]
+Main pot 36856.00
+CozzyP checks
+275iqpeter bets 142325.00 and is all-in
+CozzyP calls 74327.00 and is all-in
+Uncalled bet (67998.00) returned to 275iqpeter
+*** RIVER *** [3h Qc 6h 5s] [7h]
+Main pot 185510.00
+*** SHOW DOWN ***
+Main pot 185510.00
+275iqpeter shows [Td Qd] (a pair of Queens [Qd Qc Td 7h 6h])
+CozzyP shows [5d 5c] (three of a kind, Set of Fives [5s 5d 5c Qc 7h])
+CozzyP collected 185510.00 from main pot
+*** SUMMARY ***
+Total pot 185510.00
+Board [3h Qc 6h 5s 7h]
+Seat 1: 275iqpeter showed [Td Qd] and lost with a pair of Queens [Qd Qc Td 7h 6h]
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: noslinedbtm (small blind) folded on the Pre-Flop
+Seat 4: Birr (big blind) folded on the Pre-Flop
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP showed [5d 5c] and won 185510.00 with three of a kind, Set of Fives [5s 5d 5c Qc 7h]
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+
+Game Hand #2478795229 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:39:58 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (67998.00)
+Seat 2: grotle (475406.00)
+Seat 3: noslinedbtm (49600.00)
+Seat 4: Birr (83300.00)
+Seat 5: h.o.c (80925.00)
+Seat 6: CozzyP (185510.00)
+Seat 7: targinodsv (233933.00) is sitting out
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+Birr posts the small blind 1400.00
+h.o.c posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Jd Kh]
+CozzyP raises 5880.00 to 5880.00
+targinodsv folds
+275iqpeter folds
+grotle calls 5880.00
+noslinedbtm folds
+Birr folds
+h.o.c calls 3080.00
+*** FLOP *** [5s Ac 2h]
+Main pot 21490.00
+h.o.c checks
+CozzyP bets 7092.00
+grotle folds
+h.o.c folds
+Uncalled bet (7092.00) returned to CozzyP
+CozzyP does not show
+*** SUMMARY ***
+Total pot 21490.00
+Board [5s Ac 2h]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Flop
+Seat 3: noslinedbtm (button) folded on the Pre-Flop
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: h.o.c (big blind) folded on the Flop
+Seat 6: CozzyP did not show and won 21490.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+
+Game Hand #2478795549 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:40:55 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (67648.00)
+Seat 2: grotle (469176.00)
+Seat 3: noslinedbtm (49250.00)
+Seat 4: Birr (81550.00)
+Seat 5: h.o.c (74695.00)
+Seat 6: CozzyP (200770.00)
+Seat 7: targinodsv (233583.00) is sitting out
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+h.o.c posts the small blind 1400.00
+CozzyP posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [Ah 3h]
+targinodsv folds
+275iqpeter folds
+grotle raises 5600.00 to 5600.00
+noslinedbtm raises 11200.00 to 11200.00
+Birr folds
+h.o.c folds
+CozzyP folds
+grotle calls 5600.00
+*** FLOP *** [Kd 6h Tc]
+Main pot 29050.00
+grotle checks
+noslinedbtm checks
+*** TURN *** [Kd 6h Tc] [Qd]
+Main pot 29050.00
+grotle checks
+noslinedbtm checks
+*** RIVER *** [Kd 6h Tc Qd] [Jc]
+Main pot 29050.00
+grotle checks
+noslinedbtm bets 37700.00 and is all-in
+grotle calls 37700.00
+*** SHOW DOWN ***
+Main pot 104450.00
+grotle shows [Ah 3h] (a straight, Ace high [Ah Kd Qd Jc Tc])
+noslinedbtm shows [2s As] (a straight, Ace high [As Kd Qd Jc Tc])
+grotle collected 52225.00 from main pot
+noslinedbtm collected 52225.00 from main pot
+*** SUMMARY ***
+Total pot 104450.00
+Board [Kd 6h Tc Qd Jc]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Ah 3h] and won 52225.00 with a straight, Ace high [Ah Kd Qd Jc Tc]
+Seat 3: noslinedbtm showed [2s As] and won 52225.00 with a straight, Ace high [As Kd Qd Jc Tc]
+Seat 4: Birr (button) folded on the Pre-Flop
+Seat 5: h.o.c (small blind) folded on the Pre-Flop
+Seat 6: CozzyP (big blind) folded on the Pre-Flop
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+
+Game Hand #2478795915 - Tournament #33592572 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:42:04 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (67298.00)
+Seat 2: grotle (472151.00)
+Seat 3: noslinedbtm (52225.00)
+Seat 4: Birr (81200.00)
+Seat 5: h.o.c (72945.00)
+Seat 6: CozzyP (197620.00)
+Seat 7: targinodsv (233233.00) is sitting out
+275iqpeter posts ante 350.00
+grotle posts ante 350.00
+noslinedbtm posts ante 350.00
+Birr posts ante 350.00
+h.o.c posts ante 350.00
+CozzyP posts ante 350.00
+targinodsv posts ante 350.00
+CozzyP posts the small blind 1400.00
+targinodsv posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [9s 8s]
+275iqpeter folds
+grotle raises 5600.00 to 5600.00
+noslinedbtm raises 14000.00 to 14000.00
+Birr folds
+h.o.c folds
+CozzyP folds
+targinodsv folds
+grotle calls 8400.00
+*** FLOP *** [6d 5d Kd]
+Main pot 34650.00
+grotle bets 14000.00
+noslinedbtm calls 14000.00
+*** TURN *** [6d 5d Kd] [Ts]
+Main pot 62650.00
+grotle bets 11200.00
+noslinedbtm folds
+Uncalled bet (11200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 62650.00
+Board [6d 5d Kd Ts]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 62650.00
+Seat 3: noslinedbtm folded on the Turn
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c (button) folded on the Pre-Flop
+Seat 6: CozzyP (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+
+Game Hand #2478796475 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:43:45 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (66948.00)
+Seat 2: grotle (506451.00)
+Seat 3: noslinedbtm (23875.00)
+Seat 4: Birr (80850.00)
+Seat 5: h.o.c (72595.00)
+Seat 6: CozzyP (195870.00)
+Seat 7: targinodsv (230083.00) is sitting out
+Seat 8: kutuku1 (100000.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+targinodsv posts the small blind 1600.00
+kutuku1 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Jd Ts]
+275iqpeter folds
+grotle raises 6400.00 to 6400.00
+noslinedbtm folds
+Birr folds
+h.o.c folds
+CozzyP calls 6400.00
+targinodsv folds
+kutuku1 folds
+*** FLOP *** [4h Td Js]
+Main pot 20800.00
+grotle checks
+CozzyP checks
+*** TURN *** [4h Td Js] [4d]
+Main pot 20800.00
+grotle bets 12800.00
+CozzyP calls 12800.00
+*** RIVER *** [4h Td Js 4d] [3h]
+Main pot 46400.00
+grotle bets 20000.00
+CozzyP folds
+Uncalled bet (20000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 46400.00
+Board [4h Td Js 4d 3h]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 46400.00
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP (button) folded on the River
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: kutuku1 (big blind) folded on the Pre-Flop
+
+Game Hand #2478796977 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:45:18 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: 275iqpeter (66548.00)
+Seat 2: grotle (533251.00)
+Seat 3: noslinedbtm (23475.00)
+Seat 4: Birr (80450.00)
+Seat 5: h.o.c (72195.00)
+Seat 6: CozzyP (176270.00)
+Seat 7: targinodsv (228083.00) is sitting out
+Seat 8: kutuku1 (96400.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+kutuku1 posts the small blind 1600.00
+275iqpeter posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5h 5d]
+grotle raises 8000.00 to 8000.00
+noslinedbtm folds
+Birr folds
+h.o.c folds
+CozzyP folds
+targinodsv folds
+kutuku1 folds
+275iqpeter folds
+Uncalled bet (4800.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: 275iqpeter (big blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 11200.00
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP folded on the Pre-Flop and did not bet
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: kutuku1 (small blind) folded on the Pre-Flop
+
+Game Hand #2478797103 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:45:39 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: 275iqpeter (62948.00)
+Seat 2: grotle (540851.00)
+Seat 3: noslinedbtm (23075.00)
+Seat 4: Birr (80050.00)
+Seat 5: h.o.c (71795.00)
+Seat 6: CozzyP (175870.00)
+Seat 7: targinodsv (227683.00) is sitting out
+Seat 8: kutuku1 (94400.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+275iqpeter posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4h 6d]
+noslinedbtm folds
+Birr folds
+h.o.c folds
+CozzyP raises 6720.00 to 6720.00
+targinodsv folds
+kutuku1 folds
+275iqpeter folds
+grotle calls 3520.00
+*** FLOP *** [9h 6c Kc]
+Main pot 18240.00
+grotle checks
+CozzyP bets 6019.00
+grotle calls 6019.00
+*** TURN *** [9h 6c Kc] [Td]
+Main pot 30278.00
+grotle checks
+CozzyP bets 16047.00
+grotle folds
+Uncalled bet (16047.00) returned to CozzyP
+CozzyP does not show
+*** SUMMARY ***
+Total pot 30278.00
+Board [9h 6c Kc Td]
+Seat 1: 275iqpeter (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the Turn
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP did not show and won 30278.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: kutuku1 (button) folded on the Pre-Flop
+
+Game Hand #2478797456 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:46:45 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: 275iqpeter (60948.00)
+Seat 2: grotle (527712.00)
+Seat 3: noslinedbtm (22675.00)
+Seat 4: Birr (79650.00)
+Seat 5: h.o.c (71395.00)
+Seat 6: CozzyP (193009.00)
+Seat 7: targinodsv (227283.00) is sitting out
+Seat 8: kutuku1 (94000.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+grotle posts the small blind 1600.00
+noslinedbtm posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [2h As]
+Birr folds
+h.o.c folds
+CozzyP folds
+targinodsv folds
+kutuku1 folds
+275iqpeter raises 6400.00 to 6400.00
+grotle folds
+noslinedbtm raises 19075.00 to 22275.00 and is all-in
+275iqpeter calls 15875.00
+*** FLOP *** [Th Jd 2s]
+Main pot 49350.00
+*** TURN *** [Th Jd 2s] [9c]
+Main pot 49350.00
+*** RIVER *** [Th Jd 2s 9c] [8c]
+Main pot 49350.00
+*** SHOW DOWN ***
+Main pot 49350.00
+275iqpeter shows [Kd Kh] (a pair of Kings [Kh Kd Jd Th 9c])
+noslinedbtm shows [Jc Js] (three of a kind, Set of Jacks [Js Jd Jc Th 9c])
+noslinedbtm collected 49350.00 from main pot
+*** SUMMARY ***
+Total pot 49350.00
+Board [Th Jd 2s 9c 8c]
+Seat 1: 275iqpeter (button) showed [Kd Kh] and lost with a pair of Kings [Kh Kd Jd Th 9c]
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: noslinedbtm (big blind) showed [Jc Js] and won 49350.00 with three of a kind, Set of Jacks [Js Jd Jc Th 9c]
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: kutuku1 folded on the Pre-Flop and did not bet
+
+Game Hand #2478797732 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:47:30 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: 275iqpeter (38273.00)
+Seat 2: grotle (525712.00)
+Seat 3: noslinedbtm (49350.00)
+Seat 4: Birr (79250.00)
+Seat 5: h.o.c (70995.00)
+Seat 6: CozzyP (192609.00)
+Seat 7: targinodsv (226883.00) is sitting out
+Seat 8: kutuku1 (93600.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+noslinedbtm posts the small blind 1600.00
+Birr posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Td 5s]
+h.o.c folds
+CozzyP folds
+targinodsv folds
+kutuku1 folds
+275iqpeter folds
+grotle folds
+noslinedbtm calls 1600.00
+Birr checks
+*** FLOP *** [5c 6c 3c]
+Main pot 9600.00
+noslinedbtm bets 3200.00
+Birr calls 3200.00
+*** TURN *** [5c 6c 3c] [2s]
+Main pot 16000.00
+noslinedbtm checks
+Birr bets 8000.00
+noslinedbtm calls 8000.00
+*** RIVER *** [5c 6c 3c 2s] [9d]
+Main pot 32000.00
+noslinedbtm checks
+Birr bets 64450.00 and is all-in
+noslinedbtm folds
+Uncalled bet (64450.00) returned to Birr
+Birr does not show
+*** SUMMARY ***
+Total pot 32000.00
+Board [5c 6c 3c 2s 9d]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: noslinedbtm (small blind) folded on the River
+Seat 4: Birr did not show and won 32000.00
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: kutuku1 folded on the Pre-Flop and did not bet
+
+Game Hand #2478798403 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:49:38 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: 275iqpeter (37873.00)
+Seat 2: grotle (525312.00)
+Seat 3: noslinedbtm (34550.00)
+Seat 4: Birr (96450.00)
+Seat 5: h.o.c (70595.00)
+Seat 6: CozzyP (192209.00)
+Seat 7: targinodsv (226483.00) is sitting out
+Seat 8: kutuku1 (93200.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+Birr posts the small blind 1600.00
+h.o.c posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [6c Jh]
+CozzyP folds
+targinodsv folds
+kutuku1 folds
+275iqpeter folds
+grotle folds
+noslinedbtm raises 34150.00 to 34150.00 and is all-in
+Birr folds
+h.o.c folds
+Uncalled bet (30950.00) returned to noslinedbtm
+noslinedbtm does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm did not show and won 11200.00
+Seat 4: Birr (small blind) folded on the Pre-Flop
+Seat 5: h.o.c (big blind) folded on the Pre-Flop
+Seat 6: CozzyP folded on the Pre-Flop and did not bet
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: kutuku1 folded on the Pre-Flop and did not bet
+
+Game Hand #2478798575 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:50:11 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: 275iqpeter (37473.00)
+Seat 2: grotle (524912.00)
+Seat 3: noslinedbtm (42150.00)
+Seat 4: Birr (94450.00)
+Seat 5: h.o.c (66995.00)
+Seat 6: CozzyP (191809.00)
+Seat 7: targinodsv (226083.00) is sitting out
+Seat 8: kutuku1 (92800.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+h.o.c posts the small blind 1600.00
+CozzyP posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4c Kh]
+targinodsv folds
+kutuku1 raises 6400.00 to 6400.00
+275iqpeter folds
+grotle folds
+noslinedbtm folds
+Birr calls 6400.00
+h.o.c folds
+CozzyP calls 3200.00
+*** FLOP *** [Tc 3c 7d]
+Main pot 24000.00
+CozzyP checks
+kutuku1 checks
+Birr checks
+*** TURN *** [Tc 3c 7d] [Qd]
+Main pot 24000.00
+CozzyP bets 7920.00
+kutuku1 folds
+Birr folds
+Uncalled bet (7920.00) returned to CozzyP
+CozzyP does not show
+*** SUMMARY ***
+Total pot 24000.00
+Board [Tc 3c 7d Qd]
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr (button) folded on the Turn
+Seat 5: h.o.c (small blind) folded on the Pre-Flop
+Seat 6: CozzyP did not show and won 24000.00
+Seat 7: targinodsv folded on the Pre-Flop and did not bet
+Seat 8: kutuku1 folded on the Turn
+
+Game Hand #2478798801 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:50:54 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: 275iqpeter (37073.00)
+Seat 2: grotle (524512.00)
+Seat 3: noslinedbtm (41750.00)
+Seat 4: Birr (87650.00)
+Seat 5: h.o.c (64995.00)
+Seat 6: CozzyP (209009.00)
+Seat 7: targinodsv (225683.00) is sitting out
+Seat 8: kutuku1 (86000.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+CozzyP posts the small blind 1600.00
+targinodsv posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4c Ad]
+kutuku1 folds
+275iqpeter folds
+grotle raises 6400.00 to 6400.00
+noslinedbtm folds
+Birr folds
+h.o.c folds
+CozzyP folds
+targinodsv folds
+Uncalled bet (3200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: 275iqpeter folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 11200.00
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c (button) folded on the Pre-Flop
+Seat 6: CozzyP (small blind) folded on the Pre-Flop
+Seat 7: targinodsv (big blind) folded on the Pre-Flop
+Seat 8: kutuku1 folded on the Pre-Flop and did not bet
+
+Game Hand #2478798929 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:51:16 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: 275iqpeter (36673.00)
+Seat 2: grotle (532112.00)
+Seat 3: noslinedbtm (41350.00)
+Seat 4: Birr (87250.00)
+Seat 5: h.o.c (64595.00)
+Seat 6: CozzyP (207009.00)
+Seat 7: targinodsv (222083.00) is sitting out
+Seat 8: kutuku1 (85600.00)
+275iqpeter posts ante 400.00
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+targinodsv posts the small blind 1600.00
+kutuku1 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Jc 4d]
+275iqpeter raises 36273.00 to 36273.00 and is all-in
+grotle folds
+noslinedbtm folds
+Birr folds
+h.o.c raises 64195.00 to 64195.00 and is all-in
+CozzyP folds
+targinodsv folds
+kutuku1 calls 60995.00
+*** FLOP *** [Tc 9s 2s]
+Main pot 113619.00
+Side pot(1) 55844.00
+*** TURN *** [Tc 9s 2s] [Ts]
+Main pot 113619.00
+Side pot(1) 55844.00
+*** RIVER *** [Tc 9s 2s Ts] [Ad]
+Main pot 113619.00
+Side pot(1) 55844.00
+*** SHOW DOWN ***
+Main pot 113619.00
+Side pot(1) 55844.00
+275iqpeter shows [3d 3s] (two pair, Tens and Threes [Ts Tc 3s 3d Ad])
+h.o.c shows [Qc Ah] (two pair, Aces and Tens [Ah Ad Ts Tc Qc])
+kutuku1 shows [Qd Qs] (two pair, Queens and Tens [Qs Qd Ts Tc Ad])
+h.o.c collected 113619.00 from main pot
+h.o.c collected 55844.00 from side pot-1
+*** SUMMARY ***
+Total pot 169463.00
+Board [Tc 9s 2s Ts Ad]
+Seat 1: 275iqpeter showed [3d 3s] and lost with two pair, Tens and Threes [Ts Tc 3s 3d Ad]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c showed [Qc Ah] and won 169463.00 with two pair, Aces and Tens [Ah Ad Ts Tc Qc]
+Seat 6: CozzyP (button) folded on the Pre-Flop
+Seat 7: targinodsv (small blind) folded on the Pre-Flop
+Seat 8: kutuku1 (big blind) showed [Qd Qs] and lost with two pair, Queens and Tens [Qs Qd Ts Tc Ad]
+

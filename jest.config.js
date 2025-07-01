@@ -1,5 +1,5 @@
 export default {
-  testEnvironment: 'jsdom',
+  testEnvironment: 'node',
   transform: {
     '^.+\\.(js|jsx)$': 'babel-jest',
   },
@@ -7,4 +7,7 @@ export default {
     '\\.(css|less|scss|sass)$': 'identity-obj-proxy',
   },
   setupFilesAfterEnv: ['<rootDir>/jest.setup.js'],
+  testEnvironmentOptions: {
+    customExportConditions: ['node', 'node-addons'],
+  }
 }; 

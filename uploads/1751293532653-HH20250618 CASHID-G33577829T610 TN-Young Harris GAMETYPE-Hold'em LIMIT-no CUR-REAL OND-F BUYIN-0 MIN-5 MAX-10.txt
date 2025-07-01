@@ -1,0 +1,3514 @@
+Hand #2483929795 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:44:13 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 3: grotle ($10.00)
+Seat 4: JoePescie ($8.65)
+Seat 7: jockeypoker ($13.07)
+Seat 8: spoler72 ($11.99)
+Seat 9: NoFeaR178rus ($21.86)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [As 6c]
+JoePescie folds
+jockeypoker raises $0.20 to $0.20
+spoler72 folds
+NoFeaR178rus folds
+grotle calls $0.10
+*** FLOP *** [Th 2h Kc]
+Main pot $0.43 | Rake $0.02
+grotle checks
+jockeypoker checks
+*** TURN *** [Th 2h Kc] [4d]
+Main pot $0.43 | Rake $0.02
+grotle bets $0.15
+jockeypoker calls $0.15
+*** RIVER *** [Th 2h Kc 4d] [5c]
+Main pot $0.72 | Rake $0.03
+grotle checks
+jockeypoker checks
+*** SHOW DOWN ***
+Main pot $0.72 | Rake $0.03
+grotle shows [As 6c] (a high card, Ace high [As Kc Th 6c 5c])
+jockeypoker shows [Qs Jh] (a high card, King high [Kc Qs Jh Th 5c])
+grotle collected $0.72 from main pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [Th 2h Kc 4d 5c]
+Seat 3: grotle (big blind) showed [As 6c] and won $0.72 with a high card, Ace high [As Kc Th 6c 5c]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker showed [Qs Jh] and lost with a high card, King high [Kc Qs Jh Th 5c]
+Seat 8: spoler72 (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483929941 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:45:03 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 3: grotle ($10.37)
+Seat 4: JoePescie ($8.65)
+Seat 7: jockeypoker ($12.72)
+Seat 8: spoler72 ($11.99)
+Seat 9: NoFeaR178rus ($21.81)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qc Ah]
+jockeypoker folds
+spoler72 raises $0.25 to $0.25
+NoFeaR178rus folds
+grotle raises $0.65 to $0.70
+JoePescie folds
+spoler72 calls $0.45
+*** FLOP *** [Ks 8s 6c]
+Main pot $1.43 | Rake $0.07
+grotle checks
+spoler72 checks
+*** TURN *** [Ks 8s 6c] [4h]
+Main pot $1.43 | Rake $0.07
+grotle checks
+spoler72 checks
+*** RIVER *** [Ks 8s 6c 4h] [6s]
+Main pot $1.43 | Rake $0.07
+grotle bets $0.43
+spoler72 folds
+Uncalled bet ($0.43) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $1.43 | Rake $0.05 | JP Fee $0.02
+Board [Ks 8s 6c 4h 6s]
+Seat 3: grotle did not show and won $1.43
+Seat 4: JoePescie (big blind) folded on the Pre-Flop
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: spoler72 folded on the River
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483930145 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:46:09 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 3: grotle ($11.10)
+Seat 4: JoePescie ($8.55)
+Seat 7: jockeypoker ($12.72)
+Seat 8: spoler72 ($11.29)
+Seat 9: NoFeaR178rus ($21.81)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Th Qd]
+spoler72 folds
+NoFeaR178rus folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 3: grotle did not show and won $0.25
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: spoler72 folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483930236 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:46:33 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 3: grotle ($11.25)
+Seat 4: JoePescie ($8.50)
+Seat 7: jockeypoker ($12.62)
+Seat 8: spoler72 ($11.29)
+Seat 9: NoFeaR178rus ($21.81)
+jockeypoker posts the small blind $0.05
+spoler72 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qd 4d]
+NoFeaR178rus folds
+grotle folds
+JoePescie folds
+jockeypoker folds
+spoler72 does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker (small blind) folded on the Pre-Flop
+Seat 8: spoler72 did not show and won $0.15
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483930271 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:46:47 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 3: grotle ($11.25)
+Seat 4: JoePescie ($8.50)
+Seat 7: jockeypoker ($12.57)
+Seat 8: spoler72 ($11.34)
+Seat 9: NoFeaR178rus ($21.81)
+spoler72 posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Th 8h]
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+jockeypoker folds
+spoler72 folds
+NoFeaR178rus calls $0.10
+*** FLOP *** [9d Jh 5c]
+Main pot $0.62 | Rake $0.03
+NoFeaR178rus checks
+grotle bets $0.25
+JoePescie folds
+NoFeaR178rus folds
+Uncalled bet ($0.25) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [9d Jh 5c]
+Seat 3: grotle did not show and won $0.62
+Seat 4: JoePescie folded on the Flop
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 8: spoler72 (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) folded on the Flop
+
+Hand #2483930408 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:47:37 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 3: grotle ($11.67)
+Seat 4: JoePescie ($8.30)
+Seat 7: jockeypoker ($12.57)
+Seat 8: spoler72 ($11.29)
+Seat 9: NoFeaR178rus ($21.61)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ah 3d]
+JoePescie raises $0.20 to $0.20
+jockeypoker raises $0.30 to $0.30
+spoler72 folds
+NoFeaR178rus folds
+grotle folds
+JoePescie calls $0.10
+*** FLOP *** [Qs 3c 6h]
+Main pot $0.72 | Rake $0.03
+JoePescie checks
+jockeypoker checks
+*** TURN *** [Qs 3c 6h] [9h]
+Main pot $0.72 | Rake $0.03
+JoePescie checks
+jockeypoker checks
+*** RIVER *** [Qs 3c 6h 9h] [9c]
+Main pot $0.72 | Rake $0.03
+JoePescie checks
+jockeypoker checks
+*** SHOW DOWN ***
+Main pot $0.72 | Rake $0.03
+JoePescie shows [Tc Ad] (a pair of Nines [9h 9c Ad Qs Tc])
+jockeypoker shows [Kd Jc] (a pair of Nines [9h 9c Kd Qs Jc])
+JoePescie collected $0.72 from main pot
+*** SUMMARY ***
+Total pot $0.72 | Rake $0.03
+Board [Qs 3c 6h 9h 9c]
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: JoePescie showed [Tc Ad] and won $0.72 with a pair of Nines [9h 9c Ad Qs Tc] with the kicker Ace
+Seat 7: jockeypoker showed [Kd Jc] and lost with a pair of Nines [9h 9c Kd Qs Jc]
+Seat 8: spoler72 (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483930529 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:48:18 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 3: grotle ($11.57)
+Seat 4: JoePescie ($8.72)
+Seat 7: jockeypoker ($12.27)
+Seat 8: spoler72 ($11.29)
+Seat 9: NoFeaR178rus ($21.56)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6s 3h]
+jockeypoker folds
+spoler72 folds
+NoFeaR178rus folds
+grotle calls $0.05
+JoePescie raises $0.10 to $0.20
+grotle calls $0.10
+*** FLOP *** [8d 5h 9s]
+Main pot $0.38 | Rake $0.02
+grotle checks
+JoePescie checks
+*** TURN *** [8d 5h 9s] [Qs]
+Main pot $0.38 | Rake $0.02
+grotle checks
+JoePescie checks
+*** RIVER *** [8d 5h 9s Qs] [8c]
+Main pot $0.38 | Rake $0.02
+grotle bets $0.10
+JoePescie calls $0.10
+*** SHOW DOWN ***
+Main pot $0.57 | Rake $0.03
+grotle shows [6s 3h] (a pair of Eights [8d 8c Qs 9s 6s])
+JoePescie shows [Kd Ad] (a pair of Eights [8d 8c Ad Kd Qs])
+JoePescie collected $0.57 from main pot
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [8d 5h 9s Qs 8c]
+Seat 3: grotle (small blind) showed [6s 3h] and lost with a pair of Eights [8d 8c Qs 9s 6s]
+Seat 4: JoePescie (big blind) showed [Kd Ad] and won $0.57 with a pair of Eights [8d 8c Ad Kd Qs] with the kicker Ace
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: spoler72 folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483930681 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:49:09 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 3: grotle ($11.27)
+Seat 4: JoePescie ($8.99)
+Seat 7: jockeypoker ($12.27)
+Seat 8: spoler72 ($11.29)
+Seat 9: NoFeaR178rus ($21.56)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [5c 3h]
+spoler72 raises $0.25 to $0.25
+NoFeaR178rus calls $0.25
+grotle folds
+JoePescie folds
+jockeypoker folds
+*** FLOP *** [7c 5h Jc]
+Main pot $0.62 | Rake $0.03
+spoler72 bets $0.40
+NoFeaR178rus folds
+Uncalled bet ($0.40) returned to spoler72
+spoler72 does not show
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [7c 5h Jc]
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: spoler72 did not show and won $0.62
+Seat 9: NoFeaR178rus folded on the Flop
+
+Hand #2483930776 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:49:44 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 3: grotle ($11.27)
+Seat 4: JoePescie ($8.94)
+Seat 7: jockeypoker ($12.17)
+Seat 8: spoler72 ($11.66)
+Seat 9: NoFeaR178rus ($21.31)
+jockeypoker posts the small blind $0.05
+spoler72 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jh Jd]
+NoFeaR178rus folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker calls $0.15
+spoler72 folds
+*** FLOP *** [4d 4c 3c]
+Main pot $0.48 | Rake $0.02
+jockeypoker checks
+grotle bets $0.20
+jockeypoker calls $0.20
+*** TURN *** [4d 4c 3c] [9s]
+Main pot $0.86 | Rake $0.04
+jockeypoker checks
+grotle bets $0.55
+jockeypoker calls $0.55
+*** RIVER *** [4d 4c 3c 9s] [8d]
+Main pot $1.90 | Rake $0.10
+jockeypoker checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $1.90 | Rake $0.10
+grotle shows [Jh Jd] (two pair, Jacks and Fours [Jh Jd 4d 4c 9s])
+jockeypoker shows [Kc 7c] (a pair of Fours [4d 4c Kc 9s 8d])
+grotle collected $1.90 from main pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.08 | JP Fee $0.02
+Board [4d 4c 3c 9s 8d]
+Seat 3: grotle showed [Jh Jd] and won $1.90 with two pair, Jacks and Fours [Jh Jd 4d 4c 9s]
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker (small blind) showed [Kc 7c] and lost with a pair of Fours [4d 4c Kc 9s 8d]
+Seat 8: spoler72 (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483930981 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:50:52 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 3: grotle ($12.22)
+Seat 4: JoePescie ($8.94)
+Seat 7: jockeypoker ($11.22)
+Seat 8: spoler72 ($11.56)
+Seat 9: NoFeaR178rus ($21.31)
+spoler72 posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [3s 7c]
+grotle folds
+JoePescie folds
+jockeypoker raises $0.20 to $0.20
+spoler72 raises $0.98 to $1.03
+NoFeaR178rus folds
+jockeypoker raises $2.89 to $3.09
+spoler72 raises $10.53 to $11.56 and is all-in
+jockeypoker calls $8.13 and is all-in
+Uncalled bet ($0.34) returned to spoler72
+*** RUN IT TWICE ***
+*** FLOP 1 *** [Ad 2s 9c]
+Main pot 1 $10.71 | Rake $0.56
+*** TURN 1 *** [Ad 2s 9c] [Qc]
+Main pot 1 $10.71 | Rake $0.56
+*** RIVER 1 *** [Ad 2s 9c Qc] [4c]
+Main pot 1 $10.71 | Rake $0.56
+*** SHOW DOWN 1 ***
+Main pot 1 $10.71 | Rake $0.56
+jockeypoker shows [Qh Qs] (three of a kind, Set of Queens [Qs Qh Qc Ad 9c])
+spoler72 shows [Ks Kd] (a pair of Kings [Ks Kd Ad Qc 9c])
+jockeypoker collected $10.71 from main pot 1
+*** FLOP 2 *** [4s 6s 5d]
+Main pot 2 $10.71 | Rake $0.56
+*** TURN 2 *** [4s 6s 5d] [5h]
+Main pot 2 $10.71 | Rake $0.56
+*** RIVER 2 *** [4s 6s 5d 5h] [7d]
+Main pot 2 $10.71 | Rake $0.56
+*** SHOW DOWN 2 ***
+Main pot 2 $10.71 | Rake $0.56
+jockeypoker shows [Qh Qs] (two pair, Queens and Fives [Qs Qh 5h 5d 7d])
+spoler72 shows [Ks Kd] (two pair, Kings and Fives [Ks Kd 5h 5d 7d])
+spoler72 collected $10.71 from main pot 2
+*** SUMMARY ***
+Total pot $21.42 | Rake $0.88 | JP Fee $0.24
+Board 1 [Ad 2s 9c Qc 4c]
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) showed [Qh Qs] and won $10.71 with three of a kind, Set of Queens [Qs Qh Qc Ad 9c]
+Seat 8: spoler72 (small blind) showed [Ks Kd] and lost with a pair of Kings [Ks Kd Ad Qc 9c]
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+Board 2 [4s 6s 5d 5h 7d]
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) showed [Qh Qs] and lost with two pair, Queens and Fives [Qs Qh 5h 5d 7d]
+Seat 8: spoler72 (small blind) showed [Ks Kd] and won $10.71 with two pair, Kings and Fives [Ks Kd 5h 5d 7d]
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+
+Hand #2483931153 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:51:46 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 3: grotle ($12.22)
+Seat 4: JoePescie ($8.94)
+Seat 7: jockeypoker ($10.71)
+Seat 8: spoler72 ($11.05)
+Seat 9: NoFeaR178rus ($21.21)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6d Qc]
+JoePescie calls $0.10
+jockeypoker folds
+spoler72 folds
+NoFeaR178rus folds
+grotle checks
+*** FLOP *** [Td 2s Tc]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie checks
+*** TURN *** [Td 2s Tc] [7h]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie checks
+*** RIVER *** [Td 2s Tc 7h] [Kh]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie bets $0.10
+grotle calls $0.10
+*** SHOW DOWN ***
+Main pot $0.43 | Rake $0.02
+grotle shows [6d Qc] (a pair of Tens [Td Tc Kh Qc 7h])
+JoePescie shows [9c Ah] (a pair of Tens [Td Tc Ah Kh 9c])
+JoePescie collected $0.43 from main pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Td 2s Tc 7h Kh]
+Seat 3: grotle (big blind) showed [6d Qc] and lost with a pair of Tens [Td Tc Kh Qc 7h]
+Seat 4: JoePescie showed [9c Ah] and won $0.43 with a pair of Tens [Td Tc Ah Kh 9c] with the kicker Ace
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: spoler72 (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483931295 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:52:36 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 3: grotle ($12.02)
+Seat 4: JoePescie ($9.17)
+Seat 7: jockeypoker ($10.71)
+Seat 8: spoler72 ($11.05)
+Seat 9: NoFeaR178rus ($21.16)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Tc 9s]
+jockeypoker folds
+spoler72 folds
+NoFeaR178rus raises $0.30 to $0.30
+grotle folds
+JoePescie calls $0.20
+*** FLOP *** [Kh Kd Jd]
+Main pot $0.62 | Rake $0.03
+JoePescie checks
+NoFeaR178rus bets $0.51
+JoePescie calls $0.51
+*** TURN *** [Kh Kd Jd] [8s]
+Main pot $1.59 | Rake $0.08
+JoePescie checks
+NoFeaR178rus bets $1.36
+JoePescie folds
+Uncalled bet ($1.36) returned to NoFeaR178rus
+NoFeaR178rus does not show
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.06 | JP Fee $0.02
+Board [Kh Kd Jd 8s]
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: JoePescie (big blind) folded on the Turn
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: spoler72 folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus did not show and won $1.59
+
+Hand #2483931493 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:53:42 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 3: grotle ($11.97)
+Seat 4: JoePescie ($8.36)
+Seat 7: jockeypoker ($10.71)
+Seat 8: spoler72 ($11.05)
+Seat 9: NoFeaR178rus ($21.94)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 7d]
+spoler72 folds
+NoFeaR178rus folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker calls $0.10
+*** FLOP *** [2h Ad 4h]
+Main pot $0.43 | Rake $0.02
+jockeypoker bets $0.24
+grotle folds
+Uncalled bet ($0.24) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [2h Ad 4h]
+Seat 3: grotle (button) folded on the Flop
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker did not show and won $0.43
+Seat 8: spoler72 folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483931574 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:54:08 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 3: grotle ($11.77)
+Seat 4: JoePescie ($8.31)
+Seat 7: jockeypoker ($10.94)
+Seat 8: spoler72 ($11.05)
+Seat 9: NoFeaR178rus ($21.94)
+jockeypoker posts the small blind $0.05
+spoler72 sits out
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jh 6d]
+grotle folds
+JoePescie calls $0.10
+jockeypoker folds
+NoFeaR178rus checks
+*** FLOP *** [Ts 8s 8h]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** TURN *** [Ts 8s 8h] [9c]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus bets $0.19
+JoePescie calls $0.19
+*** RIVER *** [Ts 8s 8h 9c] [7c]
+Main pot $0.60 | Rake $0.03
+NoFeaR178rus bets $0.10
+JoePescie calls $0.10
+*** SHOW DOWN ***
+Main pot $0.79 | Rake $0.04
+JoePescie shows [7s Kc] (two pair, Eights and Sevens [8s 8h 7s 7c Kc])
+NoFeaR178rus shows [Td 9h] (two pair, Tens and Nines [Ts Td 9h 9c 8s])
+NoFeaR178rus collected $0.79 from main pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.04
+Board [Ts 8s 8h 9c 7c]
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie (button) showed [7s Kc] and lost with two pair, Eights and Sevens [8s 8h 7s 7c Kc]
+Seat 7: jockeypoker (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) showed [Td 9h] and won $0.79 with two pair, Tens and Nines [Ts Td 9h 9c 8s]
+
+Hand #2483931738 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:55:01 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 3: grotle ($11.77)
+Seat 4: JoePescie ($7.92)
+Seat 7: jockeypoker ($10.89)
+Seat 8: spoler72 ($11.05) is sitting out
+Seat 9: NoFeaR178rus ($22.34)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8h Kd]
+JoePescie calls $0.10
+jockeypoker folds
+NoFeaR178rus raises $0.45 to $0.50
+grotle folds
+JoePescie folds
+Uncalled bet ($0.40) returned to NoFeaR178rus
+NoFeaR178rus does not show
+*** SUMMARY ***
+Total pot $0.30
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus did not show and won $0.30
+
+Hand #2483931789 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:55:36 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 3: grotle ($11.67)
+Seat 4: JoePescie ($7.82)
+Seat 7: jockeypoker ($10.89)
+Seat 9: NoFeaR178rus ($22.54)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jc Qd]
+jockeypoker folds
+NoFeaR178rus raises $0.30 to $0.30
+grotle calls $0.25
+JoePescie folds
+*** FLOP *** [Jd 6s 4s]
+Main pot $0.67 | Rake $0.03
+grotle checks
+NoFeaR178rus bets $0.23
+grotle calls $0.23
+*** TURN *** [Jd 6s 4s] [Ad]
+Main pot $1.11 | Rake $0.05
+grotle checks
+NoFeaR178rus checks
+*** RIVER *** [Jd 6s 4s Ad] [7s]
+Main pot $1.11 | Rake $0.05
+grotle bets $0.24
+NoFeaR178rus raises $1.13 to $1.13
+grotle calls $0.89
+*** SHOW DOWN ***
+Main pot $3.25 | Rake $0.17
+grotle shows [Jc Qd] (a pair of Jacks [Jd Jc Ad Qd 7s])
+NoFeaR178rus shows [9s Qs] (a flush, Queen high [Qs 9s 7s 6s 4s])
+NoFeaR178rus collected $3.25 from main pot
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.13 | JP Fee $0.04
+Board [Jd 6s 4s Ad 7s]
+Seat 3: grotle (small blind) showed [Jc Qd] and lost with a pair of Jacks [Jd Jc Ad Qd 7s]
+Seat 4: JoePescie (big blind) folded on the Pre-Flop
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) showed [9s Qs] and won $3.25 with a flush, Queen high [Qs 9s 7s 6s 4s]
+
+Hand #2483931853 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:56:21 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($10.01)
+Seat 4: JoePescie ($7.72)
+Seat 7: jockeypoker ($10.89)
+Seat 9: NoFeaR178rus ($24.13)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+Profissional sits out
+*** HOLE CARDS ***
+Dealt to grotle [8s Jh]
+NoFeaR178rus folds
+grotle folds
+JoePescie folds
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker did not show and won $0.15
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483931918 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:57:11 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($10.01)
+Seat 4: JoePescie ($7.67)
+Seat 7: jockeypoker ($10.94)
+Seat 9: NoFeaR178rus ($24.13)
+jockeypoker posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+Profissional sits out
+*** HOLE CARDS ***
+Dealt to grotle [4s 3s]
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+jockeypoker folds
+NoFeaR178rus folds
+*** FLOP *** [3d 9h 6c]
+Main pot $0.53 | Rake $0.02
+grotle bets $0.20
+JoePescie calls $0.20
+*** TURN *** [3d 9h 6c] [Ad]
+Main pot $0.91 | Rake $0.04
+grotle checks
+JoePescie checks
+*** RIVER *** [3d 9h 6c Ad] [4c]
+Main pot $0.91 | Rake $0.04
+grotle bets $0.35
+JoePescie folds
+Uncalled bet ($0.35) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04
+Board [3d 9h 6c Ad 4c]
+Seat 3: grotle did not show and won $0.91
+Seat 4: JoePescie (button) folded on the River
+Seat 7: jockeypoker (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+
+Hand #2483932032 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:58:29 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($10.52)
+Seat 4: JoePescie ($7.27)
+Seat 7: jockeypoker ($10.89)
+Seat 9: NoFeaR178rus ($24.03)
+NoFeaR178rus posts the small blind $0.05
+Profissional posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8d 3h]
+grotle folds
+JoePescie calls $0.10
+jockeypoker raises $0.30 to $0.30
+NoFeaR178rus raises $1.15 to $1.20
+Profissional folds
+JoePescie folds
+jockeypoker folds
+Uncalled bet ($0.90) returned to NoFeaR178rus
+NoFeaR178rus does not show
+*** SUMMARY ***
+Total pot $0.80
+Seat 1: Profissional (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus did not show and won $0.80
+
+Hand #2483932060 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:58:57 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($10.52)
+Seat 4: JoePescie ($7.17)
+Seat 7: jockeypoker ($10.59)
+Seat 9: NoFeaR178rus ($24.53)
+Profissional posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qc 8d]
+JoePescie folds
+jockeypoker raises $0.20 to $0.20
+NoFeaR178rus calls $0.20
+Profissional folds
+grotle calls $0.10
+*** FLOP *** [4d Ac 4h]
+Main pot $0.62 | Rake $0.03
+grotle checks
+jockeypoker bets $0.34
+NoFeaR178rus folds
+grotle folds
+Uncalled bet ($0.34) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [4d Ac 4h]
+Seat 1: Profissional (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Flop
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker did not show and won $0.62
+Seat 9: NoFeaR178rus (button) folded on the Flop
+
+Hand #2483932108 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 11:59:33 UTC
+Young Harris 9-max Seat #1 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat will be allowed to play after the button
+Seat 3: grotle ($10.32)
+Seat 4: JoePescie ($7.17)
+Seat 7: jockeypoker ($11.01)
+Seat 9: NoFeaR178rus ($24.33)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 4c]
+jockeypoker raises $0.20 to $0.20
+NoFeaR178rus folds
+Profissional folds
+grotle folds
+JoePescie calls $0.10
+*** FLOP *** [6s Ac Kd]
+Main pot $0.43 | Rake $0.02
+JoePescie checks
+jockeypoker checks
+*** TURN *** [6s Ac Kd] [Qh]
+Main pot $0.43 | Rake $0.02
+JoePescie checks
+jockeypoker bets $0.43
+JoePescie folds
+Uncalled bet ($0.43) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [6s Ac Kd Qh]
+Seat 1: Profissional (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: JoePescie (big blind) folded on the Turn
+Seat 7: jockeypoker did not show and won $0.43
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483932178 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:00:18 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat ($4.00)
+Seat 3: grotle ($10.27)
+Seat 4: JoePescie ($6.97)
+Seat 7: jockeypoker ($11.24)
+Seat 9: NoFeaR178rus ($24.33)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+Flat posts $0.10
+*** HOLE CARDS ***
+Dealt to grotle [As Qh]
+NoFeaR178rus folds
+Profissional folds
+Flat checks
+grotle raises $0.50 to $0.50
+JoePescie folds
+jockeypoker folds
+Flat calls $0.40
+*** FLOP *** [Ac 2c 9s]
+Main pot $1.10 | Rake $0.05
+Flat checks
+grotle checks
+*** TURN *** [Ac 2c 9s] [Kd]
+Main pot $1.10 | Rake $0.05
+Flat bets $0.90
+grotle calls $0.90
+*** RIVER *** [Ac 2c 9s Kd] [Ad]
+Main pot $2.81 | Rake $0.14
+Flat bets $1.47
+grotle raises $8.87 to $8.87 and is all-in
+Flat folds
+Uncalled bet ($7.40) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $5.60 | Rake $0.21 | JP Fee $0.08
+Board [Ac 2c 9s Kd Ad]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: Flat folded on the River
+Seat 3: grotle did not show and won $5.60
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483932369 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:01:46 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat ($1.13)
+Seat 3: grotle ($13.00)
+Seat 4: JoePescie ($6.92)
+Seat 7: jockeypoker ($11.14)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($24.33)
+jockeypoker posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [3d Ac]
+NoFeaR178rus raises $0.30 to $0.30
+Profissional folds
+Flat folds
+grotle calls $0.30
+JoePescie folds
+jockeypoker folds
+GrindManSunday calls $0.20
+*** FLOP *** [2h 3h 8h]
+Main pot $0.91 | Rake $0.04
+GrindManSunday checks
+NoFeaR178rus bets $0.75
+grotle calls $0.75
+GrindManSunday folds
+*** TURN *** [2h 3h 8h] [6h]
+Main pot $2.33 | Rake $0.12
+NoFeaR178rus bets $0.80
+grotle folds
+Uncalled bet ($0.80) returned to NoFeaR178rus
+NoFeaR178rus does not show
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.08 | JP Fee $0.04
+Board [2h 3h 8h 6h]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: Flat folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Turn
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker (small blind) folded on the Pre-Flop
+Seat 8: GrindManSunday (big blind) folded on the Flop
+Seat 9: NoFeaR178rus did not show and won $2.33
+
+Hand #2483932558 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:02:54 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat ($1.13)
+Seat 3: grotle ($11.95)
+Seat 4: JoePescie ($6.92)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($25.61)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [3c 4c]
+Profissional folds
+Flat calls $0.10
+grotle raises $0.30 to $0.30
+JoePescie folds
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus raises $1.20 to $1.30
+Flat folds
+grotle calls $1.00
+*** FLOP *** [9c Td 5c]
+Main pot $2.62 | Rake $0.13
+NoFeaR178rus checks
+grotle checks
+*** TURN *** [9c Td 5c] [5h]
+Main pot $2.62 | Rake $0.13
+NoFeaR178rus bets $0.90
+grotle calls $0.90
+*** RIVER *** [9c Td 5c 5h] [As]
+Main pot $4.33 | Rake $0.22
+NoFeaR178rus bets $3.59
+grotle raises $7.18 to $7.18
+NoFeaR178rus calls $3.59
+*** SHOW DOWN ***
+Main pot $17.97 | Rake $0.94
+grotle shows [3c 4c] (a pair of Fives [5h 5c As Td 9c])
+NoFeaR178rus shows [Ad Qs] (two pair, Aces and Fives [As Ad 5h 5c Qs])
+NoFeaR178rus collected $17.97 from main pot
+*** SUMMARY ***
+Total pot $17.97 | Rake $0.70 | JP Fee $0.24
+Board [9c Td 5c 5h As]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: Flat folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [3c 4c] and lost with a pair of Fives [5h 5c As Td 9c]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) showed [Ad Qs] and won $17.97 with two pair, Aces and Fives [As Ad 5h 5c Qs]
+
+Hand #2483932738 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:04:01 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat ($1.03)
+Seat 3: grotle ($2.57)
+Seat 4: JoePescie ($6.92)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($34.20)
+NoFeaR178rus posts the small blind $0.05
+Profissional posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7h 7s]
+Flat folds
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus folds
+Profissional calls $0.10
+*** FLOP *** [4s Tc 4h]
+Main pot $0.62 | Rake $0.03
+Profissional checks
+grotle bets $0.20
+JoePescie folds
+Profissional folds
+Uncalled bet ($0.20) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [4s Tc 4h]
+Seat 1: Profissional (big blind) folded on the Flop
+Seat 2: Flat folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won $0.62
+Seat 4: JoePescie folded on the Flop
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483932896 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:05:01 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: Flat ($1.03)
+Seat 3: grotle ($2.99)
+Seat 4: JoePescie ($6.72)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($34.15)
+Profissional posts the small blind $0.05
+Flat posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Ac Js]
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+jockeypoker folds
+GrindManSunday calls $0.20
+NoFeaR178rus folds
+Profissional folds
+Flat raises $0.93 to $1.03 and is all-in
+grotle calls $0.83
+JoePescie folds
+GrindManSunday calls $0.83
+*** FLOP *** [Jd Jh 5s]
+Main pot $3.18 | Rake $0.16
+grotle checks
+GrindManSunday bets $8.97 and is all-in
+grotle calls $1.96 and is all-in
+Uncalled bet ($7.01) returned to GrindManSunday
+*** TURN *** [Jd Jh 5s] [Qh]
+Main pot $3.17 | Rake $0.17
+Side pot(1) $3.73 | Rake $0.19
+*** RIVER *** [Jd Jh 5s Qh] [2c]
+Main pot $3.17 | Rake $0.17
+Side pot(1) $3.73 | Rake $0.19
+*** SHOW DOWN ***
+Main pot $3.17 | Rake $0.17
+Side pot(1) $3.73 | Rake $0.19
+Flat shows [Ad 8d] (a pair of Jacks [Jh Jd Ad Qh 8d])
+grotle shows [Ac Js] (three of a kind, Set of Jacks [Js Jh Jd Ac Qh])
+GrindManSunday shows [5h Ah] (two pair, Jacks and Fives [Jh Jd 5s 5h Ah])
+grotle collected $3.17 from main pot
+grotle collected $3.73 from side pot-1
+*** SUMMARY ***
+Total pot $6.90 | Rake $0.24 | JP Fee $0.12
+Board [Jd Jh 5s Qh 2c]
+Seat 1: Profissional (small blind) folded on the Pre-Flop
+Seat 2: Flat (big blind) showed [Ad 8d] and lost with a pair of Jacks [Jh Jd Ad Qh 8d]
+Seat 3: grotle showed [Ac Js] and won $6.90 with three of a kind, Set of Jacks [Js Jh Jd Ac Qh]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday showed [5h Ah] and lost with two pair, Jacks and Fives [Jh Jd 5s 5h Ah]
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483933068 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:05:57 UTC
+Young Harris 9-max Seat #1 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($6.90)
+Seat 4: JoePescie ($6.52)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($34.15)
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7c Tc]
+JoePescie calls $0.10
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus folds
+Profissional raises $0.22 to $0.22
+grotle calls $0.12
+JoePescie folds
+*** FLOP *** [7h 3s 5h]
+Main pot $0.52 | Rake $0.02
+grotle checks
+Profissional bets $0.14
+grotle calls $0.14
+*** TURN *** [7h 3s 5h] [8s]
+Main pot $0.78 | Rake $0.04
+grotle checks
+Profissional bets $0.51
+grotle raises $1.02 to $1.02
+Profissional calls $0.51
+*** RIVER *** [7h 3s 5h 8s] [5c]
+Main pot $2.72 | Rake $0.14
+grotle bets $2.00
+Profissional calls $2.00
+*** SHOW DOWN ***
+Main pot $6.52 | Rake $0.34
+Profissional shows [4s 4d] (two pair, Fives and Fours [5h 5c 4s 4d 8s])
+grotle shows [7c Tc] (two pair, Sevens and Fives [7h 7c 5h 5c Tc])
+grotle collected $6.52 from main pot
+*** SUMMARY ***
+Total pot $6.52 | Rake $0.24 | JP Fee $0.10
+Board [7h 3s 5h 8s 5c]
+Seat 1: Profissional (button) showed [4s 4d] and lost with two pair, Fives and Fours [5h 5c 4s 4d 8s]
+Seat 3: grotle (big blind) showed [7c Tc] and won $6.52 with two pair, Sevens and Fives [7h 7c 5h 5c Tc]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483933365 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:07:42 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 1: Profissional ($10.00)
+Seat 3: grotle ($10.04)
+Seat 4: JoePescie ($6.42)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($34.15)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qc 4d]
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus raises $0.30 to $0.30
+Profissional folds
+grotle folds
+JoePescie calls $0.20
+*** FLOP *** [Qh 5d 4s]
+Main pot $0.62 | Rake $0.03
+JoePescie checks
+NoFeaR178rus checks
+*** TURN *** [Qh 5d 4s] [6d]
+Main pot $0.62 | Rake $0.03
+JoePescie checks
+NoFeaR178rus checks
+*** RIVER *** [Qh 5d 4s 6d] [8d]
+Main pot $0.62 | Rake $0.03
+JoePescie checks
+NoFeaR178rus checks
+*** SHOW DOWN ***
+Main pot $0.62 | Rake $0.03
+JoePescie shows [Jh 3h] (a high card, Queen high [Qh Jh 8d 6d 5d])
+NoFeaR178rus shows [3s 3c] (a pair of Threes [3s 3c Qh 8d 6d])
+NoFeaR178rus collected $0.62 from main pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [Qh 5d 4s 6d 8d]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: JoePescie (big blind) showed [Jh 3h] and lost with a high card, Queen high [Qh Jh 8d 6d 5d]
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus showed [3s 3c] and won $0.62 with a pair of Threes [3s 3c Qh 8d 6d]
+
+Hand #2483933530 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:08:38 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($4.00)
+Seat 3: grotle ($9.99)
+Seat 4: JoePescie ($6.12)
+Seat 7: jockeypoker ($11.09)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($34.47)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+limojohn27 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [4h 2c]
+GrindManSunday folds
+NoFeaR178rus raises $0.30 to $0.30
+Profissional folds
+grotle folds
+JoePescie calls $0.25
+jockeypoker folds
+*** FLOP *** [2s As Qd]
+Main pot $0.67 | Rake $0.03
+JoePescie checks
+NoFeaR178rus bets $0.55
+JoePescie raises $5.82 to $5.82 and is all-in
+NoFeaR178rus calls $5.27
+*** RUN IT TWICE ***
+*** TURN 1 *** [2s As Qd] [Qh]
+Main pot 1 $5.86 | Rake $0.31
+*** RIVER 1 *** [2s As Qd Qh] [Tc]
+Main pot 1 $5.86 | Rake $0.31
+*** SHOW DOWN 1 ***
+Main pot 1 $5.86 | Rake $0.31
+JoePescie shows [Ah Kh] (two pair, Aces and Queens [As Ah Qh Qd Kh])
+NoFeaR178rus shows [Ad Jh] (two pair, Aces and Queens [As Ad Qh Qd Jh])
+JoePescie collected $5.87 from main pot 1
+*** TURN 2 *** [2s As Qd] [6h]
+Main pot 2 $5.87 | Rake $0.30
+*** RIVER 2 *** [2s As Qd 6h] [6d]
+Main pot 2 $5.87 | Rake $0.30
+*** SHOW DOWN 2 ***
+Main pot 2 $5.87 | Rake $0.30
+JoePescie shows [Ah Kh] (two pair, Aces and Sixs [As Ah 6h 6d Kh])
+NoFeaR178rus shows [Ad Jh] (two pair, Aces and Sixs [As Ad 6h 6d Qd])
+JoePescie collected $5.86 from main pot 2
+*** SUMMARY ***
+Total pot $11.73 | Rake $0.41 | JP Fee $0.20
+Board 1 [2s As Qd Qh Tc]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie (small blind) showed [Ah Kh] and won $5.87 with two pair, Aces and Queens [As Ah Qh Qd Kh] with the kicker King
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus showed [Ad Jh] and lost with two pair, Aces and Queens [As Ad Qh Qd Jh]
+Board 2 [2s As Qd 6h 6d]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie (small blind) showed [Ah Kh] and won $5.86 with two pair, Aces and Sixs [As Ah 6h 6d Kh] with the kicker King
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus showed [Ad Jh] and lost with two pair, Aces and Sixs [As Ad 6h 6d Qd]
+
+Hand #2483933665 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:09:24 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($4.00)
+Seat 3: grotle ($9.99)
+Seat 4: JoePescie ($11.73)
+Seat 7: jockeypoker ($10.99)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+jockeypoker posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+limojohn27 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [5h 9h]
+NoFeaR178rus folds
+Profissional raises $0.22 to $0.22
+grotle calls $0.22
+JoePescie folds
+jockeypoker calls $0.17
+GrindManSunday folds
+*** FLOP *** [Qc Th 8c]
+Main pot $0.73 | Rake $0.03
+jockeypoker checks
+Profissional checks
+grotle checks
+*** TURN *** [Qc Th 8c] [Ks]
+Main pot $0.73 | Rake $0.03
+jockeypoker bets $1.55
+Profissional folds
+grotle calls $1.55
+*** RIVER *** [Qc Th 8c Ks] [Tc]
+Main pot $3.67 | Rake $0.19
+jockeypoker bets $3.67
+grotle folds
+Uncalled bet ($3.67) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $3.67 | Rake $0.13 | JP Fee $0.06
+Board [Qc Th 8c Ks Tc]
+Seat 1: Profissional folded on the Turn
+Seat 3: grotle folded on the River
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker did not show and won $3.67
+Seat 8: GrindManSunday (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483933971 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:10:55 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($4.00)
+Seat 3: grotle ($8.22)
+Seat 4: JoePescie ($11.73)
+Seat 7: jockeypoker ($12.89)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35) is sitting out
+GrindManSunday posts the small blind $0.05
+Profissional posts the big blind $0.10
+limojohn27 posts $0.10
+*** HOLE CARDS ***
+Dealt to grotle [9d Kd]
+limojohn27 checks
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker folds
+GrindManSunday folds
+Profissional folds
+limojohn27 folds
+limojohn27 shows [7d -]
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.35
+Seat 1: Profissional (big blind) folded on the Pre-Flop
+Seat 2: limojohn27 showed [7d -] and folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won $0.35
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+
+Hand #2483934109 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:11:32 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.90)
+Seat 3: grotle ($8.47)
+Seat 4: JoePescie ($11.73)
+Seat 7: jockeypoker ($12.89)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus will be allowed to play after the button
+Profissional posts the small blind $0.05
+limojohn27 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qh Jc]
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+jockeypoker folds
+GrindManSunday folds
+Profissional folds
+limojohn27 calls $0.10
+*** FLOP *** [7d 6s Tc]
+Main pot $0.62 | Rake $0.03
+limojohn27 checks
+grotle checks
+JoePescie checks
+*** TURN *** [7d 6s Tc] [Qs]
+Main pot $0.62 | Rake $0.03
+limojohn27 bets $0.10
+grotle raises $0.20 to $0.20
+JoePescie raises $0.30 to $0.30
+limojohn27 folds
+grotle calls $0.10
+*** RIVER *** [7d 6s Tc Qs] [5h]
+Main pot $1.29 | Rake $0.06
+grotle checks
+JoePescie bets $0.67
+grotle calls $0.67
+*** SHOW DOWN ***
+Main pot $2.56 | Rake $0.13
+grotle shows [Qh Jc] (a pair of Queens [Qs Qh Jc Tc 7d])
+JoePescie shows [6d Qc] (two pair, Queens and Sixs [Qs Qc 6s 6d Tc])
+JoePescie collected $2.56 from main pot
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.09 | JP Fee $0.04
+Board [7d 6s Tc Qs 5h]
+Seat 1: Profissional (small blind) folded on the Pre-Flop
+Seat 2: limojohn27 (big blind) folded on the Turn
+Seat 3: grotle showed [Qh Jc] and lost with a pair of Queens [Qs Qh Jc Tc 7d]
+Seat 4: JoePescie showed [6d Qc] and won $2.56 with two pair, Queens and Sixs [Qs Qc 6s 6d Tc]
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday (button) folded on the Pre-Flop
+
+Hand #2483934304 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:12:25 UTC
+Young Harris 9-max Seat #1 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.60)
+Seat 3: grotle ($7.30)
+Seat 4: JoePescie ($13.12)
+Seat 7: jockeypoker ($12.89)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+limojohn27 posts the small blind $0.05
+grotle posts the big blind $0.10
+NoFeaR178rus waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ad Ts]
+JoePescie folds
+jockeypoker folds
+GrindManSunday folds
+Profissional folds
+limojohn27 calls $0.05
+grotle raises $0.10 to $0.20
+limojohn27 calls $0.10
+*** FLOP *** [Jc 7h 9s]
+Main pot $0.38 | Rake $0.02
+limojohn27 checks
+grotle bets $0.15
+limojohn27 folds
+Uncalled bet ($0.15) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.38 | Rake $0.02
+Board [Jc 7h 9s]
+Seat 1: Profissional (button) folded on the Pre-Flop
+Seat 2: limojohn27 (small blind) folded on the Flop
+Seat 3: grotle did not show and won $0.38
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+
+Hand #2483934498 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:13:17 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.40)
+Seat 3: grotle ($7.48)
+Seat 4: JoePescie ($13.12)
+Seat 7: jockeypoker ($12.89)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+NoFeaR178rus waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [8c 8d]
+jockeypoker folds
+GrindManSunday folds
+Profissional folds
+limojohn27 calls $0.10
+grotle raises $0.15 to $0.20
+JoePescie calls $0.10
+limojohn27 folds
+*** FLOP *** [Ts 3d 7d]
+Main pot $0.48 | Rake $0.02
+grotle checks
+JoePescie bets $0.10
+grotle calls $0.10
+*** TURN *** [Ts 3d 7d] [2c]
+Main pot $0.67 | Rake $0.03
+grotle checks
+JoePescie bets $0.10
+grotle calls $0.10
+*** RIVER *** [Ts 3d 7d 2c] [3c]
+Main pot $0.86 | Rake $0.04
+grotle checks
+JoePescie bets $0.45
+grotle calls $0.45
+*** SHOW DOWN ***
+Main pot $1.71 | Rake $0.09
+grotle shows [8c 8d] (two pair, Eights and Threes [8d 8c 3d 3c Ts])
+JoePescie shows [2h Th] (two pair, Tens and Threes [Ts Th 3d 3c 7d])
+JoePescie collected $1.71 from main pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.07 | JP Fee $0.02
+Board [Ts 3d 7d 2c 3c]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: limojohn27 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) showed [8c 8d] and lost with two pair, Eights and Threes [8d 8c 3d 3c Ts]
+Seat 4: JoePescie (big blind) showed [2h Th] and won $1.71 with two pair, Tens and Threes [Ts Th 3d 3c 7d]
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+
+Hand #2483934625 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:13:56 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.30)
+Seat 3: grotle ($6.63)
+Seat 4: JoePescie ($13.98)
+Seat 7: jockeypoker ($12.89)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+NoFeaR178rus waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Jd Qh]
+GrindManSunday raises $0.25 to $0.25
+Profissional folds
+limojohn27 calls $0.25
+grotle calls $0.25
+JoePescie calls $0.20
+jockeypoker calls $0.15
+*** FLOP *** [Jh 2d Jc]
+Main pot $1.19 | Rake $0.06
+JoePescie checks
+jockeypoker checks
+GrindManSunday checks
+limojohn27 checks
+grotle bets $0.25
+JoePescie folds
+jockeypoker folds
+GrindManSunday calls $0.25
+limojohn27 folds
+*** TURN *** [Jh 2d Jc] [8d]
+Main pot $1.67 | Rake $0.08
+GrindManSunday checks
+grotle checks
+*** RIVER *** [Jh 2d Jc 8d] [4c]
+Main pot $1.67 | Rake $0.08
+GrindManSunday checks
+grotle bets $0.63
+GrindManSunday calls $0.63
+*** SHOW DOWN ***
+Main pot $2.86 | Rake $0.15
+grotle shows [Jd Qh] (three of a kind, Set of Jacks [Jh Jd Jc Qh 8d])
+GrindManSunday shows [Ks Kc] (two pair, Kings and Jacks [Ks Kc Jh Jc 8d])
+grotle collected $2.86 from main pot
+*** SUMMARY ***
+Total pot $2.86 | Rake $0.11 | JP Fee $0.04
+Board [Jh 2d Jc 8d 4c]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: limojohn27 folded on the Flop
+Seat 3: grotle (button) showed [Jd Qh] and won $2.86 with three of a kind, Set of Jacks [Jh Jd Jc Qh 8d]
+Seat 4: JoePescie (small blind) folded on the Flop
+Seat 7: jockeypoker (big blind) folded on the Flop
+Seat 8: GrindManSunday showed [Ks Kc] and lost with two pair, Kings and Jacks [Ks Kc Jh Jc 8d]
+
+Hand #2483934884 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:15:14 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.05)
+Seat 3: grotle ($8.36)
+Seat 4: JoePescie ($13.73)
+Seat 7: jockeypoker ($12.64)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+jockeypoker posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+NoFeaR178rus waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [3h 4h]
+Profissional folds
+limojohn27 folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker raises $0.75 to $0.80
+GrindManSunday folds
+grotle calls $0.60
+*** FLOP *** [Ah 6c 7c]
+Main pot $1.62 | Rake $0.08
+jockeypoker bets $0.53
+grotle calls $0.53
+*** TURN *** [Ah 6c 7c] [9c]
+Main pot $2.63 | Rake $0.13
+jockeypoker bets $1.99
+grotle calls $1.99
+*** RIVER *** [Ah 6c 7c 9c] [4d]
+Main pot $6.41 | Rake $0.33
+jockeypoker bets $5.04
+grotle folds
+Uncalled bet ($5.04) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $6.41 | Rake $0.23 | JP Fee $0.10
+Board [Ah 6c 7c 9c 4d]
+Seat 1: Profissional folded on the Pre-Flop and did not bet
+Seat 2: limojohn27 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the River
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker did not show and won $6.41
+Seat 8: GrindManSunday (big blind) folded on the Pre-Flop
+
+Hand #2483935118 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:16:16 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.05)
+Seat 3: grotle ($5.04)
+Seat 4: JoePescie ($13.73)
+Seat 7: jockeypoker ($15.73)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.35)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4s 8s]
+Profissional raises $0.22 to $0.22
+limojohn27 folds
+grotle calls $0.22
+JoePescie folds
+jockeypoker raises $0.88 to $0.88
+GrindManSunday folds
+NoFeaR178rus folds
+Profissional calls $0.66
+grotle folds
+*** FLOP *** [4h Ks 5c]
+Main pot $2.03 | Rake $0.10
+Profissional checks
+jockeypoker bets $1.13
+Profissional folds
+Uncalled bet ($1.13) returned to jockeypoker
+jockeypoker does not show
+*** SUMMARY ***
+Total pot $2.03 | Rake $0.08 | JP Fee $0.02
+Board [4h Ks 5c]
+Seat 1: Profissional folded on the Flop
+Seat 2: limojohn27 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker did not show and won $2.03
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+
+Hand #2483935334 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:17:21 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.05)
+Seat 3: grotle ($4.82)
+Seat 4: JoePescie ($13.73)
+Seat 7: jockeypoker ($16.88)
+Seat 8: GrindManSunday ($10.00)
+Seat 9: NoFeaR178rus ($28.25)
+NoFeaR178rus posts the small blind $0.05
+Profissional posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [8s Kd]
+limojohn27 folds
+grotle folds
+JoePescie folds
+jockeypoker folds
+GrindManSunday raises $0.25 to $0.25
+NoFeaR178rus folds
+Profissional folds
+Uncalled bet ($0.15) returned to GrindManSunday
+GrindManSunday does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 1: Profissional (big blind) folded on the Pre-Flop
+Seat 2: limojohn27 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday did not show and won $0.25
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483935456 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:17:56 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: Profissional ($10.00)
+Seat 2: limojohn27 ($3.05)
+Seat 3: grotle ($4.82)
+Seat 4: JoePescie ($13.73)
+Seat 7: jockeypoker ($16.88)
+Seat 8: GrindManSunday ($10.15)
+Seat 9: NoFeaR178rus ($28.20)
+Profissional posts the small blind $0.05
+limojohn27 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jc Kc]
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker folds
+GrindManSunday raises $0.70 to $0.70
+NoFeaR178rus folds
+Profissional folds
+limojohn27 folds
+grotle raises $1.81 to $2.01
+GrindManSunday raises $9.45 to $10.15 and is all-in
+grotle calls $2.81 and is all-in
+Uncalled bet ($5.33) returned to GrindManSunday
+*** FLOP *** [5c 6h 9h]
+Main pot $9.31 | Rake $0.48
+*** TURN *** [5c 6h 9h] [9c]
+Main pot $9.31 | Rake $0.48
+*** RIVER *** [5c 6h 9h 9c] [3h]
+Main pot $9.31 | Rake $0.48
+*** SHOW DOWN ***
+Main pot $9.31 | Rake $0.48
+grotle shows [Jc Kc] (a pair of Nines [9h 9c Kc Jc 6h])
+GrindManSunday shows [Jd Jh] (two pair, Jacks and Nines [Jh Jd 9h 9c 6h])
+GrindManSunday collected $9.31 from main pot
+*** SUMMARY ***
+Total pot $9.31 | Rake $0.32 | JP Fee $0.16
+Board [5c 6h 9h 9c 3h]
+Seat 1: Profissional (small blind) folded on the Pre-Flop
+Seat 2: limojohn27 (big blind) folded on the Pre-Flop
+Seat 3: grotle showed [Jc Kc] and lost with a pair of Nines [9h 9c Kc Jc 6h]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday showed [Jd Jh] and won $9.31 with two pair, Jacks and Nines [Jh Jd 9h 9c 6h]
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483936195 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:21:49 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 2: limojohn27 ($2.00) is sitting out
+Seat 3: grotle ($10.00)
+Seat 4: JoePescie ($13.62)
+Seat 7: jockeypoker ($17.43)
+Seat 8: GrindManSunday ($14.14)
+Seat 9: NoFeaR178rus ($29.05)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qh 9d]
+JoePescie calls $0.10
+jockeypoker raises $0.20 to $0.20
+GrindManSunday folds
+NoFeaR178rus folds
+grotle calls $0.10
+JoePescie calls $0.10
+*** FLOP *** [7d 4d Jd]
+Main pot $0.62 | Rake $0.03
+grotle checks
+JoePescie checks
+jockeypoker checks
+*** TURN *** [7d 4d Jd] [5h]
+Main pot $0.62 | Rake $0.03
+grotle checks
+JoePescie checks
+jockeypoker checks
+*** RIVER *** [7d 4d Jd 5h] [Qs]
+Main pot $0.62 | Rake $0.03
+grotle checks
+JoePescie checks
+jockeypoker checks
+*** SHOW DOWN ***
+Main pot $0.62 | Rake $0.03
+grotle shows [Qh 9d] (a pair of Queens [Qs Qh Jd 9d 7d])
+JoePescie shows [6h Kc] (a high card, King high [Kc Qs Jd 7d 6h])
+jockeypoker shows [3s Ks] (a high card, King high [Ks Qs Jd 7d 5h])
+grotle collected $0.62 from main pot
+*** SUMMARY ***
+Total pot $0.62 | Rake $0.03
+Board [7d 4d Jd 5h Qs]
+Seat 3: grotle (big blind) showed [Qh 9d] and won $0.62 with a pair of Queens [Qs Qh Jd 9d 7d]
+Seat 4: JoePescie showed [6h Kc] and lost with a high card, King high [Kc Qs Jd 7d 6h]
+Seat 7: jockeypoker showed [3s Ks] and lost with a high card, King high [Ks Qs Jd 7d 5h]
+Seat 8: GrindManSunday (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483936327 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:22:34 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.42)
+Seat 4: JoePescie ($13.42)
+Seat 7: jockeypoker ($17.23)
+Seat 8: GrindManSunday ($14.14)
+Seat 9: NoFeaR178rus ($29.00)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2c 7h]
+jockeypoker raises $0.20 to $0.20
+GrindManSunday folds
+NoFeaR178rus calls $0.20
+grotle folds
+JoePescie folds
+*** FLOP *** [Kh Qh Jh]
+Main pot $0.53 | Rake $0.02
+jockeypoker bets $0.17
+NoFeaR178rus raises $0.79 to $0.79
+jockeypoker folds
+Uncalled bet ($0.62) returned to NoFeaR178rus
+NoFeaR178rus does not show
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04
+Board [Kh Qh Jh]
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: JoePescie (big blind) folded on the Pre-Flop
+Seat 7: jockeypoker folded on the Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus did not show and won $0.85
+
+Hand #2483936442 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:23:11 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.37)
+Seat 4: JoePescie ($13.32)
+Seat 7: jockeypoker ($16.86)
+Seat 8: GrindManSunday ($14.14)
+Seat 9: NoFeaR178rus ($29.48)
+JoePescie posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c Ac]
+GrindManSunday folds
+NoFeaR178rus folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+jockeypoker folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 3: grotle did not show and won $0.25
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483936522 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:23:36 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.52)
+Seat 4: JoePescie ($13.27)
+Seat 7: jockeypoker ($16.76)
+Seat 8: GrindManSunday ($14.14)
+Seat 9: NoFeaR178rus ($29.48)
+jockeypoker posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 7s]
+NoFeaR178rus folds
+grotle calls $0.10
+JoePescie calls $0.10
+jockeypoker raises $0.15 to $0.20
+GrindManSunday calls $0.10
+grotle calls $0.10
+JoePescie folds
+*** FLOP *** [Qc Qh Ks]
+Main pot $0.67 | Rake $0.03
+jockeypoker checks
+GrindManSunday checks
+grotle checks
+*** TURN *** [Qc Qh Ks] [Ad]
+Main pot $0.67 | Rake $0.03
+jockeypoker checks
+GrindManSunday checks
+grotle checks
+*** RIVER *** [Qc Qh Ks Ad] [3c]
+Main pot $0.67 | Rake $0.03
+jockeypoker checks
+GrindManSunday checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $0.67 | Rake $0.03
+grotle shows [Js 7s] (a pair of Queens [Qh Qc Ad Ks Js])
+jockeypoker shows [8h 8d] (two pair, Queens and Eights [Qh Qc 8h 8d Ad])
+GrindManSunday shows [Kd Ts] (two pair, Kings and Queens [Ks Kd Qh Qc Ad])
+GrindManSunday collected $0.67 from main pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03
+Board [Qc Qh Ks Ad 3c]
+Seat 3: grotle showed [Js 7s] and lost with a pair of Queens [Qh Qc Ad Ks Js]
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 7: jockeypoker (small blind) showed [8h 8d] and lost with two pair, Queens and Eights [Qh Qc 8h 8d Ad]
+Seat 8: GrindManSunday (big blind) showed [Kd Ts] and won $0.67 with two pair, Kings and Queens [Ks Kd Qh Qc Ad]
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483936667 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:24:19 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.32)
+Seat 4: JoePescie ($13.17)
+Seat 5: 888Gamble ($10.00)
+Seat 7: jockeypoker ($16.56)
+Seat 8: GrindManSunday ($14.61)
+Seat 9: NoFeaR178rus ($29.48)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+888Gamble waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Kc 6s]
+grotle folds
+JoePescie calls $0.10
+jockeypoker folds
+GrindManSunday calls $0.05
+NoFeaR178rus raises $0.35 to $0.45
+JoePescie calls $0.35
+GrindManSunday folds
+*** FLOP *** [6h 5s 4s]
+Main pot $0.95 | Rake $0.05
+NoFeaR178rus checks
+JoePescie checks
+*** TURN *** [6h 5s 4s] [Tc]
+Main pot $0.95 | Rake $0.05
+NoFeaR178rus checks
+JoePescie checks
+*** RIVER *** [6h 5s 4s Tc] [7s]
+Main pot $0.95 | Rake $0.05
+NoFeaR178rus checks
+JoePescie checks
+*** SHOW DOWN ***
+Main pot $0.95 | Rake $0.05
+JoePescie shows [Qd 9d] (a high card, Queen high [Qd Tc 9d 7s 6h])
+NoFeaR178rus shows [Qh Jh] (a high card, Queen high [Qh Jh Tc 7s 6h])
+NoFeaR178rus collected $0.95 from main pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.05
+Board [6h 5s 4s Tc 7s]
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie showed [Qd 9d] and lost with a high card, Queen high [Qd Tc 9d 7s 6h]
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) showed [Qh Jh] and won $0.95 with a high card, Queen high [Qh Jh Tc 7s 6h] with the kicker Jack
+
+Hand #2483936864 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:25:24 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.32)
+Seat 4: JoePescie ($12.72)
+Seat 5: 888Gamble ($10.00)
+Seat 7: jockeypoker ($16.56)
+Seat 8: GrindManSunday ($14.51)
+Seat 9: NoFeaR178rus ($29.98)
+NoFeaR178rus posts the small blind $0.05
+grotle posts the big blind $0.10
+888Gamble waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [3s 4s]
+JoePescie calls $0.10
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus folds
+grotle checks
+*** FLOP *** [Qc Ah 9d]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie checks
+*** TURN *** [Qc Ah 9d] [4c]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie bets $0.10
+grotle calls $0.10
+*** RIVER *** [Qc Ah 9d 4c] [3c]
+Main pot $0.43 | Rake $0.02
+grotle bets $0.22
+JoePescie calls $0.22
+*** SHOW DOWN ***
+Main pot $0.85 | Rake $0.04
+grotle shows [3s 4s] (two pair, Fours and Threes [4s 4c 3s 3c Ah])
+JoePescie shows [As 5d] (a pair of Aces [As Ah Qc 9d 5d])
+grotle collected $0.85 from main pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04
+Board [Qc Ah 9d 4c 3c]
+Seat 3: grotle (big blind) showed [3s 4s] and won $0.85 with two pair, Fours and Threes [4s 4c 3s 3c Ah]
+Seat 4: JoePescie showed [As 5d] and lost with a pair of Aces [As Ah Qc 9d 5d]
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483936984 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:26:02 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 3: grotle ($10.75)
+Seat 4: JoePescie ($12.30)
+Seat 5: 888Gamble ($10.00)
+Seat 7: jockeypoker ($16.56)
+Seat 8: GrindManSunday ($14.51)
+Seat 9: NoFeaR178rus ($29.93)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+888Gamble waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [As Jc]
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus folds
+grotle raises $0.25 to $0.30
+JoePescie calls $0.20
+*** FLOP *** [5h 5s 8s]
+Main pot $0.57 | Rake $0.03
+grotle bets $0.20
+JoePescie folds
+Uncalled bet ($0.20) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.57 | Rake $0.03
+Board [5h 5s 8s]
+Seat 3: grotle did not show and won $0.57
+Seat 4: JoePescie (big blind) folded on the Flop
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483937069 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:26:29 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 2: partime2 ($10.00)
+Seat 3: grotle ($11.02)
+Seat 4: JoePescie ($12.00)
+Seat 5: 888Gamble ($10.00)
+Seat 7: jockeypoker ($16.56)
+Seat 8: GrindManSunday ($14.51)
+Seat 9: NoFeaR178rus ($29.93)
+JoePescie posts the small blind $0.05
+888Gamble posts the big blind $0.10
+partime2 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Jc 7c]
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus raises $0.30 to $0.30
+grotle calls $0.30
+JoePescie calls $0.25
+888Gamble folds
+*** FLOP *** [9d Jd 2h]
+Main pot $0.95 | Rake $0.05
+JoePescie checks
+NoFeaR178rus bets $0.33
+grotle calls $0.33
+JoePescie folds
+*** TURN *** [9d Jd 2h] [As]
+Main pot $1.58 | Rake $0.08
+NoFeaR178rus bets $1.31
+grotle calls $1.31
+*** RIVER *** [9d Jd 2h As] [8c]
+Main pot $4.07 | Rake $0.21
+NoFeaR178rus checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $4.07 | Rake $0.21
+grotle shows [Jc 7c] (a pair of Jacks [Jd Jc As 9d 8c])
+NoFeaR178rus shows [Th Ad] (a pair of Aces [As Ad Jd Th 9d])
+NoFeaR178rus collected $4.07 from main pot
+*** SUMMARY ***
+Total pot $4.07 | Rake $0.15 | JP Fee $0.06
+Board [9d Jd 2h As 8c]
+Seat 3: grotle (button) showed [Jc 7c] and lost with a pair of Jacks [Jd Jc As 9d 8c]
+Seat 4: JoePescie (small blind) folded on the Flop
+Seat 5: 888Gamble (big blind) folded on the Pre-Flop
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus showed [Th Ad] and won $4.07 with a pair of Aces [As Ad Jd Th 9d]
+
+Hand #2483937277 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:27:36 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 2: partime2 ($10.00)
+Seat 3: grotle ($9.08)
+Seat 4: JoePescie ($11.70)
+Seat 5: 888Gamble ($9.90)
+Seat 7: jockeypoker ($16.56)
+Seat 8: GrindManSunday ($14.51)
+Seat 9: NoFeaR178rus ($32.06)
+888Gamble posts the small blind $0.05
+jockeypoker posts the big blind $0.10
+partime2 posts $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7s 4d]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 raises $0.25 to $0.35
+grotle folds
+JoePescie folds
+888Gamble calls $0.30
+jockeypoker folds
+*** FLOP *** [5s As Js]
+Main pot $0.76 | Rake $0.04
+888Gamble checks
+partime2 bets $1.05
+888Gamble calls $1.05
+*** TURN *** [5s As Js] [2d]
+Main pot $2.76 | Rake $0.14
+888Gamble checks
+partime2 bets $8.60 and is all-in
+888Gamble calls $8.50 and is all-in
+Uncalled bet ($0.10) returned to partime2
+*** RIVER *** [5s As Js 2d] [6h]
+Main pot $18.91 | Rake $0.99
+*** SHOW DOWN ***
+Main pot $18.91 | Rake $0.99
+partime2 shows [Ah Kc] (a pair of Aces [As Ah Kc Js 6h])
+888Gamble shows [Ad Kh] (a pair of Aces [As Ad Kh Js 6h])
+partime2 collected $9.45 from main pot
+888Gamble collected $9.46 from main pot
+*** SUMMARY ***
+Total pot $18.91 | Rake $0.75 | JP Fee $0.24
+Board [5s As Js 2d 6h]
+Seat 2: partime2 showed [Ah Kc] and won $9.45 with a pair of Aces [As Ah Kc Js 6h]
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 5: 888Gamble (small blind) showed [Ad Kh] and won $9.46 with a pair of Aces [As Ad Kh Js 6h]
+Seat 7: jockeypoker (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483937510 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:28:48 UTC
+Young Harris 9-max Seat #5 is the button
+Seat 1: Profissional ($10.00) is sitting out
+Seat 2: partime2 ($9.55)
+Seat 3: grotle ($9.08)
+Seat 4: JoePescie ($11.70)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste will be allowed to play after the button
+Seat 7: jockeypoker ($16.46)
+Seat 8: GrindManSunday ($14.51)
+Seat 9: NoFeaR178rus ($32.06)
+jockeypoker posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c Ks]
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+888Gamble folds
+jockeypoker folds
+GrindManSunday calls $0.10
+*** FLOP *** [Jd Td Qs]
+Main pot $0.43 | Rake $0.02
+GrindManSunday checks
+grotle checks
+*** TURN *** [Jd Td Qs] [5s]
+Main pot $0.43 | Rake $0.02
+GrindManSunday checks
+grotle checks
+*** RIVER *** [Jd Td Qs 5s] [Qc]
+Main pot $0.43 | Rake $0.02
+GrindManSunday checks
+grotle checks
+*** SHOW DOWN ***
+Main pot $0.43 | Rake $0.02
+grotle shows [6c Ks] (a pair of Queens [Qs Qc Ks Jd Td])
+GrindManSunday shows [Js 9c] (two pair, Queens and Jacks [Qs Qc Js Jd Td])
+GrindManSunday collected $0.43 from main pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Jd Td Qs 5s Qc]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [6c Ks] and lost with a pair of Queens [Qs Qc Ks Jd Td]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble (button) folded on the Pre-Flop
+Seat 7: jockeypoker (small blind) folded on the Pre-Flop
+Seat 8: GrindManSunday (big blind) showed [Js 9c] and won $0.43 with two pair, Queens and Jacks [Qs Qc Js Jd Td]
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483937647 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:29:31 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 2: partime2 ($9.55)
+Seat 3: grotle ($8.88)
+Seat 4: JoePescie ($11.70)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste ($10.00)
+Seat 7: jockeypoker ($16.41)
+Seat 8: GrindManSunday ($14.74)
+Seat 9: NoFeaR178rus ($32.06)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+Allatiste waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [2c Jd]
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+888Gamble folds
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus checks
+*** FLOP *** [6c As Ts]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** TURN *** [6c As Ts] [Ad]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** RIVER *** [6c As Ts Ad] [Qs]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+JoePescie shows [4c 5s] (a pair of Aces [As Ad Qs Ts 6c])
+NoFeaR178rus shows [Kh 9s] (a pair of Aces [As Ad Kh Qs Ts])
+NoFeaR178rus collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [6c As Ts Ad Qs]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie showed [4c 5s] and lost with a pair of Aces [As Ad Qs Ts 6c]
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) showed [Kh 9s] and won $0.24 with a pair of Aces [As Ad Kh Qs Ts] with the kicker King
+
+Hand #2483937798 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:30:21 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 2: partime2 ($9.55)
+Seat 3: grotle ($8.88)
+Seat 4: JoePescie ($11.60)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste ($10.00)
+Seat 7: jockeypoker ($16.41)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($32.20)
+NoFeaR178rus posts the small blind $0.05
+partime2 posts the big blind $0.10
+Allatiste waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ts 7h]
+grotle folds
+JoePescie folds
+888Gamble folds
+jockeypoker folds
+GrindManSunday raises $0.25 to $0.25
+NoFeaR178rus folds
+partime2 folds
+Uncalled bet ($0.15) returned to GrindManSunday
+GrindManSunday does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday did not show and won $0.25
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483937940 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:31:07 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 2: partime2 ($9.45)
+Seat 3: grotle ($8.88)
+Seat 4: JoePescie ($11.60)
+Seat 5: 888Gamble ($9.46) is sitting out
+Seat 6: Allatiste ($10.00)
+Seat 7: jockeypoker ($16.41)
+Seat 8: GrindManSunday ($14.84)
+Seat 9: NoFeaR178rus ($32.15)
+partime2 posts the small blind $0.05
+grotle posts the big blind $0.10
+Allatiste waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Tc 5c]
+JoePescie folds
+jockeypoker folds
+GrindManSunday folds
+NoFeaR178rus raises $0.30 to $0.30
+partime2 calls $0.25
+grotle folds
+*** FLOP *** [4s 9d 8c]
+Main pot $0.67 | Rake $0.03
+partime2 checks
+NoFeaR178rus bets $0.23
+partime2 calls $0.23
+*** TURN *** [4s 9d 8c] [4d]
+Main pot $1.11 | Rake $0.05
+partime2 bets $0.58
+NoFeaR178rus folds
+Uncalled bet ($0.58) returned to partime2
+partime2 shows [5h 5d]
+*** SUMMARY ***
+Total pot $1.11 | Rake $0.05
+Board [4s 9d 8c 4d]
+Seat 2: partime2 (small blind) showed [5h 5d] and won $1.11
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 7: jockeypoker folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) folded on the Turn
+
+Hand #2483938245 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:32:35 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($8.78)
+Seat 4: JoePescie ($11.60)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste ($10.00)
+Seat 7: jockeypoker ($16.41) is sitting out
+Seat 8: GrindManSunday ($14.84)
+Seat 9: NoFeaR178rus ($31.62)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+Allatiste waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Js Qh]
+888Gamble folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.15 to $0.20
+JoePescie calls $0.10
+*** FLOP *** [2s Qc Tc]
+Main pot $0.38 | Rake $0.02
+grotle checks
+JoePescie checks
+*** TURN *** [2s Qc Tc] [7s]
+Main pot $0.38 | Rake $0.02
+grotle bets $0.20
+JoePescie calls $0.20
+*** RIVER *** [2s Qc Tc 7s] [Ah]
+Main pot $0.76 | Rake $0.04
+grotle bets $0.40
+JoePescie folds
+Uncalled bet ($0.40) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.76 | Rake $0.04
+Board [2s Qc Tc 7s Ah]
+Seat 2: partime2 (button) folded on the Pre-Flop
+Seat 3: grotle did not show and won $0.76
+Seat 4: JoePescie (big blind) folded on the River
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483938453 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:33:37 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($9.14)
+Seat 4: JoePescie ($11.20)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.84)
+Seat 9: NoFeaR178rus ($31.62)
+JoePescie posts the small blind $0.05
+888Gamble posts the big blind $0.10
+Allatiste waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [4h 6d]
+GrindManSunday folds
+NoFeaR178rus raises $0.30 to $0.30
+partime2 folds
+grotle folds
+JoePescie calls $0.25
+888Gamble folds
+*** FLOP *** [Ad Jd Ks]
+Main pot $0.67 | Rake $0.03
+JoePescie checks
+NoFeaR178rus bets $0.55
+JoePescie calls $0.55
+*** TURN *** [Ad Jd Ks] [9d]
+Main pot $1.71 | Rake $0.09
+JoePescie checks
+NoFeaR178rus bets $1.42
+JoePescie raises $2.84 to $2.84
+NoFeaR178rus calls $1.42
+*** RIVER *** [Ad Jd Ks 9d] [9s]
+Main pot $7.11 | Rake $0.37
+JoePescie bets $7.51 and is all-in
+NoFeaR178rus folds
+Uncalled bet ($7.51) returned to JoePescie
+JoePescie does not show
+*** SUMMARY ***
+Total pot $7.11 | Rake $0.25 | JP Fee $0.12
+Board [Ad Jd Ks 9d 9s]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie did not show and won $7.11
+Seat 5: 888Gamble (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the River
+
+Hand #2483938669 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:34:37 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($9.14)
+Seat 4: JoePescie ($14.62)
+Seat 5: 888Gamble ($9.36)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.84)
+Seat 9: NoFeaR178rus ($27.93)
+888Gamble posts the small blind $0.05
+Allatiste posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7c 7h]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.20 to $0.20
+JoePescie calls $0.20
+888Gamble calls $0.15
+Allatiste folds
+*** FLOP *** [Jd Td 9d]
+Main pot $0.67 | Rake $0.03
+888Gamble checks
+grotle checks
+JoePescie checks
+*** TURN *** [Jd Td 9d] [3d]
+Main pot $0.67 | Rake $0.03
+888Gamble checks
+grotle checks
+JoePescie checks
+*** RIVER *** [Jd Td 9d 3d] [Kc]
+Main pot $0.67 | Rake $0.03
+888Gamble checks
+grotle checks
+JoePescie checks
+*** SHOW DOWN ***
+Main pot $0.67 | Rake $0.03
+grotle shows [7c 7h] (a pair of Sevens [7h 7c Kc Jd Td])
+JoePescie shows [Ac 6s] (a high card, Ace high [Ac Kc Jd Td 9d])
+888Gamble shows [8h Ah] (a high card, Ace high [Ah Kc Jd Td 9d])
+grotle collected $0.67 from main pot
+*** SUMMARY ***
+Total pot $0.67 | Rake $0.03
+Board [Jd Td 9d 3d Kc]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [7c 7h] and won $0.67 with a pair of Sevens [7h 7c Kc Jd Td]
+Seat 4: JoePescie (button) showed [Ac 6s] and lost with a high card, Ace high [Ac Kc Jd Td 9d]
+Seat 5: 888Gamble (small blind) showed [8h Ah] and lost with a high card, Ace high [Ah Kc Jd Td 9d]
+Seat 6: Allatiste (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483938871 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:35:31 UTC
+Young Harris 9-max Seat #5 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($9.61)
+Seat 4: JoePescie ($14.42)
+Seat 5: 888Gamble ($9.16)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.84)
+Seat 9: NoFeaR178rus ($27.93)
+Allatiste posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qd 9c]
+NoFeaR178rus folds
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+888Gamble raises $0.45 to $0.45
+Allatiste folds
+GrindManSunday folds
+JoePescie folds
+Uncalled bet ($0.35) returned to 888Gamble
+888Gamble does not show
+*** SUMMARY ***
+Total pot $0.35
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble did not show and won $0.35
+Seat 6: Allatiste (small blind) folded on the Pre-Flop
+Seat 8: GrindManSunday (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483938957 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:35:57 UTC
+Young Harris 9-max Seat #6 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($9.61)
+Seat 4: JoePescie ($14.32)
+Seat 5: 888Gamble ($9.41)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.74)
+Seat 9: NoFeaR178rus ($27.93)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Qc 2c]
+partime2 folds
+grotle folds
+JoePescie folds
+888Gamble raises $0.22 to $0.22
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus folds
+Uncalled bet ($0.12) returned to 888Gamble
+888Gamble does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble did not show and won $0.25
+Seat 6: Allatiste (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+
+Hand #2483939055 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:36:25 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 2: partime2 ($10.03)
+Seat 3: grotle ($9.61)
+Seat 4: JoePescie ($14.32)
+Seat 5: 888Gamble ($9.56)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($27.83)
+NoFeaR178rus posts the small blind $0.05
+partime2 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 6s]
+grotle folds
+JoePescie calls $0.10
+888Gamble folds
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 raises $0.35 to $0.45
+JoePescie folds
+Uncalled bet ($0.35) returned to partime2
+partime2 does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 did not show and won $0.25
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday (button) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483939176 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:37:02 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 2: partime2 ($10.18)
+Seat 3: grotle ($9.61)
+Seat 4: JoePescie ($14.22)
+Seat 5: 888Gamble ($9.56)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($27.78)
+partime2 posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6h Kh]
+JoePescie calls $0.10
+888Gamble folds
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus raises $0.50 to $0.50
+partime2 folds
+grotle calls $0.40
+JoePescie folds
+*** FLOP *** [8h 9d 5c]
+Main pot $1.10 | Rake $0.05
+grotle bets $0.30
+NoFeaR178rus raises $0.95 to $0.95
+grotle calls $0.65
+*** TURN *** [8h 9d 5c] [Td]
+Main pot $2.90 | Rake $0.15
+grotle checks
+NoFeaR178rus checks
+*** RIVER *** [8h 9d 5c Td] [Kc]
+Main pot $2.90 | Rake $0.15
+grotle checks
+NoFeaR178rus bets $1.00
+grotle raises $2.00 to $2.00
+NoFeaR178rus calls $1.00
+*** SHOW DOWN ***
+Main pot $6.70 | Rake $0.35
+grotle shows [6h Kh] (a pair of Kings [Kh Kc Td 9d 8h])
+NoFeaR178rus shows [As 9c] (a pair of Nines [9d 9c As Kc Td])
+grotle collected $6.70 from main pot
+*** SUMMARY ***
+Total pot $6.70 | Rake $0.25 | JP Fee $0.10
+Board [8h 9d 5c Td Kc]
+Seat 2: partime2 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) showed [6h Kh] and won $6.70 with a pair of Kings [Kh Kc Td 9d 8h]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) showed [As 9c] and lost with a pair of Nines [9d 9c As Kc Td]
+
+Hand #2483939385 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:38:04 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.13)
+Seat 3: grotle ($12.86)
+Seat 4: JoePescie ($14.12)
+Seat 5: 888Gamble ($9.56)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($24.33)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [5h Th]
+888Gamble folds
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 raises $0.50 to $0.50
+grotle folds
+JoePescie folds
+Uncalled bet ($0.40) returned to partime2
+partime2 does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 did not show and won $0.25
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: JoePescie (big blind) folded on the Pre-Flop
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483939487 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:38:33 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($12.81)
+Seat 4: JoePescie ($14.02)
+Seat 5: 888Gamble ($9.56)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($7.87)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($24.33)
+JoePescie posts the small blind $0.05
+888Gamble posts the big blind $0.10
+Laminelago posts $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7s 9s]
+Allatiste folds
+Laminelago checks
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.35 to $0.35
+JoePescie folds
+888Gamble folds
+Laminelago calls $0.25
+*** FLOP *** [Qh 2h Ad]
+Main pot $0.81 | Rake $0.04
+Laminelago bets $0.85
+grotle folds
+Uncalled bet ($0.85) returned to Laminelago
+Laminelago does not show
+*** SUMMARY ***
+Total pot $0.81 | Rake $0.04
+Board [Qh 2h Ad]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Flop
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 5: 888Gamble (big blind) folded on the Pre-Flop
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: Laminelago did not show and won $0.81
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483939648 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:39:21 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($12.46)
+Seat 4: JoePescie ($13.97)
+Seat 5: 888Gamble ($9.46)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($8.33)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($24.33)
+888Gamble posts the small blind $0.05
+Allatiste posts the big blind $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ac Qh]
+Laminelago raises $0.22 to $0.22
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.66 to $0.66
+JoePescie folds
+888Gamble folds
+Allatiste folds
+Laminelago raises $1.91 to $2.13
+grotle calls $1.47
+*** FLOP *** [Ad Th As]
+Main pot $4.19 | Rake $0.22
+Laminelago bets $6.20 and is all-in
+grotle calls $6.20
+*** TURN *** [Ad Th As] [4h]
+Main pot $15.97 | Rake $0.84
+*** RIVER *** [Ad Th As 4h] [7s]
+Main pot $15.97 | Rake $0.84
+*** SHOW DOWN ***
+Main pot $15.97 | Rake $0.84
+grotle shows [Ac Qh] (three of a kind, Set of Aces [As Ad Ac Qh Th])
+Laminelago shows [Tc Td] (a full house, Tens full of Aces [Th Td Tc As Ad])
+Laminelago collected $15.97 from main pot
+*** SUMMARY ***
+Total pot $15.97 | Rake $0.60 | JP Fee $0.24
+Board [Ad Th As 4h 7s]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [Ac Qh] and lost with three of a kind, Set of Aces [As Ad Ac Qh Th]
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 5: 888Gamble (small blind) folded on the Pre-Flop
+Seat 6: Allatiste (big blind) folded on the Pre-Flop
+Seat 7: Laminelago showed [Tc Td] and won $15.97 with a full house, Tens full of Aces [Th Td Tc As Ad]
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483939830 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:40:13 UTC
+Young Harris 9-max Seat #5 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($4.13)
+Seat 4: JoePescie ($13.97)
+Seat 5: 888Gamble ($9.41)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($15.97)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($24.33)
+Allatiste posts the small blind $0.05
+Laminelago posts the big blind $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7h Ac]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+888Gamble folds
+Allatiste folds
+Laminelago folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won $0.25
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble (button) folded on the Pre-Flop
+Seat 6: Allatiste (small blind) folded on the Pre-Flop
+Seat 7: Laminelago (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483939906 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:40:37 UTC
+Young Harris 9-max Seat #6 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($4.28)
+Seat 4: JoePescie ($13.97)
+Seat 5: 888Gamble ($9.41)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($15.87)
+Seat 8: GrindManSunday ($14.69)
+Seat 9: NoFeaR178rus ($24.33)
+Laminelago posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [6c 5d]
+NoFeaR178rus folds
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+888Gamble raises $0.45 to $0.45
+Allatiste folds
+Laminelago calls $0.40
+GrindManSunday folds
+JoePescie calls $0.35
+*** FLOP *** [Kd 7h 2d]
+Main pot $1.38 | Rake $0.07
+Laminelago checks
+JoePescie checks
+888Gamble bets $1.08
+Laminelago calls $1.08
+JoePescie calls $1.08
+*** TURN *** [Kd 7h 2d] [Qs]
+Main pot $4.46 | Rake $0.23
+Laminelago checks
+JoePescie checks
+888Gamble bets $2.34
+Laminelago calls $2.34
+JoePescie calls $2.34
+*** RIVER *** [Kd 7h 2d Qs] [2s]
+Main pot $11.13 | Rake $0.58
+Laminelago checks
+JoePescie checks
+888Gamble bets $5.54 and is all-in
+Laminelago folds
+JoePescie calls $5.54
+*** SHOW DOWN ***
+Main pot $21.66 | Rake $1.13
+JoePescie shows [Jc Kc] (two pair, Kings and Deuces [Kd Kc 2s 2d Qs])
+888Gamble shows [Ks As] (two pair, Kings and Deuces [Ks Kd 2s 2d As])
+888Gamble collected $21.66 from main pot
+*** SUMMARY ***
+Total pot $21.66 | Rake $0.89 | JP Fee $0.24
+Board [Kd 7h 2d Qs 2s]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie showed [Jc Kc] and lost with two pair, Kings and Deuces [Kd Kc 2s 2d Qs]
+Seat 5: 888Gamble showed [Ks As] and won $21.66 with two pair, Kings and Deuces [Ks Kd 2s 2d As] with the kicker Ace
+Seat 6: Allatiste (button) folded on the Pre-Flop
+Seat 7: Laminelago (small blind) folded on the River
+Seat 8: GrindManSunday (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483940129 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:41:39 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($4.28)
+Seat 4: JoePescie ($4.56)
+Seat 5: 888Gamble ($21.66)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($12.00)
+Seat 8: GrindManSunday ($14.59)
+Seat 9: NoFeaR178rus ($24.33)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+seamynutz waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Qc 7s]
+partime2 folds
+grotle folds
+JoePescie folds
+888Gamble folds
+Allatiste raises $0.25 to $0.25
+Laminelago calls $0.25
+GrindManSunday raises $1.15 to $1.20
+NoFeaR178rus folds
+Allatiste folds
+Laminelago folds
+Uncalled bet ($0.95) returned to GrindManSunday
+GrindManSunday does not show
+*** SUMMARY ***
+Total pot $0.85
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: Laminelago (button) folded on the Pre-Flop
+Seat 8: GrindManSunday did not show and won $0.85
+Seat 9: NoFeaR178rus (big blind) folded on the Pre-Flop
+
+Hand #2483940270 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:42:19 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($4.28)
+Seat 4: JoePescie ($4.56)
+Seat 5: 888Gamble ($21.66)
+Seat 6: Allatiste ($10.00)
+Seat 7: Laminelago ($11.75)
+Seat 8: GrindManSunday ($15.19)
+Seat 9: NoFeaR178rus ($24.23)
+NoFeaR178rus posts the small blind $0.05
+seamynutz posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [4c 5h]
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+888Gamble folds
+Allatiste folds
+Laminelago calls $0.10
+GrindManSunday raises $1.10 to $1.10
+NoFeaR178rus calls $1.05
+seamynutz folds
+JoePescie folds
+Laminelago calls $1.00
+*** FLOP *** [6c 8d Ts]
+Main pot $3.33 | Rake $0.17
+NoFeaR178rus checks
+Laminelago bets $2.10
+GrindManSunday raises $14.09 to $14.09 and is all-in
+NoFeaR178rus folds
+Laminelago calls $8.55 and is all-in
+Uncalled bet ($3.44) returned to GrindManSunday
+*** TURN *** [6c 8d Ts] [4d]
+Main pot $23.56 | Rake $1.24
+*** RIVER *** [6c 8d Ts 4d] [7c]
+Main pot $23.56 | Rake $1.24
+*** SHOW DOWN ***
+Main pot $23.56 | Rake $1.24
+Laminelago shows [Jh 8h] (a pair of Eights [8h 8d Jh Ts 7c])
+GrindManSunday shows [Qs Qh] (a pair of Queens [Qs Qh Ts 8d 7c])
+GrindManSunday collected $23.56 from main pot
+*** SUMMARY ***
+Total pot $23.56 | Rake $1.00 | JP Fee $0.24
+Board [6c 8d Ts 4d 7c]
+Seat 1: seamynutz (big blind) folded on the Pre-Flop
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: Laminelago showed [Jh 8h] and lost with a pair of Eights [8h 8d Jh Ts 7c]
+Seat 8: GrindManSunday (button) showed [Qs Qh] and won $23.56 with a pair of Queens [Qs Qh Ts 8d 7c]
+Seat 9: NoFeaR178rus (small blind) folded on the Flop
+
+Hand #2483940544 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:43:43 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: seamynutz ($10.00)
+Seat 2: partime2 ($10.28)
+Seat 3: grotle ($10.00)
+Seat 4: JoePescie ($4.46)
+Seat 5: 888Gamble ($21.66)
+Seat 6: Allatiste ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.13)
+seamynutz posts the small blind $0.05
+partime2 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6s 7d]
+grotle folds
+JoePescie calls $0.10
+888Gamble calls $0.10
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus raises $0.60 to $0.60
+seamynutz folds
+partime2 folds
+JoePescie raises $1.00 to $1.10
+888Gamble folds
+NoFeaR178rus calls $0.50
+*** FLOP *** [9s 5c 6d]
+Main pot $2.33 | Rake $0.12
+JoePescie checks
+NoFeaR178rus checks
+*** TURN *** [9s 5c 6d] [8d]
+Main pot $2.33 | Rake $0.12
+JoePescie bets $1.22
+NoFeaR178rus calls $1.22
+*** RIVER *** [9s 5c 6d 8d] [7h]
+Main pot $4.65 | Rake $0.24
+JoePescie bets $2.14 and is all-in
+NoFeaR178rus calls $2.14
+*** SHOW DOWN ***
+Main pot $8.72 | Rake $0.45
+JoePescie shows [Kh Ks] (a straight, Nine high [9s 8d 7h 6d 5c])
+NoFeaR178rus shows [9c Qc] (a straight, Nine high [9s 8d 7h 6d 5c])
+JoePescie collected $4.36 from main pot
+NoFeaR178rus collected $4.36 from main pot
+*** SUMMARY ***
+Total pot $8.72 | Rake $0.31 | JP Fee $0.14
+Board [9s 5c 6d 8d 7h]
+Seat 1: seamynutz (small blind) folded on the Pre-Flop
+Seat 2: partime2 (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie showed [Kh Ks] and won $4.36 with a straight, Nine high [9s 8d 7h 6d 5c]
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) showed [9c Qc] and won $4.36 with a straight, Nine high [9s 8d 7h 6d 5c]
+
+Hand #2483940818 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:45:03 UTC
+Young Harris 9-max Seat #1 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.18)
+Seat 3: grotle ($10.00)
+Seat 4: JoePescie ($4.36)
+Seat 5: 888Gamble ($21.56)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+partime2 posts the small blind $0.05
+grotle posts the big blind $0.10
+spoler72 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [6s Jc]
+JoePescie folds
+888Gamble folds
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle does not show
+*** SUMMARY ***
+Total pot $0.15
+Seat 2: partime2 (small blind) folded on the Pre-Flop
+Seat 3: grotle did not show and won $0.15
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483940942 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:45:37 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.13)
+Seat 3: grotle ($10.05)
+Seat 4: JoePescie ($4.36)
+Seat 5: 888Gamble ($21.56)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+spoler72 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [8c As]
+888Gamble raises $0.22 to $0.22
+Allatiste folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle calls $0.17
+JoePescie folds
+*** FLOP *** [Kd Jc Qc]
+Main pot $0.52 | Rake $0.02
+grotle checks
+888Gamble checks
+*** TURN *** [Kd Jc Qc] [7c]
+Main pot $0.52 | Rake $0.02
+grotle bets $0.20
+888Gamble raises $0.90 to $0.90
+grotle calls $0.70
+*** RIVER *** [Kd Jc Qc 7c] [3h]
+Main pot $2.23 | Rake $0.11
+grotle checks
+888Gamble checks
+*** SHOW DOWN ***
+Main pot $2.23 | Rake $0.11
+grotle shows [8c As] (a high card, Ace high [As Kd Qc Jc 8c])
+888Gamble shows [7h Qh] (two pair, Queens and Sevens [Qh Qc 7h 7c Kd])
+888Gamble collected $2.23 from main pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.09 | JP Fee $0.02
+Board [Kd Jc Qc 7c 3h]
+Seat 2: partime2 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) showed [8c As] and lost with a high card, Ace high [As Kd Qc Jc 8c]
+Seat 4: JoePescie (big blind) folded on the Pre-Flop
+Seat 5: 888Gamble showed [7h Qh] and won $2.23 with two pair, Queens and Sevens [Qh Qc 7h 7c Kd]
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483941171 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:46:41 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.13)
+Seat 3: grotle ($8.93)
+Seat 4: JoePescie ($4.26)
+Seat 5: 888Gamble ($22.67)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+JoePescie posts the small blind $0.05
+888Gamble posts the big blind $0.10
+spoler72 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Qs 2h]
+Allatiste raises $0.20 to $0.20
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle folds
+JoePescie folds
+888Gamble calls $0.10
+*** FLOP *** [Jd Kc 5d]
+Main pot $0.43 | Rake $0.02
+888Gamble checks
+Allatiste checks
+*** TURN *** [Jd Kc 5d] [Th]
+Main pot $0.43 | Rake $0.02
+888Gamble checks
+Allatiste checks
+*** RIVER *** [Jd Kc 5d Th] [8c]
+Main pot $0.43 | Rake $0.02
+888Gamble checks
+Allatiste checks
+*** SHOW DOWN ***
+Main pot $0.43 | Rake $0.02
+888Gamble shows [9s Jc] (a pair of Jacks [Jd Jc Kc Th 9s])
+Allatiste shows [Ah 4h] (a high card, Ace high [Ah Kc Jd Th 8c])
+888Gamble collected $0.43 from main pot
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [Jd Kc 5d Th 8c]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 5: 888Gamble (big blind) showed [9s Jc] and won $0.43 with a pair of Jacks [Jd Jc Kc Th 9s]
+Seat 6: Allatiste showed [Ah 4h] and lost with a high card, Ace high [Ah Kc Jd Th 8c]
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483941347 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:47:28 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.13)
+Seat 3: grotle ($8.93)
+Seat 4: JoePescie ($4.21)
+Seat 5: 888Gamble ($22.90)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+888Gamble posts the small blind $0.05
+Allatiste posts the big blind $0.10
+spoler72 waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [Ah 3d]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 calls $0.10
+grotle raises $0.30 to $0.30
+JoePescie folds
+888Gamble folds
+Allatiste folds
+partime2 calls $0.20
+*** FLOP *** [Kh Ac 5d]
+Main pot $0.72 | Rake $0.03
+partime2 checks
+grotle checks
+*** TURN *** [Kh Ac 5d] [4d]
+Main pot $0.72 | Rake $0.03
+partime2 checks
+grotle bets $0.25
+partime2 calls $0.25
+*** RIVER *** [Kh Ac 5d 4d] [2s]
+Main pot $1.19 | Rake $0.06
+partime2 checks
+grotle bets $0.62
+partime2 folds
+Uncalled bet ($0.62) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $1.19 | Rake $0.04 | JP Fee $0.02
+Board [Kh Ac 5d 4d 2s]
+Seat 2: partime2 folded on the River
+Seat 3: grotle did not show and won $1.19
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 5: 888Gamble (small blind) folded on the Pre-Flop
+Seat 6: Allatiste (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483941579 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:48:35 UTC
+Young Harris 9-max Seat #5 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($9.58)
+Seat 3: grotle ($9.57)
+Seat 4: JoePescie ($4.21)
+Seat 5: 888Gamble ($22.85)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+Allatiste posts the small blind $0.05
+spoler72 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c 5h]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle calls $0.10
+JoePescie calls $0.10
+888Gamble raises $0.43 to $0.43
+Allatiste folds
+spoler72 folds
+grotle calls $0.33
+JoePescie folds
+*** FLOP *** [Th Qs 7c]
+Main pot $1.06 | Rake $0.05
+grotle checks
+888Gamble bets $0.55
+grotle folds
+Uncalled bet ($0.55) returned to 888Gamble
+888Gamble does not show
+*** SUMMARY ***
+Total pot $1.06 | Rake $0.05
+Board [Th Qs 7c]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Flop
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble did not show and won $1.06
+Seat 6: Allatiste (small blind) folded on the Pre-Flop
+Seat 7: spoler72 (big blind) folded on the Pre-Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483941728 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:49:17 UTC
+Young Harris 9-max Seat #6 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($9.58)
+Seat 3: grotle ($9.14)
+Seat 4: JoePescie ($4.11)
+Seat 5: 888Gamble ($23.48)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($27.00)
+Seat 9: NoFeaR178rus ($23.03)
+spoler72 posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Kd 4s]
+NoFeaR178rus folds
+partime2 raises $0.40 to $0.40
+grotle folds
+JoePescie folds
+888Gamble calls $0.40
+Allatiste folds
+spoler72 folds
+GrindManSunday folds
+*** FLOP *** [5s Js 4h]
+Main pot $0.91 | Rake $0.04
+partime2 bets $0.95
+888Gamble calls $0.95
+*** TURN *** [5s Js 4h] [Ks]
+Main pot $2.71 | Rake $0.14
+partime2 bets $8.23 and is all-in
+888Gamble folds
+Uncalled bet ($8.23) returned to partime2
+partime2 does not show
+*** SUMMARY ***
+Total pot $2.71 | Rake $0.10 | JP Fee $0.04
+Board [5s Js 4h Ks]
+Seat 2: partime2 did not show and won $2.71
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Turn
+Seat 6: Allatiste (button) folded on the Pre-Flop
+Seat 7: spoler72 (small blind) folded on the Pre-Flop
+Seat 8: GrindManSunday (big blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483941891 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:50:09 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.94)
+Seat 3: grotle ($9.14)
+Seat 4: JoePescie ($4.11)
+Seat 5: 888Gamble ($22.13)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($26.90)
+Seat 9: NoFeaR178rus ($23.03)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [2s 9h]
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+888Gamble folds
+Allatiste folds
+spoler72 folds
+GrindManSunday folds
+NoFeaR178rus checks
+*** FLOP *** [4h Kd Jc]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** TURN *** [4h Kd Jc] [Ah]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** RIVER *** [4h Kd Jc Ah] [Ks]
+Main pot $0.24 | Rake $0.01
+NoFeaR178rus checks
+JoePescie checks
+*** SHOW DOWN ***
+Main pot $0.24 | Rake $0.01
+JoePescie shows [Qs 6h] (a pair of Kings [Ks Kd Ah Qs Jc])
+NoFeaR178rus shows [8s 5h] (a pair of Kings [Ks Kd Ah Jc 8s])
+JoePescie collected $0.24 from main pot
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [4h Kd Jc Ah Ks]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie showed [Qs 6h] and won $0.24 with a pair of Kings [Ks Kd Ah Qs Jc] with the kicker Queen
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) folded on the Pre-Flop
+Seat 9: NoFeaR178rus (big blind) showed [8s 5h] and lost with a pair of Kings [Ks Kd Ah Jc 8s]
+
+Hand #2483942035 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:50:48 UTC
+Young Harris 9-max Seat #8 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.94)
+Seat 3: grotle ($9.14)
+Seat 4: JoePescie ($4.25)
+Seat 5: 888Gamble ($22.13)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($26.85)
+Seat 9: NoFeaR178rus ($22.93)
+NoFeaR178rus posts the small blind $0.05
+partime2 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Jc Qc]
+grotle raises $0.20 to $0.20
+JoePescie folds
+888Gamble folds
+Allatiste folds
+spoler72 folds
+GrindManSunday calls $0.20
+NoFeaR178rus folds
+partime2 folds
+*** FLOP *** [4s Th Qs]
+Main pot $0.53 | Rake $0.02
+grotle checks
+GrindManSunday checks
+*** TURN *** [4s Th Qs] [Td]
+Main pot $0.53 | Rake $0.02
+grotle bets $0.20
+GrindManSunday calls $0.20
+*** RIVER *** [4s Th Qs Td] [8c]
+Main pot $0.91 | Rake $0.04
+grotle bets $0.47
+GrindManSunday calls $0.47
+*** SHOW DOWN ***
+Main pot $1.80 | Rake $0.09
+grotle shows [Jc Qc] (two pair, Queens and Tens [Qs Qc Th Td Jc])
+GrindManSunday shows [7h 7d] (two pair, Tens and Sevens [Th Td 7h 7d Qs])
+grotle collected $1.80 from main pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.07 | JP Fee $0.02
+Board [4s Th Qs Td 8c]
+Seat 2: partime2 (big blind) folded on the Pre-Flop
+Seat 3: grotle showed [Jc Qc] and won $1.80 with two pair, Queens and Tens [Qs Qc Th Td Jc]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday (button) showed [7h 7d] and lost with two pair, Tens and Sevens [Th Td 7h 7d Qs]
+Seat 9: NoFeaR178rus (small blind) folded on the Pre-Flop
+
+Hand #2483942240 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:51:53 UTC
+Young Harris 9-max Seat #9 is the button
+Seat 1: seamynutz ($10.00) is sitting out
+Seat 2: partime2 ($10.84)
+Seat 3: grotle ($10.07)
+Seat 4: JoePescie ($4.25)
+Seat 5: 888Gamble ($22.13)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+partime2 posts the small blind $0.05
+grotle posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [5c 9s]
+JoePescie calls $0.10
+888Gamble folds
+Allatiste folds
+spoler72 folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle checks
+*** FLOP *** [7s Td Ah]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie checks
+*** TURN *** [7s Td Ah] [Js]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie checks
+*** RIVER *** [7s Td Ah Js] [5d]
+Main pot $0.24 | Rake $0.01
+grotle checks
+JoePescie bets $0.12
+grotle calls $0.12
+*** SHOW DOWN ***
+Main pot $0.47 | Rake $0.02
+grotle shows [5c 9s] (a pair of Fives [5d 5c Ah Js Td])
+JoePescie shows [3c Jd] (a pair of Jacks [Js Jd Ah Td 7s])
+JoePescie collected $0.47 from main pot
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02
+Board [7s Td Ah Js 5d]
+Seat 2: partime2 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) showed [5c 9s] and lost with a pair of Fives [5d 5c Ah Js Td]
+Seat 4: JoePescie showed [3c Jd] and won $0.47 with a pair of Jacks [Js Jd Ah Td 7s]
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus (button) folded on the Pre-Flop
+
+Hand #2483942354 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:52:27 UTC
+Young Harris 9-max Seat #2 is the button
+Seat 2: partime2 ($10.79)
+Seat 3: grotle ($9.85)
+Seat 4: JoePescie ($4.50)
+Seat 5: 888Gamble ($22.13)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+grotle posts the small blind $0.05
+JoePescie posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [7d Ks]
+888Gamble folds
+Allatiste folds
+spoler72 folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 raises $0.20 to $0.20
+grotle calls $0.15
+JoePescie calls $0.10
+*** FLOP *** [Ts 7s Qh]
+Main pot $0.57 | Rake $0.03
+grotle checks
+JoePescie checks
+partime2 bets $0.60
+grotle calls $0.60
+JoePescie folds
+*** TURN *** [Ts 7s Qh] [Ac]
+Main pot $1.71 | Rake $0.09
+grotle bets $0.90
+partime2 calls $0.90
+*** RIVER *** [Ts 7s Qh Ac] [6d]
+Main pot $3.42 | Rake $0.18
+grotle bets $0.95
+partime2 folds
+partime2 shows [Qs Js]
+Uncalled bet ($0.95) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $3.42 | Rake $0.12 | JP Fee $0.06
+Board [Ts 7s Qh Ac 6d]
+Seat 2: partime2 (button) showed [Qs Js] and folded on the River
+Seat 3: grotle did not show and won $3.42
+Seat 4: JoePescie (big blind) folded on the Flop
+Seat 5: 888Gamble folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483942580 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:53:38 UTC
+Young Harris 9-max Seat #3 is the button
+Seat 2: partime2 ($9.09)
+Seat 3: grotle ($11.57)
+Seat 4: JoePescie ($4.30)
+Seat 5: 888Gamble ($22.13)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+JoePescie posts the small blind $0.05
+888Gamble posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c Ah]
+Allatiste folds
+spoler72 folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+888Gamble folds
+Uncalled bet ($0.10) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot $0.25
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won $0.25
+Seat 4: JoePescie (small blind) folded on the Pre-Flop
+Seat 5: 888Gamble (big blind) folded on the Pre-Flop
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483942679 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:54:03 UTC
+Young Harris 9-max Seat #4 is the button
+Seat 2: partime2 ($9.09)
+Seat 3: grotle ($11.72)
+Seat 4: JoePescie ($4.25)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+Allatiste posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [6c 7h]
+spoler72 folds
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 folds
+grotle folds
+JoePescie folds
+Allatiste does not show
+*** SUMMARY ***
+Total pot $0.10
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie (button) folded on the Pre-Flop
+Seat 6: Allatiste did not show and won $0.10
+Seat 7: spoler72 folded on the Pre-Flop and did not bet
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483942759 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:54:29 UTC
+Young Harris 9-max Seat #5 is the button
+Seat 2: partime2 ($9.09)
+Seat 3: grotle ($11.72)
+Seat 4: JoePescie ($4.25)
+Seat 5: Jabronie_LV will be allowed to play after the button
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+Allatiste posts the small blind $0.05
+spoler72 posts the big blind $0.10
+*** HOLE CARDS ***
+Dealt to grotle [Js 2d]
+GrindManSunday folds
+NoFeaR178rus folds
+partime2 calls $0.10
+grotle folds
+JoePescie folds
+Allatiste folds
+spoler72 checks
+*** FLOP *** [Qs 5h 9d]
+Main pot $0.24 | Rake $0.01
+spoler72 checks
+partime2 bets $0.25
+spoler72 folds
+Uncalled bet ($0.25) returned to partime2
+partime2 does not show
+*** SUMMARY ***
+Total pot $0.24 | Rake $0.01
+Board [Qs 5h 9d]
+Seat 2: partime2 did not show and won $0.24
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 6: Allatiste (small blind) folded on the Pre-Flop
+Seat 7: spoler72 (big blind) folded on the Flop
+Seat 8: GrindManSunday folded on the Pre-Flop and did not bet
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483942859 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:55:02 UTC
+Young Harris 9-max Seat #6 is the button
+Seat 2: partime2 ($9.23)
+Seat 3: grotle ($11.72)
+Seat 4: JoePescie ($4.25)
+Seat 5: Jabronie_LV ($10.00)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.98)
+Seat 9: NoFeaR178rus ($22.88)
+spoler72 posts the small blind $0.05
+GrindManSunday posts the big blind $0.10
+Jabronie_LV waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [7s Jd]
+NoFeaR178rus folds
+partime2 folds
+grotle folds
+JoePescie calls $0.10
+Allatiste folds
+spoler72 folds
+GrindManSunday checks
+*** FLOP *** [9h 3c Ah]
+Main pot $0.24 | Rake $0.01
+GrindManSunday checks
+JoePescie checks
+*** TURN *** [9h 3c Ah] [Kc]
+Main pot $0.24 | Rake $0.01
+GrindManSunday checks
+JoePescie bets $0.10
+GrindManSunday calls $0.10
+*** RIVER *** [9h 3c Ah Kc] [5s]
+Main pot $0.43 | Rake $0.02
+GrindManSunday checks
+JoePescie bets $0.22
+GrindManSunday folds
+Uncalled bet ($0.22) returned to JoePescie
+JoePescie does not show
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Board [9h 3c Ah Kc 5s]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: JoePescie did not show and won $0.43
+Seat 6: Allatiste (button) folded on the Pre-Flop
+Seat 7: spoler72 (small blind) folded on the Pre-Flop
+Seat 8: GrindManSunday (big blind) folded on the River
+Seat 9: NoFeaR178rus folded on the Pre-Flop and did not bet
+
+Hand #2483942957 - Holdem (No Limit) - $0.05/$0.10 - 2025/06/18 12:56:05 UTC
+Young Harris 9-max Seat #7 is the button
+Seat 2: partime2 ($9.23)
+Seat 3: grotle ($11.72)
+Seat 4: JoePescie ($4.48)
+Seat 5: Jabronie_LV ($10.00)
+Seat 6: Allatiste ($10.00)
+Seat 7: spoler72 ($10.00)
+Seat 8: GrindManSunday ($25.78)
+Seat 9: NoFeaR178rus ($22.88)
+GrindManSunday posts the small blind $0.05
+NoFeaR178rus posts the big blind $0.10
+Jabronie_LV waits for big blind
+*** HOLE CARDS ***
+Dealt to grotle [6d 6h]
+partime2 folds
+grotle raises $0.20 to $0.20
+JoePescie folds
+Allatiste folds
+spoler72 folds
+GrindManSunday calls $0.15
+NoFeaR178rus calls $0.10
+*** FLOP *** [3h 5h 8h]
+Main pot $0.57 | Rake $0.03
+GrindManSunday checks
+NoFeaR178rus checks
+grotle bets $0.25
+GrindManSunday calls $0.25
+NoFeaR178rus folds
+*** TURN *** [3h 5h 8h] [8c]
+Main pot $1.05 | Rake $0.05
+GrindManSunday checks
+grotle bets $0.55
+GrindManSunday raises $1.65 to $1.65
+grotle calls $1.10
+*** RIVER *** [3h 5h 8h 8c] [7h]
+Main pot $4.18 | Rake $0.22
+GrindManSunday bets $23.68 and is all-in
+grotle calls $9.62 and is all-in
+Uncalled bet ($14.06) returned to GrindManSunday
+*** SHOW DOWN ***
+Main pot $22.46 | Rake $1.18
+grotle shows [6d 6h] (a flush, Eight high [8h 7h 6h 5h 3h])
+GrindManSunday shows [9h Ah] (a flush, Ace high [Ah 9h 8h 7h 5h])
+GrindManSunday collected $22.46 from main pot
+*** SUMMARY ***
+Total pot $22.46 | Rake $0.94 | JP Fee $0.24
+Board [3h 5h 8h 8c 7h]
+Seat 2: partime2 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [6d 6h] and lost with a flush, Eight high [8h 7h 6h 5h 3h]
+Seat 4: JoePescie folded on the Pre-Flop and did not bet
+Seat 6: Allatiste folded on the Pre-Flop and did not bet
+Seat 7: spoler72 (button) folded on the Pre-Flop
+Seat 8: GrindManSunday (small blind) showed [9h Ah] and won $22.46 with a flush, Ace high [Ah 9h 8h 7h 5h]
+Seat 9: NoFeaR178rus (big blind) folded on the Flop
+

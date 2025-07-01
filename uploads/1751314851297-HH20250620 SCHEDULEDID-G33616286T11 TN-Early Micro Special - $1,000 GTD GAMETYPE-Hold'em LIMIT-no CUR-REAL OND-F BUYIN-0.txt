@@ -1,0 +1,211 @@
+Game Hand #2485434420 - Tournament #33616286 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/20 14:54:06 UTC
+Table '11' 8-max Seat #4 is the button
+Seat 1: Captain20 (354875.00)
+Seat 2: zloissa (161486.00)
+Seat 3: oblap (90877.00)
+Seat 4: AlfaRomeo21 (106250.00)
+Seat 5: grotle will be allowed to play after the button
+Seat 6: Beydestrian (257350.00)
+Seat 7: MISTERFISHER (266853.00) is sitting out
+Seat 8: SimpleTitan (119103.00)
+Captain20 posts ante 600.00
+zloissa posts ante 600.00
+oblap posts ante 600.00
+AlfaRomeo21 posts ante 600.00
+Beydestrian posts ante 600.00
+MISTERFISHER posts ante 600.00
+SimpleTitan posts ante 600.00
+Beydestrian posts the small blind 2500.00
+MISTERFISHER posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+SimpleTitan folds
+Captain20 folds
+zloissa folds
+oblap folds
+AlfaRomeo21 folds
+Beydestrian calls 2500.00
+MISTERFISHER folds
+Beydestrian does not show
+*** SUMMARY ***
+Total pot 14200.00
+Seat 1: Captain20 folded on the Pre-Flop and did not bet
+Seat 2: zloissa folded on the Pre-Flop and did not bet
+Seat 3: oblap folded on the Pre-Flop and did not bet
+Seat 4: AlfaRomeo21 (button) folded on the Pre-Flop
+Seat 6: Beydestrian did not show and won 14200.00
+Seat 7: MISTERFISHER (big blind) folded on the Pre-Flop
+Seat 8: SimpleTitan folded on the Pre-Flop and did not bet
+
+Game Hand #2485434580 - Tournament #33616286 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/20 14:54:34 UTC
+Table '11' 8-max Seat #6 is the button
+Seat 1: Captain20 (354275.00)
+Seat 2: zloissa (160886.00)
+Seat 3: oblap (90277.00)
+Seat 4: AlfaRomeo21 (105650.00)
+Seat 5: grotle (100000.00)
+Seat 6: Beydestrian (265950.00)
+Seat 7: MISTERFISHER (261253.00) is sitting out
+Seat 8: SimpleTitan (118503.00)
+Captain20 posts ante 600.00
+zloissa posts ante 600.00
+oblap posts ante 600.00
+AlfaRomeo21 posts ante 600.00
+grotle posts ante 600.00
+Beydestrian posts ante 600.00
+MISTERFISHER posts ante 600.00
+SimpleTitan posts ante 600.00
+MISTERFISHER posts the small blind 2500.00
+SimpleTitan posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [3h 4h]
+Captain20 folds
+zloissa folds
+oblap raises 10500.00 to 10500.00
+AlfaRomeo21 folds
+grotle calls 10500.00
+Beydestrian folds
+MISTERFISHER folds
+SimpleTitan calls 5500.00
+*** FLOP *** [Qs 6h 8h]
+Main pot 38800.00
+SimpleTitan checks
+oblap checks
+grotle checks
+*** TURN *** [Qs 6h 8h] [6d]
+Main pot 38800.00
+SimpleTitan bets 12500.00
+oblap folds
+grotle calls 12500.00
+*** RIVER *** [Qs 6h 8h 6d] [2s]
+Main pot 63800.00
+SimpleTitan checks
+grotle bets 20492.00
+SimpleTitan folds
+Uncalled bet (20492.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 63800.00
+Board [Qs 6h 8h 6d 2s]
+Seat 1: Captain20 folded on the Pre-Flop and did not bet
+Seat 2: zloissa folded on the Pre-Flop and did not bet
+Seat 3: oblap folded on the Turn
+Seat 4: AlfaRomeo21 folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 63800.00
+Seat 6: Beydestrian (button) folded on the Pre-Flop
+Seat 7: MISTERFISHER (small blind) folded on the Pre-Flop
+Seat 8: SimpleTitan (big blind) folded on the River
+
+Game Hand #2485435797 - Tournament #33616286 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/20 15:01:36 UTC
+Table '11' 8-max Seat #7 is the button
+Seat 1: Captain20 (353675.00)
+Seat 2: zloissa (160286.00)
+Seat 3: oblap (79177.00)
+Seat 4: AlfaRomeo21 (105050.00)
+Seat 5: grotle (140200.00)
+Seat 6: Beydestrian (265350.00)
+Seat 7: MISTERFISHER (258153.00) is sitting out
+Seat 8: SimpleTitan (94903.00)
+Captain20 posts ante 600.00
+zloissa posts ante 600.00
+oblap posts ante 600.00
+AlfaRomeo21 posts ante 600.00
+grotle posts ante 600.00
+Beydestrian posts ante 600.00
+MISTERFISHER posts ante 600.00
+SimpleTitan posts ante 600.00
+SimpleTitan posts the small blind 2500.00
+Captain20 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [4d 9s]
+zloissa folds
+oblap folds
+AlfaRomeo21 folds
+grotle folds
+Beydestrian folds
+MISTERFISHER folds
+SimpleTitan raises 15000.00 to 17500.00
+Captain20 folds
+Uncalled bet (12500.00) returned to SimpleTitan
+SimpleTitan does not show
+*** SUMMARY ***
+Total pot 14800.00
+Seat 1: Captain20 (big blind) folded on the Pre-Flop
+Seat 2: zloissa folded on the Pre-Flop and did not bet
+Seat 3: oblap folded on the Pre-Flop and did not bet
+Seat 4: AlfaRomeo21 folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Beydestrian folded on the Pre-Flop and did not bet
+Seat 7: MISTERFISHER (button) folded on the Pre-Flop
+Seat 8: SimpleTitan did not show and won 14800.00
+
+Game Hand #2485436336 - Tournament #33616286 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/20 15:03:14 UTC
+Table '11' 8-max Seat #8 is the button
+Seat 1: Captain20 (348075.00)
+Seat 2: zloissa (159686.00)
+Seat 3: oblap (78577.00)
+Seat 4: AlfaRomeo21 (104450.00)
+Seat 5: grotle (139600.00)
+Seat 6: Beydestrian (264750.00) is sitting out
+Seat 7: MISTERFISHER (257553.00) is sitting out
+Seat 8: SimpleTitan (104103.00)
+Captain20 posts ante 600.00
+zloissa posts ante 600.00
+oblap posts ante 600.00
+AlfaRomeo21 posts ante 600.00
+grotle posts ante 600.00
+Beydestrian posts ante 600.00
+MISTERFISHER posts ante 600.00
+SimpleTitan posts ante 600.00
+Captain20 posts the small blind 2500.00
+zloissa posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [Ah 3c]
+oblap folds
+AlfaRomeo21 folds
+grotle calls 5000.00
+Beydestrian calls 5000.00
+MISTERFISHER folds
+SimpleTitan calls 5000.00
+Captain20 folds
+zloissa checks
+*** FLOP *** [5c 7s As]
+Main pot 27300.00
+zloissa checks
+grotle checks
+Beydestrian bets 8750.00
+SimpleTitan calls 8750.00
+zloissa folds
+grotle calls 8750.00
+*** TURN *** [5c 7s As] [Tc]
+Main pot 53550.00
+grotle checks
+Beydestrian bets 25888.00
+SimpleTitan folds
+grotle calls 25888.00
+*** RIVER *** [5c 7s As Tc] [Js]
+Main pot 105326.00
+grotle bets 36481.00
+Beydestrian raises 224512.00 to 224512.00 and is all-in
+grotle calls 62881.00 and is all-in
+Uncalled bet (125150.00) returned to Beydestrian
+*** SHOW DOWN ***
+Main pot 304050.00
+grotle shows [Ah 3c] (a pair of Aces [As Ah Js Tc 7s])
+Beydestrian shows [6s 4s] (a flush, Ace high [As Js 7s 6s 4s])
+Beydestrian collected 304050.00 from main pot
+*** SUMMARY ***
+Total pot 304050.00
+Board [5c 7s As Tc Js]
+Seat 1: Captain20 (small blind) folded on the Pre-Flop
+Seat 2: zloissa (big blind) folded on the Flop
+Seat 3: oblap folded on the Pre-Flop and did not bet
+Seat 4: AlfaRomeo21 folded on the Pre-Flop and did not bet
+Seat 5: grotle showed [Ah 3c] and lost with a pair of Aces [As Ah Js Tc 7s]
+Seat 6: Beydestrian showed [6s 4s] and won 304050.00 with a flush, Ace high [As Js 7s 6s 4s]
+Seat 7: MISTERFISHER folded on the Pre-Flop and did not bet
+Seat 8: SimpleTitan (button) folded on the Turn
+

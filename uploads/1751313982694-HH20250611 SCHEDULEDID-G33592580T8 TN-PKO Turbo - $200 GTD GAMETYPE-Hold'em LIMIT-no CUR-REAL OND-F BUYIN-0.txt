@@ -1,0 +1,2121 @@
+Game Hand #2478794793 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:38:40 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 2: Xirius1 (513281.00)
+Seat 3: casonmac (497784.00)
+Seat 4: KKvb2323 (273609.00) is sitting out
+Seat 6: grotle (690835.00)
+Seat 8: gonefisting (137195.00)
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+Xirius1 posts the small blind 8000.00
+casonmac posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [Qs Th]
+KKvb2323 folds
+grotle folds
+gonefisting folds
+Xirius1 raises 24000.00 to 32000.00
+casonmac calls 16000.00
+*** FLOP *** [Jc Td 6s]
+Main pot 74000.00
+Xirius1 checks
+casonmac checks
+*** TURN *** [Jc Td 6s] [5h]
+Main pot 74000.00
+Xirius1 checks
+casonmac checks
+*** RIVER *** [Jc Td 6s 5h] [Jh]
+Main pot 74000.00
+Xirius1 checks
+casonmac bets 35200.00
+Xirius1 calls 35200.00
+*** SHOW DOWN ***
+Main pot 144400.00
+Xirius1 shows [9h 9d] (two pair, Jacks and Nines [Jh Jc 9h 9d Td])
+casonmac shows [5d 7c] (two pair, Jacks and Fives [Jh Jc 5h 5d Td])
+Xirius1 collected 144400.00 from main pot
+*** SUMMARY ***
+Total pot 144400.00
+Board [Jc Td 6s 5h Jh]
+Seat 2: Xirius1 (small blind) showed [9h 9d] and won 144400.00 with two pair, Jacks and Nines [Jh Jc 9h 9d Td]
+Seat 3: casonmac (big blind) showed [5d 7c] and lost with two pair, Jacks and Fives [Jh Jc 5h 5d Td]
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478795515 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:40:50 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (787164.00)
+Seat 2: 3ulot (360604.00)
+Seat 3: MaJJor LaZZer (188200.00)
+Seat 4: Johnyyy (551328.00)
+Seat 5: casonmac (428584.00)
+Seat 6: Xirius1 (588481.00)
+Seat 7: grotle (688835.00)
+Seat 8: gonefisting (135195.00)
+Seat 9: KKvb2323 (271609.00) is sitting out
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+3ulot posts the small blind 10000.00
+MaJJor LaZZer posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [Jd 5d]
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer does not show
+*** SUMMARY ***
+Total pot 52500.00
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 2: 3ulot (small blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer did not show and won 52500.00
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478795682 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:41:20 UTC
+Table '8' 9-max Seat #2 is the button
+Seat 1: 16sixteen (784664.00)
+Seat 2: 3ulot (348104.00)
+Seat 3: MaJJor LaZZer (218200.00)
+Seat 4: Johnyyy (548828.00)
+Seat 5: casonmac (426084.00)
+Seat 6: Xirius1 (585981.00)
+Seat 7: grotle (686335.00)
+Seat 8: gonefisting (132695.00)
+Seat 9: KKvb2323 (269109.00) is sitting out
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+MaJJor LaZZer posts the small blind 10000.00
+Johnyyy posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [Kc 7d]
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot raises 345604.00 to 345604.00 and is all-in
+MaJJor LaZZer folds
+Johnyyy folds
+Uncalled bet (325604.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 72500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot did not show and won 72500.00
+Seat 3: MaJJor LaZZer (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy (big blind) folded on the Pre-Flop
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478795908 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:42:02 UTC
+Table '8' 9-max Seat #3 is the button
+Seat 1: 16sixteen (782164.00)
+Seat 2: 3ulot (398104.00)
+Seat 3: MaJJor LaZZer (205700.00)
+Seat 4: Johnyyy (526328.00)
+Seat 5: casonmac (423584.00) is sitting out
+Seat 6: Xirius1 (583481.00)
+Seat 7: grotle (683835.00)
+Seat 8: gonefisting (130195.00)
+Seat 9: KKvb2323 (266609.00) is sitting out
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+Johnyyy posts the small blind 10000.00
+casonmac posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [Kc 2c]
+Xirius1 raises 40000.00 to 40000.00
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot raises 395604.00 to 395604.00 and is all-in
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+Uncalled bet (355604.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 132500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot did not show and won 132500.00
+Seat 3: MaJJor LaZZer (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) folded on the Pre-Flop
+Seat 5: casonmac (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796145 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:42:43 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (779664.00)
+Seat 2: 3ulot (488104.00)
+Seat 3: MaJJor LaZZer (203200.00)
+Seat 4: Johnyyy (513828.00)
+Seat 5: casonmac (401084.00)
+Seat 6: Xirius1 (540981.00)
+Seat 7: grotle (681335.00)
+Seat 8: gonefisting (127695.00)
+Seat 9: KKvb2323 (264109.00) is sitting out
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+casonmac posts the small blind 10000.00
+Xirius1 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [8c 2c]
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer raises 200700.00 to 200700.00 and is all-in
+Johnyyy folds
+casonmac folds
+Xirius1 calls 180700.00
+*** FLOP *** [Js 3s Jd]
+Main pot 433900.00
+*** TURN *** [Js 3s Jd] [7d]
+Main pot 433900.00
+*** RIVER *** [Js 3s Jd 7d] [5c]
+Main pot 433900.00
+*** SHOW DOWN ***
+Main pot 433900.00
+MaJJor LaZZer shows [Qh Qd] (two pair, Queens and Jacks [Qh Qd Js Jd 7d])
+Xirius1 shows [Qs Ad] (a pair of Jacks [Js Jd Ad Qs 7d])
+MaJJor LaZZer collected 433900.00 from main pot
+*** SUMMARY ***
+Total pot 433900.00
+Board [Js 3s Jd 7d 5c]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer showed [Qh Qd] and won 433900.00 with two pair, Queens and Jacks [Qh Qd Js Jd 7d]
+Seat 4: Johnyyy (button) folded on the Pre-Flop
+Seat 5: casonmac (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) showed [Qs Ad] and lost with a pair of Jacks [Js Jd Ad Qs 7d]
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796312 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:43:14 UTC
+Table '8' 9-max Seat #5 is the button
+Seat 1: 16sixteen (777164.00)
+Seat 2: 3ulot (485604.00)
+Seat 3: MaJJor LaZZer (433900.00)
+Seat 4: Johnyyy (511328.00)
+Seat 5: casonmac (388584.00)
+Seat 6: Xirius1 (337781.00)
+Seat 7: grotle (678835.00)
+Seat 8: gonefisting (125195.00)
+Seat 9: KKvb2323 (261609.00)
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+Xirius1 posts the small blind 10000.00
+grotle posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [3c Ad]
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer raises 40000.00 to 40000.00
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle calls 20000.00
+*** FLOP *** [8s Ac Td]
+Main pot 112500.00
+grotle checks
+MaJJor LaZZer bets 37125.00
+grotle calls 37125.00
+*** TURN *** [8s Ac Td] [Qc]
+Main pot 186750.00
+grotle checks
+MaJJor LaZZer checks
+*** RIVER *** [8s Ac Td Qc] [Qh]
+Main pot 186750.00
+grotle bets 110000.00
+MaJJor LaZZer folds
+Uncalled bet (110000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 186750.00
+Board [8s Ac Td Qc Qh]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the River
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: grotle did not show and won 186750.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796688 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:44:25 UTC
+Table '8' 9-max Seat #6 is the button
+Seat 1: 16sixteen (774664.00)
+Seat 2: 3ulot (483104.00)
+Seat 3: MaJJor LaZZer (354275.00)
+Seat 4: Johnyyy (508828.00)
+Seat 5: casonmac (386084.00)
+Seat 6: Xirius1 (325281.00)
+Seat 7: grotle (785960.00)
+Seat 8: gonefisting (122695.00)
+Seat 9: KKvb2323 (259109.00)
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+grotle posts the small blind 10000.00
+gonefisting posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [5s Jc]
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac raises 40000.00 to 40000.00
+Xirius1 folds
+grotle folds
+gonefisting folds
+Uncalled bet (20000.00) returned to casonmac
+casonmac does not show
+*** SUMMARY ***
+Total pot 72500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac did not show and won 72500.00
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796961 - Tournament #33592580 - Holdem (No Limit) - Level 17 (10000.00/20000.00) - 2025/06/11 13:45:14 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (772164.00)
+Seat 2: 3ulot (480604.00)
+Seat 3: MaJJor LaZZer (351775.00)
+Seat 4: Johnyyy (506328.00)
+Seat 5: casonmac (436084.00)
+Seat 6: Xirius1 (322781.00)
+Seat 7: grotle (773460.00)
+Seat 8: gonefisting (100195.00)
+Seat 9: KKvb2323 (256609.00)
+16sixteen posts ante 2500.00
+3ulot posts ante 2500.00
+MaJJor LaZZer posts ante 2500.00
+Johnyyy posts ante 2500.00
+casonmac posts ante 2500.00
+Xirius1 posts ante 2500.00
+grotle posts ante 2500.00
+gonefisting posts ante 2500.00
+KKvb2323 posts ante 2500.00
+gonefisting posts the small blind 10000.00
+KKvb2323 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 22500.00
+Dealt to grotle [Qd 2s]
+16sixteen folds
+3ulot raises 40000.00 to 40000.00
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 calls 20000.00
+*** FLOP *** [4c 3c Kd]
+Main pot 112500.00
+KKvb2323 checks
+3ulot bets 28125.00
+KKvb2323 folds
+Uncalled bet (28125.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 112500.00
+Board [4c 3c Kd]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot did not show and won 112500.00
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+Seat 9: KKvb2323 (big blind) folded on the Flop
+
+Game Hand #2478797197 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:45:57 UTC
+Table '8' 9-max Seat #8 is the button
+Seat 1: 16sixteen (769664.00)
+Seat 2: 3ulot (550604.00)
+Seat 3: MaJJor LaZZer (349275.00)
+Seat 4: Johnyyy (503828.00)
+Seat 5: casonmac (433584.00)
+Seat 6: Xirius1 (320281.00)
+Seat 7: grotle (770960.00)
+Seat 8: gonefisting (87695.00)
+Seat 9: KKvb2323 (214109.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+KKvb2323 posts the small blind 12500.00
+16sixteen posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [Kd 8h]
+3ulot folds
+MaJJor LaZZer raises 50000.00 to 50000.00
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen calls 25000.00
+*** FLOP *** [Ts 9h 6s]
+Main pot 139500.00
+16sixteen checks
+MaJJor LaZZer bets 46035.00
+16sixteen calls 46035.00
+*** TURN *** [Ts 9h 6s] [Jc]
+Main pot 231570.00
+16sixteen checks
+MaJJor LaZZer bets 250240.00 and is all-in
+16sixteen folds
+Uncalled bet (250240.00) returned to MaJJor LaZZer
+MaJJor LaZZer does not show
+*** SUMMARY ***
+Total pot 231570.00
+Board [Ts 9h 6s Jc]
+Seat 1: 16sixteen (big blind) folded on the Turn
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer did not show and won 231570.00
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+Seat 9: KKvb2323 (small blind) folded on the Pre-Flop
+
+Game Hand #2478797620 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:47:13 UTC
+Table '8' 9-max Seat #9 is the button
+Seat 1: 16sixteen (670629.00)
+Seat 2: 3ulot (547604.00)
+Seat 3: MaJJor LaZZer (481810.00)
+Seat 4: Johnyyy (500828.00)
+Seat 5: casonmac (430584.00)
+Seat 6: Xirius1 (317281.00)
+Seat 7: grotle (767960.00)
+Seat 8: gonefisting (84695.00)
+Seat 9: KKvb2323 (198609.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+16sixteen posts the small blind 12500.00
+3ulot posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [9c 2h]
+MaJJor LaZZer folds
+Johnyyy raises 62500.00 to 62500.00
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting raises 81695.00 to 81695.00 and is all-in
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+Johnyyy calls 19195.00
+*** FLOP *** [6s 5s 3c]
+Main pot 227890.00
+*** TURN *** [6s 5s 3c] [Kh]
+Main pot 227890.00
+*** RIVER *** [6s 5s 3c Kh] [8s]
+Main pot 227890.00
+*** SHOW DOWN ***
+Main pot 227890.00
+Johnyyy shows [Ts Ah] (a high card, Ace high [Ah Kh Ts 8s 6s])
+gonefisting shows [Qh Qs] (a pair of Queens [Qs Qh Kh 8s 6s])
+gonefisting collected 227890.00 from main pot
+*** SUMMARY ***
+Total pot 227890.00
+Board [6s 5s 3c Kh 8s]
+Seat 1: 16sixteen (small blind) folded on the Pre-Flop
+Seat 2: 3ulot (big blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy showed [Ts Ah] and lost with a high card, Ace high [Ah Kh Ts 8s 6s]
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting showed [Qh Qs] and won 227890.00 with a pair of Queens [Qs Qh Kh 8s 6s]
+Seat 9: KKvb2323 (button) folded on the Pre-Flop
+
+Game Hand #2478797859 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:47:55 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (655129.00)
+Seat 2: 3ulot (519604.00)
+Seat 3: MaJJor LaZZer (478810.00)
+Seat 4: Johnyyy (416133.00)
+Seat 5: casonmac (427584.00)
+Seat 6: Xirius1 (314281.00)
+Seat 7: grotle (764960.00)
+Seat 8: gonefisting (227890.00)
+Seat 9: KKvb2323 (195609.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+3ulot posts the small blind 12500.00
+MaJJor LaZZer posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [9h As]
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot raises 504104.00 to 516604.00 and is all-in
+MaJJor LaZZer folds
+Uncalled bet (491604.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 77000.00
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 2: 3ulot did not show and won 77000.00
+Seat 3: MaJJor LaZZer (big blind) folded on the Pre-Flop
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478797981 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:48:18 UTC
+Table '8' 9-max Seat #2 is the button
+Seat 1: 16sixteen (652129.00)
+Seat 2: 3ulot (568604.00)
+Seat 3: MaJJor LaZZer (450810.00)
+Seat 4: Johnyyy (413133.00)
+Seat 5: casonmac (424584.00)
+Seat 6: Xirius1 (311281.00)
+Seat 7: grotle (761960.00)
+Seat 8: gonefisting (224890.00)
+Seat 9: KKvb2323 (192609.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+MaJJor LaZZer posts the small blind 12500.00
+Johnyyy posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [7c Jh]
+casonmac raises 50000.00 to 50000.00
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy calls 25000.00
+*** FLOP *** [9c Kc 3d]
+Main pot 139500.00
+Johnyyy checks
+casonmac bets 38000.00
+Johnyyy raises 253500.00 to 253500.00
+casonmac folds
+Uncalled bet (215500.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 215500.00
+Board [9c Kc 3d]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot (button) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy did not show and won 215500.00
+Seat 5: casonmac folded on the Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478798287 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:49:16 UTC
+Table '8' 9-max Seat #3 is the button
+Seat 1: 16sixteen (649129.00)
+Seat 2: 3ulot (565604.00)
+Seat 3: MaJJor LaZZer (435310.00)
+Seat 4: Johnyyy (537633.00)
+Seat 5: casonmac (333584.00)
+Seat 6: Xirius1 (308281.00)
+Seat 7: grotle (758960.00)
+Seat 8: gonefisting (221890.00)
+Seat 9: KKvb2323 (189609.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+Johnyyy posts the small blind 12500.00
+casonmac posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [4h 3h]
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 raises 186609.00 to 186609.00 and is all-in
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Uncalled bet (161609.00) returned to KKvb2323
+KKvb2323 does not show
+*** SUMMARY ***
+Total pot 89500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) folded on the Pre-Flop
+Seat 5: casonmac (big blind) folded on the Pre-Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 did not show and won 89500.00
+
+Game Hand #2478798549 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:50:08 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (646129.00)
+Seat 2: 3ulot (562604.00)
+Seat 3: MaJJor LaZZer (432310.00)
+Seat 4: Johnyyy (522133.00)
+Seat 5: casonmac (305584.00)
+Seat 6: Xirius1 (305281.00)
+Seat 7: grotle (755960.00)
+Seat 8: gonefisting (218890.00)
+Seat 9: KKvb2323 (251109.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+casonmac posts the small blind 12500.00
+Xirius1 posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [Ts 7c]
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 50000.00 to 50000.00
+casonmac folds
+Xirius1 folds
+Uncalled bet (25000.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 89500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy did not show and won 89500.00
+Seat 5: casonmac (small blind) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478798762 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:50:47 UTC
+Table '8' 9-max Seat #5 is the button
+Seat 1: 16sixteen (643129.00)
+Seat 2: 3ulot (559604.00)
+Seat 3: MaJJor LaZZer (429310.00)
+Seat 4: Johnyyy (583633.00)
+Seat 5: casonmac (290084.00)
+Seat 6: Xirius1 (277281.00)
+Seat 7: grotle (752960.00)
+Seat 8: gonefisting (215890.00)
+Seat 9: KKvb2323 (248109.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+Xirius1 posts the small blind 12500.00
+grotle posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [Kh 9c]
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 50000.00 to 50000.00
+casonmac raises 287084.00 to 287084.00 and is all-in
+Xirius1 folds
+grotle folds
+Johnyyy folds
+Uncalled bet (237084.00) returned to casonmac
+casonmac does not show
+*** SUMMARY ***
+Total pot 164500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac did not show and won 164500.00
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478799009 - Tournament #33592580 - Holdem (No Limit) - Level 18 (12500.00/25000.00) - 2025/06/11 13:51:29 UTC
+Table '8' 9-max Seat #6 is the button
+Seat 1: 16sixteen (640129.00)
+Seat 2: 3ulot (556604.00)
+Seat 3: MaJJor LaZZer (426310.00)
+Seat 4: Johnyyy (530633.00)
+Seat 5: casonmac (401584.00)
+Seat 6: Xirius1 (261781.00)
+Seat 7: grotle (724960.00)
+Seat 8: gonefisting (212890.00)
+Seat 9: KKvb2323 (245109.00)
+16sixteen posts ante 3000.00
+3ulot posts ante 3000.00
+MaJJor LaZZer posts ante 3000.00
+Johnyyy posts ante 3000.00
+casonmac posts ante 3000.00
+Xirius1 posts ante 3000.00
+grotle posts ante 3000.00
+gonefisting posts ante 3000.00
+KKvb2323 posts ante 3000.00
+grotle posts the small blind 12500.00
+gonefisting posts the big blind 25000.00
+*** HOLE CARDS ***
+Main pot 27000.00
+Dealt to grotle [7s Qd]
+KKvb2323 folds
+16sixteen folds
+3ulot raises 50000.00 to 50000.00
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+Uncalled bet (25000.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 89500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot did not show and won 89500.00
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478799237 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 13:52:10 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (637129.00)
+Seat 2: 3ulot (618104.00)
+Seat 3: MaJJor LaZZer (423310.00)
+Seat 4: Johnyyy (527633.00)
+Seat 5: casonmac (398584.00)
+Seat 6: Xirius1 (258781.00)
+Seat 7: grotle (709460.00)
+Seat 8: gonefisting (184890.00)
+Seat 9: KKvb2323 (242109.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+gonefisting posts the small blind 15000.00
+KKvb2323 posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [3h 7s]
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 75000.00 to 75000.00
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting calls 60000.00
+KKvb2323 folds
+*** FLOP *** [As Qd Qh]
+Main pot 211500.00
+gonefisting checks
+Johnyyy bets 449133.00 and is all-in
+gonefisting calls 106390.00 and is all-in
+Uncalled bet (342743.00) returned to Johnyyy
+*** TURN *** [As Qd Qh] [8d]
+Main pot 424280.00
+*** RIVER *** [As Qd Qh 8d] [2c]
+Main pot 424280.00
+*** SHOW DOWN ***
+Main pot 424280.00
+Johnyyy shows [Ah 9h] (two pair, Aces and Queens [As Ah Qh Qd 9h])
+gonefisting shows [Jc Ad] (two pair, Aces and Queens [As Ad Qh Qd Jc])
+gonefisting collected 424280.00 from main pot
+*** SUMMARY ***
+Total pot 424280.00
+Board [As Qd Qh 8d 2c]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy showed [Ah 9h] and lost with two pair, Aces and Queens [As Ah Qh Qd 9h]
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: gonefisting (small blind) showed [Jc Ad] and won 424280.00 with two pair, Aces and Queens [As Ad Qh Qd Jc] with the kicker Jack
+Seat 9: KKvb2323 (big blind) folded on the Pre-Flop
+
+Game Hand #2478799494 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 13:52:56 UTC
+Table '8' 9-max Seat #8 is the button
+Seat 1: 16sixteen (633629.00)
+Seat 2: 3ulot (614604.00)
+Seat 3: MaJJor LaZZer (419810.00)
+Seat 4: Johnyyy (342743.00)
+Seat 5: casonmac (395084.00)
+Seat 6: Xirius1 (255281.00)
+Seat 7: grotle (705960.00)
+Seat 8: gonefisting (424280.00)
+Seat 9: KKvb2323 (208609.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+KKvb2323 posts the small blind 15000.00
+16sixteen posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [5s 7d]
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen does not show
+*** SUMMARY ***
+Total pot 76500.00
+Seat 1: 16sixteen did not show and won 76500.00
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+Seat 9: KKvb2323 (small blind) folded on the Pre-Flop
+
+Game Hand #2478799615 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 13:53:18 UTC
+Table '8' 9-max Seat #9 is the button
+Seat 1: 16sixteen (676629.00)
+Seat 2: 3ulot (611104.00)
+Seat 3: MaJJor LaZZer (416310.00)
+Seat 4: Johnyyy (339243.00)
+Seat 5: casonmac (391584.00)
+Seat 6: Xirius1 (251781.00)
+Seat 7: grotle (702460.00)
+Seat 8: gonefisting (420780.00)
+Seat 9: KKvb2323 (190109.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+16sixteen posts the small blind 15000.00
+3ulot posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [Qs Kc]
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac raises 60000.00 to 60000.00
+Xirius1 folds
+grotle calls 60000.00
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+*** FLOP *** [9h Ts Th]
+Main pot 196500.00
+casonmac checks
+grotle bets 75000.00
+casonmac folds
+Uncalled bet (75000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 196500.00
+Board [9h Ts Th]
+Seat 1: 16sixteen (small blind) folded on the Pre-Flop
+Seat 2: 3ulot (big blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Flop
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle did not show and won 196500.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 (button) folded on the Pre-Flop
+
+Game Hand #2478799981 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 13:54:26 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (658129.00)
+Seat 2: 3ulot (577604.00)
+Seat 3: MaJJor LaZZer (412810.00)
+Seat 4: Johnyyy (335743.00)
+Seat 5: casonmac (328084.00)
+Seat 6: Xirius1 (248281.00)
+Seat 7: grotle (835460.00)
+Seat 8: gonefisting (417280.00)
+Seat 9: KKvb2323 (186609.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+3ulot posts the small blind 15000.00
+MaJJor LaZZer posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [Jd Qc]
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting raises 60000.00 to 60000.00
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer calls 30000.00
+*** FLOP *** [5h 3d 6s]
+Main pot 166500.00
+MaJJor LaZZer checks
+gonefisting checks
+*** TURN *** [5h 3d 6s] [5c]
+Main pot 166500.00
+MaJJor LaZZer bets 113250.00
+gonefisting folds
+Uncalled bet (113250.00) returned to MaJJor LaZZer
+MaJJor LaZZer does not show
+*** SUMMARY ***
+Total pot 166500.00
+Board [5h 3d 6s 5c]
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 2: 3ulot (small blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer did not show and won 166500.00
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Turn
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478800835 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 14:00:33 UTC
+Table '8' 9-max Seat #2 is the button
+Seat 1: 16sixteen (654629.00)
+Seat 2: 3ulot (559104.00)
+Seat 3: MaJJor LaZZer (515810.00)
+Seat 4: Johnyyy (332243.00)
+Seat 5: casonmac (324584.00)
+Seat 6: Xirius1 (244781.00)
+Seat 7: grotle (831960.00)
+Seat 8: gonefisting (353780.00)
+Seat 9: KKvb2323 (183109.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+MaJJor LaZZer posts the small blind 15000.00
+Johnyyy posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [As Ts]
+casonmac folds
+Xirius1 folds
+grotle raises 60000.00 to 60000.00
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy folds
+Uncalled bet (30000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 106500.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot (button) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy (big blind) folded on the Pre-Flop
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle did not show and won 106500.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478801086 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 14:01:32 UTC
+Table '8' 9-max Seat #3 is the button
+Seat 1: 16sixteen (651129.00)
+Seat 2: 3ulot (555604.00)
+Seat 3: MaJJor LaZZer (497310.00)
+Seat 4: Johnyyy (298743.00)
+Seat 5: casonmac (321084.00)
+Seat 6: Xirius1 (241281.00)
+Seat 7: grotle (904960.00)
+Seat 8: gonefisting (350280.00)
+Seat 9: KKvb2323 (179609.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+Johnyyy posts the small blind 15000.00
+casonmac posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [8d 8h]
+Xirius1 folds
+grotle raises 60000.00 to 60000.00
+gonefisting folds
+KKvb2323 folds
+16sixteen calls 60000.00
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy calls 45000.00
+casonmac calls 30000.00
+*** FLOP *** [4d Td 6s]
+Main pot 271500.00
+Johnyyy bets 235243.00 and is all-in
+casonmac raises 257584.00 to 257584.00 and is all-in
+grotle folds
+16sixteen folds
+Uncalled bet (22341.00) returned to casonmac
+*** TURN *** [4d Td 6s] [7h]
+Main pot 741986.00
+*** RIVER *** [4d Td 6s 7h] [7s]
+Main pot 741986.00
+*** SHOW DOWN ***
+Main pot 741986.00
+Johnyyy shows [6h 3h] (two pair, Sevens and Sixs [7s 7h 6s 6h Td])
+casonmac shows [5d 9d] (a pair of Sevens [7s 7h Td 9d 6s])
+Johnyyy collected 741986.00 from main pot
+*** SUMMARY ***
+Total pot 741986.00
+Board [4d Td 6s 7h 7s]
+Seat 1: 16sixteen folded on the Flop
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) showed [6h 3h] and won 741986.00 with two pair, Sevens and Sixs [7s 7h 6s 6h Td]
+Seat 5: casonmac (big blind) showed [5d 9d] and lost with a pair of Sevens [7s 7h Td 9d 6s]
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Flop
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478801436 - Tournament #33592580 - Holdem (No Limit) - Level 19 (15000.00/30000.00) - 2025/06/11 14:02:50 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (587629.00)
+Seat 2: 3ulot (552104.00)
+Seat 3: MaJJor LaZZer (493810.00)
+Seat 4: Johnyyy (741986.00)
+Seat 5: casonmac (22341.00)
+Seat 6: Xirius1 (237781.00)
+Seat 7: grotle (841460.00)
+Seat 8: gonefisting (346780.00)
+Seat 9: KKvb2323 (176109.00)
+16sixteen posts ante 3500.00
+3ulot posts ante 3500.00
+MaJJor LaZZer posts ante 3500.00
+Johnyyy posts ante 3500.00
+casonmac posts ante 3500.00
+Xirius1 posts ante 3500.00
+grotle posts ante 3500.00
+gonefisting posts ante 3500.00
+KKvb2323 posts ante 3500.00
+casonmac posts the small blind 15000.00
+Xirius1 posts the big blind 30000.00
+*** HOLE CARDS ***
+Main pot 31500.00
+Dealt to grotle [5d Kc]
+grotle folds
+gonefisting folds
+KKvb2323 folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy calls 30000.00
+casonmac calls 3841.00 and is all-in
+Xirius1 checks
+*** FLOP *** [Js 8h Ad]
+Main pot 88023.00
+Side pot(1) 22318.00
+Xirius1 checks
+Johnyyy checks
+*** TURN *** [Js 8h Ad] [Qh]
+Main pot 88023.00
+Side pot(1) 22318.00
+Xirius1 checks
+Johnyyy checks
+*** RIVER *** [Js 8h Ad Qh] [3c]
+Main pot 88023.00
+Side pot(1) 22318.00
+Xirius1 checks
+Johnyyy checks
+*** SHOW DOWN ***
+Main pot 88023.00
+Side pot(1) 22318.00
+Johnyyy shows [5s 9d] (a high card, Ace high [Ad Qh Js 9d 8h])
+casonmac shows [Qc Kh] (a pair of Queens [Qh Qc Ad Kh Js])
+Xirius1 shows [Th 4h] (a high card, Ace high [Ad Qh Js Th 8h])
+casonmac collected 88023.00 from main pot
+Xirius1 collected 22318.00 from side pot-1
+*** SUMMARY ***
+Total pot 110341.00
+Board [Js 8h Ad Qh 3c]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy (button) showed [5s 9d] and lost with a high card, Ace high [Ad Qh Js 9d 8h]
+Seat 5: casonmac (small blind) showed [Qc Kh] and won 88023.00 with a pair of Queens [Qh Qc Ad Kh Js]
+Seat 6: Xirius1 (big blind) showed [Th 4h] and won 22318.00 with a high card, Ace high [Ad Qh Js Th 8h] with the kicker Ten
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 folded on the Pre-Flop and did not bet
+
+Game Hand #2478801669 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:03:40 UTC
+Table '8' 9-max Seat #5 is the button
+Seat 1: 16sixteen (584129.00)
+Seat 2: 3ulot (548604.00)
+Seat 3: MaJJor LaZZer (490310.00)
+Seat 4: Johnyyy (708486.00)
+Seat 5: casonmac (88023.00)
+Seat 6: Xirius1 (226599.00)
+Seat 7: grotle (837960.00)
+Seat 8: gonefisting (343280.00)
+Seat 9: KKvb2323 (172609.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+KKvb2323 posts ante 4500.00
+Xirius1 posts the small blind 17500.00
+grotle posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 40500.00
+Dealt to grotle [Ah Kh]
+gonefisting folds
+KKvb2323 raises 168109.00 to 168109.00 and is all-in
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 703986.00 to 703986.00 and is all-in
+casonmac folds
+Xirius1 folds
+grotle calls 668986.00
+*** FLOP *** [Qh 9c Jc]
+Main pot 562327.00
+Side pot(1) 1071754.00
+*** TURN *** [Qh 9c Jc] [2d]
+Main pot 562327.00
+Side pot(1) 1071754.00
+*** RIVER *** [Qh 9c Jc 2d] [7h]
+Main pot 562327.00
+Side pot(1) 1071754.00
+*** SHOW DOWN ***
+Main pot 562327.00
+Side pot(1) 1071754.00
+Johnyyy shows [Jh Jd] (three of a kind, Set of Jacks [Jh Jd Jc Qh 9c])
+grotle shows [Ah Kh] (a high card, Ace high [Ah Kh Qh Jc 9c])
+KKvb2323 shows [5s 5h] (a pair of Fives [5s 5h Qh Jc 9c])
+Johnyyy collected 562327.00 from main pot
+Johnyyy collected 1071754.00 from side pot-1
+*** SUMMARY ***
+Total pot 1634081.00
+Board [Qh 9c Jc 2d 7h]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy showed [Jh Jd] and won 1634081.00 with three of a kind, Set of Jacks [Jh Jd Jc Qh 9c]
+Seat 5: casonmac (button) folded on the Pre-Flop
+Seat 6: Xirius1 (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) showed [Ah Kh] and lost with a high card, Ace high [Ah Kh Qh Jc 9c]
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+Seat 9: KKvb2323 showed [5s 5h] and lost with a pair of Fives [5s 5h Qh Jc 9c]
+
+Game Hand #2478801985 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:04:40 UTC
+Table '8' 9-max Seat #6 is the button
+Seat 1: 16sixteen (579629.00)
+Seat 2: 3ulot (544104.00)
+Seat 3: MaJJor LaZZer (485810.00)
+Seat 4: Johnyyy (1634081.00)
+Seat 5: casonmac (83523.00)
+Seat 6: Xirius1 (204599.00)
+Seat 7: grotle (129474.00)
+Seat 8: gonefisting (338780.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+grotle posts the small blind 17500.00
+gonefisting posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [Ks 2c]
+16sixteen folds
+3ulot folds
+MaJJor LaZZer raises 70000.00 to 70000.00
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting calls 35000.00
+*** FLOP *** [Td Js Ac]
+Main pot 193500.00
+gonefisting checks
+MaJJor LaZZer bets 63855.00
+gonefisting calls 63855.00
+*** TURN *** [Td Js Ac] [2d]
+Main pot 321210.00
+gonefisting checks
+MaJJor LaZZer bets 347455.00 and is all-in
+gonefisting folds
+Uncalled bet (347455.00) returned to MaJJor LaZZer
+MaJJor LaZZer does not show
+*** SUMMARY ***
+Total pot 321210.00
+Board [Td Js Ac 2d]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer did not show and won 321210.00
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: gonefisting (big blind) folded on the Turn
+
+Game Hand #2478802407 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:05:55 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (575129.00)
+Seat 2: 3ulot (539604.00)
+Seat 3: MaJJor LaZZer (668665.00)
+Seat 4: Johnyyy (1629581.00)
+Seat 5: casonmac (79023.00)
+Seat 6: Xirius1 (200099.00)
+Seat 7: grotle (107474.00)
+Seat 8: gonefisting (200425.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+gonefisting posts the small blind 17500.00
+16sixteen posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [2c 5d]
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 105000.00 to 105000.00
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+16sixteen folds
+Uncalled bet (70000.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 123500.00
+Seat 1: 16sixteen (big blind) folded on the Pre-Flop
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy did not show and won 123500.00
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478802595 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:06:26 UTC
+Table '8' 9-max Seat #8 is the button
+Seat 1: 16sixteen (535629.00)
+Seat 2: 3ulot (535104.00)
+Seat 3: MaJJor LaZZer (664165.00)
+Seat 4: Johnyyy (1713581.00)
+Seat 5: casonmac (74523.00)
+Seat 6: Xirius1 (195599.00)
+Seat 7: grotle (102974.00)
+Seat 8: gonefisting (178425.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+16sixteen posts the small blind 17500.00
+3ulot posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [Ks 7h]
+MaJJor LaZZer folds
+Johnyyy folds
+casonmac folds
+Xirius1 raises 191099.00 to 191099.00 and is all-in
+grotle folds
+gonefisting folds
+16sixteen folds
+3ulot calls 156099.00
+*** FLOP *** [2s Kd Td]
+Main pot 435698.00
+*** TURN *** [2s Kd Td] [7c]
+Main pot 435698.00
+*** RIVER *** [2s Kd Td 7c] [Ts]
+Main pot 435698.00
+*** SHOW DOWN ***
+Main pot 435698.00
+3ulot shows [Ad 9c] (a pair of Tens [Ts Td Ad Kd 9c])
+Xirius1 shows [Kc Qd] (two pair, Kings and Tens [Kd Kc Ts Td Qd])
+Xirius1 collected 435698.00 from main pot
+*** SUMMARY ***
+Total pot 435698.00
+Board [2s Kd Td 7c Ts]
+Seat 1: 16sixteen (small blind) folded on the Pre-Flop
+Seat 2: 3ulot (big blind) showed [Ad 9c] and lost with a pair of Tens [Ts Td Ad Kd 9c]
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 showed [Kc Qd] and won 435698.00 with two pair, Kings and Tens [Kd Kc Ts Td Qd]
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478802821 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:07:06 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (513629.00)
+Seat 2: 3ulot (339505.00)
+Seat 3: MaJJor LaZZer (659665.00)
+Seat 4: Johnyyy (1709081.00)
+Seat 5: casonmac (70023.00)
+Seat 6: Xirius1 (435698.00)
+Seat 7: grotle (98474.00)
+Seat 8: gonefisting (173925.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+3ulot posts the small blind 17500.00
+MaJJor LaZZer posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [6c 5c]
+Johnyyy folds
+casonmac folds
+Xirius1 folds
+grotle folds
+gonefisting folds
+16sixteen folds
+3ulot raises 317505.00 to 335005.00 and is all-in
+MaJJor LaZZer folds
+Uncalled bet (300005.00) returned to 3ulot
+3ulot does not show
+*** SUMMARY ***
+Total pot 106000.00
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 2: 3ulot did not show and won 106000.00
+Seat 3: MaJJor LaZZer (big blind) folded on the Pre-Flop
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478803138 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:07:57 UTC
+Table '8' 9-max Seat #2 is the button
+Seat 1: 16sixteen (509129.00)
+Seat 2: 3ulot (406005.00)
+Seat 3: MaJJor LaZZer (620165.00)
+Seat 4: Johnyyy (1704581.00)
+Seat 5: casonmac (65523.00)
+Seat 6: Xirius1 (431198.00)
+Seat 7: grotle (93974.00)
+Seat 8: gonefisting (169425.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+MaJJor LaZZer posts the small blind 17500.00
+Johnyyy posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [Ad Qc]
+casonmac folds
+Xirius1 raises 426698.00 to 426698.00 and is all-in
+grotle calls 89474.00 and is all-in
+gonefisting folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy folds
+Uncalled bet (337224.00) returned to Xirius1
+*** FLOP *** [4c Qh 8d]
+Main pot 267448.00
+*** TURN *** [4c Qh 8d] [Ts]
+Main pot 267448.00
+*** RIVER *** [4c Qh 8d Ts] [8h]
+Main pot 267448.00
+*** SHOW DOWN ***
+Main pot 267448.00
+Xirius1 shows [Qd Jd] (two pair, Queens and Eights [Qh Qd 8h 8d Jd])
+grotle shows [Ad Qc] (two pair, Queens and Eights [Qh Qc 8h 8d Ad])
+grotle collected 267448.00 from main pot
+*** SUMMARY ***
+Total pot 267448.00
+Board [4c Qh 8d Ts 8h]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot (button) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy (big blind) folded on the Pre-Flop
+Seat 5: casonmac folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 showed [Qd Jd] and lost with two pair, Queens and Eights [Qh Qd 8h 8d Jd]
+Seat 7: grotle showed [Ad Qc] and won 267448.00 with two pair, Queens and Eights [Qh Qc 8h 8d Ad] with the kicker Ace
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478803469 - Tournament #33592580 - Holdem (No Limit) - Level 20 (17500.00/35000.00) - 2025/06/11 14:08:54 UTC
+Table '8' 9-max Seat #3 is the button
+Seat 1: 16sixteen (504629.00)
+Seat 2: 3ulot (401505.00)
+Seat 3: MaJJor LaZZer (598165.00)
+Seat 4: Johnyyy (1665081.00)
+Seat 5: casonmac (61023.00)
+Seat 6: Xirius1 (337224.00)
+Seat 7: grotle (267448.00)
+Seat 8: gonefisting (164925.00)
+16sixteen posts ante 4500.00
+3ulot posts ante 4500.00
+MaJJor LaZZer posts ante 4500.00
+Johnyyy posts ante 4500.00
+casonmac posts ante 4500.00
+Xirius1 posts ante 4500.00
+grotle posts ante 4500.00
+gonefisting posts ante 4500.00
+Johnyyy posts the small blind 17500.00
+casonmac posts the big blind 35000.00
+*** HOLE CARDS ***
+Main pot 36000.00
+Dealt to grotle [2d Ks]
+Xirius1 folds
+grotle folds
+gonefisting folds
+16sixteen folds
+3ulot folds
+MaJJor LaZZer folds
+Johnyyy raises 52500.00 to 70000.00
+casonmac calls 21523.00 and is all-in
+Uncalled bet (13477.00) returned to Johnyyy
+*** FLOP *** [2h 4c 5h]
+Main pot 149046.00
+*** TURN *** [2h 4c 5h] [Kd]
+Main pot 149046.00
+*** RIVER *** [2h 4c 5h Kd] [7s]
+Main pot 149046.00
+*** SHOW DOWN ***
+Main pot 149046.00
+Johnyyy shows [Jh 8h] (a high card, King high [Kd Jh 8h 7s 5h])
+casonmac shows [9d Ts] (a high card, King high [Kd Ts 9d 7s 5h])
+Johnyyy collected 149046.00 from main pot
+*** SUMMARY ***
+Total pot 149046.00
+Board [2h 4c 5h Kd 7s]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 2: 3ulot folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) showed [Jh 8h] and won 149046.00 with a high card, King high [Kd Jh 8h 7s 5h] with the kicker Jack
+Seat 5: casonmac (big blind) showed [9d Ts] and lost with a high card, King high [Kd Ts 9d 7s 5h]
+Seat 6: Xirius1 folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478803712 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:09:35 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (500129.00)
+Seat 2: 3ulot (397005.00)
+Seat 3: MaJJor LaZZer (593665.00)
+Seat 4: Johnyyy (1753104.00)
+Seat 6: Xirius1 (332724.00)
+Seat 7: grotle (262948.00)
+Seat 8: gonefisting (160425.00)
+16sixteen posts ante 5000.00
+3ulot posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+Xirius1 posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+Xirius1 posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 35000.00
+Dealt to grotle [7s Ts]
+grotle folds
+gonefisting folds
+16sixteen raises 495129.00 to 495129.00 and is all-in
+3ulot calls 392005.00 and is all-in
+MaJJor LaZZer folds
+Johnyyy folds
+Xirius1 folds
+Uncalled bet (103124.00) returned to 16sixteen
+*** FLOP *** [4h Ac 2c]
+Main pot 859010.00
+*** TURN *** [4h Ac 2c] [Td]
+Main pot 859010.00
+*** RIVER *** [4h Ac 2c Td] [2s]
+Main pot 859010.00
+*** SHOW DOWN ***
+Main pot 859010.00
+16sixteen shows [Qc Ah] (two pair, Aces and Deuces [Ah Ac 2s 2c Qc])
+3ulot shows [9h 9s] (two pair, Nines and Deuces [9s 9h 2s 2c Ac])
+16sixteen collected 859010.00 from main pot
+*** SUMMARY ***
+Total pot 859010.00
+Board [4h Ac 2c Td 2s]
+Seat 1: 16sixteen showed [Qc Ah] and won 859010.00 with two pair, Aces and Deuces [Ah Ac 2s 2c Qc]
+Seat 2: 3ulot showed [9h 9s] and lost with two pair, Nines and Deuces [9s 9h 2s 2c Ac]
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy (button) folded on the Pre-Flop
+Seat 6: Xirius1 (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478804001 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:10:25 UTC
+Table '8' 9-max Seat #5 is the button
+Seat 1: 16sixteen (962134.00)
+Seat 3: MaJJor LaZZer (588665.00)
+Seat 4: Johnyyy (1748104.00)
+Seat 6: Xirius1 (287724.00)
+Seat 7: grotle (257948.00)
+Seat 8: gonefisting (155425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+Xirius1 posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+Xirius1 posts the small blind 20000.00
+grotle posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 30000.00
+Dealt to grotle [Ah 6s]
+gonefisting folds
+16sixteen folds
+MaJJor LaZZer folds
+Johnyyy folds
+Xirius1 raises 262724.00 to 282724.00 and is all-in
+grotle calls 212948.00 and is all-in
+Uncalled bet (29776.00) returned to Xirius1
+*** FLOP *** [6h 7d 7s]
+Main pot 535896.00
+*** TURN *** [6h 7d 7s] [5s]
+Main pot 535896.00
+*** RIVER *** [6h 7d 7s 5s] [4c]
+Main pot 535896.00
+*** SHOW DOWN ***
+Main pot 535896.00
+Xirius1 shows [Jd Kd] (a pair of Sevens [7s 7d Kd Jd 6h])
+grotle shows [Ah 6s] (two pair, Sevens and Sixs [7s 7d 6s 6h Ah])
+grotle collected 535896.00 from main pot
+*** SUMMARY ***
+Total pot 535896.00
+Board [6h 7d 7s 5s 4c]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 6: Xirius1 (small blind) showed [Jd Kd] and lost with a pair of Sevens [7s 7d Kd Jd 6h]
+Seat 7: grotle (big blind) showed [Ah 6s] and won 535896.00 with two pair, Sevens and Sixs [7s 7d 6s 6h Ah]
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478804327 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:11:21 UTC
+Table '8' 9-max Seat #6 is the button
+Seat 1: 16sixteen (957134.00)
+Seat 3: MaJJor LaZZer (583665.00)
+Seat 4: Johnyyy (1743104.00)
+Seat 6: Xirius1 (29776.00)
+Seat 7: grotle (535896.00)
+Seat 8: gonefisting (150425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+Xirius1 posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+grotle posts the small blind 20000.00
+gonefisting posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 30000.00
+Dealt to grotle [6d 7s]
+16sixteen folds
+MaJJor LaZZer folds
+Johnyyy raises 120000.00 to 120000.00
+Xirius1 calls 24776.00 and is all-in
+grotle folds
+gonefisting folds
+Uncalled bet (110448.00) returned to Johnyyy
+*** FLOP *** [Ac 8d 5h]
+Main pot 124328.00
+*** TURN *** [Ac 8d 5h] [8s]
+Main pot 124328.00
+*** RIVER *** [Ac 8d 5h 8s] [4s]
+Main pot 124328.00
+*** SHOW DOWN ***
+Main pot 124328.00
+Johnyyy shows [3d Ad] (two pair, Aces and Eights [Ad Ac 8s 8d 5h])
+Xirius1 shows [Jd 9s] (a pair of Eights [8s 8d Ac Jd 9s])
+Johnyyy collected 124328.00 from main pot
+*** SUMMARY ***
+Total pot 139552.00
+Board [Ac 8d 5h 8s 4s]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy showed [3d Ad] and won 139552.00 with two pair, Aces and Eights [Ad Ac 8s 8d 5h]
+Seat 6: Xirius1 (button) showed [Jd 9s] and lost with a pair of Eights [8s 8d Ac Jd 9s]
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+
+Game Hand #2478804624 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:12:12 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (952134.00)
+Seat 3: MaJJor LaZZer (578665.00)
+Seat 4: Johnyyy (1852880.00)
+Seat 7: grotle (510896.00)
+Seat 8: gonefisting (105425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+gonefisting posts the small blind 20000.00
+16sixteen posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [7d Kh]
+MaJJor LaZZer folds
+Johnyyy raises 120000.00 to 120000.00
+grotle folds
+gonefisting folds
+16sixteen folds
+Uncalled bet (80000.00) returned to Johnyyy
+Johnyyy shows [Ks -]
+*** SUMMARY ***
+Total pot 125000.00
+Seat 1: 16sixteen (big blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy showed [Ks -] and won 125000.00
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478804841 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:12:49 UTC
+Table '8' 9-max Seat #8 is the button
+Seat 1: 16sixteen (907134.00)
+Seat 3: MaJJor LaZZer (573665.00)
+Seat 4: Johnyyy (1932880.00)
+Seat 7: grotle (505896.00)
+Seat 8: gonefisting (80425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+16sixteen posts the small blind 20000.00
+MaJJor LaZZer posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [Ks 7d]
+Johnyyy raises 120000.00 to 120000.00
+grotle folds
+gonefisting folds
+16sixteen folds
+MaJJor LaZZer folds
+Uncalled bet (80000.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 125000.00
+Seat 1: 16sixteen (small blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer (big blind) folded on the Pre-Flop
+Seat 4: Johnyyy did not show and won 125000.00
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478804976 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:13:13 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (882134.00)
+Seat 3: MaJJor LaZZer (528665.00)
+Seat 4: Johnyyy (2012880.00)
+Seat 7: grotle (500896.00)
+Seat 8: gonefisting (75425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+MaJJor LaZZer posts the small blind 20000.00
+Johnyyy posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [4d 3c]
+grotle folds
+gonefisting folds
+16sixteen folds
+MaJJor LaZZer folds
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 85000.00
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy did not show and won 85000.00
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478805106 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:13:34 UTC
+Table '8' 9-max Seat #3 is the button
+Seat 1: 16sixteen (877134.00)
+Seat 3: MaJJor LaZZer (503665.00)
+Seat 4: Johnyyy (2052880.00)
+Seat 7: grotle (495896.00)
+Seat 8: gonefisting (70425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+Johnyyy posts the small blind 20000.00
+grotle posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [8d 2s]
+gonefisting folds
+16sixteen folds
+MaJJor LaZZer folds
+Johnyyy raises 2027880.00 to 2047880.00 and is all-in
+grotle folds
+Uncalled bet (2007880.00) returned to Johnyyy
+Johnyyy does not show
+*** SUMMARY ***
+Total pot 105000.00
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer (button) folded on the Pre-Flop
+Seat 4: Johnyyy did not show and won 105000.00
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478805250 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:13:58 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (872134.00)
+Seat 3: MaJJor LaZZer (498665.00)
+Seat 4: Johnyyy (2112880.00)
+Seat 7: grotle (450896.00)
+Seat 8: gonefisting (65425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+grotle posts the small blind 20000.00
+gonefisting posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [Qh 2h]
+16sixteen folds
+MaJJor LaZZer folds
+Johnyyy calls 40000.00
+grotle calls 20000.00
+gonefisting checks
+*** FLOP *** [Qd 9d Jh]
+Main pot 145000.00
+grotle checks
+gonefisting checks
+Johnyyy checks
+*** TURN *** [Qd 9d Jh] [6d]
+Main pot 145000.00
+grotle bets 40000.00
+gonefisting folds
+Johnyyy folds
+Uncalled bet (40000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 145000.00
+Board [Qd 9d Jh 6d]
+Seat 1: 16sixteen folded on the Pre-Flop and did not bet
+Seat 3: MaJJor LaZZer folded on the Pre-Flop and did not bet
+Seat 4: Johnyyy (button) folded on the Turn
+Seat 7: grotle did not show and won 145000.00
+Seat 8: gonefisting (big blind) folded on the Turn
+
+Game Hand #2478805438 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:14:30 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (867134.00)
+Seat 3: MaJJor LaZZer (493665.00)
+Seat 4: Johnyyy (2067880.00)
+Seat 7: grotle (550896.00)
+Seat 8: gonefisting (20425.00)
+16sixteen posts ante 5000.00
+MaJJor LaZZer posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+gonefisting posts ante 5000.00
+gonefisting posts the small blind 15425.00 and is all-in
+16sixteen posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 25000.00
+Dealt to grotle [Th Ts]
+MaJJor LaZZer raises 488665.00 to 488665.00 and is all-in
+Johnyyy folds
+grotle raises 545896.00 to 545896.00 and is all-in
+16sixteen folds
+Uncalled bet (57231.00) returned to grotle
+*** FLOP *** [Kc Ad 2s]
+Main pot 86700.00
+Side pot(1) 971055.00
+*** TURN *** [Kc Ad 2s] [9s]
+Main pot 86700.00
+Side pot(1) 971055.00
+*** RIVER *** [Kc Ad 2s 9s] [2h]
+Main pot 86700.00
+Side pot(1) 971055.00
+*** SHOW DOWN ***
+Main pot 86700.00
+Side pot(1) 971055.00
+MaJJor LaZZer shows [3s 3c] (two pair, Threes and Deuces [3s 3c 2s 2h Ad])
+grotle shows [Th Ts] (two pair, Tens and Deuces [Ts Th 2s 2h Ad])
+gonefisting shows [8c 6c] (a pair of Deuces [2s 2h Ad Kc 9s])
+grotle collected 86700.00 from main pot
+grotle collected 971055.00 from side pot-1
+*** SUMMARY ***
+Total pot 1057755.00
+Board [Kc Ad 2s 9s 2h]
+Seat 1: 16sixteen (big blind) folded on the Pre-Flop
+Seat 3: MaJJor LaZZer showed [3s 3c] and lost with two pair, Threes and Deuces [3s 3c 2s 2h Ad]
+Seat 4: Johnyyy folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) showed [Th Ts] and won 1057755.00 with two pair, Tens and Deuces [Ts Th 2s 2h Ad]
+Seat 8: gonefisting (small blind) showed [8c 6c] and lost with a pair of Deuces [2s 2h Ad Kc 9s]
+
+Game Hand #2478805590 - Tournament #33592580 - Holdem (No Limit) - Level 21 (20000.00/40000.00) - 2025/06/11 14:14:58 UTC
+Table '8' 9-max Seat #8 is the button
+Seat 1: 16sixteen (822134.00)
+Seat 4: Johnyyy (2062880.00)
+Seat 7: grotle (1114986.00)
+16sixteen posts ante 5000.00
+Johnyyy posts ante 5000.00
+grotle posts ante 5000.00
+16sixteen posts the small blind 20000.00
+Johnyyy posts the big blind 40000.00
+*** HOLE CARDS ***
+Main pot 15000.00
+Dealt to grotle [6s Ad]
+grotle raises 80000.00 to 80000.00
+16sixteen folds
+Johnyyy calls 40000.00
+*** FLOP *** [Ts 3s 9d]
+Main pot 195000.00
+Johnyyy checks
+grotle bets 80000.00
+Johnyyy folds
+Uncalled bet (80000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 195000.00
+Board [Ts 3s 9d]
+Seat 1: 16sixteen (small blind) folded on the Pre-Flop
+Seat 4: Johnyyy (big blind) folded on the Flop
+Seat 7: grotle did not show and won 195000.00
+
+Game Hand #2478805744 - Tournament #33592580 - Holdem (No Limit) - Level 22 (25000.00/50000.00) - 2025/06/11 14:15:24 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (797134.00)
+Seat 4: Johnyyy (1977880.00)
+Seat 7: grotle (1224986.00)
+16sixteen posts ante 6000.00
+Johnyyy posts ante 6000.00
+grotle posts ante 6000.00
+Johnyyy posts the small blind 25000.00
+grotle posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 18000.00
+Dealt to grotle [Tc 7s]
+16sixteen folds
+Johnyyy raises 75000.00 to 100000.00
+grotle calls 50000.00
+*** FLOP *** [Jd 3c 6s]
+Main pot 218000.00
+Johnyyy bets 125000.00
+grotle calls 125000.00
+*** TURN *** [Jd 3c 6s] [Jh]
+Main pot 468000.00
+Johnyyy checks
+grotle bets 351000.00
+Johnyyy folds
+Uncalled bet (351000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 468000.00
+Board [Jd 3c 6s Jh]
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) folded on the Turn
+Seat 7: grotle did not show and won 468000.00
+
+Game Hand #2478805997 - Tournament #33592580 - Holdem (No Limit) - Level 22 (25000.00/50000.00) - 2025/06/11 14:16:08 UTC
+Table '8' 9-max Seat #4 is the button
+Seat 1: 16sixteen (791134.00)
+Seat 4: Johnyyy (1746880.00)
+Seat 7: grotle (1461986.00)
+16sixteen posts ante 6000.00
+Johnyyy posts ante 6000.00
+grotle posts ante 6000.00
+grotle posts the small blind 25000.00
+16sixteen posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 18000.00
+Dealt to grotle [8s Ac]
+Johnyyy folds
+grotle raises 75000.00 to 100000.00
+16sixteen folds
+Uncalled bet (50000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 118000.00
+Seat 1: 16sixteen (big blind) folded on the Pre-Flop
+Seat 4: Johnyyy (button) folded on the Pre-Flop
+Seat 7: grotle did not show and won 118000.00
+
+Game Hand #2478806097 - Tournament #33592580 - Holdem (No Limit) - Level 22 (25000.00/50000.00) - 2025/06/11 14:16:24 UTC
+Table '8' 9-max Seat #7 is the button
+Seat 1: 16sixteen (735134.00)
+Seat 4: Johnyyy (1740880.00)
+Seat 7: grotle (1523986.00)
+16sixteen posts ante 6000.00
+Johnyyy posts ante 6000.00
+grotle posts ante 6000.00
+16sixteen posts the small blind 25000.00
+Johnyyy posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 18000.00
+Dealt to grotle [6d Ac]
+grotle calls 50000.00
+16sixteen raises 704134.00 to 729134.00 and is all-in
+Johnyyy folds
+grotle calls 679134.00
+*** FLOP *** [2c 8c 9h]
+Main pot 1526268.00
+*** TURN *** [2c 8c 9h] [Kd]
+Main pot 1526268.00
+*** RIVER *** [2c 8c 9h Kd] [Ts]
+Main pot 1526268.00
+*** SHOW DOWN ***
+Main pot 1526268.00
+16sixteen shows [7c 7h] (a pair of Sevens [7h 7c Kd Ts 9h])
+grotle shows [6d Ac] (a high card, Ace high [Ac Kd Ts 9h 8c])
+16sixteen collected 1526268.00 from main pot
+*** SUMMARY ***
+Total pot 1526268.00
+Board [2c 8c 9h Kd Ts]
+Seat 1: 16sixteen (small blind) showed [7c 7h] and won 1526268.00 with a pair of Sevens [7h 7c Kd Ts 9h]
+Seat 4: Johnyyy (big blind) folded on the Pre-Flop
+Seat 7: grotle (button) showed [6d Ac] and lost with a high card, Ace high [Ac Kd Ts 9h 8c]
+
+Game Hand #2478806300 - Tournament #33592580 - Holdem (No Limit) - Level 22 (25000.00/50000.00) - 2025/06/11 14:16:58 UTC
+Table '8' 9-max Seat #1 is the button
+Seat 1: 16sixteen (1526268.00)
+Seat 4: Johnyyy (1684880.00)
+Seat 7: grotle (788852.00)
+16sixteen posts ante 6000.00
+Johnyyy posts ante 6000.00
+grotle posts ante 6000.00
+Johnyyy posts the small blind 25000.00
+grotle posts the big blind 50000.00
+*** HOLE CARDS ***
+Main pot 18000.00
+Dealt to grotle [Ad 8d]
+16sixteen folds
+Johnyyy calls 25000.00
+grotle raises 125000.00 to 175000.00
+Johnyyy calls 125000.00
+*** FLOP *** [Qd 7s Jc]
+Main pot 368000.00
+Johnyyy bets 1503880.00 and is all-in
+grotle calls 607852.00 and is all-in
+Uncalled bet (896028.00) returned to Johnyyy
+*** TURN *** [Qd 7s Jc] [Th]
+Main pot 1583704.00
+*** RIVER *** [Qd 7s Jc Th] [2s]
+Main pot 1583704.00
+*** SHOW DOWN ***
+Main pot 1583704.00
+Johnyyy shows [4h 7h] (a pair of Sevens [7s 7h Qd Jc Th])
+grotle shows [Ad 8d] (a high card, Ace high [Ad Qd Jc Th 8d])
+Johnyyy collected 1583704.00 from main pot
+*** SUMMARY ***
+Total pot 1583704.00
+Board [Qd 7s Jc Th 2s]
+Seat 1: 16sixteen (button) folded on the Pre-Flop
+Seat 4: Johnyyy (small blind) showed [4h 7h] and won 1583704.00 with a pair of Sevens [7s 7h Qd Jc Th]
+Seat 7: grotle (big blind) showed [Ad 8d] and lost with a high card, Ace high [Ad Qd Jc Th 8d]
+

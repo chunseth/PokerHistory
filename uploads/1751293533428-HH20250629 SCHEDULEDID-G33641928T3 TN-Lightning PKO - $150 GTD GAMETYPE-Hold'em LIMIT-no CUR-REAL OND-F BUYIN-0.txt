@@ -1,0 +1,332 @@
+Game Hand #2492607313 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:49:57 UTC
+Table '2' 8-max Seat #4 is the button
+Seat 2: tournik (50000.00)
+Seat 6: grotle (31250.00)
+Seat 7: buford1958 (45000.00)
+Seat 8: BigCall (67500.00)
+grotle posts the small blind 2500.00
+buford1958 posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [9d 6h]
+BigCall folds
+tournik folds
+grotle raises 28750.00 to 31250.00 and is all-in
+buford1958 folds
+Uncalled bet (26250.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 10000.00
+Seat 2: tournik folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 10000.00
+Seat 7: buford1958 (big blind) folded on the Pre-Flop
+Seat 8: BigCall folded on the Pre-Flop and did not bet
+
+Game Hand #2492608597 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:51:18 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (36250.00)
+Seat 3: flaquito (40000.00)
+Seat 4: Braaaapxc (85000.00)
+Seat 5: Timmy2tmz (103750.00)
+Seat 6: Yanyshivskyi2 (35000.00)
+Seat 7: Skrifa (31875.00)
+Timmy2tmz posts the small blind 2500.00
+Yanyshivskyi2 posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [4s 8h]
+Skrifa raises 31875.00 to 31875.00 and is all-in
+grotle folds
+flaquito folds
+Braaaapxc folds
+Timmy2tmz folds
+Yanyshivskyi2 folds
+Uncalled bet (26875.00) returned to Skrifa
+Skrifa does not show
+*** SUMMARY ***
+Total pot 12500.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 3: flaquito folded on the Pre-Flop and did not bet
+Seat 4: Braaaapxc (button) folded on the Pre-Flop
+Seat 5: Timmy2tmz (small blind) folded on the Pre-Flop
+Seat 6: Yanyshivskyi2 (big blind) folded on the Pre-Flop
+Seat 7: Skrifa did not show and won 12500.00
+
+Game Hand #2492608980 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:51:42 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (36250.00)
+Seat 3: flaquito (40000.00)
+Seat 4: Braaaapxc (85000.00)
+Seat 5: Timmy2tmz (101250.00)
+Seat 6: Yanyshivskyi2 (30000.00)
+Seat 7: Skrifa (39375.00)
+Yanyshivskyi2 posts the small blind 2500.00
+Skrifa posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [5s Jc]
+grotle folds
+flaquito folds
+Braaaapxc folds
+Timmy2tmz folds
+Yanyshivskyi2 raises 27500.00 to 30000.00 and is all-in
+Skrifa calls 25000.00
+*** FLOP *** [5h 2h As]
+Main pot 60000.00
+*** TURN *** [5h 2h As] [Kc]
+Main pot 60000.00
+*** RIVER *** [5h 2h As Kc] [9d]
+Main pot 60000.00
+*** SHOW DOWN ***
+Main pot 60000.00
+Yanyshivskyi2 shows [8h Qh] (a high card, Ace high [As Kc Qh 9d 8h])
+Skrifa shows [7c Jd] (a high card, Ace high [As Kc Jd 9d 7c])
+Yanyshivskyi2 collected 60000.00 from main pot
+*** SUMMARY ***
+Total pot 60000.00
+Board [5h 2h As Kc 9d]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 3: flaquito folded on the Pre-Flop and did not bet
+Seat 4: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz (button) folded on the Pre-Flop
+Seat 6: Yanyshivskyi2 (small blind) showed [8h Qh] and won 60000.00 with a high card, Ace high [As Kc Qh 9d 8h] with the kicker Queen
+Seat 7: Skrifa (big blind) showed [7c Jd] and lost with a high card, Ace high [As Kc Jd 9d 7c]
+
+Game Hand #2492609641 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:52:24 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (36250.00)
+Seat 3: flaquito (40000.00)
+Seat 4: Braaaapxc (85000.00)
+Seat 5: Timmy2tmz (101250.00)
+Seat 6: Yanyshivskyi2 (60000.00)
+Seat 7: Skrifa (9375.00)
+Skrifa posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [7d 8s]
+flaquito raises 40000.00 to 40000.00 and is all-in
+Braaaapxc folds
+Timmy2tmz folds
+Yanyshivskyi2 folds
+Skrifa calls 6875.00 and is all-in
+grotle folds
+Uncalled bet (30625.00) returned to flaquito
+*** FLOP *** [6h Ts 4h]
+Main pot 23750.00
+*** TURN *** [6h Ts 4h] [6s]
+Main pot 23750.00
+*** RIVER *** [6h Ts 4h 6s] [9h]
+Main pot 23750.00
+*** SHOW DOWN ***
+Main pot 23750.00
+flaquito shows [Ah Qs] (a pair of Sixs [6s 6h Ah Qs Ts])
+Skrifa shows [7s Kd] (a pair of Sixs [6s 6h Kd Ts 9h])
+flaquito collected 23750.00 from main pot
+*** SUMMARY ***
+Total pot 23750.00
+Board [6h Ts 4h 6s 9h]
+Seat 1: grotle (big blind) folded on the Pre-Flop
+Seat 3: flaquito showed [Ah Qs] and won 23750.00 with a pair of Sixs [6s 6h Ah Qs Ts] with the kicker Ace
+Seat 4: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz folded on the Pre-Flop and did not bet
+Seat 6: Yanyshivskyi2 (button) folded on the Pre-Flop
+Seat 7: Skrifa (small blind) showed [7s Kd] and lost with a pair of Sixs [6s 6h Kd Ts 9h]
+
+Game Hand #2492610243 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:53:02 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (31250.00)
+Seat 3: flaquito (54375.00)
+Seat 4: Braaaapxc (85000.00)
+Seat 5: Timmy2tmz (101250.00)
+Seat 6: Yanyshivskyi2 (60000.00)
+grotle posts the small blind 2500.00
+flaquito posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [Qd 5c]
+Braaaapxc folds
+Timmy2tmz folds
+Yanyshivskyi2 raises 60000.00 to 60000.00 and is all-in
+grotle folds
+flaquito folds
+Uncalled bet (55000.00) returned to Yanyshivskyi2
+Yanyshivskyi2 does not show
+*** SUMMARY ***
+Total pot 12500.00
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 3: flaquito (big blind) folded on the Pre-Flop
+Seat 4: Braaaapxc folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz folded on the Pre-Flop and did not bet
+Seat 6: Yanyshivskyi2 did not show and won 12500.00
+
+Game Hand #2492610758 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:53:34 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (28750.00)
+Seat 2: paiwitz will be allowed to play after the button
+Seat 5: Timmy2tmz (101250.00)
+Seat 6: Yanyshivskyi2 (67500.00)
+Seat 7: Anas1821 (142500.00)
+Seat 8: MeLo15 (107500.00)
+Timmy2tmz posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [2h As]
+Yanyshivskyi2 folds
+Anas1821 folds
+MeLo15 calls 5000.00
+grotle calls 5000.00
+Timmy2tmz checks
+*** FLOP *** [4d 5h 5d]
+Main pot 15000.00
+Timmy2tmz checks
+MeLo15 checks
+grotle bets 23750.00 and is all-in
+Timmy2tmz calls 23750.00
+MeLo15 folds
+*** TURN *** [4d 5h 5d] [4c]
+Main pot 62500.00
+*** RIVER *** [4d 5h 5d 4c] [Qc]
+Main pot 62500.00
+*** SHOW DOWN ***
+Main pot 62500.00
+grotle shows [2h As] (two pair, Fives and Fours [5h 5d 4d 4c As])
+Timmy2tmz shows [6h 3d] (two pair, Fives and Fours [5h 5d 4d 4c Qc])
+grotle collected 62500.00 from main pot
+*** SUMMARY ***
+Total pot 62500.00
+Board [4d 5h 5d 4c Qc]
+Seat 1: grotle (button) showed [2h As] and won 62500.00 with two pair, Fives and Fours [5h 5d 4d 4c As] with the kicker Ace
+Seat 5: Timmy2tmz (big blind) showed [6h 3d] and lost with two pair, Fives and Fours [5h 5d 4d 4c Qc]
+Seat 6: Yanyshivskyi2 folded on the Pre-Flop and did not bet
+Seat 7: Anas1821 folded on the Pre-Flop and did not bet
+Seat 8: MeLo15 folded on the Flop
+
+Game Hand #2492611686 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:54:34 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (62500.00)
+Seat 2: paiwitz (180625.00)
+Seat 5: Timmy2tmz (72500.00)
+Seat 6: Yanyshivskyi2 (67500.00)
+Seat 7: Anas1821 (142500.00)
+Seat 8: MeLo15 (102500.00)
+Timmy2tmz posts the small blind 2500.00
+Yanyshivskyi2 posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [2s Kh]
+Anas1821 raises 142500.00 to 142500.00 and is all-in
+MeLo15 folds
+grotle folds
+paiwitz folds
+Timmy2tmz folds
+Yanyshivskyi2 folds
+Uncalled bet (137500.00) returned to Anas1821
+Anas1821 does not show
+*** SUMMARY ***
+Total pot 12500.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: paiwitz folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz (small blind) folded on the Pre-Flop
+Seat 6: Yanyshivskyi2 (big blind) folded on the Pre-Flop
+Seat 7: Anas1821 did not show and won 12500.00
+Seat 8: MeLo15 folded on the Pre-Flop and did not bet
+
+Game Hand #2492611991 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/29 23:54:53 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (62500.00)
+Seat 2: paiwitz (180625.00)
+Seat 3: Oynx3372 (105000.00)
+Seat 4: therrma2 (50000.00)
+Seat 5: Timmy2tmz (70000.00)
+Seat 6: Yanyshivskyi2 (62500.00)
+Seat 7: Anas1821 (150000.00)
+Seat 8: MeLo15 (102500.00)
+Yanyshivskyi2 posts the small blind 2500.00
+Anas1821 posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [7h 9d]
+MeLo15 calls 5000.00
+grotle folds
+paiwitz folds
+Oynx3372 folds
+therrma2 folds
+Timmy2tmz folds
+Yanyshivskyi2 calls 2500.00
+Anas1821 checks
+*** FLOP *** [Ad Kc 7s]
+Main pot 15000.00
+Yanyshivskyi2 checks
+Anas1821 checks
+MeLo15 bets 11250.00
+Yanyshivskyi2 raises 57500.00 to 57500.00 and is all-in
+Anas1821 folds
+MeLo15 calls 46250.00
+*** TURN *** [Ad Kc 7s] [7c]
+Main pot 130000.00
+*** RIVER *** [Ad Kc 7s 7c] [Td]
+Main pot 130000.00
+*** SHOW DOWN ***
+Main pot 130000.00
+Yanyshivskyi2 shows [2s As] (two pair, Aces and Sevens [As Ad 7s 7c Kc])
+MeLo15 shows [Ah 2d] (two pair, Aces and Sevens [Ah Ad 7s 7c Kc])
+Yanyshivskyi2 collected 65000.00 from main pot
+MeLo15 collected 65000.00 from main pot
+*** SUMMARY ***
+Total pot 130000.00
+Board [Ad Kc 7s 7c Td]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: paiwitz folded on the Pre-Flop and did not bet
+Seat 3: Oynx3372 folded on the Pre-Flop and did not bet
+Seat 4: therrma2 folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz (button) folded on the Pre-Flop
+Seat 6: Yanyshivskyi2 (small blind) showed [2s As] and won 65000.00 with two pair, Aces and Sevens [As Ad 7s 7c Kc]
+Seat 7: Anas1821 (big blind) folded on the Flop
+Seat 8: MeLo15 showed [Ah 2d] and won 65000.00 with two pair, Aces and Sevens [Ah Ad 7s 7c Kc]
+
+Game Hand #2492613965 - Tournament #33641928 - Holdem (No Limit) - Level 1 (2500.00/5000.00) - 2025/06/30 00:00:49 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (62500.00)
+Seat 2: paiwitz (180625.00)
+Seat 3: Oynx3372 (105000.00)
+Seat 4: therrma2 (50000.00)
+Seat 5: Timmy2tmz (70000.00)
+Seat 7: Anas1821 (145000.00)
+Seat 8: MeLo15 (105000.00)
+Anas1821 posts the small blind 2500.00
+MeLo15 posts the big blind 5000.00
+*** HOLE CARDS ***
+Dealt to grotle [Ac Kh]
+grotle raises 10000.00 to 10000.00
+paiwitz folds
+Oynx3372 folds
+therrma2 folds
+Timmy2tmz raises 23750.00 to 23750.00
+Anas1821 folds
+MeLo15 calls 18750.00
+grotle raises 52500.00 to 62500.00 and is all-in
+Timmy2tmz calls 38750.00
+MeLo15 calls 38750.00
+*** FLOP *** [7d 2d 8d]
+Main pot 190000.00
+MeLo15 bets 10000.00
+Timmy2tmz calls 7500.00 and is all-in
+Uncalled bet (2500.00) returned to MeLo15
+*** TURN *** [7d 2d 8d] [5c]
+Main pot 190000.00
+Side pot(1) 15000.00
+*** RIVER *** [7d 2d 8d 5c] [Ks]
+Main pot 190000.00
+Side pot(1) 15000.00
+*** SHOW DOWN ***
+Main pot 190000.00
+Side pot(1) 15000.00
+grotle shows [Ac Kh] (a pair of Kings [Ks Kh Ac 8d 7d])
+Timmy2tmz shows [Ah Jd] (a high card, Ace high [Ah Ks Jd 8d 7d])
+MeLo15 shows [Ad Qd] (a flush, Ace high [Ad Qd 8d 7d 2d])
+MeLo15 collected 190000.00 from main pot
+MeLo15 collected 15000.00 from side pot-1
+*** SUMMARY ***
+Total pot 205000.00
+Board [7d 2d 8d 5c Ks]
+Seat 1: grotle showed [Ac Kh] and lost with a pair of Kings [Ks Kh Ac 8d 7d]
+Seat 2: paiwitz folded on the Pre-Flop and did not bet
+Seat 3: Oynx3372 folded on the Pre-Flop and did not bet
+Seat 4: therrma2 folded on the Pre-Flop and did not bet
+Seat 5: Timmy2tmz showed [Ah Jd] and lost with a high card, Ace high [Ah Ks Jd 8d 7d]
+Seat 7: Anas1821 (small blind) folded on the Pre-Flop
+Seat 8: MeLo15 (big blind) showed [Ad Qd] and won 205000.00 with a flush, Ace high [Ad Qd 8d 7d 2d]
+

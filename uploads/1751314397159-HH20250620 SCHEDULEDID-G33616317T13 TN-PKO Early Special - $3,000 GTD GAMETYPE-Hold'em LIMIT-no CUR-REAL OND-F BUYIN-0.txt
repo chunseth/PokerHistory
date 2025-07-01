@@ -1,0 +1,445 @@
+Game Hand #2485441340 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:15:56 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: Weddingplans18 (647995.00)
+Seat 2: KovalevEvgen (270353.00)
+Seat 3: henriquerod (182948.00)
+Seat 4: JulioCheddar (104362.00)
+Seat 5: TopeteQQ (306154.00)
+Seat 6: MeanerUglier (288449.00)
+Seat 7: grotle (86375.00)
+Seat 8: zimboraaa (171677.00)
+Weddingplans18 posts ante 750.00
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+KovalevEvgen posts the small blind 3000.00
+henriquerod posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [9s 2h]
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+Weddingplans18 raises 16500.00 to 16500.00
+KovalevEvgen folds
+henriquerod raises 176198.00 to 182198.00 and is all-in
+Weddingplans18 calls 165698.00
+*** FLOP *** [8h 7c Kd]
+Main pot 373396.00
+*** TURN *** [8h 7c Kd] [Tc]
+Main pot 373396.00
+*** RIVER *** [8h 7c Kd Tc] [6s]
+Main pot 373396.00
+*** SHOW DOWN ***
+Main pot 373396.00
+Weddingplans18 shows [Qh Qd] (a pair of Queens [Qh Qd Kd Tc 8h])
+henriquerod shows [Th Ac] (a pair of Tens [Th Tc Ac Kd 8h])
+Weddingplans18 collected 373396.00 from main pot
+*** SUMMARY ***
+Total pot 373396.00
+Board [8h 7c Kd Tc 6s]
+Seat 1: Weddingplans18 (button) showed [Qh Qd] and won 373396.00 with a pair of Queens [Qh Qd Kd Tc 8h]
+Seat 2: KovalevEvgen (small blind) folded on the Pre-Flop
+Seat 3: henriquerod (big blind) showed [Th Ac] and lost with a pair of Tens [Th Tc Ac Kd 8h]
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485441769 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:16:59 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: Allybee888 (440118.00)
+Seat 2: grotle (85625.00)
+Seat 3: FranchescoO (580564.00)
+Seat 4: hatemyfate (135286.00)
+Seat 5: CHETxxSteadman (678582.00)
+Seat 6: pokerbrahs (610026.00)
+Seat 7: WincentWega (327615.00)
+Seat 8: getaxc56 (236997.00)
+Allybee888 posts ante 750.00
+grotle posts ante 750.00
+FranchescoO posts ante 750.00
+hatemyfate posts ante 750.00
+CHETxxSteadman posts ante 750.00
+pokerbrahs posts ante 750.00
+WincentWega posts ante 750.00
+getaxc56 posts ante 750.00
+getaxc56 posts the small blind 3000.00
+Allybee888 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [5h Qs]
+grotle folds
+FranchescoO folds
+hatemyfate folds
+CHETxxSteadman folds
+pokerbrahs raises 12000.00 to 12000.00
+WincentWega calls 12000.00
+getaxc56 raises 51000.00 to 54000.00
+Allybee888 folds
+pokerbrahs folds
+WincentWega folds
+Uncalled bet (42000.00) returned to getaxc56
+getaxc56 does not show
+*** SUMMARY ***
+Total pot 48000.00
+Seat 1: Allybee888 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: FranchescoO folded on the Pre-Flop and did not bet
+Seat 4: hatemyfate folded on the Pre-Flop and did not bet
+Seat 5: CHETxxSteadman folded on the Pre-Flop and did not bet
+Seat 6: pokerbrahs folded on the Pre-Flop and did not bet
+Seat 7: WincentWega (button) folded on the Pre-Flop
+Seat 8: getaxc56 did not show and won 48000.00
+
+Game Hand #2485442232 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:18:05 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 1: Allybee888 (433368.00)
+Seat 2: grotle (84875.00)
+Seat 3: FranchescoO (579814.00)
+Seat 4: hatemyfate (134536.00)
+Seat 5: CHETxxSteadman (677832.00)
+Seat 6: pokerbrahs (597276.00)
+Seat 7: WincentWega (314865.00)
+Seat 8: getaxc56 (272247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+hatemyfate posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+Allybee888 posts the small blind 4000.00
+grotle posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [8c 4c]
+FranchescoO folds
+hatemyfate raises 16000.00 to 16000.00
+CHETxxSteadman folds
+pokerbrahs folds
+WincentWega folds
+getaxc56 folds
+Allybee888 folds
+grotle calls 8000.00
+*** FLOP *** [Js 9h 4h]
+Main pot 44000.00
+grotle checks
+hatemyfate bets 12000.00
+grotle raises 24000.00 to 24000.00
+hatemyfate calls 12000.00
+*** TURN *** [Js 9h 4h] [5h]
+Main pot 92000.00
+grotle checks
+hatemyfate checks
+*** RIVER *** [Js 9h 4h 5h] [7c]
+Main pot 92000.00
+grotle bets 43875.00 and is all-in
+hatemyfate folds
+Uncalled bet (43875.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 92000.00
+Board [Js 9h 4h 5h 7c]
+Seat 1: Allybee888 (small blind) folded on the Pre-Flop
+Seat 2: grotle did not show and won 92000.00
+Seat 3: FranchescoO folded on the Pre-Flop and did not bet
+Seat 4: hatemyfate folded on the River
+Seat 5: CHETxxSteadman folded on the Pre-Flop and did not bet
+Seat 6: pokerbrahs folded on the Pre-Flop and did not bet
+Seat 7: WincentWega folded on the Pre-Flop and did not bet
+Seat 8: getaxc56 (button) folded on the Pre-Flop
+
+Game Hand #2485442739 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:19:15 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Allybee888 (428368.00)
+Seat 2: grotle (135875.00)
+Seat 3: FranchescoO (578814.00)
+Seat 4: hatemyfate (93536.00)
+Seat 5: CHETxxSteadman (676832.00)
+Seat 6: pokerbrahs (596276.00)
+Seat 7: WincentWega (313865.00)
+Seat 8: getaxc56 (271247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+hatemyfate posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+grotle posts the small blind 4000.00
+FranchescoO posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [8c 5s]
+hatemyfate folds
+CHETxxSteadman folds
+pokerbrahs folds
+WincentWega folds
+getaxc56 folds
+Allybee888 calls 8000.00
+grotle folds
+FranchescoO raises 20000.00 to 28000.00
+Allybee888 calls 20000.00
+*** FLOP *** [Th 6d 2s]
+Main pot 68000.00
+FranchescoO bets 20400.00
+Allybee888 calls 20400.00
+*** TURN *** [Th 6d 2s] [Tc]
+Main pot 108800.00
+FranchescoO bets 54400.00
+Allybee888 calls 54400.00
+*** RIVER *** [Th 6d 2s Tc] [2d]
+Main pot 217600.00
+FranchescoO bets 163200.00
+Allybee888 calls 163200.00
+*** SHOW DOWN ***
+Main pot 544000.00
+Allybee888 shows [5d 5h] (two pair, Tens and Fives [Th Tc 5h 5d 6d])
+FranchescoO shows [Qh Td] (a full house, Tens full of Deuces [Th Td Tc 2s 2d])
+FranchescoO collected 544000.00 from main pot
+*** SUMMARY ***
+Total pot 544000.00
+Board [Th 6d 2s Tc 2d]
+Seat 1: Allybee888 (button) showed [5d 5h] and lost with two pair, Tens and Fives [Th Tc 5h 5d 6d]
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: FranchescoO (big blind) showed [Qh Td] and won 544000.00 with a full house, Tens full of Deuces [Th Td Tc 2s 2d]
+Seat 4: hatemyfate folded on the Pre-Flop and did not bet
+Seat 5: CHETxxSteadman folded on the Pre-Flop and did not bet
+Seat 6: pokerbrahs folded on the Pre-Flop and did not bet
+Seat 7: WincentWega folded on the Pre-Flop and did not bet
+Seat 8: getaxc56 folded on the Pre-Flop and did not bet
+
+Game Hand #2485443070 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:20:03 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Allybee888 (161368.00)
+Seat 2: grotle (130875.00)
+Seat 3: FranchescoO (855814.00)
+Seat 4: hatemyfate (92536.00)
+Seat 5: CHETxxSteadman (675832.00)
+Seat 6: pokerbrahs (595276.00)
+Seat 7: WincentWega (312865.00)
+Seat 8: getaxc56 (270247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+hatemyfate posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+FranchescoO posts the small blind 4000.00
+hatemyfate posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [Kc 4s]
+CHETxxSteadman raises 20000.00 to 20000.00
+pokerbrahs calls 20000.00
+WincentWega folds
+getaxc56 folds
+Allybee888 calls 20000.00
+grotle folds
+FranchescoO folds
+hatemyfate calls 12000.00
+*** FLOP *** [7s Jc 6c]
+Main pot 92000.00
+hatemyfate bets 71536.00 and is all-in
+CHETxxSteadman raises 654832.00 to 654832.00 and is all-in
+pokerbrahs folds
+Allybee888 folds
+Uncalled bet (583296.00) returned to CHETxxSteadman
+*** TURN *** [7s Jc 6c] [Ac]
+Main pot 235072.00
+*** RIVER *** [7s Jc 6c Ac] [3s]
+Main pot 235072.00
+*** SHOW DOWN ***
+Main pot 235072.00
+hatemyfate shows [Jd 9d] (a pair of Jacks [Jd Jc Ac 9d 7s])
+CHETxxSteadman shows [Jh Ad] (two pair, Aces and Jacks [Ad Ac Jh Jc 7s])
+CHETxxSteadman collected 235072.00 from main pot
+*** SUMMARY ***
+Total pot 235072.00
+Board [7s Jc 6c Ac 3s]
+Seat 1: Allybee888 folded on the Flop
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: FranchescoO (small blind) folded on the Pre-Flop
+Seat 4: hatemyfate (big blind) showed [Jd 9d] and lost with a pair of Jacks [Jd Jc Ac 9d 7s]
+Seat 5: CHETxxSteadman showed [Jh Ad] and won 235072.00 with two pair, Aces and Jacks [Ad Ac Jh Jc 7s]
+Seat 6: pokerbrahs folded on the Flop
+Seat 7: WincentWega folded on the Pre-Flop and did not bet
+Seat 8: getaxc56 folded on the Pre-Flop and did not bet
+
+Game Hand #2485443466 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:20:59 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Allybee888 (140368.00)
+Seat 2: grotle (129875.00)
+Seat 3: FranchescoO (850814.00)
+Seat 5: CHETxxSteadman (818368.00)
+Seat 6: pokerbrahs (574276.00)
+Seat 7: WincentWega (311865.00)
+Seat 8: getaxc56 (269247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+CHETxxSteadman posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [6d 3c]
+pokerbrahs folds
+WincentWega folds
+getaxc56 folds
+Allybee888 calls 8000.00
+grotle folds
+FranchescoO folds
+CHETxxSteadman checks
+*** FLOP *** [5c Kd Th]
+Main pot 23000.00
+CHETxxSteadman checks
+Allybee888 checks
+*** TURN *** [5c Kd Th] [5h]
+Main pot 23000.00
+CHETxxSteadman bets 12000.00
+Allybee888 folds
+Uncalled bet (12000.00) returned to CHETxxSteadman
+CHETxxSteadman does not show
+*** SUMMARY ***
+Total pot 23000.00
+Board [5c Kd Th 5h]
+Seat 1: Allybee888 folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: FranchescoO (button) folded on the Pre-Flop
+Seat 5: CHETxxSteadman did not show and won 23000.00
+Seat 6: pokerbrahs folded on the Pre-Flop and did not bet
+Seat 7: WincentWega folded on the Pre-Flop and did not bet
+Seat 8: getaxc56 folded on the Pre-Flop and did not bet
+
+Game Hand #2485443755 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:21:43 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: Allybee888 (131368.00)
+Seat 2: grotle (128875.00)
+Seat 3: FranchescoO (849814.00)
+Seat 4: zeba1903 will be allowed to play after the button
+Seat 5: CHETxxSteadman (832368.00)
+Seat 6: pokerbrahs (573276.00)
+Seat 7: WincentWega (310865.00)
+Seat 8: getaxc56 (268247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+CHETxxSteadman posts the small blind 4000.00
+pokerbrahs posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [Kc 2c]
+WincentWega raises 17600.00 to 17600.00
+getaxc56 folds
+Allybee888 calls 17600.00
+grotle folds
+FranchescoO folds
+CHETxxSteadman calls 13600.00
+pokerbrahs folds
+*** FLOP *** [7h 7s Ad]
+Main pot 67800.00
+CHETxxSteadman checks
+WincentWega checks
+Allybee888 checks
+*** TURN *** [7h 7s Ad] [Ks]
+Main pot 67800.00
+CHETxxSteadman checks
+WincentWega checks
+Allybee888 checks
+*** RIVER *** [7h 7s Ad Ks] [Ah]
+Main pot 67800.00
+CHETxxSteadman checks
+WincentWega checks
+Allybee888 checks
+*** SHOW DOWN ***
+Main pot 67800.00
+Allybee888 shows [6c 5c] (two pair, Aces and Sevens [Ah Ad 7s 7h Ks])
+CHETxxSteadman shows [Qh 5h] (two pair, Aces and Sevens [Ah Ad 7s 7h Ks])
+WincentWega shows [Qd Qc] (two pair, Aces and Queens [Ah Ad Qd Qc Ks])
+WincentWega collected 67800.00 from main pot
+*** SUMMARY ***
+Total pot 67800.00
+Board [7h 7s Ad Ks Ah]
+Seat 1: Allybee888 showed [6c 5c] and lost with two pair, Aces and Sevens [Ah Ad 7s 7h Ks]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: FranchescoO folded on the Pre-Flop and did not bet
+Seat 5: CHETxxSteadman (small blind) showed [Qh 5h] and lost with two pair, Aces and Sevens [Ah Ad 7s 7h Ks]
+Seat 6: pokerbrahs (big blind) folded on the Pre-Flop
+Seat 7: WincentWega showed [Qd Qc] and won 67800.00 with two pair, Aces and Queens [Ah Ad Qd Qc Ks]
+Seat 8: getaxc56 folded on the Pre-Flop and did not bet
+
+Game Hand #2485444270 - Tournament #33616317 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/20 15:23:00 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: Allybee888 (112768.00)
+Seat 2: grotle (127875.00)
+Seat 3: FranchescoO (848814.00)
+Seat 4: zeba1903 (428668.00)
+Seat 5: CHETxxSteadman (813768.00)
+Seat 6: pokerbrahs (564276.00)
+Seat 7: WincentWega (360065.00)
+Seat 8: getaxc56 (267247.00)
+Allybee888 posts ante 1000.00
+grotle posts ante 1000.00
+FranchescoO posts ante 1000.00
+zeba1903 posts ante 1000.00
+CHETxxSteadman posts ante 1000.00
+pokerbrahs posts ante 1000.00
+WincentWega posts ante 1000.00
+getaxc56 posts ante 1000.00
+pokerbrahs posts the small blind 4000.00
+WincentWega posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [Kd 2d]
+getaxc56 folds
+Allybee888 folds
+grotle raises 16000.00 to 16000.00
+FranchescoO folds
+zeba1903 folds
+CHETxxSteadman calls 16000.00
+pokerbrahs folds
+WincentWega folds
+*** FLOP *** [Jd Tc 2s]
+Main pot 52000.00
+grotle bets 110875.00 and is all-in
+CHETxxSteadman calls 110875.00
+*** TURN *** [Jd Tc 2s] [Jh]
+Main pot 273750.00
+*** RIVER *** [Jd Tc 2s Jh] [As]
+Main pot 273750.00
+*** SHOW DOWN ***
+Main pot 273750.00
+grotle shows [Kd 2d] (two pair, Jacks and Deuces [Jh Jd 2s 2d As])
+CHETxxSteadman shows [Jc Qc] (three of a kind, Set of Jacks [Jh Jd Jc As Qc])
+CHETxxSteadman collected 273750.00 from main pot
+*** SUMMARY ***
+Total pot 273750.00
+Board [Jd Tc 2s Jh As]
+Seat 1: Allybee888 folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Kd 2d] and lost with two pair, Jacks and Deuces [Jh Jd 2s 2d As]
+Seat 3: FranchescoO folded on the Pre-Flop and did not bet
+Seat 4: zeba1903 folded on the Pre-Flop and did not bet
+Seat 5: CHETxxSteadman (button) showed [Jc Qc] and won 273750.00 with three of a kind, Set of Jacks [Jh Jd Jc As Qc]
+Seat 6: pokerbrahs (small blind) folded on the Pre-Flop
+Seat 7: WincentWega (big blind) folded on the Pre-Flop
+Seat 8: getaxc56 folded on the Pre-Flop and did not bet
+

@@ -1,0 +1,672 @@
+Game Hand #2485434715 - Tournament #33616407 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/20 14:54:54 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: gluke21 (306370.00)
+Seat 2: OMEGATILT (115189.00)
+Seat 3: Whore0fBabylon (47550.00)
+Seat 4: Hotrod417 (269114.00)
+Seat 5: TolokonnikovAV (82987.00)
+Seat 6: ukeyyo (261690.00)
+Seat 7: StopPush (152287.00)
+Seat 8: grotle (100000.00)
+gluke21 posts ante 350.00
+OMEGATILT posts ante 350.00
+Whore0fBabylon posts ante 350.00
+Hotrod417 posts ante 350.00
+TolokonnikovAV posts ante 350.00
+ukeyyo posts ante 350.00
+StopPush posts ante 350.00
+grotle posts ante 350.00
+TolokonnikovAV posts the small blind 1400.00
+ukeyyo posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Qh 9h]
+StopPush folds
+grotle folds
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 folds
+TolokonnikovAV folds
+ukeyyo does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 (button) folded on the Pre-Flop
+Seat 5: TolokonnikovAV (small blind) folded on the Pre-Flop
+Seat 6: ukeyyo did not show and won 7000.00
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485435700 - Tournament #33616407 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/20 15:01:13 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: gluke21 (306020.00)
+Seat 2: OMEGATILT (114839.00)
+Seat 3: Whore0fBabylon (47200.00)
+Seat 4: Hotrod417 (268764.00)
+Seat 5: TolokonnikovAV (81237.00)
+Seat 6: ukeyyo (265540.00)
+Seat 7: StopPush (151937.00)
+Seat 8: grotle (99650.00)
+gluke21 posts ante 350.00
+OMEGATILT posts ante 350.00
+Whore0fBabylon posts ante 350.00
+Hotrod417 posts ante 350.00
+TolokonnikovAV posts ante 350.00
+ukeyyo posts ante 350.00
+StopPush posts ante 350.00
+grotle posts ante 350.00
+ukeyyo posts the small blind 1400.00
+StopPush posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ts 9d]
+grotle folds
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 folds
+TolokonnikovAV raises 5600.00 to 5600.00
+ukeyyo folds
+StopPush raises 148787.00 to 151587.00 and is all-in
+TolokonnikovAV folds
+Uncalled bet (145987.00) returned to StopPush
+StopPush does not show
+*** SUMMARY ***
+Total pot 15400.00
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 folded on the Pre-Flop and did not bet
+Seat 5: TolokonnikovAV (button) folded on the Pre-Flop
+Seat 6: ukeyyo (small blind) folded on the Pre-Flop
+Seat 7: StopPush did not show and won 15400.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485435915 - Tournament #33616407 - Holdem (No Limit) - Level 8 (1400.00/2800.00) - 2025/06/20 15:01:59 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: gluke21 (305670.00)
+Seat 2: OMEGATILT (114489.00)
+Seat 3: Whore0fBabylon (46850.00)
+Seat 4: Hotrod417 (268414.00)
+Seat 5: TolokonnikovAV (75287.00)
+Seat 6: ukeyyo (263790.00)
+Seat 7: StopPush (161387.00)
+Seat 8: grotle (99300.00)
+gluke21 posts ante 350.00
+OMEGATILT posts ante 350.00
+Whore0fBabylon posts ante 350.00
+Hotrod417 posts ante 350.00
+TolokonnikovAV posts ante 350.00
+ukeyyo posts ante 350.00
+StopPush posts ante 350.00
+grotle posts ante 350.00
+StopPush posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Qc Ts]
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon raises 5600.00 to 5600.00
+Hotrod417 calls 5600.00
+TolokonnikovAV folds
+ukeyyo folds
+StopPush folds
+grotle calls 2800.00
+*** FLOP *** [5s 4s 7c]
+Main pot 21000.00
+grotle checks
+Whore0fBabylon checks
+Hotrod417 bets 21000.00
+grotle folds
+Whore0fBabylon folds
+Uncalled bet (21000.00) returned to Hotrod417
+Hotrod417 does not show
+*** SUMMARY ***
+Total pot 21000.00
+Board [5s 4s 7c]
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Flop
+Seat 4: Hotrod417 did not show and won 21000.00
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo (button) folded on the Pre-Flop
+Seat 7: StopPush (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Flop
+
+Game Hand #2485436251 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:03:00 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: gluke21 (305320.00)
+Seat 2: OMEGATILT (114139.00)
+Seat 3: Whore0fBabylon (40900.00)
+Seat 4: Hotrod417 (283464.00)
+Seat 5: TolokonnikovAV (74937.00)
+Seat 6: ukeyyo (263440.00)
+Seat 7: StopPush (159637.00)
+Seat 8: grotle (93350.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+grotle posts the small blind 1600.00
+gluke21 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [3d 7d]
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 folds
+TolokonnikovAV folds
+ukeyyo raises 8000.00 to 8000.00
+StopPush raises 25600.00 to 25600.00
+grotle folds
+gluke21 folds
+ukeyyo raises 255040.00 to 263040.00 and is all-in
+StopPush folds
+Uncalled bet (237440.00) returned to ukeyyo
+ukeyyo does not show
+*** SUMMARY ***
+Total pot 59200.00
+Seat 1: gluke21 (big blind) folded on the Pre-Flop
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 folded on the Pre-Flop and did not bet
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo did not show and won 59200.00
+Seat 7: StopPush (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2485436577 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:03:57 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: gluke21 (301720.00)
+Seat 2: OMEGATILT (113739.00)
+Seat 3: Whore0fBabylon (40500.00)
+Seat 4: Hotrod417 (283064.00)
+Seat 5: TolokonnikovAV (74537.00)
+Seat 6: ukeyyo (296640.00)
+Seat 7: StopPush (133637.00)
+Seat 8: grotle (91350.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+gluke21 posts the small blind 1600.00
+OMEGATILT posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [8c 7h]
+Whore0fBabylon folds
+Hotrod417 raises 8800.00 to 8800.00
+TolokonnikovAV folds
+ukeyyo calls 8800.00
+StopPush folds
+grotle folds
+gluke21 folds
+OMEGATILT raises 110139.00 to 113339.00 and is all-in
+Hotrod417 folds
+ukeyyo folds
+Uncalled bet (104539.00) returned to OMEGATILT
+OMEGATILT does not show
+*** SUMMARY ***
+Total pot 31200.00
+Seat 1: gluke21 (small blind) folded on the Pre-Flop
+Seat 2: OMEGATILT did not show and won 31200.00
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 folded on the Pre-Flop and did not bet
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo folded on the Pre-Flop and did not bet
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2485437233 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:05:47 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: gluke21 (299720.00)
+Seat 2: OMEGATILT (135739.00)
+Seat 3: Whore0fBabylon (40100.00)
+Seat 4: Hotrod417 (273864.00)
+Seat 5: TolokonnikovAV (74137.00)
+Seat 6: ukeyyo (287440.00)
+Seat 7: StopPush (133237.00)
+Seat 8: grotle (90950.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+OMEGATILT posts the small blind 1600.00
+Whore0fBabylon posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [6c 5c]
+Hotrod417 raises 6400.00 to 6400.00
+TolokonnikovAV folds
+ukeyyo folds
+StopPush folds
+grotle calls 6400.00
+gluke21 folds
+OMEGATILT calls 4800.00
+Whore0fBabylon folds
+*** FLOP *** [2c Qc 7c]
+Main pot 25600.00
+OMEGATILT checks
+Hotrod417 checks
+grotle bets 8000.00
+OMEGATILT folds
+Hotrod417 folds
+Uncalled bet (8000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 25600.00
+Board [2c Qc 7c]
+Seat 1: gluke21 (button) folded on the Pre-Flop
+Seat 2: OMEGATILT (small blind) folded on the Flop
+Seat 3: Whore0fBabylon (big blind) folded on the Pre-Flop
+Seat 4: Hotrod417 folded on the Flop
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo folded on the Pre-Flop and did not bet
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 25600.00
+
+Game Hand #2485437746 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:07:12 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: gluke21 (299320.00)
+Seat 2: OMEGATILT (128939.00)
+Seat 3: Whore0fBabylon (36500.00)
+Seat 4: Hotrod417 (267064.00)
+Seat 5: TolokonnikovAV (73737.00)
+Seat 6: ukeyyo (287040.00)
+Seat 7: StopPush (132837.00)
+Seat 8: grotle (109750.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+Whore0fBabylon posts the small blind 1600.00
+Hotrod417 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Jd Kh]
+TolokonnikovAV raises 6400.00 to 6400.00
+ukeyyo folds
+StopPush folds
+grotle calls 6400.00
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 calls 3200.00
+*** FLOP *** [Ks 7d 7h]
+Main pot 24000.00
+Hotrod417 checks
+TolokonnikovAV bets 6000.00
+grotle calls 6000.00
+Hotrod417 folds
+*** TURN *** [Ks 7d 7h] [5h]
+Main pot 36000.00
+TolokonnikovAV checks
+grotle checks
+*** RIVER *** [Ks 7d 7h 5h] [7c]
+Main pot 36000.00
+TolokonnikovAV checks
+grotle bets 18000.00
+TolokonnikovAV folds
+Uncalled bet (18000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 36000.00
+Board [Ks 7d 7h 5h 7c]
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT (button) folded on the Pre-Flop
+Seat 3: Whore0fBabylon (small blind) folded on the Pre-Flop
+Seat 4: Hotrod417 (big blind) folded on the Flop
+Seat 5: TolokonnikovAV folded on the River
+Seat 6: ukeyyo folded on the Pre-Flop and did not bet
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 36000.00
+
+Game Hand #2485438368 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:08:52 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: gluke21 (298920.00)
+Seat 2: OMEGATILT (128539.00)
+Seat 3: Whore0fBabylon (34500.00)
+Seat 4: Hotrod417 (260264.00)
+Seat 5: TolokonnikovAV (60937.00)
+Seat 6: ukeyyo (286640.00)
+Seat 7: StopPush (132437.00)
+Seat 8: grotle (132950.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+Hotrod417 posts the small blind 1600.00
+TolokonnikovAV posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [8c 6h]
+ukeyyo raises 6400.00 to 6400.00
+StopPush folds
+grotle folds
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 folds
+TolokonnikovAV folds
+Uncalled bet (3200.00) returned to ukeyyo
+ukeyyo does not show
+*** SUMMARY ***
+Total pot 11200.00
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon (button) folded on the Pre-Flop
+Seat 4: Hotrod417 (small blind) folded on the Pre-Flop
+Seat 5: TolokonnikovAV (big blind) folded on the Pre-Flop
+Seat 6: ukeyyo did not show and won 11200.00
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485438739 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:09:56 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: gluke21 (298520.00)
+Seat 2: OMEGATILT (128139.00)
+Seat 3: Whore0fBabylon (34100.00)
+Seat 4: Hotrod417 (258264.00)
+Seat 5: TolokonnikovAV (57337.00)
+Seat 6: ukeyyo (294240.00)
+Seat 7: StopPush (132037.00)
+Seat 8: grotle (132550.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+TolokonnikovAV posts the small blind 1600.00
+ukeyyo posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [7d As]
+StopPush raises 6400.00 to 6400.00
+grotle calls 6400.00
+gluke21 calls 6400.00
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 folds
+TolokonnikovAV folds
+ukeyyo folds
+*** FLOP *** [Ad 6h 7h]
+Main pot 27200.00
+StopPush checks
+grotle checks
+gluke21 checks
+*** TURN *** [Ad 6h 7h] [Th]
+Main pot 27200.00
+StopPush bets 20400.00
+grotle calls 20400.00
+gluke21 folds
+*** RIVER *** [Ad 6h 7h Th] [Tc]
+Main pot 68000.00
+StopPush checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 68000.00
+StopPush shows [9c Jc] (a pair of Tens [Th Tc Ad Jc 9c])
+grotle shows [7d As] (two pair, Aces and Tens [As Ad Th Tc 7h])
+grotle collected 68000.00 from main pot
+*** SUMMARY ***
+Total pot 68000.00
+Board [Ad 6h 7h Th Tc]
+Seat 1: gluke21 folded on the Turn
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 (button) folded on the Pre-Flop
+Seat 5: TolokonnikovAV (small blind) folded on the Pre-Flop
+Seat 6: ukeyyo (big blind) folded on the Pre-Flop
+Seat 7: StopPush showed [9c Jc] and lost with a pair of Tens [Th Tc Ad Jc 9c]
+Seat 8: grotle showed [7d As] and won 68000.00 with two pair, Aces and Tens [As Ad Th Tc 7h]
+
+Game Hand #2485439527 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:11:43 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: gluke21 (291720.00)
+Seat 2: OMEGATILT (127739.00)
+Seat 3: Whore0fBabylon (33700.00)
+Seat 4: Hotrod417 (257864.00)
+Seat 5: TolokonnikovAV (55337.00)
+Seat 6: ukeyyo (290640.00)
+Seat 7: StopPush (104837.00)
+Seat 8: grotle (173350.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+ukeyyo posts the small blind 1600.00
+StopPush posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [9h Qd]
+grotle folds
+gluke21 folds
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 raises 6400.00 to 6400.00
+TolokonnikovAV folds
+ukeyyo raises 30400.00 to 32000.00
+StopPush folds
+Hotrod417 folds
+Uncalled bet (25600.00) returned to ukeyyo
+ukeyyo does not show
+*** SUMMARY ***
+Total pot 19200.00
+Seat 1: gluke21 folded on the Pre-Flop and did not bet
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 folded on the Pre-Flop and did not bet
+Seat 5: TolokonnikovAV (button) folded on the Pre-Flop
+Seat 6: ukeyyo did not show and won 19200.00
+Seat 7: StopPush (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485439928 - Tournament #33616407 - Holdem (No Limit) - Level 9 (1600.00/3200.00) - 2025/06/20 15:12:38 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: gluke21 (291320.00)
+Seat 2: OMEGATILT (127339.00)
+Seat 3: Whore0fBabylon (33300.00)
+Seat 4: Hotrod417 (251064.00)
+Seat 5: TolokonnikovAV (54937.00)
+Seat 6: ukeyyo (303040.00)
+Seat 7: StopPush (101237.00)
+Seat 8: grotle (172950.00)
+gluke21 posts ante 400.00
+OMEGATILT posts ante 400.00
+Whore0fBabylon posts ante 400.00
+Hotrod417 posts ante 400.00
+TolokonnikovAV posts ante 400.00
+ukeyyo posts ante 400.00
+StopPush posts ante 400.00
+grotle posts ante 400.00
+StopPush posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Ad 4h]
+gluke21 raises 6400.00 to 6400.00
+OMEGATILT folds
+Whore0fBabylon folds
+Hotrod417 calls 6400.00
+TolokonnikovAV folds
+ukeyyo calls 6400.00
+StopPush folds
+grotle folds
+*** FLOP *** [4c 5h Ah]
+Main pot 27200.00
+gluke21 bets 8704.00
+Hotrod417 folds
+ukeyyo folds
+Uncalled bet (8704.00) returned to gluke21
+gluke21 does not show
+*** SUMMARY ***
+Total pot 27200.00
+Board [4c 5h Ah]
+Seat 1: gluke21 did not show and won 27200.00
+Seat 2: OMEGATILT folded on the Pre-Flop and did not bet
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 folded on the Flop
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo (button) folded on the Flop
+Seat 7: StopPush (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Game Hand #2485440284 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:13:31 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: gluke21 (311720.00)
+Seat 2: OMEGATILT (126939.00)
+Seat 3: Whore0fBabylon (32900.00)
+Seat 4: Hotrod417 (244264.00)
+Seat 5: TolokonnikovAV (54537.00)
+Seat 6: ukeyyo (296240.00)
+Seat 7: StopPush (99237.00)
+Seat 8: grotle (169350.00)
+gluke21 posts ante 450.00
+OMEGATILT posts ante 450.00
+Whore0fBabylon posts ante 450.00
+Hotrod417 posts ante 450.00
+TolokonnikovAV posts ante 450.00
+ukeyyo posts ante 450.00
+StopPush posts ante 450.00
+grotle posts ante 450.00
+grotle posts the small blind 1800.00
+gluke21 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Td 6d]
+OMEGATILT raises 7200.00 to 7200.00
+Whore0fBabylon folds
+Hotrod417 calls 7200.00
+TolokonnikovAV folds
+ukeyyo folds
+StopPush folds
+grotle calls 5400.00
+gluke21 calls 3600.00
+*** FLOP *** [2s 3d Ah]
+Main pot 32400.00
+grotle checks
+gluke21 checks
+OMEGATILT checks
+Hotrod417 checks
+*** TURN *** [2s 3d Ah] [9s]
+Main pot 32400.00
+grotle checks
+gluke21 checks
+OMEGATILT checks
+Hotrod417 bets 16200.00
+grotle folds
+gluke21 folds
+OMEGATILT calls 16200.00
+*** RIVER *** [2s 3d Ah 9s] [4s]
+Main pot 64800.00
+OMEGATILT checks
+Hotrod417 checks
+*** SHOW DOWN ***
+Main pot 64800.00
+OMEGATILT shows [Qd Qs] (a pair of Queens [Qs Qd Ah 9s 4s])
+Hotrod417 shows [Qh Kd] (a high card, Ace high [Ah Kd Qh 9s 4s])
+OMEGATILT collected 64800.00 from main pot
+*** SUMMARY ***
+Total pot 64800.00
+Board [2s 3d Ah 9s 4s]
+Seat 1: gluke21 (big blind) folded on the Turn
+Seat 2: OMEGATILT showed [Qd Qs] and won 64800.00 with a pair of Queens [Qs Qd Ah 9s 4s]
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 showed [Qh Kd] and lost with a high card, Ace high [Ah Kd Qh 9s 4s]
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo folded on the Pre-Flop and did not bet
+Seat 7: StopPush (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Turn
+
+Game Hand #2485441077 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:15:22 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: gluke21 (304070.00)
+Seat 2: OMEGATILT (167889.00)
+Seat 3: Whore0fBabylon (32450.00)
+Seat 4: Hotrod417 (220414.00)
+Seat 5: TolokonnikovAV (54087.00)
+Seat 6: ukeyyo (295790.00)
+Seat 7: StopPush (98787.00)
+Seat 8: grotle (161700.00)
+gluke21 posts ante 450.00
+OMEGATILT posts ante 450.00
+Whore0fBabylon posts ante 450.00
+Hotrod417 posts ante 450.00
+TolokonnikovAV posts ante 450.00
+ukeyyo posts ante 450.00
+StopPush posts ante 450.00
+grotle posts ante 450.00
+gluke21 posts the small blind 1800.00
+OMEGATILT posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Ah 5d]
+Whore0fBabylon folds
+Hotrod417 raises 9900.00 to 9900.00
+TolokonnikovAV folds
+ukeyyo folds
+StopPush folds
+grotle calls 9900.00
+gluke21 folds
+OMEGATILT folds
+*** FLOP *** [6c Ks 3d]
+Main pot 28800.00
+Hotrod417 bets 7200.00
+grotle calls 7200.00
+*** TURN *** [6c Ks 3d] [3c]
+Main pot 43200.00
+Hotrod417 bets 32400.00
+grotle calls 32400.00
+*** RIVER *** [6c Ks 3d 3c] [2d]
+Main pot 108000.00
+Hotrod417 bets 81000.00
+grotle raises 111750.00 to 111750.00 and is all-in
+Hotrod417 calls 30750.00
+*** SHOW DOWN ***
+Main pot 331500.00
+Hotrod417 shows [Qc Kc] (two pair, Kings and Threes [Ks Kc 3d 3c Qc])
+grotle shows [Ah 5d] (a pair of Threes [3d 3c Ah Ks 6c])
+Hotrod417 collected 331500.00 from main pot
+*** SUMMARY ***
+Total pot 331500.00
+Board [6c Ks 3d 3c 2d]
+Seat 1: gluke21 (small blind) folded on the Pre-Flop
+Seat 2: OMEGATILT (big blind) folded on the Pre-Flop
+Seat 3: Whore0fBabylon folded on the Pre-Flop and did not bet
+Seat 4: Hotrod417 showed [Qc Kc] and won 331500.00 with two pair, Kings and Threes [Ks Kc 3d 3c Qc]
+Seat 5: TolokonnikovAV folded on the Pre-Flop and did not bet
+Seat 6: ukeyyo folded on the Pre-Flop and did not bet
+Seat 7: StopPush folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) showed [Ah 5d] and lost with a pair of Threes [3d 3c Ah Ks 6c]
+

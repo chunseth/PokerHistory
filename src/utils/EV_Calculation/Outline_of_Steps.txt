@@ -1,0 +1,51 @@
+25-Step Breakdown: Postflop EV Calculation for Poker Replayer
+1. Identify the Hand and Action to Analyze
+    Select the specific hand and the player action (bet, call, raise, fold) to evaluate.
+2. Determine the Street
+    Note whether the action occurs on the flop, turn, or river.
+3. Record the Pot Size Before the Action
+    Capture the pot size immediately before the player’s action.
+4. Record the Player’s Stack Size
+    Note the effective stack size for the player at the time of the action.
+5. Record the Bet Size (if applicable)
+    If the action is a bet or raise, record the amount.
+6. Record the Opponent’s Stack Size
+    Note the effective stack size for the opponent(s).
+7. Record the Board Cards
+    List the community cards visible at the time of the action.
+8. Record the Player’s Hole Cards
+    Note the player’s private cards (if available).
+9. Record the Opponent’s Range
+    Estimate the opponent’s possible hand range based on preflop and previous actions.
+10. Record the Player’s Range
+    Estimate the player’s own range at this point (if not using hole cards).
+11. Estimate Opponent’s Response Frequencies
+    Estimate the probability that the opponent will fold, call, or raise to the action.
+12. Estimate Equity vs. Opponent’s Calling Range
+    Calculate the player’s hand (or range) equity if the opponent calls.
+13. Estimate Equity vs. Opponent’s Raising Range
+    Calculate the player’s hand (or range) equity if the opponent raises.
+14. Calculate EV if Opponent Folds
+    Compute the expected value if the opponent folds (usually the pot size).
+15. Calculate EV if Opponent Calls
+    Compute the expected value if the opponent calls, using equity and pot odds.
+16. Calculate EV if Opponent Raises
+    Compute the expected value if the opponent raises, considering possible responses (fold, call, re-raise).
+17. Weight Each Outcome by Probability
+    Multiply each outcome’s EV by the estimated probability of that outcome.
+18. Sum the Weighted EVs
+    Add the weighted EVs for fold, call, and raise to get the total EV for the action.
+19. Compare to Alternative Actions
+    Repeat steps 5–18 for alternative actions (e.g., check, call, fold) to compare EVs.
+20. Determine the Highest EV Action
+    Identify which action has the highest expected value.
+21. Classify the Player’s Action as +EV or -EV
+    Compare the player’s actual action to the highest EV action to determine if it was +EV or -EV.
+22. Store the EV Calculation Results
+    Save the EV values and classification for later review or display.
+23. Display the EV Analysis in the Replayer UI
+    Show the EV calculation and classification for the action in the app’s interface.
+24. Repeat for Each Action in the Hand
+    Iterate through all player actions in the hand, repeating steps 1–23.
+25. Aggregate and Summarize EV Results for the Session
+    Provide a summary of +EV and -EV actions for the player across all analyzed hands.

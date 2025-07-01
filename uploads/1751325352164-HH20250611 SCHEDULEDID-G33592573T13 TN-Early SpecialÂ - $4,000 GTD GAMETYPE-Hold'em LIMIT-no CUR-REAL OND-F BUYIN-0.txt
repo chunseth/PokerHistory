@@ -1,0 +1,2311 @@
+Game Hand #2478787341 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:14:56 UTC
+Table '10' 8-max Seat #3 is the button
+Seat 1: Stayson22 (82790.00)
+Seat 2: EOBIXXX (90054.00)
+Seat 3: grotle (58208.00)
+Seat 4: NastyNa (287774.00)
+Seat 5: Belatrix35 (153797.00)
+Seat 6: Smithington100 (124062.00)
+Seat 7: dibraldim (167942.00)
+Seat 8: own3dddd (85750.00)
+Stayson22 posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Belatrix35 posts ante 300.00
+Smithington100 posts ante 300.00
+dibraldim posts ante 300.00
+own3dddd posts ante 300.00
+NastyNa posts the small blind 1200.00
+Belatrix35 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7c Jc]
+Smithington100 raises 5040.00 to 5040.00
+dibraldim folds
+own3dddd folds
+Stayson22 folds
+EOBIXXX folds
+grotle calls 5040.00
+NastyNa folds
+Belatrix35 calls 2640.00
+*** FLOP *** [7d 4c 2s]
+Main pot 18720.00
+Belatrix35 checks
+Smithington100 bets 4867.00
+grotle raises 19094.00 to 19094.00
+Belatrix35 folds
+Smithington100 calls 14227.00
+*** TURN *** [7d 4c 2s] [3d]
+Main pot 56908.00
+Smithington100 checks
+grotle bets 33774.00 and is all-in
+Smithington100 folds
+Uncalled bet (33774.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 56908.00
+Board [7d 4c 2s 3d]
+Seat 1: Stayson22 folded on the Pre-Flop and did not bet
+Seat 2: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won 56908.00
+Seat 4: NastyNa (small blind) folded on the Pre-Flop
+Seat 5: Belatrix35 (big blind) folded on the Flop
+Seat 6: Smithington100 folded on the Turn
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478787654 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:16:00 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: eew223 (100000.00)
+Seat 2: Stayson22 (82490.00)
+Seat 3: EOBIXXX (89754.00)
+Seat 4: grotle (90682.00)
+Seat 5: NastyNa (286274.00)
+eew223 posts ante 300.00
+Stayson22 posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Stayson22 posts the small blind 1200.00
+EOBIXXX posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1500.00
+Dealt to grotle [2h 4h]
+grotle folds
+NastyNa calls 2400.00
+eew223 raises 4800.00 to 4800.00
+Stayson22 raises 80990.00 to 82190.00 and is all-in
+EOBIXXX folds
+NastyNa calls 79790.00
+eew223 raises 94900.00 to 99700.00 and is all-in
+NastyNa calls 17510.00
+*** FLOP *** [Ts 3s 5h]
+Main pot 250470.00
+Side pot(1) 35020.00
+*** TURN *** [Ts 3s 5h] [9d]
+Main pot 250470.00
+Side pot(1) 35020.00
+*** RIVER *** [Ts 3s 5h 9d] [Kd]
+Main pot 250470.00
+Side pot(1) 35020.00
+*** SHOW DOWN ***
+Main pot 250470.00
+Side pot(1) 35020.00
+eew223 shows [7h 6h] (a high card, King high [Kd Ts 9d 7h 6h])
+Stayson22 shows [Jc Ad] (a high card, Ace high [Ad Kd Jc Ts 9d])
+NastyNa shows [As Ks] (a pair of Kings [Ks Kd As Ts 9d])
+NastyNa collected 250470.00 from main pot
+NastyNa collected 35020.00 from side pot-1
+*** SUMMARY ***
+Total pot 285490.00
+Board [Ts 3s 5h 9d Kd]
+Seat 1: eew223 (button) showed [7h 6h] and lost with a high card, King high [Kd Ts 9d 7h 6h]
+Seat 2: Stayson22 (small blind) showed [Jc Ad] and lost with a high card, Ace high [Ad Kd Jc Ts 9d]
+Seat 3: EOBIXXX (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa showed [As Ks] and won 285490.00 with a pair of Kings [Ks Kd As Ts 9d]
+
+Game Hand #2478787912 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:16:55 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: LocDog44 (99100.00)
+Seat 3: EOBIXXX (87054.00)
+Seat 4: grotle (90382.00)
+Seat 5: NastyNa (471764.00)
+Seat 6: Jogador23 (172841.00)
+Seat 7: Favorito (40661.00)
+LocDog44 posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+EOBIXXX posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [5s 2c]
+NastyNa folds
+Jogador23 raises 4800.00 to 4800.00
+Favorito folds
+LocDog44 folds
+EOBIXXX folds
+grotle folds
+Uncalled bet (2400.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 7800.00
+Seat 1: LocDog44 folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 did not show and won 7800.00
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+
+Game Hand #2478788193 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:17:52 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: LocDog44 (98800.00)
+Seat 2: Peledeboi (113966.00)
+Seat 3: EOBIXXX (85554.00)
+Seat 4: grotle (87682.00)
+Seat 5: NastyNa (471464.00)
+Seat 6: Jogador23 (177941.00)
+Seat 7: Favorito (40361.00)
+Seat 8: eew223 (100000.00)
+LocDog44 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+grotle posts the small blind 1200.00
+NastyNa posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [9h Jc]
+Jogador23 raises 4800.00 to 4800.00
+Favorito raises 40061.00 to 40061.00 and is all-in
+eew223 folds
+LocDog44 folds
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa folds
+Jogador23 folds
+Uncalled bet (35261.00) returned to Favorito
+Favorito does not show
+*** SUMMARY ***
+Total pot 15600.00
+Seat 1: LocDog44 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: NastyNa (big blind) folded on the Pre-Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito did not show and won 15600.00
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478788416 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:18:40 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: LocDog44 (98500.00)
+Seat 2: Peledeboi (113666.00)
+Seat 3: EOBIXXX (85254.00)
+Seat 4: grotle (86182.00)
+Seat 5: NastyNa (468764.00)
+Seat 6: Jogador23 (172841.00)
+Seat 7: Favorito (50861.00)
+Seat 8: eew223 (99700.00)
+LocDog44 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+NastyNa posts the small blind 1200.00
+Jogador23 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Ad 4c]
+Favorito raises 4800.00 to 4800.00
+eew223 folds
+LocDog44 folds
+Peledeboi folds
+EOBIXXX folds
+grotle calls 4800.00
+NastyNa folds
+Jogador23 calls 2400.00
+*** FLOP *** [2d 3d 7s]
+Main pot 18000.00
+Jogador23 checks
+Favorito checks
+grotle bets 9000.00
+Jogador23 folds
+Favorito folds
+Uncalled bet (9000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 18000.00
+Board [2d 3d 7s]
+Seat 1: LocDog44 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won 18000.00
+Seat 5: NastyNa (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) folded on the Flop
+Seat 7: Favorito folded on the Flop
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478788669 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:19:28 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: LocDog44 (98200.00)
+Seat 2: Peledeboi (113366.00)
+Seat 3: EOBIXXX (84954.00)
+Seat 4: grotle (99082.00)
+Seat 5: NastyNa (467264.00)
+Seat 6: Jogador23 (167741.00)
+Seat 7: Favorito (45761.00)
+Seat 8: eew223 (99400.00)
+LocDog44 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+Jogador23 posts the small blind 1200.00
+Favorito posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Qs 6c]
+eew223 raises 4800.00 to 4800.00
+LocDog44 folds
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito calls 2400.00
+*** FLOP *** [2d Ah Jd]
+Main pot 13200.00
+Favorito checks
+eew223 bets 6600.00
+Favorito folds
+Uncalled bet (6600.00) returned to eew223
+eew223 does not show
+*** SUMMARY ***
+Total pot 13200.00
+Board [2d Ah Jd]
+Seat 1: LocDog44 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa (button) folded on the Pre-Flop
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: Favorito (big blind) folded on the Flop
+Seat 8: eew223 did not show and won 13200.00
+
+Game Hand #2478788921 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:20:17 UTC
+Table '13' 8-max Seat #6 is the button
+Seat 1: LocDog44 (97900.00)
+Seat 2: Peledeboi (113066.00)
+Seat 3: EOBIXXX (84654.00)
+Seat 4: grotle (98782.00)
+Seat 5: NastyNa (466964.00)
+Seat 6: Jogador23 (166241.00)
+Seat 7: Favorito (40661.00)
+Seat 8: eew223 (107500.00)
+LocDog44 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+Favorito posts the small blind 1200.00
+eew223 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [7h 8s]
+LocDog44 folds
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa raises 7200.00 to 7200.00
+Jogador23 folds
+Favorito folds
+eew223 calls 4800.00
+*** FLOP *** [4d 2c 9s]
+Main pot 18000.00
+eew223 checks
+NastyNa bets 19200.00
+eew223 calls 19200.00
+*** TURN *** [4d 2c 9s] [8d]
+Main pot 56400.00
+eew223 checks
+NastyNa checks
+*** RIVER *** [4d 2c 9s 8d] [Ks]
+Main pot 56400.00
+eew223 checks
+NastyNa checks
+*** SHOW DOWN ***
+Main pot 56400.00
+NastyNa shows [Th Jd] (a high card, King high [Ks Jd Th 9s 8d])
+eew223 shows [Jc 9c] (a pair of Nines [9s 9c Ks Jc 8d])
+eew223 collected 56400.00 from main pot
+*** SUMMARY ***
+Total pot 56400.00
+Board [4d 2c 9s 8d Ks]
+Seat 1: LocDog44 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa showed [Th Jd] and lost with a high card, King high [Ks Jd Th 9s 8d]
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: Favorito (small blind) folded on the Pre-Flop
+Seat 8: eew223 (big blind) showed [Jc 9c] and won 56400.00 with a pair of Nines [9s 9c Ks Jc 8d]
+
+Game Hand #2478789272 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:21:29 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: LocDog44 (97600.00)
+Seat 2: Peledeboi (112766.00)
+Seat 3: EOBIXXX (84354.00)
+Seat 4: grotle (98482.00)
+Seat 5: NastyNa (440264.00)
+Seat 6: Jogador23 (165941.00)
+Seat 7: Favorito (39161.00)
+Seat 8: eew223 (137200.00)
+LocDog44 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+eew223 posts the small blind 1200.00
+LocDog44 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [Ts Ah]
+Peledeboi folds
+EOBIXXX folds
+grotle raises 4800.00 to 4800.00
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 calls 3600.00
+LocDog44 calls 2400.00
+*** FLOP *** [6d 9s 7d]
+Main pot 16800.00
+eew223 checks
+LocDog44 checks
+grotle bets 6000.00
+eew223 calls 6000.00
+LocDog44 raises 27768.00 to 27768.00
+grotle calls 21768.00
+eew223 folds
+*** TURN *** [6d 9s 7d] [Jh]
+Main pot 78336.00
+LocDog44 bets 64732.00 and is all-in
+grotle calls 64732.00
+*** RIVER *** [6d 9s 7d Jh] [8c]
+Main pot 207800.00
+*** SHOW DOWN ***
+Main pot 207800.00
+LocDog44 shows [9h 9c] (three of a kind, Set of Nines [9s 9h 9c Jh 8c])
+grotle shows [Ts Ah] (a straight, Jack high [Jh Ts 9s 8c 7d])
+grotle collected 207800.00 from main pot
+*** SUMMARY ***
+Total pot 207800.00
+Board [6d 9s 7d Jh 8c]
+Seat 1: LocDog44 (big blind) showed [9h 9c] and lost with three of a kind, Set of Nines [9s 9h 9c Jh 8c]
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Ts Ah] and won 207800.00 with a straight, Jack high [Jh Ts 9s 8c 7d]
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito (button) folded on the Pre-Flop
+Seat 8: eew223 (small blind) folded on the Flop
+
+Game Hand #2478789970 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:23:48 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 2: Peledeboi (112466.00)
+Seat 3: EOBIXXX (84054.00)
+Seat 4: grotle (208682.00)
+Seat 5: NastyNa (439964.00)
+Seat 6: Jogador23 (165641.00)
+Seat 7: Favorito (38861.00)
+Seat 8: eew223 (126100.00)
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+Peledeboi posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [2s 5d]
+EOBIXXX raises 4800.00 to 4800.00
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito raises 38561.00 to 38561.00 and is all-in
+eew223 folds
+Peledeboi folds
+EOBIXXX calls 33761.00
+*** FLOP *** [9s 2c Kh]
+Main pot 81622.00
+*** TURN *** [9s 2c Kh] [Jh]
+Main pot 81622.00
+*** RIVER *** [9s 2c Kh Jh] [Ts]
+Main pot 81622.00
+*** SHOW DOWN ***
+Main pot 81622.00
+EOBIXXX shows [Qd Kd] (a straight, King high [Kh Qd Jh Ts 9s])
+Favorito shows [As Qs] (a straight, Ace high [As Kh Qs Jh Ts])
+Favorito collected 81622.00 from main pot
+*** SUMMARY ***
+Total pot 81622.00
+Board [9s 2c Kh Jh Ts]
+Seat 2: Peledeboi (big blind) folded on the Pre-Flop
+Seat 3: EOBIXXX showed [Qd Kd] and lost with a straight, King high [Kh Qd Jh Ts 9s]
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito showed [As Qs] and won 81622.00 with a straight, Ace high [As Kh Qs Jh Ts]
+Seat 8: eew223 (button) folded on the Pre-Flop
+
+Game Hand #2478790219 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:24:39 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Gandalf-2509 will be allowed to play after the button
+Seat 2: Peledeboi (109766.00)
+Seat 3: EOBIXXX (45193.00)
+Seat 4: grotle (208382.00)
+Seat 5: NastyNa (439664.00)
+Seat 6: Jogador23 (165341.00)
+Seat 7: Favorito (81622.00)
+Seat 8: eew223 (125800.00)
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+Peledeboi posts the small blind 1200.00
+EOBIXXX posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2100.00
+Dealt to grotle [Qs 6d]
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 raises 4800.00 to 4800.00
+Peledeboi folds
+EOBIXXX calls 2400.00
+*** FLOP *** [6c 2c Ts]
+Main pot 12900.00
+EOBIXXX checks
+eew223 checks
+*** TURN *** [6c 2c Ts] [7s]
+Main pot 12900.00
+EOBIXXX bets 9675.00
+eew223 calls 9675.00
+*** RIVER *** [6c 2c Ts 7s] [8c]
+Main pot 32250.00
+EOBIXXX checks
+eew223 checks
+*** SHOW DOWN ***
+Main pot 32250.00
+EOBIXXX shows [2d Jh] (a pair of Deuces [2d 2c Jh Ts 8c])
+eew223 shows [Kc 8s] (a pair of Eights [8s 8c Kc Ts 7s])
+eew223 collected 32250.00 from main pot
+*** SUMMARY ***
+Total pot 32250.00
+Board [6c 2c Ts 7s 8c]
+Seat 2: Peledeboi (small blind) folded on the Pre-Flop
+Seat 3: EOBIXXX (big blind) showed [2d Jh] and lost with a pair of Deuces [2d 2c Jh Ts 8c]
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 showed [Kc 8s] and won 32250.00 with a pair of Eights [8s 8c Kc Ts 7s]
+
+Game Hand #2478790593 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:25:56 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Gandalf-2509 (100000.00)
+Seat 2: Peledeboi (108266.00)
+Seat 3: EOBIXXX (30418.00)
+Seat 4: grotle (208082.00)
+Seat 5: NastyNa (439364.00)
+Seat 6: Jogador23 (165041.00)
+Seat 7: Favorito (81322.00)
+Seat 8: eew223 (143275.00)
+Gandalf-2509 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+EOBIXXX posts the small blind 1200.00
+grotle posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [As 5h]
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi raises 4800.00 to 4800.00
+EOBIXXX raises 28918.00 to 30118.00 and is all-in
+grotle folds
+Peledeboi folds
+Uncalled bet (25318.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 14400.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi (button) folded on the Pre-Flop
+Seat 3: EOBIXXX did not show and won 14400.00
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478790777 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:26:31 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Gandalf-2509 (99700.00)
+Seat 2: Peledeboi (103166.00)
+Seat 3: EOBIXXX (39718.00)
+Seat 4: grotle (205382.00)
+Seat 5: NastyNa (439064.00)
+Seat 6: Jogador23 (164741.00)
+Seat 7: Favorito (81022.00)
+Seat 8: eew223 (142975.00)
+Gandalf-2509 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+grotle posts the small blind 1200.00
+NastyNa posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [5c 8d]
+Jogador23 folds
+Favorito folds
+eew223 raises 4800.00 to 4800.00
+Gandalf-2509 raises 14400.00 to 14400.00
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa folds
+eew223 calls 9600.00
+*** FLOP *** [Qd As 7h]
+Main pot 34800.00
+eew223 checks
+Gandalf-2509 bets 8700.00
+eew223 calls 8700.00
+*** TURN *** [Qd As 7h] [Kh]
+Main pot 52200.00
+eew223 checks
+Gandalf-2509 bets 19200.00
+eew223 calls 19200.00
+*** RIVER *** [Qd As 7h Kh] [Ts]
+Main pot 90600.00
+eew223 checks
+Gandalf-2509 checks
+*** SHOW DOWN ***
+Main pot 90600.00
+Gandalf-2509 shows [Ac Kc] (two pair, Aces and Kings [As Ac Kh Kc Qd])
+eew223 shows [Qs 4s] (a pair of Queens [Qs Qd As Kh Ts])
+Gandalf-2509 collected 90600.00 from main pot
+*** SUMMARY ***
+Total pot 90600.00
+Board [Qd As 7h Kh Ts]
+Seat 1: Gandalf-2509 showed [Ac Kc] and won 90600.00 with two pair, Aces and Kings [As Ac Kh Kc Qd]
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: NastyNa (big blind) folded on the Pre-Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 showed [Qs 4s] and lost with a pair of Queens [Qs Qd As Kh Ts]
+
+Game Hand #2478791135 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:27:43 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: Gandalf-2509 (147700.00)
+Seat 2: Peledeboi (102866.00)
+Seat 3: EOBIXXX (39418.00)
+Seat 4: grotle (203882.00)
+Seat 5: NastyNa (436364.00)
+Seat 6: Jogador23 (164441.00)
+Seat 7: Favorito (80722.00)
+Seat 8: eew223 (100375.00)
+Gandalf-2509 posts ante 300.00
+Peledeboi posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Jogador23 posts ante 300.00
+Favorito posts ante 300.00
+eew223 posts ante 300.00
+NastyNa posts the small blind 1200.00
+Jogador23 posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [6h Th]
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+EOBIXXX folds
+grotle raises 6000.00 to 6000.00
+NastyNa folds
+Jogador23 folds
+Uncalled bet (3600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 8400.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won 8400.00
+Seat 5: NastyNa (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) folded on the Pre-Flop
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478791350 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:28:23 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: Gandalf-2509 (147400.00)
+Seat 2: Peledeboi (102566.00)
+Seat 3: EOBIXXX (39118.00)
+Seat 4: grotle (209582.00)
+Seat 5: NastyNa (434864.00)
+Seat 6: Jogador23 (161741.00)
+Seat 7: Favorito (80422.00)
+Seat 8: eew223 (100075.00) is sitting out
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+EOBIXXX posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Jogador23 posts the small blind 1400.00
+Favorito posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [4s 6s]
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+EOBIXXX raises 38768.00 to 38768.00 and is all-in
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+Uncalled bet (35968.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 9800.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX did not show and won 9800.00
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa (button) folded on the Pre-Flop
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: Favorito (big blind) folded on the Pre-Flop
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478791488 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:28:49 UTC
+Table '13' 8-max Seat #6 is the button
+Seat 1: Gandalf-2509 (147050.00)
+Seat 2: Peledeboi (102216.00)
+Seat 3: EOBIXXX (45768.00)
+Seat 4: grotle (209232.00)
+Seat 5: NastyNa (434514.00)
+Seat 6: Jogador23 (159991.00)
+Seat 7: Favorito (77272.00)
+Seat 8: eew223 (99725.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+EOBIXXX posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Favorito posts the small blind 1400.00
+eew223 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2c As]
+Gandalf-2509 folds
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa raises 8400.00 to 8400.00
+Jogador23 folds
+Favorito calls 7000.00
+eew223 calls 5600.00
+*** FLOP *** [4h Ad Th]
+Main pot 28000.00
+Favorito checks
+eew223 bets 28000.00
+NastyNa folds
+Favorito folds
+Uncalled bet (28000.00) returned to eew223
+eew223 does not show
+*** SUMMARY ***
+Total pot 28000.00
+Board [4h Ad Th]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Flop
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: Favorito (small blind) folded on the Flop
+Seat 8: eew223 did not show and won 28000.00
+
+Game Hand #2478791775 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:29:45 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: Gandalf-2509 (146700.00)
+Seat 2: Peledeboi (101866.00)
+Seat 3: EOBIXXX (45418.00)
+Seat 4: grotle (208882.00)
+Seat 5: NastyNa (425764.00)
+Seat 6: Jogador23 (159641.00)
+Seat 7: Favorito (68522.00)
+Seat 8: eew223 (118975.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+EOBIXXX posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+eew223 posts the small blind 1400.00
+Gandalf-2509 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [6s Ts]
+Peledeboi folds
+EOBIXXX folds
+grotle folds
+NastyNa raises 8400.00 to 8400.00
+Jogador23 folds
+Favorito raises 68172.00 to 68172.00 and is all-in
+eew223 folds
+Gandalf-2509 folds
+NastyNa folds
+Uncalled bet (59772.00) returned to Favorito
+Favorito does not show
+*** SUMMARY ***
+Total pot 23800.00
+Seat 1: Gandalf-2509 (big blind) folded on the Pre-Flop
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito did not show and won 23800.00
+Seat 8: eew223 (small blind) folded on the Pre-Flop
+
+Game Hand #2478792036 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:30:32 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 1: Gandalf-2509 (143550.00)
+Seat 2: Peledeboi (101516.00)
+Seat 3: EOBIXXX (45068.00)
+Seat 4: grotle (208532.00)
+Seat 5: NastyNa (417014.00)
+Seat 6: Jogador23 (159291.00)
+Seat 7: Favorito (83572.00)
+Seat 8: eew223 (117225.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+EOBIXXX posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Gandalf-2509 posts the small blind 1400.00
+Peledeboi posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [8c 5c]
+EOBIXXX folds
+grotle folds
+NastyNa folds
+Jogador23 raises 5600.00 to 5600.00
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi calls 2800.00
+*** FLOP *** [9s Qh 3d]
+Main pot 15400.00
+Peledeboi checks
+Jogador23 bets 5082.00
+Peledeboi calls 5082.00
+*** TURN *** [9s Qh 3d] [5s]
+Main pot 25564.00
+Peledeboi checks
+Jogador23 checks
+*** RIVER *** [9s Qh 3d 5s] [Kh]
+Main pot 25564.00
+Peledeboi checks
+Jogador23 bets 15472.00
+Peledeboi folds
+Uncalled bet (15472.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 25564.00
+Board [9s Qh 3d 5s Kh]
+Seat 1: Gandalf-2509 (small blind) folded on the Pre-Flop
+Seat 2: Peledeboi (big blind) folded on the River
+Seat 3: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 did not show and won 25564.00
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 (button) folded on the Pre-Flop
+
+Game Hand #2478792431 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:31:46 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Gandalf-2509 (141800.00)
+Seat 2: Peledeboi (90484.00)
+Seat 3: EOBIXXX (44718.00)
+Seat 4: grotle (208182.00)
+Seat 5: NastyNa (416664.00)
+Seat 6: Jogador23 (173823.00)
+Seat 7: Favorito (83222.00)
+Seat 8: eew223 (116875.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+EOBIXXX posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Peledeboi posts the small blind 1400.00
+EOBIXXX posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ks 8s]
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 raises 5600.00 to 5600.00
+Peledeboi folds
+EOBIXXX calls 2800.00
+*** FLOP *** [7c As 9s]
+Main pot 15400.00
+EOBIXXX checks
+Gandalf-2509 bets 7700.00
+EOBIXXX raises 38768.00 to 38768.00 and is all-in
+Gandalf-2509 calls 31068.00
+*** TURN *** [7c As 9s] [2c]
+Main pot 92936.00
+*** RIVER *** [7c As 9s 2c] [Jd]
+Main pot 92936.00
+*** SHOW DOWN ***
+Main pot 92936.00
+Gandalf-2509 shows [5c Ad] (a pair of Aces [As Ad Jd 9s 7c])
+EOBIXXX shows [5s 6s] (a high card, Ace high [As Jd 9s 7c 6s])
+Gandalf-2509 collected 92936.00 from main pot
+*** SUMMARY ***
+Total pot 92936.00
+Board [7c As 9s 2c Jd]
+Seat 1: Gandalf-2509 (button) showed [5c Ad] and won 92936.00 with a pair of Aces [As Ad Jd 9s 7c]
+Seat 2: Peledeboi (small blind) folded on the Pre-Flop
+Seat 3: EOBIXXX (big blind) showed [5s 6s] and lost with a high card, Ace high [As Jd 9s 7c 6s]
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478792820 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:32:53 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Gandalf-2509 (190018.00)
+Seat 2: Peledeboi (88734.00)
+Seat 4: grotle (207832.00)
+Seat 5: NastyNa (416314.00)
+Seat 6: Jogador23 (173473.00)
+Seat 7: Favorito (82872.00)
+Seat 8: eew223 (116525.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [5c 3c]
+NastyNa calls 2800.00
+Jogador23 raises 6160.00 to 6160.00
+Favorito folds
+eew223 calls 6160.00
+Gandalf-2509 folds
+Peledeboi folds
+grotle calls 3360.00
+NastyNa raises 30800.00 to 33600.00
+Jogador23 folds
+eew223 calls 27440.00
+grotle folds
+*** FLOP *** [4c 8h Tc]
+Main pot 81970.00
+NastyNa bets 382364.00 and is all-in
+eew223 calls 82575.00 and is all-in
+Uncalled bet (299789.00) returned to NastyNa
+*** TURN *** [4c 8h Tc] [9s]
+Main pot 247120.00
+*** RIVER *** [4c 8h Tc 9s] [Th]
+Main pot 247120.00
+*** SHOW DOWN ***
+Main pot 247120.00
+NastyNa shows [Kh Ah] (a pair of Tens [Th Tc Ah Kh 9s])
+eew223 shows [2h 2d] (two pair, Tens and Deuces [Th Tc 2h 2d 9s])
+eew223 collected 247120.00 from main pot
+*** SUMMARY ***
+Total pot 247120.00
+Board [4c 8h Tc 9s Th]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi (button) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: NastyNa showed [Kh Ah] and lost with a pair of Tens [Th Tc Ah Kh 9s]
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 showed [2h 2d] and won 247120.00 with two pair, Tens and Deuces [Th Tc 2h 2d 9s]
+
+Game Hand #2478793372 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:34:32 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Gandalf-2509 (189668.00)
+Seat 2: Peledeboi (88384.00)
+Seat 3: untzuntz will be allowed to play after the button
+Seat 4: grotle (201322.00)
+Seat 5: NastyNa (299789.00)
+Seat 6: Jogador23 (166963.00)
+Seat 7: Favorito (82522.00)
+Seat 8: eew223 (247120.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+grotle posts the small blind 1400.00
+NastyNa posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2450.00
+Dealt to grotle [5d Ks]
+Jogador23 folds
+Favorito folds
+eew223 calls 2800.00
+Gandalf-2509 folds
+Peledeboi calls 2800.00
+grotle folds
+NastyNa checks
+*** FLOP *** [Qd Td Qs]
+Main pot 12250.00
+NastyNa checks
+eew223 bets 2800.00
+Peledeboi folds
+NastyNa folds
+Uncalled bet (2800.00) returned to eew223
+eew223 shows [- As]
+*** SUMMARY ***
+Total pot 12250.00
+Board [Qd Td Qs]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: NastyNa (big blind) folded on the Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 showed [- As] and won 12250.00
+
+Game Hand #2478793657 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:35:21 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: Gandalf-2509 (189318.00)
+Seat 2: Peledeboi (85234.00)
+Seat 3: untzuntz (100000.00)
+Seat 4: grotle (199572.00)
+Seat 5: NastyNa (296639.00)
+Seat 6: Jogador23 (166613.00)
+Seat 7: Favorito (82172.00)
+Seat 8: eew223 (256220.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+NastyNa posts the small blind 1400.00
+Jogador23 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [9s 5c]
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa calls 1400.00
+Jogador23 raises 7840.00 to 10640.00
+NastyNa folds
+Uncalled bet (7840.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 8400.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Pre-Flop
+Seat 5: NastyNa (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 did not show and won 8400.00
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478793938 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:36:09 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: Gandalf-2509 (188968.00)
+Seat 2: Peledeboi (84884.00)
+Seat 3: untzuntz (99650.00)
+Seat 4: grotle (199222.00)
+Seat 5: NastyNa (293489.00)
+Seat 6: Jogador23 (171863.00)
+Seat 7: Favorito (81822.00)
+Seat 8: eew223 (255870.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Jogador23 posts the small blind 1400.00
+Favorito posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ah 7h]
+eew223 raises 5600.00 to 5600.00
+Gandalf-2509 calls 5600.00
+Peledeboi folds
+untzuntz folds
+grotle raises 23450.00 to 23450.00
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Uncalled bet (17850.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 23800.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won 23800.00
+Seat 5: NastyNa (button) folded on the Pre-Flop
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: Favorito (big blind) folded on the Pre-Flop
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478794218 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:36:58 UTC
+Table '13' 8-max Seat #6 is the button
+Seat 1: Gandalf-2509 (183018.00)
+Seat 2: Peledeboi (84534.00)
+Seat 3: untzuntz (99300.00)
+Seat 4: grotle (217072.00)
+Seat 5: NastyNa (293139.00)
+Seat 6: Jogador23 (170113.00)
+Seat 7: Favorito (78672.00)
+Seat 8: eew223 (249920.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Favorito posts the small blind 1400.00
+eew223 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [9d 5h]
+Gandalf-2509 raises 5600.00 to 5600.00
+Peledeboi folds
+untzuntz raises 15400.00 to 15400.00
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 calls 12600.00
+Gandalf-2509 calls 9800.00
+*** FLOP *** [4s Ah Qs]
+Main pot 50400.00
+eew223 checks
+Gandalf-2509 checks
+untzuntz bets 12600.00
+eew223 calls 12600.00
+Gandalf-2509 folds
+*** TURN *** [4s Ah Qs] [2s]
+Main pot 75600.00
+eew223 checks
+untzuntz checks
+*** RIVER *** [4s Ah Qs 2s] [Qd]
+Main pot 75600.00
+eew223 bets 2800.00
+untzuntz raises 39396.00 to 39396.00
+eew223 calls 36596.00
+*** SHOW DOWN ***
+Main pot 154392.00
+untzuntz shows [Kc Qc] (three of a kind, Set of Queens [Qs Qd Qc Ah Kc])
+eew223 shows [5c 2c] (two pair, Queens and Deuces [Qs Qd 2s 2c Ah])
+untzuntz collected 154392.00 from main pot
+*** SUMMARY ***
+Total pot 154392.00
+Board [4s Ah Qs 2s Qd]
+Seat 1: Gandalf-2509 folded on the Flop
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz showed [Kc Qc] and won 154392.00 with three of a kind, Set of Queens [Qs Qd Qc Ah Kc]
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: Favorito (small blind) folded on the Pre-Flop
+Seat 8: eew223 (big blind) showed [5c 2c] and lost with two pair, Queens and Deuces [Qs Qd 2s 2c Ah]
+
+Game Hand #2478794760 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:38:34 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: Gandalf-2509 (167268.00)
+Seat 2: Peledeboi (84184.00)
+Seat 3: untzuntz (185946.00)
+Seat 4: grotle (216722.00)
+Seat 5: NastyNa (292789.00)
+Seat 6: Jogador23 (169763.00)
+Seat 7: Favorito (76922.00)
+Seat 8: eew223 (182174.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+eew223 posts the small blind 1400.00
+Gandalf-2509 posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [8c 2h]
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa raises 8400.00 to 8400.00
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 calls 5600.00
+*** FLOP *** [9s 5d 7c]
+Main pot 21000.00
+Gandalf-2509 checks
+NastyNa bets 22400.00
+Gandalf-2509 folds
+Uncalled bet (22400.00) returned to NastyNa
+NastyNa does not show
+*** SUMMARY ***
+Total pot 21000.00
+Board [9s 5d 7c]
+Seat 1: Gandalf-2509 (big blind) folded on the Flop
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa did not show and won 21000.00
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito (button) folded on the Pre-Flop
+Seat 8: eew223 (small blind) folded on the Pre-Flop
+
+Game Hand #2478795106 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:39:36 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 1: Gandalf-2509 (158518.00)
+Seat 2: Peledeboi (83834.00)
+Seat 3: untzuntz (185596.00)
+Seat 4: grotle (216372.00)
+Seat 5: NastyNa (305039.00)
+Seat 6: Jogador23 (169413.00)
+Seat 7: Favorito (76572.00)
+Seat 8: eew223 (180424.00) is sitting out
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Gandalf-2509 posts the small blind 1400.00
+Peledeboi posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ad 4d]
+untzuntz folds
+grotle raises 5600.00 to 5600.00
+NastyNa folds
+Jogador23 folds
+Favorito raises 16800.00 to 16800.00
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+grotle calls 11200.00
+*** FLOP *** [8c 3h 6c]
+Main pot 40600.00
+grotle checks
+Favorito checks
+*** TURN *** [8c 3h 6c] [8d]
+Main pot 40600.00
+grotle bets 22400.00
+Favorito calls 22400.00
+*** RIVER *** [8c 3h 6c 8d] [9s]
+Main pot 85400.00
+grotle checks
+Favorito checks
+*** SHOW DOWN ***
+Main pot 85400.00
+grotle shows [Ad 4d] (a pair of Eights [8d 8c Ad 9s 6c])
+Favorito shows [As Kc] (a pair of Eights [8d 8c As Kc 9s])
+Favorito collected 85400.00 from main pot
+*** SUMMARY ***
+Total pot 85400.00
+Board [8c 3h 6c 8d 9s]
+Seat 1: Gandalf-2509 (small blind) folded on the Pre-Flop
+Seat 2: Peledeboi (big blind) folded on the Pre-Flop
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Ad 4d] and lost with a pair of Eights [8d 8c Ad 9s 6c]
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito showed [As Kc] and won 85400.00 with a pair of Eights [8d 8c As Kc 9s] with the kicker King
+Seat 8: eew223 (button) folded on the Pre-Flop
+
+Game Hand #2478795522 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:40:51 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Gandalf-2509 (156768.00)
+Seat 2: Peledeboi (80684.00)
+Seat 3: untzuntz (185246.00)
+Seat 4: grotle (176822.00)
+Seat 5: NastyNa (304689.00)
+Seat 6: Jogador23 (169063.00)
+Seat 7: Favorito (122422.00)
+Seat 8: eew223 (180074.00) is sitting out
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+Peledeboi posts the small blind 1400.00
+untzuntz posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [2h Jc]
+grotle folds
+NastyNa raises 8400.00 to 8400.00
+Jogador23 raises 22960.00 to 22960.00
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+NastyNa folds
+Uncalled bet (14560.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 23800.00
+Seat 1: Gandalf-2509 (button) folded on the Pre-Flop
+Seat 2: Peledeboi (small blind) folded on the Pre-Flop
+Seat 3: untzuntz (big blind) folded on the Pre-Flop
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 did not show and won 23800.00
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478795765 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:41:35 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Gandalf-2509 (156418.00)
+Seat 2: Peledeboi (78934.00)
+Seat 3: untzuntz (182096.00)
+Seat 4: grotle (176472.00)
+Seat 5: NastyNa (295939.00)
+Seat 6: Jogador23 (184113.00)
+Seat 7: Favorito (122072.00)
+Seat 8: eew223 (179724.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+untzuntz posts the small blind 1400.00
+grotle posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [4c 7h]
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 raises 7000.00 to 7000.00
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle folds
+Uncalled bet (4200.00) returned to eew223
+eew223 does not show
+*** SUMMARY ***
+Total pot 9800.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi (button) folded on the Pre-Flop
+Seat 3: untzuntz (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 did not show and won 9800.00
+
+Game Hand #2478795924 - Tournament #33592573 - Holdem (No Limit) - Level 9 (1400.00/2800.00) - 2025/06/11 13:42:06 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Gandalf-2509 (156068.00)
+Seat 2: Peledeboi (78584.00)
+Seat 3: untzuntz (180346.00)
+Seat 4: grotle (173322.00)
+Seat 5: NastyNa (295589.00)
+Seat 6: Jogador23 (183763.00)
+Seat 7: Favorito (121722.00)
+Seat 8: eew223 (186374.00)
+Gandalf-2509 posts ante 350.00
+Peledeboi posts ante 350.00
+untzuntz posts ante 350.00
+grotle posts ante 350.00
+NastyNa posts ante 350.00
+Jogador23 posts ante 350.00
+Favorito posts ante 350.00
+eew223 posts ante 350.00
+grotle posts the small blind 1400.00
+NastyNa posts the big blind 2800.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [7h Kd]
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz raises 6160.00 to 6160.00
+grotle folds
+NastyNa calls 3360.00
+*** FLOP *** [2c 7s Th]
+Main pot 16520.00
+NastyNa checks
+untzuntz bets 5452.00
+NastyNa calls 5452.00
+*** TURN *** [2c 7s Th] [2s]
+Main pot 27424.00
+NastyNa checks
+untzuntz checks
+*** RIVER *** [2c 7s Th 2s] [Jd]
+Main pot 27424.00
+NastyNa bets 19600.00
+untzuntz folds
+Uncalled bet (19600.00) returned to NastyNa
+NastyNa does not show
+*** SUMMARY ***
+Total pot 27424.00
+Board [2c 7s Th 2s Jd]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz (button) folded on the River
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: NastyNa did not show and won 27424.00
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796373 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:43:26 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: Gandalf-2509 (155718.00)
+Seat 2: Peledeboi (78234.00)
+Seat 3: untzuntz (168384.00)
+Seat 4: grotle (171572.00)
+Seat 5: NastyNa (311051.00)
+Seat 6: Jogador23 (183413.00)
+Seat 7: Favorito (121372.00)
+Seat 8: eew223 (186024.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+NastyNa posts the small blind 1600.00
+Jogador23 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4d Ac]
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi raises 6400.00 to 6400.00
+untzuntz folds
+grotle calls 6400.00
+NastyNa folds
+Jogador23 calls 3200.00
+*** FLOP *** [9s 2s 9d]
+Main pot 24000.00
+Jogador23 checks
+Peledeboi checks
+grotle checks
+*** TURN *** [9s 2s 9d] [Td]
+Main pot 24000.00
+Jogador23 bets 12880.00
+Peledeboi calls 12880.00
+grotle folds
+*** RIVER *** [9s 2s 9d Td] [Qc]
+Main pot 49760.00
+Jogador23 checks
+Peledeboi checks
+*** SHOW DOWN ***
+Main pot 49760.00
+Peledeboi shows [Kh Ad] (a pair of Nines [9s 9d Ad Kh Qc])
+Jogador23 shows [Ks 5s] (a pair of Nines [9s 9d Ks Qc Td])
+Peledeboi collected 49760.00 from main pot
+*** SUMMARY ***
+Total pot 49760.00
+Board [9s 2s 9d Td Qc]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi showed [Kh Ad] and won 49760.00 with a pair of Nines [9s 9d Ad Kh Qc] with the kicker Ace
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle (button) folded on the Turn
+Seat 5: NastyNa (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) showed [Ks 5s] and lost with a pair of Nines [9s 9d Ks Qc Td]
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478796902 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:45:03 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: Gandalf-2509 (155318.00)
+Seat 2: Peledeboi (108314.00)
+Seat 3: untzuntz (167984.00)
+Seat 4: grotle (164772.00)
+Seat 5: NastyNa (309051.00)
+Seat 6: Jogador23 (163733.00)
+Seat 7: Favorito (120972.00)
+Seat 8: eew223 (185624.00) is sitting out
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Jogador23 posts the small blind 1600.00
+Favorito posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Ad 7h]
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa folds
+Jogador23 raises 5440.00 to 7040.00
+Favorito calls 3840.00
+*** FLOP *** [Ks Ac 2s]
+Main pot 17280.00
+Jogador23 bets 5702.00
+Favorito folds
+Uncalled bet (5702.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 17280.00
+Board [Ks Ac 2s]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa (button) folded on the Pre-Flop
+Seat 6: Jogador23 did not show and won 17280.00
+Seat 7: Favorito (big blind) folded on the Flop
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478797164 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:45:51 UTC
+Table '13' 8-max Seat #6 is the button
+Seat 1: Gandalf-2509 (154918.00)
+Seat 2: Peledeboi (107914.00)
+Seat 3: untzuntz (167584.00)
+Seat 4: grotle (164372.00)
+Seat 5: NastyNa (308651.00)
+Seat 6: Jogador23 (173573.00)
+Seat 7: Favorito (113532.00)
+Seat 8: eew223 (185224.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Favorito posts the small blind 1600.00
+eew223 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Kc Qc]
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle raises 6400.00 to 6400.00
+NastyNa calls 6400.00
+Jogador23 folds
+Favorito folds
+eew223 folds
+*** FLOP *** [8s 6h 4s]
+Main pot 20800.00
+grotle checks
+NastyNa bets 22400.00
+grotle folds
+Uncalled bet (22400.00) returned to NastyNa
+NastyNa does not show
+*** SUMMARY ***
+Total pot 20800.00
+Board [8s 6h 4s]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Flop
+Seat 5: NastyNa did not show and won 20800.00
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: Favorito (small blind) folded on the Pre-Flop
+Seat 8: eew223 (big blind) folded on the Pre-Flop
+
+Game Hand #2478797542 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:47:00 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: Gandalf-2509 (154518.00)
+Seat 2: Peledeboi (107514.00)
+Seat 3: untzuntz (167184.00)
+Seat 4: grotle (157572.00)
+Seat 5: NastyNa (322651.00)
+Seat 6: Jogador23 (173173.00)
+Seat 7: Favorito (111532.00)
+Seat 8: eew223 (181624.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+eew223 posts the small blind 1600.00
+Gandalf-2509 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5d 9c]
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa raises 9600.00 to 9600.00
+Jogador23 folds
+Favorito folds
+eew223 calls 8000.00
+Gandalf-2509 raises 150918.00 to 154118.00 and is all-in
+NastyNa folds
+eew223 calls 144518.00
+*** FLOP *** [As Jd Jc]
+Main pot 321036.00
+*** TURN *** [As Jd Jc] [3s]
+Main pot 321036.00
+*** RIVER *** [As Jd Jc 3s] [3h]
+Main pot 321036.00
+*** SHOW DOWN ***
+Main pot 321036.00
+Gandalf-2509 shows [Ac Kh] (two pair, Aces and Jacks [As Ac Jd Jc Kh])
+eew223 shows [Ts 9s] (two pair, Jacks and Threes [Jd Jc 3s 3h As])
+Gandalf-2509 collected 321036.00 from main pot
+*** SUMMARY ***
+Total pot 321036.00
+Board [As Jd Jc 3s 3h]
+Seat 1: Gandalf-2509 (big blind) showed [Ac Kh] and won 321036.00 with two pair, Aces and Jacks [As Ac Jd Jc Kh]
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito (button) folded on the Pre-Flop
+Seat 8: eew223 (small blind) showed [Ts 9s] and lost with two pair, Jacks and Threes [Jd Jc 3s 3h As]
+
+Game Hand #2478797884 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:48:00 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 1: Gandalf-2509 (321036.00)
+Seat 2: Peledeboi (107114.00)
+Seat 3: untzuntz (166784.00)
+Seat 4: grotle (157172.00)
+Seat 5: NastyNa (312651.00)
+Seat 6: Jogador23 (172773.00)
+Seat 7: Favorito (111132.00)
+Seat 8: eew223 (27106.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Gandalf-2509 posts the small blind 1600.00
+Peledeboi posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [9d Kc]
+untzuntz folds
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 raises 8320.00 to 9920.00
+Peledeboi calls 6720.00
+*** FLOP *** [8h Ad Jd]
+Main pot 23040.00
+Gandalf-2509 checks
+Peledeboi checks
+*** TURN *** [8h Ad Jd] [Ts]
+Main pot 23040.00
+Gandalf-2509 checks
+Peledeboi bets 14528.00
+Gandalf-2509 calls 14528.00
+*** RIVER *** [8h Ad Jd Ts] [8s]
+Main pot 52096.00
+Gandalf-2509 bets 39072.00
+Peledeboi raises 78144.00 to 78144.00
+Gandalf-2509 calls 39072.00
+*** SHOW DOWN ***
+Main pot 208384.00
+Gandalf-2509 shows [Qs 8d] (three of a kind, Set of Eights [8s 8h 8d Ad Qs])
+Peledeboi shows [Td 8c] (a full house, Eights full of Tens [8s 8h 8c Ts Td])
+Peledeboi collected 208384.00 from main pot
+*** SUMMARY ***
+Total pot 208384.00
+Board [8h Ad Jd Ts 8s]
+Seat 1: Gandalf-2509 (small blind) showed [Qs 8d] and lost with three of a kind, Set of Eights [8s 8h 8d Ad Qs]
+Seat 2: Peledeboi (big blind) showed [Td 8c] and won 208384.00 with a full house, Eights full of Tens [8s 8h 8c Ts Td]
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 (button) folded on the Pre-Flop
+
+Game Hand #2478798500 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:49:56 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Gandalf-2509 (218044.00)
+Seat 2: Peledeboi (212506.00)
+Seat 3: untzuntz (166384.00)
+Seat 4: grotle (156772.00)
+Seat 5: NastyNa (312251.00)
+Seat 6: Jogador23 (172373.00)
+Seat 7: Favorito (110732.00)
+Seat 8: eew223 (26706.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Peledeboi posts the small blind 1600.00
+untzuntz posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [7s 8s]
+grotle raises 6400.00 to 6400.00
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 raises 26306.00 to 26306.00 and is all-in
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle calls 19906.00
+*** FLOP *** [Kh 5c Tc]
+Main pot 60612.00
+*** TURN *** [Kh 5c Tc] [5d]
+Main pot 60612.00
+*** RIVER *** [Kh 5c Tc 5d] [8h]
+Main pot 60612.00
+*** SHOW DOWN ***
+Main pot 60612.00
+grotle shows [7s 8s] (two pair, Eights and Fives [8s 8h 5d 5c Kh])
+eew223 shows [Kc 2s] (two pair, Kings and Fives [Kh Kc 5d 5c Tc])
+eew223 collected 60612.00 from main pot
+*** SUMMARY ***
+Total pot 60612.00
+Board [Kh 5c Tc 5d 8h]
+Seat 1: Gandalf-2509 (button) folded on the Pre-Flop
+Seat 2: Peledeboi (small blind) folded on the Pre-Flop
+Seat 3: untzuntz (big blind) folded on the Pre-Flop
+Seat 4: grotle showed [7s 8s] and lost with two pair, Eights and Fives [8s 8h 5d 5c Kh]
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 showed [Kc 2s] and won 60612.00 with two pair, Kings and Fives [Kh Kc 5d 5c Tc]
+
+Game Hand #2478798725 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:50:40 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Gandalf-2509 (217644.00)
+Seat 2: Peledeboi (210506.00)
+Seat 3: untzuntz (162784.00)
+Seat 4: grotle (130066.00)
+Seat 5: NastyNa (311851.00)
+Seat 6: Jogador23 (171973.00)
+Seat 7: Favorito (110332.00)
+Seat 8: eew223 (60612.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+untzuntz posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5c Js]
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz calls 1600.00
+grotle checks
+*** FLOP *** [Ts As 6h]
+Main pot 9600.00
+untzuntz bets 3200.00
+grotle calls 3200.00
+*** TURN *** [Ts As 6h] [3d]
+Main pot 16000.00
+untzuntz bets 12320.00
+grotle folds
+Uncalled bet (12320.00) returned to untzuntz
+untzuntz does not show
+*** SUMMARY ***
+Total pot 16000.00
+Board [Ts As 6h 3d]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi (button) folded on the Pre-Flop
+Seat 3: untzuntz did not show and won 16000.00
+Seat 4: grotle (big blind) folded on the Turn
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478799028 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:51:31 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Gandalf-2509 (217244.00)
+Seat 2: Peledeboi (210106.00)
+Seat 3: untzuntz (171984.00)
+Seat 4: grotle (123266.00)
+Seat 5: NastyNa (311451.00)
+Seat 6: Jogador23 (171573.00)
+Seat 7: Favorito (109932.00)
+Seat 8: eew223 (60212.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+grotle posts the small blind 1600.00
+NastyNa posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Qd 2h]
+Jogador23 folds
+Favorito raises 6400.00 to 6400.00
+eew223 folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa calls 3200.00
+*** FLOP *** [3c 5c Js]
+Main pot 17600.00
+NastyNa checks
+Favorito bets 4800.00
+NastyNa folds
+Uncalled bet (4800.00) returned to Favorito
+Favorito does not show
+*** SUMMARY ***
+Total pot 17600.00
+Board [3c 5c Js]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) folded on the Pre-Flop
+Seat 5: NastyNa (big blind) folded on the Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito did not show and won 17600.00
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478799309 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:52:24 UTC
+Table '13' 8-max Seat #4 is the button
+Seat 1: Gandalf-2509 (216844.00)
+Seat 2: Peledeboi (209706.00)
+Seat 3: untzuntz (171584.00)
+Seat 4: grotle (121266.00)
+Seat 5: NastyNa (304651.00)
+Seat 6: Jogador23 (171173.00)
+Seat 7: Favorito (120732.00)
+Seat 8: eew223 (59812.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+NastyNa posts the small blind 1600.00
+Jogador23 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [As Qc]
+Favorito folds
+eew223 raises 6400.00 to 6400.00
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle raises 22000.00 to 22000.00
+NastyNa folds
+Jogador23 folds
+eew223 calls 15600.00
+*** FLOP *** [Jh Kh 5d]
+Main pot 52000.00
+eew223 checks
+grotle bets 13000.00
+eew223 folds
+Uncalled bet (13000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 52000.00
+Board [Jh Kh 5d]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle did not show and won 52000.00
+Seat 5: NastyNa (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) folded on the Pre-Flop
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: eew223 folded on the Flop
+
+Game Hand #2478799673 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:53:26 UTC
+Table '13' 8-max Seat #5 is the button
+Seat 1: Gandalf-2509 (216444.00)
+Seat 2: Peledeboi (209306.00)
+Seat 3: untzuntz (171184.00)
+Seat 4: grotle (150866.00)
+Seat 5: NastyNa (302651.00)
+Seat 6: Jogador23 (167573.00)
+Seat 7: Favorito (120332.00)
+Seat 8: eew223 (37412.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Jogador23 posts the small blind 1600.00
+Favorito posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [9h Ts]
+eew223 folds
+Gandalf-2509 raises 6400.00 to 6400.00
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito calls 3200.00
+*** FLOP *** [Qs Jh Kc]
+Main pot 17600.00
+Favorito checks
+Gandalf-2509 bets 8800.00
+Favorito folds
+Uncalled bet (8800.00) returned to Gandalf-2509
+Gandalf-2509 does not show
+*** SUMMARY ***
+Total pot 17600.00
+Board [Qs Jh Kc]
+Seat 1: Gandalf-2509 did not show and won 17600.00
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa (button) folded on the Pre-Flop
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: Favorito (big blind) folded on the Flop
+Seat 8: eew223 folded on the Pre-Flop and did not bet
+
+Game Hand #2478799922 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:54:13 UTC
+Table '13' 8-max Seat #6 is the button
+Seat 1: Gandalf-2509 (227244.00)
+Seat 2: Peledeboi (208906.00)
+Seat 3: untzuntz (170784.00)
+Seat 4: grotle (150466.00)
+Seat 5: NastyNa (302251.00)
+Seat 6: Jogador23 (165573.00)
+Seat 7: Favorito (113532.00)
+Seat 8: eew223 (37012.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+Favorito posts the small blind 1600.00
+eew223 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [3d 5c]
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz folds
+grotle folds
+NastyNa raises 9600.00 to 9600.00
+Jogador23 folds
+Favorito raises 24000.00 to 25600.00
+eew223 folds
+NastyNa calls 16000.00
+*** FLOP *** [Ac 2d 5h]
+Main pot 57600.00
+Favorito bets 14400.00
+NastyNa folds
+Uncalled bet (14400.00) returned to Favorito
+Favorito does not show
+*** SUMMARY ***
+Total pot 57600.00
+Board [Ac 2d 5h]
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Flop
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: Favorito did not show and won 57600.00
+Seat 8: eew223 (big blind) folded on the Pre-Flop
+
+Game Hand #2478801050 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 14:01:25 UTC
+Table '13' 8-max Seat #7 is the button
+Seat 1: Gandalf-2509 (226844.00)
+Seat 2: Peledeboi (208506.00)
+Seat 3: untzuntz (170384.00)
+Seat 4: grotle (150066.00)
+Seat 5: NastyNa (276251.00)
+Seat 6: Jogador23 (165173.00)
+Seat 7: Favorito (145132.00)
+Seat 8: eew223 (33412.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+eew223 posts ante 400.00
+eew223 posts the small blind 1600.00
+Gandalf-2509 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [4s 7d]
+Peledeboi folds
+untzuntz raises 6400.00 to 6400.00
+grotle folds
+NastyNa folds
+Jogador23 folds
+Favorito folds
+eew223 raises 31412.00 to 33012.00 and is all-in
+Gandalf-2509 raises 223244.00 to 226444.00 and is all-in
+untzuntz folds
+Uncalled bet (193432.00) returned to Gandalf-2509
+*** FLOP *** [6c 4c 4h]
+Main pot 75624.00
+*** TURN *** [6c 4c 4h] [3d]
+Main pot 75624.00
+*** RIVER *** [6c 4c 4h 3d] [Tc]
+Main pot 75624.00
+*** SHOW DOWN ***
+Main pot 75624.00
+Gandalf-2509 shows [Td Ts] (a full house, Tens full of Fours [Ts Td Tc 4h 4c])
+eew223 shows [9h Jd] (a pair of Fours [4h 4c Jd Tc 9h])
+Gandalf-2509 collected 75624.00 from main pot
+*** SUMMARY ***
+Total pot 75624.00
+Board [6c 4c 4h 3d Tc]
+Seat 1: Gandalf-2509 (big blind) showed [Td Ts] and won 75624.00 with a full house, Tens full of Fours [Ts Td Tc 4h 4c]
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle folded on the Pre-Flop and did not bet
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito (button) folded on the Pre-Flop
+Seat 8: eew223 (small blind) showed [9h Jd] and lost with a pair of Fours [4h 4c Jd Tc 9h]
+
+Game Hand #2478801713 - Tournament #33592573 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 14:03:48 UTC
+Table '13' 8-max Seat #8 is the button
+Seat 1: Gandalf-2509 (269056.00)
+Seat 2: Peledeboi (208106.00)
+Seat 3: untzuntz (163584.00)
+Seat 4: grotle (149666.00)
+Seat 5: NastyNa (275851.00)
+Seat 6: Jogador23 (164773.00)
+Seat 7: Favorito (144732.00)
+Gandalf-2509 posts ante 400.00
+Peledeboi posts ante 400.00
+untzuntz posts ante 400.00
+grotle posts ante 400.00
+NastyNa posts ante 400.00
+Jogador23 posts ante 400.00
+Favorito posts ante 400.00
+Gandalf-2509 posts the small blind 1600.00
+Peledeboi posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Kd Jc]
+untzuntz folds
+grotle calls 3200.00
+NastyNa raises 12800.00 to 12800.00
+Jogador23 folds
+Favorito folds
+Gandalf-2509 folds
+Peledeboi calls 9600.00
+grotle calls 9600.00
+*** FLOP *** [9s 2d Qc]
+Main pot 42800.00
+Peledeboi checks
+grotle checks
+NastyNa bets 9600.00
+Peledeboi folds
+grotle calls 9600.00
+*** TURN *** [9s 2d Qc] [6h]
+Main pot 62000.00
+grotle checks
+NastyNa bets 60800.00
+grotle calls 60800.00
+*** RIVER *** [9s 2d Qc 6h] [2s]
+Main pot 183600.00
+grotle checks
+NastyNa checks
+*** SHOW DOWN ***
+Main pot 183600.00
+grotle shows [Kd Jc] (a pair of Deuces [2s 2d Kd Qc Jc])
+NastyNa shows [Ad Js] (a pair of Deuces [2s 2d Ad Qc Js])
+NastyNa collected 183600.00 from main pot
+*** SUMMARY ***
+Total pot 183600.00
+Board [9s 2d Qc 6h 2s]
+Seat 1: Gandalf-2509 (small blind) folded on the Pre-Flop
+Seat 2: Peledeboi (big blind) folded on the Flop
+Seat 3: untzuntz folded on the Pre-Flop and did not bet
+Seat 4: grotle showed [Kd Jc] and lost with a pair of Deuces [2s 2d Kd Qc Jc]
+Seat 5: NastyNa showed [Ad Js] and won 183600.00 with a pair of Deuces [2s 2d Ad Qc Js] with the kicker Ace
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+
+Game Hand #2478802477 - Tournament #33592573 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:06:06 UTC
+Table '13' 8-max Seat #1 is the button
+Seat 1: Gandalf-2509 (267056.00)
+Seat 2: Peledeboi (194906.00)
+Seat 3: untzuntz (163184.00)
+Seat 4: grotle (66066.00)
+Seat 5: NastyNa (375851.00)
+Seat 6: Jogador23 (164373.00)
+Seat 7: Favorito (144332.00)
+Seat 8: ToastedWhoDat (157666.00)
+Gandalf-2509 posts ante 450.00
+Peledeboi posts ante 450.00
+untzuntz posts ante 450.00
+grotle posts ante 450.00
+NastyNa posts ante 450.00
+Jogador23 posts ante 450.00
+Favorito posts ante 450.00
+ToastedWhoDat posts ante 450.00
+Peledeboi posts the small blind 1800.00
+untzuntz posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Ac 4c]
+grotle raises 7200.00 to 7200.00
+NastyNa folds
+Jogador23 folds
+Favorito folds
+ToastedWhoDat folds
+Gandalf-2509 folds
+Peledeboi folds
+untzuntz calls 3600.00
+*** FLOP *** [2h Kc 7h]
+Main pot 19800.00
+untzuntz checks
+grotle checks
+*** TURN *** [2h Kc 7h] [3s]
+Main pot 19800.00
+untzuntz checks
+grotle bets 4950.00
+untzuntz folds
+Uncalled bet (4950.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 19800.00
+Board [2h Kc 7h 3s]
+Seat 1: Gandalf-2509 (button) folded on the Pre-Flop
+Seat 2: Peledeboi (small blind) folded on the Pre-Flop
+Seat 3: untzuntz (big blind) folded on the Turn
+Seat 4: grotle did not show and won 19800.00
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+
+Game Hand #2478802824 - Tournament #33592573 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:07:07 UTC
+Table '13' 8-max Seat #2 is the button
+Seat 1: Gandalf-2509 (266606.00)
+Seat 2: Peledeboi (192656.00)
+Seat 3: untzuntz (155534.00)
+Seat 4: grotle (78216.00)
+Seat 5: NastyNa (375401.00)
+Seat 6: Jogador23 (163923.00)
+Seat 7: Favorito (143882.00)
+Seat 8: ToastedWhoDat (157216.00)
+Gandalf-2509 posts ante 450.00
+Peledeboi posts ante 450.00
+untzuntz posts ante 450.00
+grotle posts ante 450.00
+NastyNa posts ante 450.00
+Jogador23 posts ante 450.00
+Favorito posts ante 450.00
+ToastedWhoDat posts ante 450.00
+untzuntz posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Th 5d]
+NastyNa folds
+Jogador23 folds
+Favorito folds
+ToastedWhoDat folds
+Gandalf-2509 folds
+Peledeboi raises 7200.00 to 7200.00
+untzuntz folds
+grotle folds
+Uncalled bet (3600.00) returned to Peledeboi
+Peledeboi does not show
+*** SUMMARY ***
+Total pot 12600.00
+Seat 1: Gandalf-2509 folded on the Pre-Flop and did not bet
+Seat 2: Peledeboi did not show and won 12600.00
+Seat 3: untzuntz (small blind) folded on the Pre-Flop
+Seat 4: grotle (big blind) folded on the Pre-Flop
+Seat 5: NastyNa folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+
+Game Hand #2478803086 - Tournament #33592573 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:07:49 UTC
+Table '13' 8-max Seat #3 is the button
+Seat 1: Gandalf-2509 (266156.00)
+Seat 2: Peledeboi (201206.00)
+Seat 3: untzuntz (153284.00)
+Seat 4: grotle (74166.00)
+Seat 5: NastyNa (374951.00)
+Seat 6: Jogador23 (163473.00)
+Seat 7: Favorito (143432.00)
+Seat 8: ToastedWhoDat (156766.00)
+Gandalf-2509 posts ante 450.00
+Peledeboi posts ante 450.00
+untzuntz posts ante 450.00
+grotle posts ante 450.00
+NastyNa posts ante 450.00
+Jogador23 posts ante 450.00
+Favorito posts ante 450.00
+ToastedWhoDat posts ante 450.00
+grotle posts the small blind 1800.00
+NastyNa posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [9h 9d]
+Jogador23 folds
+Favorito folds
+ToastedWhoDat folds
+Gandalf-2509 raises 7200.00 to 7200.00
+Peledeboi folds
+untzuntz folds
+grotle raises 21600.00 to 23400.00
+NastyNa folds
+Gandalf-2509 calls 16200.00
+*** FLOP *** [Jd Kc 8h]
+Main pot 54000.00
+grotle bets 10800.00
+Gandalf-2509 calls 10800.00
+*** TURN *** [Jd Kc 8h] [5h]
+Main pot 75600.00
+grotle bets 39516.00 and is all-in
+Gandalf-2509 calls 39516.00
+*** RIVER *** [Jd Kc 8h 5h] [6h]
+Main pot 154632.00
+*** SHOW DOWN ***
+Main pot 154632.00
+Gandalf-2509 shows [Jc Tc] (a pair of Jacks [Jd Jc Kc Tc 8h])
+grotle shows [9h 9d] (a pair of Nines [9h 9d Kc Jd 8h])
+Gandalf-2509 collected 154632.00 from main pot
+*** SUMMARY ***
+Total pot 154632.00
+Board [Jd Kc 8h 5h 6h]
+Seat 1: Gandalf-2509 showed [Jc Tc] and won 154632.00 with a pair of Jacks [Jd Jc Kc Tc 8h]
+Seat 2: Peledeboi folded on the Pre-Flop and did not bet
+Seat 3: untzuntz (button) folded on the Pre-Flop
+Seat 4: grotle (small blind) showed [9h 9d] and lost with a pair of Nines [9h 9d Kc Jd 8h]
+Seat 5: NastyNa (big blind) folded on the Pre-Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: Favorito folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+

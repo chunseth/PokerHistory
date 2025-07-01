@@ -1,0 +1,1404 @@
+Game Hand #2478786422 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:11:50 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Fildy (160499.00)
+Seat 2: grotle (348863.00)
+Seat 3: Johnyyy (283554.00)
+Seat 4: gonefisting (248995.00)
+Seat 5: yespls (64450.00)
+Seat 6: Xirius1 (339991.00)
+Fildy posts ante 750.00
+grotle posts ante 750.00
+Johnyyy posts ante 750.00
+gonefisting posts ante 750.00
+yespls posts ante 750.00
+Xirius1 posts ante 750.00
+Fildy posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 4500.00
+Dealt to grotle [Qh 9c]
+grotle folds
+Johnyyy folds
+gonefisting raises 12000.00 to 12000.00
+yespls raises 63700.00 to 63700.00 and is all-in
+Xirius1 folds
+Fildy folds
+gonefisting calls 51700.00
+*** FLOP *** [Ah Ad 8c]
+Main pot 137900.00
+*** TURN *** [Ah Ad 8c] [7h]
+Main pot 137900.00
+*** RIVER *** [Ah Ad 8c 7h] [4h]
+Main pot 137900.00
+*** SHOW DOWN ***
+Main pot 137900.00
+gonefisting shows [7d 7c] (a full house, Sevens full of Aces [7h 7d 7c Ah Ad])
+yespls shows [Td Jd] (a pair of Aces [Ah Ad Jd Td 8c])
+gonefisting collected 137900.00 from main pot
+*** SUMMARY ***
+Total pot 137900.00
+Board [Ah Ad 8c 7h 4h]
+Seat 1: Fildy (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Johnyyy folded on the Pre-Flop and did not bet
+Seat 4: gonefisting showed [7d 7c] and won 137900.00 with a full house, Sevens full of Aces [7h 7d 7c Ah Ad]
+Seat 5: yespls showed [Td Jd] and lost with a pair of Aces [Ah Ad Jd Td 8c]
+Seat 6: Xirius1 (button) folded on the Pre-Flop
+
+Game Hand #2478786808 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:13:07 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Birr (50582.00)
+Seat 2: Xirius1 will be allowed to play after the button
+Seat 3: casonmac (208890.00)
+Seat 4: KKvb2323 (409691.00)
+Seat 5: Understood508 (277762.00)
+Seat 6: grotle (348113.00)
+Seat 7: ElZoroLoco (249186.00)
+Seat 8: gonefisting (322445.00)
+Birr posts ante 750.00
+casonmac posts ante 750.00
+KKvb2323 posts ante 750.00
+Understood508 posts ante 750.00
+grotle posts ante 750.00
+ElZoroLoco posts ante 750.00
+gonefisting posts ante 750.00
+casonmac posts the small blind 3000.00
+KKvb2323 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Kd 2s]
+Understood508 folds
+grotle folds
+ElZoroLoco folds
+gonefisting folds
+Birr folds
+casonmac calls 3000.00
+KKvb2323 checks
+*** FLOP *** [Kh 4d 2d]
+Main pot 17250.00
+casonmac checks
+KKvb2323 checks
+*** TURN *** [Kh 4d 2d] [Ks]
+Main pot 17250.00
+casonmac checks
+KKvb2323 checks
+*** RIVER *** [Kh 4d 2d Ks] [Qh]
+Main pot 17250.00
+casonmac checks
+KKvb2323 checks
+*** SHOW DOWN ***
+Main pot 17250.00
+casonmac shows [Th 9h] (a pair of Kings [Ks Kh Qh Th 9h])
+KKvb2323 shows [7s Jh] (a pair of Kings [Ks Kh Qh Jh 7s])
+KKvb2323 collected 17250.00 from main pot
+*** SUMMARY ***
+Total pot 17250.00
+Board [Kh 4d 2d Ks Qh]
+Seat 1: Birr (button) folded on the Pre-Flop
+Seat 3: casonmac (small blind) showed [Th 9h] and lost with a pair of Kings [Ks Kh Qh Th 9h]
+Seat 4: KKvb2323 (big blind) showed [7s Jh] and won 17250.00 with a pair of Kings [Ks Kh Qh Jh 7s] with the kicker Jack
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: ElZoroLoco folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478787033 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:13:53 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 1: Birr (49832.00)
+Seat 2: Xirius1 (339241.00)
+Seat 3: casonmac (202140.00)
+Seat 4: KKvb2323 (420191.00)
+Seat 5: Understood508 (277012.00)
+Seat 6: grotle (347363.00)
+Seat 7: ElZoroLoco (248436.00)
+Seat 8: gonefisting (321695.00)
+Birr posts ante 750.00
+Xirius1 posts ante 750.00
+casonmac posts ante 750.00
+KKvb2323 posts ante 750.00
+Understood508 posts ante 750.00
+grotle posts ante 750.00
+ElZoroLoco posts ante 750.00
+gonefisting posts ante 750.00
+KKvb2323 posts the small blind 3000.00
+Understood508 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [5s 4c]
+grotle folds
+ElZoroLoco folds
+gonefisting folds
+Birr folds
+Xirius1 folds
+casonmac folds
+KKvb2323 calls 3000.00
+Understood508 raises 270262.00 to 276262.00 and is all-in
+KKvb2323 folds
+Uncalled bet (270262.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 18000.00
+Seat 1: Birr folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac (button) folded on the Pre-Flop
+Seat 4: KKvb2323 (small blind) folded on the Pre-Flop
+Seat 5: Understood508 did not show and won 18000.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: ElZoroLoco folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478787246 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:14:37 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: Birr (49082.00)
+Seat 2: Xirius1 (338491.00)
+Seat 3: casonmac (201390.00)
+Seat 4: KKvb2323 (413441.00)
+Seat 5: Understood508 (288262.00)
+Seat 6: grotle (346613.00)
+Seat 7: ElZoroLoco (247686.00)
+Seat 8: gonefisting (320945.00)
+Birr posts ante 750.00
+Xirius1 posts ante 750.00
+casonmac posts ante 750.00
+KKvb2323 posts ante 750.00
+Understood508 posts ante 750.00
+grotle posts ante 750.00
+ElZoroLoco posts ante 750.00
+gonefisting posts ante 750.00
+Understood508 posts the small blind 3000.00
+grotle posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Ts 9h]
+ElZoroLoco folds
+gonefisting raises 12000.00 to 12000.00
+Birr folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 folds
+grotle folds
+Uncalled bet (6000.00) returned to gonefisting
+gonefisting does not show
+*** SUMMARY ***
+Total pot 21000.00
+Seat 1: Birr folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 (button) folded on the Pre-Flop
+Seat 5: Understood508 (small blind) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the Pre-Flop
+Seat 7: ElZoroLoco folded on the Pre-Flop and did not bet
+Seat 8: gonefisting did not show and won 21000.00
+
+Game Hand #2478787481 - Tournament #33592580 - Holdem (No Limit) - Level 12 (3000.00/6000.00) - 2025/06/11 13:15:25 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 1: Birr (48332.00)
+Seat 2: Xirius1 (337741.00)
+Seat 3: casonmac (200640.00)
+Seat 4: KKvb2323 (412691.00)
+Seat 5: Understood508 (284512.00)
+Seat 6: grotle (339863.00)
+Seat 7: ElZoroLoco (246936.00)
+Seat 8: gonefisting (335195.00)
+Birr posts ante 750.00
+Xirius1 posts ante 750.00
+casonmac posts ante 750.00
+KKvb2323 posts ante 750.00
+Understood508 posts ante 750.00
+grotle posts ante 750.00
+ElZoroLoco posts ante 750.00
+gonefisting posts ante 750.00
+grotle posts the small blind 3000.00
+ElZoroLoco posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [8c 3c]
+gonefisting folds
+Birr folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 raises 12000.00 to 12000.00
+grotle folds
+ElZoroLoco calls 6000.00
+*** FLOP *** [Ts 9s 6h]
+Main pot 33000.00
+ElZoroLoco checks
+Understood508 checks
+*** TURN *** [Ts 9s 6h] [Ac]
+Main pot 33000.00
+ElZoroLoco checks
+Understood508 bets 8250.00
+ElZoroLoco calls 8250.00
+*** RIVER *** [Ts 9s 6h Ac] [Tc]
+Main pot 49500.00
+ElZoroLoco checks
+Understood508 checks
+*** SHOW DOWN ***
+Main pot 49500.00
+Understood508 shows [3d Kd] (a pair of Tens [Ts Tc Ac Kd 9s])
+ElZoroLoco shows [Ks 7h] (a pair of Tens [Ts Tc Ac Ks 9s])
+ElZoroLoco collected 24750.00 from main pot
+Understood508 collected 24750.00 from main pot
+*** SUMMARY ***
+Total pot 49500.00
+Board [Ts 9s 6h Ac Tc]
+Seat 1: Birr folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 (button) showed [3d Kd] and won 24750.00 with a pair of Tens [Ts Tc Ac Kd 9s]
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 7: ElZoroLoco (big blind) showed [Ks 7h] and won 24750.00 with a pair of Tens [Ts Tc Ac Ks 9s]
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478787935 - Tournament #33592580 - Holdem (No Limit) - Level 13 (4000.00/8000.00) - 2025/06/11 13:17:00 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Birr (47582.00)
+Seat 2: Xirius1 (336991.00)
+Seat 3: casonmac (199890.00)
+Seat 4: KKvb2323 (411941.00)
+Seat 5: Understood508 (288262.00)
+Seat 6: grotle (336113.00)
+Seat 7: ElZoroLoco (250686.00)
+Seat 8: gonefisting (334445.00)
+Birr posts ante 1000.00
+Xirius1 posts ante 1000.00
+casonmac posts ante 1000.00
+KKvb2323 posts ante 1000.00
+Understood508 posts ante 1000.00
+grotle posts ante 1000.00
+ElZoroLoco posts ante 1000.00
+gonefisting posts ante 1000.00
+ElZoroLoco posts the small blind 4000.00
+gonefisting posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [6c 2c]
+Birr raises 46582.00 to 46582.00 and is all-in
+Xirius1 folds
+casonmac folds
+KKvb2323 calls 46582.00
+Understood508 folds
+grotle folds
+ElZoroLoco folds
+gonefisting folds
+*** FLOP *** [2h 7h 7s]
+Main pot 113164.00
+*** TURN *** [2h 7h 7s] [Ks]
+Main pot 113164.00
+*** RIVER *** [2h 7h 7s Ks] [Td]
+Main pot 113164.00
+*** SHOW DOWN ***
+Main pot 113164.00
+Birr shows [5c 5h] (two pair, Sevens and Fives [7s 7h 5h 5c Ks])
+KKvb2323 shows [9s Qs] (a pair of Sevens [7s 7h Ks Qs Td])
+Birr collected 113164.00 from main pot
+*** SUMMARY ***
+Total pot 113164.00
+Board [2h 7h 7s Ks Td]
+Seat 1: Birr showed [5c 5h] and won 113164.00 with two pair, Sevens and Fives [7s 7h 5h 5c Ks]
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 showed [9s Qs] and lost with a pair of Sevens [7s 7h Ks Qs Td]
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Pre-Flop
+Seat 7: ElZoroLoco (small blind) folded on the Pre-Flop
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+
+Game Hand #2478788173 - Tournament #33592580 - Holdem (No Limit) - Level 13 (4000.00/8000.00) - 2025/06/11 13:17:48 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: Birr (113164.00)
+Seat 2: Xirius1 (335991.00)
+Seat 3: casonmac (198890.00)
+Seat 4: KKvb2323 (364359.00)
+Seat 5: Understood508 (287262.00)
+Seat 6: grotle (335113.00)
+Seat 8: gonefisting (325445.00)
+Birr posts ante 1000.00
+Xirius1 posts ante 1000.00
+casonmac posts ante 1000.00
+KKvb2323 posts ante 1000.00
+Understood508 posts ante 1000.00
+grotle posts ante 1000.00
+gonefisting posts ante 1000.00
+gonefisting posts the small blind 4000.00
+Birr posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [2c Qc]
+Xirius1 folds
+casonmac raises 16000.00 to 16000.00
+KKvb2323 calls 16000.00
+Understood508 folds
+grotle folds
+gonefisting folds
+Birr raises 104164.00 to 112164.00 and is all-in
+casonmac raises 181890.00 to 197890.00 and is all-in
+KKvb2323 folds
+Uncalled bet (85726.00) returned to casonmac
+*** FLOP *** [6d 4c 3s]
+Main pot 251328.00
+*** TURN *** [6d 4c 3s] [6s]
+Main pot 251328.00
+*** RIVER *** [6d 4c 3s 6s] [5d]
+Main pot 251328.00
+*** SHOW DOWN ***
+Main pot 251328.00
+Birr shows [Jd Js] (two pair, Jacks and Sixs [Js Jd 6s 6d 5d])
+casonmac shows [Qd Qh] (two pair, Queens and Sixs [Qh Qd 6s 6d 5d])
+casonmac collected 251328.00 from main pot
+*** SUMMARY ***
+Total pot 251328.00
+Board [6d 4c 3s 6s 5d]
+Seat 1: Birr (big blind) showed [Jd Js] and lost with two pair, Jacks and Sixs [Js Jd 6s 6d 5d]
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac showed [Qd Qh] and won 251328.00 with two pair, Queens and Sixs [Qh Qd 6s 6d 5d]
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478788591 - Tournament #33592580 - Holdem (No Limit) - Level 13 (4000.00/8000.00) - 2025/06/11 13:19:14 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 2: Xirius1 (334991.00)
+Seat 3: casonmac (337054.00)
+Seat 4: KKvb2323 (347359.00)
+Seat 5: Understood508 (286262.00)
+Seat 6: grotle (334113.00)
+Seat 8: gonefisting (320445.00)
+Xirius1 posts ante 1000.00
+casonmac posts ante 1000.00
+KKvb2323 posts ante 1000.00
+Understood508 posts ante 1000.00
+grotle posts ante 1000.00
+gonefisting posts ante 1000.00
+Xirius1 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [4d 7h]
+casonmac folds
+KKvb2323 folds
+Understood508 raises 20000.00 to 20000.00
+grotle folds
+gonefisting folds
+Xirius1 calls 12000.00
+*** FLOP *** [7c 4s Ad]
+Main pot 46000.00
+Xirius1 checks
+Understood508 bets 8000.00
+Xirius1 folds
+Uncalled bet (8000.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 46000.00
+Board [7c 4s Ad]
+Seat 2: Xirius1 (big blind) folded on the Flop
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 did not show and won 46000.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478788882 - Tournament #33592580 - Holdem (No Limit) - Level 13 (4000.00/8000.00) - 2025/06/11 13:20:08 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 2: Xirius1 (313991.00)
+Seat 3: casonmac (336054.00)
+Seat 4: KKvb2323 (346359.00)
+Seat 5: Understood508 (311262.00)
+Seat 6: grotle (333113.00)
+Seat 8: gonefisting (319445.00)
+Xirius1 posts ante 1000.00
+casonmac posts ante 1000.00
+KKvb2323 posts ante 1000.00
+Understood508 posts ante 1000.00
+grotle posts ante 1000.00
+gonefisting posts ante 1000.00
+Xirius1 posts the small blind 4000.00
+casonmac posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [5d 6s]
+KKvb2323 folds
+Understood508 folds
+grotle folds
+gonefisting raises 16000.00 to 16000.00
+Xirius1 raises 60000.00 to 64000.00
+casonmac folds
+gonefisting folds
+Uncalled bet (48000.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 46000.00
+Seat 2: Xirius1 did not show and won 46000.00
+Seat 3: casonmac (big blind) folded on the Pre-Flop
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478789098 - Tournament #33592580 - Holdem (No Limit) - Level 13 (4000.00/8000.00) - 2025/06/11 13:20:53 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 2: Xirius1 (342991.00)
+Seat 3: casonmac (327054.00)
+Seat 4: KKvb2323 (345359.00)
+Seat 5: Understood508 (310262.00)
+Seat 6: grotle (332113.00)
+Seat 8: gonefisting (302445.00)
+Xirius1 posts ante 1000.00
+casonmac posts ante 1000.00
+KKvb2323 posts ante 1000.00
+Understood508 posts ante 1000.00
+grotle posts ante 1000.00
+gonefisting posts ante 1000.00
+casonmac posts the small blind 4000.00
+KKvb2323 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Jh 6d]
+Understood508 folds
+grotle folds
+gonefisting folds
+Xirius1 raises 20000.00 to 20000.00
+casonmac folds
+KKvb2323 calls 12000.00
+*** FLOP *** [5h 6s 3d]
+Main pot 50000.00
+KKvb2323 checks
+Xirius1 checks
+*** TURN *** [5h 6s 3d] [Jc]
+Main pot 50000.00
+KKvb2323 checks
+Xirius1 checks
+*** RIVER *** [5h 6s 3d Jc] [Js]
+Main pot 50000.00
+KKvb2323 checks
+Xirius1 checks
+*** SHOW DOWN ***
+Main pot 50000.00
+Xirius1 shows [Ah 5s] (two pair, Jacks and Fives [Js Jc 5s 5h Ah])
+KKvb2323 shows [Kh Qc] (a pair of Jacks [Js Jc Kh Qc 6s])
+Xirius1 collected 50000.00 from main pot
+*** SUMMARY ***
+Total pot 50000.00
+Board [5h 6s 3d Jc Js]
+Seat 2: Xirius1 (button) showed [Ah 5s] and won 50000.00 with two pair, Jacks and Fives [Js Jc 5s 5h Ah]
+Seat 3: casonmac (small blind) folded on the Pre-Flop
+Seat 4: KKvb2323 (big blind) showed [Kh Qc] and lost with a pair of Jacks [Js Jc Kh Qc 6s]
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478789490 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:22:14 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 2: Xirius1 (371991.00)
+Seat 3: casonmac (322054.00)
+Seat 4: KKvb2323 (324359.00)
+Seat 5: Understood508 (309262.00)
+Seat 6: grotle (331113.00)
+Seat 8: gonefisting (301445.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+KKvb2323 posts the small blind 5000.00
+Understood508 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [5d Ah]
+grotle raises 20000.00 to 20000.00
+gonefisting folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 folds
+Uncalled bet (10000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac (button) folded on the Pre-Flop
+Seat 4: KKvb2323 (small blind) folded on the Pre-Flop
+Seat 5: Understood508 (big blind) folded on the Pre-Flop
+Seat 6: grotle did not show and won 32500.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478789639 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:22:43 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 2: Xirius1 (370741.00)
+Seat 3: casonmac (320804.00)
+Seat 4: KKvb2323 (318109.00)
+Seat 5: Understood508 (298012.00)
+Seat 6: grotle (352363.00)
+Seat 8: gonefisting (300195.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+Understood508 posts the small blind 5000.00
+grotle posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [7s Ad]
+gonefisting folds
+Xirius1 folds
+casonmac folds
+KKvb2323 raises 20000.00 to 20000.00
+Understood508 calls 15000.00
+grotle calls 10000.00
+*** FLOP *** [2s Tc 8d]
+Main pot 67500.00
+Understood508 checks
+grotle checks
+KKvb2323 bets 22275.00
+Understood508 folds
+grotle folds
+Uncalled bet (22275.00) returned to KKvb2323
+KKvb2323 does not show
+*** SUMMARY ***
+Total pot 67500.00
+Board [2s Tc 8d]
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 did not show and won 67500.00
+Seat 5: Understood508 (small blind) folded on the Flop
+Seat 6: grotle (big blind) folded on the Flop
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478790061 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:24:07 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 2: Xirius1 (369491.00)
+Seat 3: casonmac (319554.00)
+Seat 4: KKvb2323 (364359.00)
+Seat 5: Understood508 (276762.00)
+Seat 6: grotle (331113.00)
+Seat 8: gonefisting (298945.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+grotle posts the small blind 5000.00
+gonefisting posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [9s 9c]
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 raises 31250.00 to 31250.00
+grotle raises 85000.00 to 90000.00
+gonefisting folds
+Understood508 calls 58750.00
+*** FLOP *** [Qc 7s 5c]
+Main pot 197500.00
+grotle bets 90000.00
+Understood508 folds
+Uncalled bet (90000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 197500.00
+Board [Qc 7s 5c]
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 (button) folded on the Flop
+Seat 6: grotle did not show and won 197500.00
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+
+Game Hand #2478790396 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:25:15 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 2: Xirius1 (368241.00)
+Seat 3: casonmac (318304.00)
+Seat 4: KKvb2323 (363109.00)
+Seat 5: Understood508 (185512.00)
+Seat 6: grotle (437363.00)
+Seat 8: gonefisting (287695.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+gonefisting posts the small blind 5000.00
+Xirius1 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [8d Jd]
+casonmac folds
+KKvb2323 folds
+Understood508 folds
+grotle raises 25000.00 to 25000.00
+gonefisting folds
+Xirius1 folds
+Uncalled bet (15000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 2: Xirius1 (big blind) folded on the Pre-Flop
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 32500.00
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478790701 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:26:16 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 2: Xirius1 (356991.00)
+Seat 3: casonmac (317054.00)
+Seat 4: KKvb2323 (361859.00)
+Seat 5: Understood508 (184262.00)
+Seat 6: grotle (458613.00)
+Seat 8: gonefisting (281445.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+Xirius1 posts the small blind 5000.00
+casonmac posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [Qh Td]
+KKvb2323 folds
+Understood508 folds
+grotle folds
+gonefisting folds
+Xirius1 calls 5000.00
+casonmac checks
+*** FLOP *** [4s 4d 3d]
+Main pot 27500.00
+Xirius1 checks
+casonmac checks
+*** TURN *** [4s 4d 3d] [Ac]
+Main pot 27500.00
+Xirius1 bets 13800.00
+casonmac folds
+Uncalled bet (13800.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 27500.00
+Board [4s 4d 3d Ac]
+Seat 2: Xirius1 did not show and won 27500.00
+Seat 3: casonmac (big blind) folded on the Turn
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478790958 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:27:08 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 2: Xirius1 (373241.00)
+Seat 3: casonmac (305804.00)
+Seat 4: KKvb2323 (360609.00) is sitting out
+Seat 5: Understood508 (183012.00)
+Seat 6: grotle (457363.00)
+Seat 8: gonefisting (280195.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+casonmac posts the small blind 5000.00
+KKvb2323 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [5h Td]
+Understood508 folds
+grotle folds
+gonefisting folds
+Xirius1 raises 25000.00 to 25000.00
+casonmac folds
+KKvb2323 folds
+Uncalled bet (15000.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 2: Xirius1 did not show and won 32500.00
+Seat 3: casonmac (small blind) folded on the Pre-Flop
+Seat 4: KKvb2323 (big blind) folded on the Pre-Flop
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478791085 - Tournament #33592580 - Holdem (No Limit) - Level 14 (5000.00/10000.00) - 2025/06/11 13:27:33 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 2: Xirius1 (394491.00)
+Seat 3: casonmac (299554.00)
+Seat 4: KKvb2323 (349359.00) is sitting out
+Seat 5: Understood508 (181762.00)
+Seat 6: grotle (456113.00)
+Seat 8: gonefisting (278945.00)
+Xirius1 posts ante 1250.00
+casonmac posts ante 1250.00
+KKvb2323 posts ante 1250.00
+Understood508 posts ante 1250.00
+grotle posts ante 1250.00
+gonefisting posts ante 1250.00
+KKvb2323 posts the small blind 5000.00
+Understood508 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [Ah 7c]
+grotle folds
+gonefisting folds
+Xirius1 raises 20000.00 to 20000.00
+casonmac raises 52000.00 to 52000.00
+KKvb2323 folds
+Understood508 folds
+Xirius1 folds
+Uncalled bet (32000.00) returned to casonmac
+casonmac does not show
+*** SUMMARY ***
+Total pot 62500.00
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac did not show and won 62500.00
+Seat 4: KKvb2323 (small blind) folded on the Pre-Flop
+Seat 5: Understood508 (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478791367 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:28:26 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 2: Xirius1 (373241.00)
+Seat 3: casonmac (340804.00)
+Seat 4: KKvb2323 (343109.00) is sitting out
+Seat 5: Understood508 (170512.00)
+Seat 6: grotle (454863.00)
+Seat 8: gonefisting (277695.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+Understood508 posts the small blind 6000.00
+grotle posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [Ac 3c]
+gonefisting folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 calls 6000.00
+grotle raises 30000.00 to 42000.00
+Understood508 folds
+Uncalled bet (30000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 33000.00
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 (button) folded on the Pre-Flop
+Seat 5: Understood508 (small blind) folded on the Pre-Flop
+Seat 6: grotle did not show and won 33000.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478791585 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:29:07 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 2: Xirius1 (371741.00)
+Seat 3: casonmac (339304.00)
+Seat 4: KKvb2323 (341609.00) is sitting out
+Seat 5: Understood508 (157012.00)
+Seat 6: grotle (474363.00)
+Seat 8: gonefisting (276195.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+grotle posts the small blind 6000.00
+gonefisting posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [Qs Ad]
+Xirius1 folds
+casonmac raises 24000.00 to 24000.00
+KKvb2323 folds
+Understood508 folds
+grotle raises 87000.00 to 93000.00
+gonefisting folds
+casonmac folds
+Uncalled bet (69000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 69000.00
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 (button) folded on the Pre-Flop
+Seat 6: grotle did not show and won 69000.00
+Seat 8: gonefisting (big blind) folded on the Pre-Flop
+
+Game Hand #2478791762 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:29:42 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 2: Xirius1 (370241.00)
+Seat 3: casonmac (313804.00)
+Seat 4: KKvb2323 (340109.00) is sitting out
+Seat 5: Understood508 (155512.00)
+Seat 6: grotle (517863.00)
+Seat 8: gonefisting (262695.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+gonefisting posts the small blind 6000.00
+Xirius1 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [Jh Jd]
+casonmac folds
+KKvb2323 folds
+Understood508 folds
+grotle raises 30000.00 to 30000.00
+gonefisting folds
+Xirius1 folds
+Uncalled bet (18000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 39000.00
+Seat 2: Xirius1 (big blind) folded on the Pre-Flop
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle did not show and won 39000.00
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478791899 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:30:08 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 2: Xirius1 (356741.00)
+Seat 3: casonmac (312304.00)
+Seat 4: KKvb2323 (338609.00) is sitting out
+Seat 5: Understood508 (154012.00)
+Seat 6: grotle (543363.00)
+Seat 8: gonefisting (255195.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+Xirius1 posts the small blind 6000.00
+casonmac posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [7s 2d]
+KKvb2323 folds
+Understood508 raises 152512.00 to 152512.00 and is all-in
+grotle folds
+gonefisting folds
+Xirius1 folds
+casonmac folds
+Uncalled bet (140512.00) returned to Understood508
+Understood508 does not show
+*** SUMMARY ***
+Total pot 39000.00
+Seat 2: Xirius1 (small blind) folded on the Pre-Flop
+Seat 3: casonmac (big blind) folded on the Pre-Flop
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 5: Understood508 did not show and won 39000.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478792079 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:30:40 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 2: Xirius1 (349241.00)
+Seat 3: casonmac (298804.00)
+Seat 4: KKvb2323 (337109.00) is sitting out
+Seat 5: Understood508 (179512.00)
+Seat 6: grotle (541863.00)
+Seat 8: gonefisting (253695.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+casonmac posts the small blind 6000.00
+KKvb2323 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [Th 9c]
+Understood508 folds
+grotle folds
+gonefisting raises 24000.00 to 24000.00
+Xirius1 raises 347741.00 to 347741.00 and is all-in
+casonmac folds
+KKvb2323 folds
+gonefisting folds
+Uncalled bet (323741.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 75000.00
+Seat 2: Xirius1 did not show and won 75000.00
+Seat 3: casonmac (small blind) folded on the Pre-Flop
+Seat 4: KKvb2323 (big blind) folded on the Pre-Flop
+Seat 5: Understood508 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478792275 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:31:17 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 2: Xirius1 (398741.00)
+Seat 3: casonmac (291304.00)
+Seat 4: KKvb2323 (323609.00) is sitting out
+Seat 5: Understood508 (178012.00)
+Seat 6: grotle (540363.00)
+Seat 8: gonefisting (228195.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+Understood508 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+KKvb2323 posts the small blind 6000.00
+Understood508 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [Kh Qd]
+grotle raises 24000.00 to 24000.00
+gonefisting folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Understood508 raises 164512.00 to 176512.00 and is all-in
+grotle calls 152512.00
+*** FLOP *** [Kc Ah 4h]
+Main pot 368024.00
+*** TURN *** [Kc Ah 4h] [6s]
+Main pot 368024.00
+*** RIVER *** [Kc Ah 4h 6s] [7d]
+Main pot 368024.00
+*** SHOW DOWN ***
+Main pot 368024.00
+Understood508 shows [5d 5h] (a pair of Fives [5h 5d Ah Kc 7d])
+grotle shows [Kh Qd] (a pair of Kings [Kh Kc Ah Qd 7d])
+grotle collected 368024.00 from main pot
+*** SUMMARY ***
+Total pot 368024.00
+Board [Kc Ah 4h 6s 7d]
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac (button) folded on the Pre-Flop
+Seat 4: KKvb2323 (small blind) folded on the Pre-Flop
+Seat 5: Understood508 (big blind) showed [5d 5h] and lost with a pair of Fives [5h 5d Ah Kc 7d]
+Seat 6: grotle showed [Kh Qd] and won 368024.00 with a pair of Kings [Kh Kc Ah Qd 7d]
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478792522 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:32:01 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 2: Xirius1 (397241.00)
+Seat 3: casonmac (289804.00)
+Seat 4: KKvb2323 (316109.00) is sitting out
+Seat 6: grotle (730375.00)
+Seat 8: gonefisting (226695.00)
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+grotle posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [Kc 4s]
+gonefisting folds
+Xirius1 raises 24000.00 to 24000.00
+casonmac folds
+KKvb2323 folds
+grotle folds
+Uncalled bet (12000.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 31500.00
+Seat 2: Xirius1 did not show and won 31500.00
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 (button) folded on the Pre-Flop
+Seat 6: grotle (big blind) folded on the Pre-Flop
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478792629 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:32:21 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 1: Rorschach77 (152480.00)
+Seat 2: Xirius1 (415241.00)
+Seat 3: casonmac (288304.00)
+Seat 4: KKvb2323 (314609.00) is sitting out
+Seat 6: grotle (716875.00)
+Seat 8: gonefisting (225195.00)
+Rorschach77 posts ante 1500.00
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+grotle posts the small blind 6000.00
+gonefisting posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [3d Ad]
+Rorschach77 folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+grotle raises 36000.00 to 42000.00
+gonefisting raises 211695.00 to 223695.00 and is all-in
+grotle folds
+Uncalled bet (181695.00) returned to gonefisting
+gonefisting does not show
+*** SUMMARY ***
+Total pot 93000.00
+Seat 1: Rorschach77 folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle (small blind) folded on the Pre-Flop
+Seat 8: gonefisting did not show and won 93000.00
+
+Game Hand #2478792800 - Tournament #33592580 - Holdem (No Limit) - Level 15 (6000.00/12000.00) - 2025/06/11 13:32:50 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Rorschach77 (150980.00)
+Seat 2: Xirius1 (413741.00)
+Seat 3: casonmac (286804.00)
+Seat 4: KKvb2323 (313109.00) is sitting out
+Seat 6: grotle (673375.00)
+Seat 8: gonefisting (274695.00)
+Rorschach77 posts ante 1500.00
+Xirius1 posts ante 1500.00
+casonmac posts ante 1500.00
+KKvb2323 posts ante 1500.00
+grotle posts ante 1500.00
+gonefisting posts ante 1500.00
+gonefisting posts the small blind 6000.00
+Rorschach77 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 9000.00
+Dealt to grotle [7c 4c]
+Xirius1 raises 24000.00 to 24000.00
+casonmac folds
+KKvb2323 folds
+grotle folds
+gonefisting folds
+Rorschach77 calls 12000.00
+*** FLOP *** [4s 7h Jh]
+Main pot 63000.00
+Rorschach77 checks
+Xirius1 checks
+*** TURN *** [4s 7h Jh] [8h]
+Main pot 63000.00
+Rorschach77 checks
+Xirius1 checks
+*** RIVER *** [4s 7h Jh 8h] [9d]
+Main pot 63000.00
+Rorschach77 checks
+Xirius1 checks
+*** SHOW DOWN ***
+Main pot 63000.00
+Rorschach77 shows [Ad 2d] (a high card, Ace high [Ad Jh 9d 8h 7h])
+Xirius1 shows [Qc Kc] (a high card, King high [Kc Qc Jh 9d 8h])
+Rorschach77 collected 63000.00 from main pot
+*** SUMMARY ***
+Total pot 63000.00
+Board [4s 7h Jh 8h 9d]
+Seat 1: Rorschach77 (big blind) showed [Ad 2d] and won 63000.00 with a high card, Ace high [Ad Jh 9d 8h 7h]
+Seat 2: Xirius1 showed [Qc Kc] and lost with a high card, King high [Kc Qc Jh 9d 8h]
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Pre-Flop
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478793165 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:33:54 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Rorschach77 (188480.00)
+Seat 2: Xirius1 (388241.00)
+Seat 3: casonmac (285304.00)
+Seat 4: KKvb2323 (311609.00) is sitting out
+Seat 6: grotle (671875.00)
+Seat 8: gonefisting (267195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+Rorschach77 posts the small blind 8000.00
+Xirius1 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Qs Jh]
+casonmac folds
+KKvb2323 folds
+grotle folds
+gonefisting folds
+Rorschach77 raises 178480.00 to 186480.00 and is all-in
+Xirius1 folds
+Uncalled bet (170480.00) returned to Rorschach77
+Rorschach77 does not show
+*** SUMMARY ***
+Total pot 44000.00
+Seat 1: Rorschach77 did not show and won 44000.00
+Seat 2: Xirius1 (big blind) folded on the Pre-Flop
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+
+Game Hand #2478793350 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:34:28 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Rorschach77 (214480.00)
+Seat 2: Xirius1 (370241.00)
+Seat 3: casonmac (283304.00)
+Seat 4: KKvb2323 (309609.00) is sitting out
+Seat 6: grotle (669875.00)
+Seat 8: gonefisting (265195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+Xirius1 posts the small blind 8000.00
+casonmac posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [2d Ac]
+KKvb2323 folds
+grotle folds
+gonefisting folds
+Rorschach77 folds
+Xirius1 raises 360241.00 to 368241.00 and is all-in
+casonmac folds
+Uncalled bet (352241.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 44000.00
+Seat 1: Rorschach77 (button) folded on the Pre-Flop
+Seat 2: Xirius1 did not show and won 44000.00
+Seat 3: casonmac (big blind) folded on the Pre-Flop
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478793490 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:34:54 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 1: Rorschach77 (212480.00)
+Seat 2: Xirius1 (396241.00)
+Seat 3: casonmac (265304.00)
+Seat 4: KKvb2323 (307609.00) is sitting out
+Seat 6: grotle (667875.00)
+Seat 8: gonefisting (263195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+casonmac posts the small blind 8000.00
+KKvb2323 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Qh 5d]
+grotle folds
+gonefisting folds
+Rorschach77 raises 210480.00 to 210480.00 and is all-in
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+Uncalled bet (194480.00) returned to Rorschach77
+Rorschach77 does not show
+*** SUMMARY ***
+Total pot 52000.00
+Seat 1: Rorschach77 did not show and won 52000.00
+Seat 2: Xirius1 (button) folded on the Pre-Flop
+Seat 3: casonmac (small blind) folded on the Pre-Flop
+Seat 4: KKvb2323 (big blind) folded on the Pre-Flop
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478793634 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:35:17 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 1: Rorschach77 (246480.00)
+Seat 2: Xirius1 (394241.00)
+Seat 3: casonmac (255304.00)
+Seat 4: KKvb2323 (289609.00) is sitting out
+Seat 6: grotle (665875.00)
+Seat 8: gonefisting (261195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+KKvb2323 posts the small blind 8000.00
+grotle posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Js As]
+gonefisting folds
+Rorschach77 folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+grotle does not show
+*** SUMMARY ***
+Total pot 36000.00
+Seat 1: Rorschach77 folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac (button) folded on the Pre-Flop
+Seat 4: KKvb2323 (small blind) folded on the Pre-Flop
+Seat 6: grotle did not show and won 36000.00
+Seat 8: gonefisting folded on the Pre-Flop and did not bet
+
+Game Hand #2478793753 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:35:36 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: Rorschach77 (244480.00)
+Seat 2: Xirius1 (392241.00)
+Seat 3: casonmac (253304.00)
+Seat 4: KKvb2323 (279609.00) is sitting out
+Seat 6: grotle (683875.00)
+Seat 8: gonefisting (259195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+grotle posts the small blind 8000.00
+gonefisting posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [As 8h]
+Rorschach77 folds
+Xirius1 folds
+casonmac folds
+KKvb2323 folds
+grotle calls 8000.00
+gonefisting checks
+*** FLOP *** [Qc 4c 9d]
+Main pot 44000.00
+grotle checks
+gonefisting bets 16000.00
+grotle calls 16000.00
+*** TURN *** [Qc 4c 9d] [7h]
+Main pot 76000.00
+grotle checks
+gonefisting checks
+*** RIVER *** [Qc 4c 9d 7h] [Ad]
+Main pot 76000.00
+grotle bets 76000.00
+gonefisting calls 76000.00
+*** SHOW DOWN ***
+Main pot 228000.00
+grotle shows [As 8h] (a pair of Aces [As Ad Qc 9d 8h])
+gonefisting shows [Qs 6d] (a pair of Queens [Qs Qc Ad 9d 7h])
+grotle collected 228000.00 from main pot
+*** SUMMARY ***
+Total pot 228000.00
+Board [Qc 4c 9d 7h Ad]
+Seat 1: Rorschach77 folded on the Pre-Flop and did not bet
+Seat 2: Xirius1 folded on the Pre-Flop and did not bet
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 (button) folded on the Pre-Flop
+Seat 6: grotle (small blind) showed [As 8h] and won 228000.00 with a pair of Aces [As Ad Qc 9d 8h]
+Seat 8: gonefisting (big blind) showed [Qs 6d] and lost with a pair of Queens [Qs Qc Ad 9d 7h]
+
+Game Hand #2478794052 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:36:29 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Rorschach77 (242480.00)
+Seat 2: Xirius1 (390241.00)
+Seat 3: casonmac (251304.00)
+Seat 4: KKvb2323 (277609.00) is sitting out
+Seat 6: grotle (801875.00)
+Seat 8: gonefisting (149195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+gonefisting posts the small blind 8000.00
+Rorschach77 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Td Tc]
+Xirius1 raises 32000.00 to 32000.00
+casonmac folds
+KKvb2323 folds
+grotle calls 32000.00
+gonefisting folds
+Rorschach77 folds
+*** FLOP *** [2s Js Ac]
+Main pot 100000.00
+Xirius1 bets 75040.00
+grotle calls 75040.00
+*** TURN *** [2s Js Ac] [5c]
+Main pot 250080.00
+Xirius1 bets 281201.00 and is all-in
+grotle folds
+Uncalled bet (281201.00) returned to Xirius1
+Xirius1 does not show
+*** SUMMARY ***
+Total pot 250080.00
+Board [2s Js Ac 5c]
+Seat 1: Rorschach77 (big blind) folded on the Pre-Flop
+Seat 2: Xirius1 did not show and won 250080.00
+Seat 3: casonmac folded on the Pre-Flop and did not bet
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle (button) folded on the Turn
+Seat 8: gonefisting (small blind) folded on the Pre-Flop
+
+Game Hand #2478794520 - Tournament #33592580 - Holdem (No Limit) - Level 16 (8000.00/16000.00) - 2025/06/11 13:37:52 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Rorschach77 (224480.00)
+Seat 2: Xirius1 (531281.00)
+Seat 3: casonmac (249304.00)
+Seat 4: KKvb2323 (275609.00) is sitting out
+Seat 6: grotle (692835.00)
+Seat 8: gonefisting (139195.00)
+Rorschach77 posts ante 2000.00
+Xirius1 posts ante 2000.00
+casonmac posts ante 2000.00
+KKvb2323 posts ante 2000.00
+grotle posts ante 2000.00
+gonefisting posts ante 2000.00
+Rorschach77 posts the small blind 8000.00
+Xirius1 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [9d 4c]
+casonmac raises 32000.00 to 32000.00
+KKvb2323 folds
+grotle folds
+gonefisting folds
+Rorschach77 raises 214480.00 to 222480.00 and is all-in
+Xirius1 folds
+casonmac calls 190480.00
+*** FLOP *** [5h Js 6c]
+Main pot 472960.00
+*** TURN *** [5h Js 6c] [Ah]
+Main pot 472960.00
+*** RIVER *** [5h Js 6c Ah] [Ts]
+Main pot 472960.00
+*** SHOW DOWN ***
+Main pot 472960.00
+Rorschach77 shows [3d 3h] (a pair of Threes [3h 3d Ah Js Ts])
+casonmac shows [4s As] (a pair of Aces [As Ah Js Ts 6c])
+casonmac collected 472960.00 from main pot
+*** SUMMARY ***
+Total pot 472960.00
+Board [5h Js 6c Ah Ts]
+Seat 1: Rorschach77 (small blind) showed [3d 3h] and lost with a pair of Threes [3h 3d Ah Js Ts]
+Seat 2: Xirius1 (big blind) folded on the Pre-Flop
+Seat 3: casonmac showed [4s As] and won 472960.00 with a pair of Aces [As Ah Js Ts 6c]
+Seat 4: KKvb2323 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 8: gonefisting (button) folded on the Pre-Flop
+

@@ -1,0 +1,1645 @@
+Game Hand #2492665252 - Tournament #33638791 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/30 01:02:30 UTC
+Table '18' 8-max Seat #7 is the button
+Seat 1: lilrondog219 (195424.00)
+Seat 2: sicknasty911 (96000.00)
+Seat 3: xonha69 (99000.00)
+Seat 4: FryFolds (103165.00)
+Seat 5: MeKnowBluff (497924.00)
+Seat 6: grotle (872566.00)
+Seat 7: LuckyDuck99 (218200.00)
+Seat 8: jowbjow (203589.00)
+lilrondog219 posts ante 1000.00
+sicknasty911 posts ante 1000.00
+xonha69 posts ante 1000.00
+FryFolds posts ante 1000.00
+MeKnowBluff posts ante 1000.00
+grotle posts ante 1000.00
+LuckyDuck99 posts ante 1000.00
+jowbjow posts ante 1000.00
+jowbjow posts the small blind 4000.00
+lilrondog219 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [5h Th]
+sicknasty911 folds
+xonha69 folds
+FryFolds folds
+MeKnowBluff raises 16000.00 to 16000.00
+grotle folds
+LuckyDuck99 folds
+jowbjow folds
+lilrondog219 calls 8000.00
+*** FLOP *** [3h Qh Kh]
+Main pot 44000.00
+lilrondog219 checks
+MeKnowBluff checks
+*** TURN *** [3h Qh Kh] [7d]
+Main pot 44000.00
+lilrondog219 checks
+MeKnowBluff bets 8000.00
+lilrondog219 folds
+Uncalled bet (8000.00) returned to MeKnowBluff
+MeKnowBluff does not show
+*** SUMMARY ***
+Total pot 44000.00
+Board [3h Qh Kh 7d]
+Seat 1: lilrondog219 (big blind) folded on the Turn
+Seat 2: sicknasty911 folded on the Pre-Flop and did not bet
+Seat 3: xonha69 folded on the Pre-Flop and did not bet
+Seat 4: FryFolds folded on the Pre-Flop and did not bet
+Seat 5: MeKnowBluff did not show and won 44000.00
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: LuckyDuck99 (button) folded on the Pre-Flop
+Seat 8: jowbjow (small blind) folded on the Pre-Flop
+
+Game Hand #2492666156 - Tournament #33638791 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/30 01:03:36 UTC
+Table '28' 8-max Seat #1 is the button
+Seat 1: VirtualToxicity (100000.00)
+Seat 2: lilrondog219 (178424.00)
+Seat 3: grotle (871566.00)
+Seat 4: MeKnowBluff (524924.00)
+Seat 5: FryFolds (102165.00)
+Seat 6: S O D (100000.00)
+VirtualToxicity posts ante 1000.00
+lilrondog219 posts ante 1000.00
+grotle posts ante 1000.00
+MeKnowBluff posts ante 1000.00
+FryFolds posts ante 1000.00
+S O D posts ante 1000.00
+lilrondog219 posts the small blind 4000.00
+grotle posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Jh 4s]
+MeKnowBluff folds
+FryFolds folds
+S O D raises 21000.00 to 21000.00
+VirtualToxicity folds
+lilrondog219 folds
+grotle folds
+Uncalled bet (13000.00) returned to S O D
+S O D does not show
+*** SUMMARY ***
+Total pot 26000.00
+Seat 1: VirtualToxicity (button) folded on the Pre-Flop
+Seat 2: lilrondog219 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D did not show and won 26000.00
+
+Game Hand #2492666463 - Tournament #33638791 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/30 01:03:57 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 3: grotle (862566.00)
+Seat 4: MeKnowBluff (523924.00)
+Seat 5: FryFolds (101165.00)
+Seat 6: S O D (117000.00)
+Seat 7: Wizzardnutz (100000.00)
+Seat 8: fulgari (100000.00)
+grotle posts ante 1000.00
+MeKnowBluff posts ante 1000.00
+FryFolds posts ante 1000.00
+S O D posts ante 1000.00
+Wizzardnutz posts ante 1000.00
+fulgari posts ante 1000.00
+grotle posts the small blind 4000.00
+MeKnowBluff posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [4d Ks]
+FryFolds folds
+S O D folds
+Wizzardnutz raises 16000.00 to 16000.00
+fulgari folds
+grotle folds
+MeKnowBluff calls 8000.00
+*** FLOP *** [Qc 9d 6d]
+Main pot 42000.00
+MeKnowBluff checks
+Wizzardnutz checks
+*** TURN *** [Qc 9d 6d] [2h]
+Main pot 42000.00
+MeKnowBluff bets 8000.00
+Wizzardnutz calls 8000.00
+*** RIVER *** [Qc 9d 6d 2h] [6s]
+Main pot 58000.00
+MeKnowBluff checks
+Wizzardnutz checks
+*** SHOW DOWN ***
+Main pot 58000.00
+MeKnowBluff shows [3h 4s] (a pair of Sixs [6s 6d Qc 9d 4s])
+Wizzardnutz shows [Th As] (a pair of Sixs [6s 6d As Qc Th])
+Wizzardnutz collected 58000.00 from main pot
+*** SUMMARY ***
+Total pot 58000.00
+Board [Qc 9d 6d 2h 6s]
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff (big blind) showed [3h 4s] and lost with a pair of Sixs [6s 6d Qc 9d 4s]
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz showed [Th As] and won 58000.00 with a pair of Sixs [6s 6d As Qc Th] with the kicker Ace
+Seat 8: fulgari folded on the Pre-Flop and did not bet
+
+Game Hand #2492667355 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:05:00 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 3: grotle (857566.00)
+Seat 4: MeKnowBluff (498924.00)
+Seat 5: FryFolds (100165.00)
+Seat 6: S O D (116000.00)
+Seat 7: Wizzardnutz (133000.00)
+Seat 8: fulgari (99000.00)
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+MeKnowBluff posts the small blind 5000.00
+FryFolds posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [5d 7c]
+S O D folds
+Wizzardnutz folds
+fulgari folds
+grotle raises 20000.00 to 20000.00
+MeKnowBluff folds
+FryFolds folds
+Uncalled bet (10000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 32500.00
+Seat 3: grotle did not show and won 32500.00
+Seat 4: MeKnowBluff (small blind) folded on the Pre-Flop
+Seat 5: FryFolds (big blind) folded on the Pre-Flop
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: fulgari folded on the Pre-Flop and did not bet
+
+Game Hand #2492668035 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:05:43 UTC
+Table '28' 8-max Seat #4 is the button
+Seat 1: dheinen (77821.00)
+Seat 2: Dope3 (175460.00)
+Seat 3: grotle (878816.00)
+Seat 4: MeKnowBluff (492674.00)
+Seat 5: FryFolds (88915.00)
+Seat 6: S O D (114750.00)
+Seat 7: Wizzardnutz (131750.00)
+Seat 8: fulgari (97750.00)
+dheinen posts ante 1250.00
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+FryFolds posts the small blind 5000.00
+S O D posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [3d Qs]
+Wizzardnutz folds
+fulgari folds
+dheinen raises 76571.00 to 76571.00 and is all-in
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D calls 66571.00
+*** FLOP *** [9c 8d 9d]
+Main pot 168142.00
+*** TURN *** [9c 8d 9d] [Js]
+Main pot 168142.00
+*** RIVER *** [9c 8d 9d Js] [6c]
+Main pot 168142.00
+*** SHOW DOWN ***
+Main pot 168142.00
+dheinen shows [As Td] (a pair of Nines [9d 9c As Js Td])
+S O D shows [Ac Kc] (a pair of Nines [9d 9c Ac Kc Js])
+S O D collected 168142.00 from main pot
+*** SUMMARY ***
+Total pot 168142.00
+Board [9c 8d 9d Js 6c]
+Seat 1: dheinen showed [As Td] and lost with a pair of Nines [9d 9c As Js Td]
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff (button) folded on the Pre-Flop
+Seat 5: FryFolds (small blind) folded on the Pre-Flop
+Seat 6: S O D (big blind) showed [Ac Kc] and won 168142.00 with a pair of Nines [9d 9c Ac Kc Js] with the kicker King
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: fulgari folded on the Pre-Flop and did not bet
+
+Game Hand #2492668513 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:06:15 UTC
+Table '28' 8-max Seat #5 is the button
+Seat 2: Dope3 (174210.00)
+Seat 3: grotle (877566.00)
+Seat 4: MeKnowBluff (491424.00)
+Seat 5: FryFolds (82665.00)
+Seat 6: S O D (205071.00)
+Seat 7: Wizzardnutz (130500.00)
+Seat 8: fulgari (96500.00)
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+S O D posts the small blind 5000.00
+Wizzardnutz posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 8750.00
+Dealt to grotle [Ad 9s]
+fulgari folds
+Dope3 calls 10000.00
+grotle raises 30000.00 to 30000.00
+MeKnowBluff folds
+FryFolds raises 81415.00 to 81415.00 and is all-in
+S O D folds
+Wizzardnutz folds
+Dope3 folds
+grotle calls 51415.00
+*** FLOP *** [Jc Kh 3s]
+Main pot 196580.00
+*** TURN *** [Jc Kh 3s] [Ts]
+Main pot 196580.00
+*** RIVER *** [Jc Kh 3s Ts] [6h]
+Main pot 196580.00
+*** SHOW DOWN ***
+Main pot 196580.00
+grotle shows [Ad 9s] (a high card, Ace high [Ad Kh Jc Ts 9s])
+FryFolds shows [Kd As] (a pair of Kings [Kh Kd As Jc Ts])
+FryFolds collected 196580.00 from main pot
+*** SUMMARY ***
+Total pot 196580.00
+Board [Jc Kh 3s Ts 6h]
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [Ad 9s] and lost with a high card, Ace high [Ad Kh Jc Ts 9s]
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds (button) showed [Kd As] and won 196580.00 with a pair of Kings [Kh Kd As Jc Ts]
+Seat 6: S O D (small blind) folded on the Pre-Flop
+Seat 7: Wizzardnutz (big blind) folded on the Pre-Flop
+Seat 8: fulgari folded on the Pre-Flop and did not bet
+
+Game Hand #2492669491 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:07:17 UTC
+Table '28' 8-max Seat #6 is the button
+Seat 1: candyman22 (108500.00)
+Seat 2: Dope3 (162960.00)
+Seat 3: grotle (794901.00)
+Seat 4: MeKnowBluff (490174.00)
+Seat 5: FryFolds (196580.00)
+Seat 6: S O D (198821.00)
+Seat 7: Wizzardnutz (119250.00)
+Seat 8: fulgari (95250.00)
+candyman22 posts ante 1250.00
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+Wizzardnutz posts the small blind 5000.00
+fulgari posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [8c Kd]
+candyman22 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+Wizzardnutz folds
+fulgari does not show
+*** SUMMARY ***
+Total pot 25000.00
+Seat 1: candyman22 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D (button) folded on the Pre-Flop
+Seat 7: Wizzardnutz (small blind) folded on the Pre-Flop
+Seat 8: fulgari did not show and won 25000.00
+
+Game Hand #2492669818 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:07:39 UTC
+Table '28' 8-max Seat #7 is the button
+Seat 1: candyman22 (107250.00)
+Seat 2: Dope3 (161710.00)
+Seat 3: grotle (793651.00)
+Seat 4: MeKnowBluff (488924.00)
+Seat 5: FryFolds (195330.00)
+Seat 6: S O D (197571.00)
+Seat 7: Wizzardnutz (113000.00)
+Seat 8: fulgari (109000.00)
+candyman22 posts ante 1250.00
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+fulgari posts the small blind 5000.00
+candyman22 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [8c 3h]
+Dope3 raises 20000.00 to 20000.00
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+Wizzardnutz folds
+fulgari folds
+candyman22 calls 10000.00
+*** FLOP *** [Ks Qs 9h]
+Main pot 55000.00
+candyman22 checks
+Dope3 bets 27500.00
+candyman22 folds
+Uncalled bet (27500.00) returned to Dope3
+Dope3 does not show
+*** SUMMARY ***
+Total pot 55000.00
+Board [Ks Qs 9h]
+Seat 1: candyman22 (big blind) folded on the Flop
+Seat 2: Dope3 did not show and won 55000.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz (button) folded on the Pre-Flop
+Seat 8: fulgari (small blind) folded on the Pre-Flop
+
+Game Hand #2492670708 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:08:35 UTC
+Table '28' 8-max Seat #8 is the button
+Seat 1: candyman22 (86000.00)
+Seat 2: Dope3 (195460.00)
+Seat 3: grotle (792401.00)
+Seat 4: MeKnowBluff (487674.00)
+Seat 5: FryFolds (194080.00)
+Seat 6: S O D (196321.00)
+Seat 7: Wizzardnutz (111750.00)
+Seat 8: fulgari (102750.00)
+candyman22 posts ante 1250.00
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+fulgari posts ante 1250.00
+candyman22 posts the small blind 5000.00
+Dope3 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [9s 4c]
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D raises 27500.00 to 27500.00
+Wizzardnutz folds
+fulgari raises 101500.00 to 101500.00 and is all-in
+candyman22 folds
+Dope3 folds
+S O D calls 74000.00
+*** FLOP *** [3c 7c 5d]
+Main pot 228000.00
+*** TURN *** [3c 7c 5d] [5c]
+Main pot 228000.00
+*** RIVER *** [3c 7c 5d 5c] [6d]
+Main pot 228000.00
+*** SHOW DOWN ***
+Main pot 228000.00
+S O D shows [9d 9h] (two pair, Nines and Fives [9h 9d 5d 5c 7c])
+fulgari shows [Qd Ks] (a pair of Fives [5d 5c Ks Qd 7c])
+S O D collected 228000.00 from main pot
+*** SUMMARY ***
+Total pot 228000.00
+Board [3c 7c 5d 5c 6d]
+Seat 1: candyman22 (small blind) folded on the Pre-Flop
+Seat 2: Dope3 (big blind) folded on the Pre-Flop
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D showed [9d 9h] and won 228000.00 with two pair, Nines and Fives [9h 9d 5d 5c 7c]
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: fulgari (button) showed [Qd Ks] and lost with a pair of Fives [5d 5c Ks Qd 7c]
+
+Game Hand #2492671442 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:09:23 UTC
+Table '28' 8-max Seat #1 is the button
+Seat 1: candyman22 (79750.00)
+Seat 2: Dope3 (184210.00)
+Seat 3: grotle (791151.00)
+Seat 4: MeKnowBluff (486424.00)
+Seat 5: FryFolds (192830.00)
+Seat 6: S O D (321571.00)
+Seat 7: Wizzardnutz (110500.00)
+candyman22 posts ante 1250.00
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+Dope3 posts the small blind 5000.00
+grotle posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 8750.00
+Dealt to grotle [7d Ac]
+MeKnowBluff folds
+FryFolds folds
+S O D raises 26875.00 to 26875.00
+Wizzardnutz folds
+candyman22 raises 78500.00 to 78500.00 and is all-in
+Dope3 folds
+grotle folds
+S O D calls 51625.00
+*** FLOP *** [6h 9d 7s]
+Main pot 180750.00
+*** TURN *** [6h 9d 7s] [3h]
+Main pot 180750.00
+*** RIVER *** [6h 9d 7s 3h] [6s]
+Main pot 180750.00
+*** SHOW DOWN ***
+Main pot 180750.00
+candyman22 shows [Jd Jc] (two pair, Jacks and Sixs [Jd Jc 6s 6h 9d])
+S O D shows [Qh Qs] (two pair, Queens and Sixs [Qs Qh 6s 6h 9d])
+S O D collected 180750.00 from main pot
+*** SUMMARY ***
+Total pot 180750.00
+Board [6h 9d 7s 3h 6s]
+Seat 1: candyman22 (button) showed [Jd Jc] and lost with two pair, Jacks and Sixs [Jd Jc 6s 6h 9d]
+Seat 2: Dope3 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D showed [Qh Qs] and won 180750.00 with two pair, Queens and Sixs [Qs Qh 6s 6h 9d]
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+
+Game Hand #2492672175 - Tournament #33638791 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/30 01:10:11 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 2: Dope3 (177960.00)
+Seat 3: grotle (779901.00)
+Seat 4: MeKnowBluff (485174.00)
+Seat 5: FryFolds (191580.00)
+Seat 6: S O D (422571.00)
+Seat 7: Wizzardnutz (109250.00)
+Seat 8: LuckyDuck99 (109200.00)
+Dope3 posts ante 1250.00
+grotle posts ante 1250.00
+MeKnowBluff posts ante 1250.00
+FryFolds posts ante 1250.00
+S O D posts ante 1250.00
+Wizzardnutz posts ante 1250.00
+LuckyDuck99 posts ante 1250.00
+grotle posts the small blind 5000.00
+MeKnowBluff posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 8750.00
+Dealt to grotle [Qc 2d]
+FryFolds folds
+S O D folds
+Wizzardnutz raises 30000.00 to 30000.00
+LuckyDuck99 folds
+Dope3 folds
+grotle folds
+MeKnowBluff raises 95000.00 to 105000.00
+Wizzardnutz raises 78000.00 to 108000.00 and is all-in
+MeKnowBluff calls 3000.00
+*** FLOP *** [2h As 4s]
+Main pot 229750.00
+*** TURN *** [2h As 4s] [Qh]
+Main pot 229750.00
+*** RIVER *** [2h As 4s Qh] [6s]
+Main pot 229750.00
+*** SHOW DOWN ***
+Main pot 229750.00
+MeKnowBluff shows [7h 7d] (a pair of Sevens [7h 7d As Qh 6s])
+Wizzardnutz shows [Jc Jh] (a pair of Jacks [Jh Jc As Qh 6s])
+Wizzardnutz collected 229750.00 from main pot
+*** SUMMARY ***
+Total pot 229750.00
+Board [2h As 4s Qh 6s]
+Seat 2: Dope3 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff (big blind) showed [7h 7d] and lost with a pair of Sevens [7h 7d As Qh 6s]
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz showed [Jc Jh] and won 229750.00 with a pair of Jacks [Jh Jc As Qh 6s]
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492673136 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:11:13 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 2: Dope3 (176710.00)
+Seat 3: grotle (773651.00)
+Seat 4: MeKnowBluff (375924.00)
+Seat 5: FryFolds (190330.00)
+Seat 6: S O D (421321.00)
+Seat 7: Wizzardnutz (229750.00)
+Seat 8: LuckyDuck99 (107950.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+MeKnowBluff posts the small blind 6000.00
+FryFolds posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [6c 7h]
+S O D folds
+Wizzardnutz calls 12000.00
+LuckyDuck99 folds
+Dope3 folds
+grotle folds
+MeKnowBluff raises 40875.00 to 46875.00
+FryFolds folds
+Wizzardnutz folds
+Uncalled bet (34875.00) returned to MeKnowBluff
+MeKnowBluff does not show
+*** SUMMARY ***
+Total pot 46500.00
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: MeKnowBluff did not show and won 46500.00
+Seat 5: FryFolds (big blind) folded on the Pre-Flop
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492674124 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:12:15 UTC
+Table '28' 8-max Seat #4 is the button
+Seat 2: Dope3 (175210.00)
+Seat 3: grotle (772151.00)
+Seat 4: MeKnowBluff (408924.00)
+Seat 5: FryFolds (176830.00)
+Seat 6: S O D (419821.00)
+Seat 7: Wizzardnutz (216250.00)
+Seat 8: LuckyDuck99 (106450.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+FryFolds posts the small blind 6000.00
+S O D posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [Th 5h]
+Wizzardnutz folds
+LuckyDuck99 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D does not show
+*** SUMMARY ***
+Total pot 28500.00
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff (button) folded on the Pre-Flop
+Seat 5: FryFolds (small blind) folded on the Pre-Flop
+Seat 6: S O D did not show and won 28500.00
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492674455 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:12:38 UTC
+Table '28' 8-max Seat #5 is the button
+Seat 2: Dope3 (173710.00)
+Seat 3: grotle (770651.00)
+Seat 4: MeKnowBluff (407424.00)
+Seat 5: FryFolds (169330.00)
+Seat 6: S O D (434821.00)
+Seat 7: Wizzardnutz (214750.00)
+Seat 8: LuckyDuck99 (104950.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+S O D posts the small blind 6000.00
+Wizzardnutz posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [Kd 9d]
+LuckyDuck99 folds
+Dope3 folds
+grotle raises 24000.00 to 24000.00
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+Wizzardnutz folds
+Uncalled bet (12000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 40500.00
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle did not show and won 40500.00
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds (button) folded on the Pre-Flop
+Seat 6: S O D (small blind) folded on the Pre-Flop
+Seat 7: Wizzardnutz (big blind) folded on the Pre-Flop
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492674830 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:13:01 UTC
+Table '28' 8-max Seat #6 is the button
+Seat 2: Dope3 (172210.00)
+Seat 3: grotle (797651.00)
+Seat 4: MeKnowBluff (405924.00)
+Seat 5: FryFolds (167830.00)
+Seat 6: S O D (427321.00)
+Seat 7: Wizzardnutz (201250.00)
+Seat 8: LuckyDuck99 (103450.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+Wizzardnutz posts the small blind 6000.00
+LuckyDuck99 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [4s 6d]
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds calls 12000.00
+S O D calls 12000.00
+Wizzardnutz folds
+LuckyDuck99 raises 89950.00 to 101950.00 and is all-in
+FryFolds folds
+S O D folds
+S O D shows [- Ah]
+Uncalled bet (89950.00) returned to LuckyDuck99
+LuckyDuck99 does not show
+*** SUMMARY ***
+Total pot 52500.00
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D (button) showed [- Ah] and folded on the Pre-Flop
+Seat 7: Wizzardnutz (small blind) folded on the Pre-Flop
+Seat 8: LuckyDuck99 did not show and won 52500.00
+
+Game Hand #2492675192 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:13:26 UTC
+Table '28' 8-max Seat #7 is the button
+Seat 2: Dope3 (170710.00)
+Seat 3: grotle (796151.00)
+Seat 4: MeKnowBluff (404424.00)
+Seat 5: FryFolds (154330.00)
+Seat 6: S O D (413821.00)
+Seat 7: Wizzardnutz (193750.00)
+Seat 8: LuckyDuck99 (142450.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+LuckyDuck99 posts the small blind 6000.00
+Dope3 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [3d Jd]
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+Wizzardnutz folds
+LuckyDuck99 folds
+Dope3 does not show
+*** SUMMARY ***
+Total pot 28500.00
+Seat 2: Dope3 did not show and won 28500.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz (button) folded on the Pre-Flop
+Seat 8: LuckyDuck99 (small blind) folded on the Pre-Flop
+
+Game Hand #2492675415 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:13:41 UTC
+Table '28' 8-max Seat #8 is the button
+Seat 2: Dope3 (185710.00)
+Seat 3: grotle (794651.00)
+Seat 4: MeKnowBluff (402924.00)
+Seat 5: FryFolds (152830.00)
+Seat 6: S O D (412321.00)
+Seat 7: Wizzardnutz (192250.00)
+Seat 8: LuckyDuck99 (134950.00)
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+Dope3 posts the small blind 6000.00
+grotle posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [3h Qh]
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+Wizzardnutz folds
+LuckyDuck99 raises 24000.00 to 24000.00
+Dope3 folds
+grotle calls 12000.00
+*** FLOP *** [6c 2s Js]
+Main pot 64500.00
+grotle checks
+LuckyDuck99 bets 19995.00
+grotle calls 19995.00
+*** TURN *** [6c 2s Js] [6h]
+Main pot 104490.00
+grotle checks
+LuckyDuck99 bets 89455.00 and is all-in
+grotle folds
+Uncalled bet (89455.00) returned to LuckyDuck99
+LuckyDuck99 does not show
+*** SUMMARY ***
+Total pot 104490.00
+Board [6c 2s Js 6h]
+Seat 2: Dope3 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Turn
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 did not show and won 104490.00
+
+Game Hand #2492676387 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:14:44 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 1: JgibbsBS05 (214775.00)
+Seat 2: Dope3 (178210.00)
+Seat 3: grotle (749156.00)
+Seat 4: MeKnowBluff (401424.00)
+Seat 5: FryFolds (151330.00)
+Seat 6: S O D (410821.00)
+Seat 7: Wizzardnutz (190750.00)
+Seat 8: LuckyDuck99 (193945.00)
+JgibbsBS05 posts ante 1500.00
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+grotle posts the small blind 6000.00
+MeKnowBluff posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [2d Kh]
+FryFolds folds
+S O D raises 33000.00 to 33000.00
+Wizzardnutz folds
+LuckyDuck99 folds
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+Uncalled bet (21000.00) returned to S O D
+S O D does not show
+*** SUMMARY ***
+Total pot 42000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff (big blind) folded on the Pre-Flop
+Seat 5: FryFolds folded on the Pre-Flop and did not bet
+Seat 6: S O D did not show and won 42000.00
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492676953 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:15:21 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 1: JgibbsBS05 (213275.00)
+Seat 2: Dope3 (176710.00)
+Seat 3: grotle (741656.00)
+Seat 4: MeKnowBluff (387924.00)
+Seat 5: FryFolds (149830.00)
+Seat 6: S O D (439321.00)
+Seat 7: Wizzardnutz (189250.00)
+Seat 8: LuckyDuck99 (192445.00)
+JgibbsBS05 posts ante 1500.00
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+MeKnowBluff posts the small blind 6000.00
+FryFolds posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [5h 8s]
+S O D folds
+Wizzardnutz folds
+LuckyDuck99 folds
+JgibbsBS05 folds
+Dope3 raises 30000.00 to 30000.00
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+Uncalled bet (18000.00) returned to Dope3
+Dope3 does not show
+*** SUMMARY ***
+Total pot 42000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 did not show and won 42000.00
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: MeKnowBluff (small blind) folded on the Pre-Flop
+Seat 5: FryFolds (big blind) folded on the Pre-Flop
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492677417 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:15:52 UTC
+Table '28' 8-max Seat #4 is the button
+Seat 1: JgibbsBS05 (211775.00)
+Seat 2: Dope3 (205210.00)
+Seat 3: grotle (740156.00)
+Seat 4: MeKnowBluff (380424.00)
+Seat 5: FryFolds (136330.00)
+Seat 6: S O D (437821.00)
+Seat 7: Wizzardnutz (187750.00)
+Seat 8: LuckyDuck99 (190945.00)
+JgibbsBS05 posts ante 1500.00
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+FryFolds posts the small blind 6000.00
+S O D posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [4c Ac]
+Wizzardnutz folds
+LuckyDuck99 folds
+JgibbsBS05 raises 24000.00 to 24000.00
+Dope3 folds
+grotle raises 82500.00 to 82500.00
+MeKnowBluff folds
+FryFolds folds
+S O D folds
+JgibbsBS05 calls 58500.00
+*** FLOP *** [6d 8h 4h]
+Main pot 195000.00
+JgibbsBS05 checks
+grotle bets 36750.00
+JgibbsBS05 raises 127775.00 to 127775.00 and is all-in
+grotle calls 91025.00
+*** TURN *** [6d 8h 4h] [8c]
+Main pot 450550.00
+*** RIVER *** [6d 8h 4h 8c] [Jd]
+Main pot 450550.00
+*** SHOW DOWN ***
+Main pot 450550.00
+JgibbsBS05 shows [Td 8d] (three of a kind, Set of Eights [8h 8d 8c Jd Td])
+grotle shows [4c Ac] (two pair, Eights and Fours [8h 8c 4h 4c Ac])
+JgibbsBS05 collected 450550.00 from main pot
+*** SUMMARY ***
+Total pot 450550.00
+Board [6d 8h 4h 8c Jd]
+Seat 1: JgibbsBS05 showed [Td 8d] and won 450550.00 with three of a kind, Set of Eights [8h 8d 8c Jd Td]
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [4c Ac] and lost with two pair, Eights and Fours [8h 8c 4h 4c Ac]
+Seat 4: MeKnowBluff (button) folded on the Pre-Flop
+Seat 5: FryFolds (small blind) folded on the Pre-Flop
+Seat 6: S O D (big blind) folded on the Pre-Flop
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492678083 - Tournament #33638791 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/30 01:16:36 UTC
+Table '28' 8-max Seat #5 is the button
+Seat 1: JgibbsBS05 (450550.00)
+Seat 2: Dope3 (203710.00)
+Seat 3: grotle (528381.00)
+Seat 4: MeKnowBluff (378924.00)
+Seat 5: FryFolds (128830.00)
+Seat 6: S O D (424321.00)
+Seat 7: Wizzardnutz (186250.00)
+Seat 8: LuckyDuck99 (189445.00)
+JgibbsBS05 posts ante 1500.00
+Dope3 posts ante 1500.00
+grotle posts ante 1500.00
+MeKnowBluff posts ante 1500.00
+FryFolds posts ante 1500.00
+S O D posts ante 1500.00
+Wizzardnutz posts ante 1500.00
+LuckyDuck99 posts ante 1500.00
+S O D posts the small blind 6000.00
+Wizzardnutz posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [5c Jd]
+LuckyDuck99 folds
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds folds
+S O D calls 6000.00
+Wizzardnutz checks
+*** FLOP *** [6h 3h 7c]
+Main pot 36000.00
+S O D bets 12000.00
+Wizzardnutz calls 12000.00
+*** TURN *** [6h 3h 7c] [3d]
+Main pot 60000.00
+S O D checks
+Wizzardnutz checks
+*** RIVER *** [6h 3h 7c 3d] [Ts]
+Main pot 60000.00
+S O D checks
+Wizzardnutz checks
+*** SHOW DOWN ***
+Main pot 60000.00
+S O D shows [2s 9d] (a pair of Threes [3h 3d Ts 9d 7c])
+Wizzardnutz shows [Kh 4h] (a pair of Threes [3h 3d Kh Ts 7c])
+Wizzardnutz collected 60000.00 from main pot
+*** SUMMARY ***
+Total pot 60000.00
+Board [6h 3h 7c 3d Ts]
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds (button) folded on the Pre-Flop
+Seat 6: S O D (small blind) showed [2s 9d] and lost with a pair of Threes [3h 3d Ts 9d 7c]
+Seat 7: Wizzardnutz (big blind) showed [Kh 4h] and won 60000.00 with a pair of Threes [3h 3d Kh Ts 7c] with the kicker King
+Seat 8: LuckyDuck99 folded on the Pre-Flop and did not bet
+
+Game Hand #2492679135 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:17:43 UTC
+Table '28' 8-max Seat #6 is the button
+Seat 1: JgibbsBS05 (449050.00)
+Seat 2: Dope3 (202210.00)
+Seat 3: grotle (526881.00)
+Seat 4: MeKnowBluff (377424.00)
+Seat 5: FryFolds (127330.00)
+Seat 6: S O D (398821.00)
+Seat 7: Wizzardnutz (220750.00)
+Seat 8: LuckyDuck99 (187945.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+FryFolds posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+LuckyDuck99 posts ante 2000.00
+Wizzardnutz posts the small blind 8000.00
+LuckyDuck99 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [Jh 4d]
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds raises 32000.00 to 32000.00
+S O D folds
+Wizzardnutz folds
+LuckyDuck99 folds
+Uncalled bet (16000.00) returned to FryFolds
+FryFolds does not show
+*** SUMMARY ***
+Total pot 56000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds did not show and won 56000.00
+Seat 6: S O D (button) folded on the Pre-Flop
+Seat 7: Wizzardnutz (small blind) folded on the Pre-Flop
+Seat 8: LuckyDuck99 (big blind) folded on the Pre-Flop
+
+Game Hand #2492679577 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:18:11 UTC
+Table '28' 8-max Seat #7 is the button
+Seat 1: JgibbsBS05 (447050.00)
+Seat 2: Dope3 (200210.00)
+Seat 3: grotle (524881.00)
+Seat 4: MeKnowBluff (375424.00)
+Seat 5: FryFolds (165330.00)
+Seat 6: S O D (396821.00)
+Seat 7: Wizzardnutz (210750.00)
+Seat 8: LuckyDuck99 (169945.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+FryFolds posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+LuckyDuck99 posts ante 2000.00
+LuckyDuck99 posts the small blind 8000.00
+JgibbsBS05 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [2h Ac]
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+FryFolds raises 32000.00 to 32000.00
+S O D folds
+Wizzardnutz folds
+LuckyDuck99 raises 159945.00 to 167945.00 and is all-in
+JgibbsBS05 calls 151945.00
+FryFolds calls 131330.00 and is all-in
+*** FLOP *** [8s Qh Tc]
+Main pot 505990.00
+Side pot(1) 9230.00
+*** TURN *** [8s Qh Tc] [Jh]
+Main pot 505990.00
+Side pot(1) 9230.00
+*** RIVER *** [8s Qh Tc Jh] [5d]
+Main pot 505990.00
+Side pot(1) 9230.00
+*** SHOW DOWN ***
+Main pot 505990.00
+Side pot(1) 9230.00
+JgibbsBS05 shows [Ad As] (a pair of Aces [As Ad Qh Jh Tc])
+FryFolds shows [Jc Ah] (a pair of Jacks [Jh Jc Ah Qh Tc])
+LuckyDuck99 shows [4h 4s] (a pair of Fours [4s 4h Qh Jh Tc])
+JgibbsBS05 collected 505990.00 from main pot
+JgibbsBS05 collected 9230.00 from side pot-1
+*** SUMMARY ***
+Total pot 515220.00
+Board [8s Qh Tc Jh 5d]
+Seat 1: JgibbsBS05 (big blind) showed [Ad As] and won 515220.00 with a pair of Aces [As Ad Qh Jh Tc]
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: FryFolds showed [Jc Ah] and lost with a pair of Jacks [Jh Jc Ah Qh Tc]
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz (button) folded on the Pre-Flop
+Seat 8: LuckyDuck99 (small blind) showed [4h 4s] and lost with a pair of Fours [4s 4h Qh Jh Tc]
+
+Game Hand #2492680235 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:18:52 UTC
+Table '28' 8-max Seat #8 is the button
+Seat 1: JgibbsBS05 (792325.00)
+Seat 2: Dope3 (198210.00)
+Seat 3: grotle (522881.00)
+Seat 4: MeKnowBluff (373424.00)
+Seat 6: S O D (394821.00)
+Seat 7: Wizzardnutz (208750.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+JgibbsBS05 posts the small blind 8000.00
+Dope3 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [5h Qh]
+grotle folds
+MeKnowBluff folds
+S O D raises 42000.00 to 42000.00
+Wizzardnutz folds
+JgibbsBS05 calls 34000.00
+Dope3 raises 180210.00 to 196210.00 and is all-in
+S O D folds
+JgibbsBS05 folds
+Uncalled bet (154210.00) returned to Dope3
+Dope3 does not show
+*** SUMMARY ***
+Total pot 138000.00
+Seat 1: JgibbsBS05 (small blind) folded on the Pre-Flop
+Seat 2: Dope3 did not show and won 138000.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+
+Game Hand #2492681010 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:19:42 UTC
+Table '28' 8-max Seat #1 is the button
+Seat 1: JgibbsBS05 (748325.00)
+Seat 2: Dope3 (292210.00)
+Seat 3: grotle (520881.00)
+Seat 4: MeKnowBluff (371424.00)
+Seat 5: pafedokul (262800.00)
+Seat 6: S O D (350821.00)
+Seat 7: Wizzardnutz (206750.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+pafedokul posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+Dope3 posts the small blind 8000.00
+grotle posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [3d 5h]
+MeKnowBluff folds
+pafedokul raises 260800.00 to 260800.00 and is all-in
+S O D folds
+Wizzardnutz folds
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+Uncalled bet (244800.00) returned to pafedokul
+pafedokul does not show
+*** SUMMARY ***
+Total pot 54000.00
+Seat 1: JgibbsBS05 (button) folded on the Pre-Flop
+Seat 2: Dope3 (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul did not show and won 54000.00
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+
+Game Hand #2492681596 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:20:20 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 1: JgibbsBS05 (746325.00)
+Seat 2: Dope3 (282210.00)
+Seat 3: grotle (502881.00)
+Seat 4: MeKnowBluff (369424.00)
+Seat 5: pafedokul (298800.00)
+Seat 6: S O D (348821.00)
+Seat 7: Wizzardnutz (204750.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+pafedokul posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+grotle posts the small blind 8000.00
+MeKnowBluff posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [4d Kc]
+pafedokul folds
+S O D folds
+Wizzardnutz raises 32000.00 to 32000.00
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff calls 16000.00
+*** FLOP *** [8s 3c 6d]
+Main pot 86000.00
+MeKnowBluff bets 32000.00
+Wizzardnutz calls 32000.00
+*** TURN *** [8s 3c 6d] [5d]
+Main pot 150000.00
+MeKnowBluff bets 75000.00
+Wizzardnutz folds
+Uncalled bet (75000.00) returned to MeKnowBluff
+MeKnowBluff does not show
+*** SUMMARY ***
+Total pot 150000.00
+Board [8s 3c 6d 5d]
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff did not show and won 150000.00
+Seat 5: pafedokul folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Turn
+
+Game Hand #2492682710 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:21:35 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 1: JgibbsBS05 (744325.00)
+Seat 2: Dope3 (280210.00)
+Seat 3: grotle (492881.00)
+Seat 4: MeKnowBluff (453424.00)
+Seat 5: pafedokul (296800.00)
+Seat 6: S O D (346821.00)
+Seat 7: Wizzardnutz (138750.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+pafedokul posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+MeKnowBluff posts the small blind 8000.00
+pafedokul posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [5d 7s]
+S O D folds
+Wizzardnutz folds
+JgibbsBS05 folds
+Dope3 raises 32000.00 to 32000.00
+grotle folds
+MeKnowBluff folds
+pafedokul folds
+Uncalled bet (16000.00) returned to Dope3
+Dope3 does not show
+*** SUMMARY ***
+Total pot 54000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 did not show and won 54000.00
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: MeKnowBluff (small blind) folded on the Pre-Flop
+Seat 5: pafedokul (big blind) folded on the Pre-Flop
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+
+Game Hand #2492683378 - Tournament #33638791 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/30 01:22:18 UTC
+Table '28' 8-max Seat #4 is the button
+Seat 1: JgibbsBS05 (742325.00)
+Seat 2: Dope3 (316210.00)
+Seat 3: grotle (490881.00)
+Seat 4: MeKnowBluff (443424.00)
+Seat 5: pafedokul (278800.00)
+Seat 6: S O D (344821.00)
+Seat 7: Wizzardnutz (136750.00)
+JgibbsBS05 posts ante 2000.00
+Dope3 posts ante 2000.00
+grotle posts ante 2000.00
+MeKnowBluff posts ante 2000.00
+pafedokul posts ante 2000.00
+S O D posts ante 2000.00
+Wizzardnutz posts ante 2000.00
+pafedokul posts the small blind 8000.00
+S O D posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [2s 2c]
+Wizzardnutz calls 16000.00
+JgibbsBS05 folds
+Dope3 folds
+grotle raises 48000.00 to 48000.00
+MeKnowBluff folds
+pafedokul folds
+S O D folds
+Wizzardnutz calls 32000.00
+*** FLOP *** [5s Ac 9s]
+Main pot 134000.00
+Wizzardnutz checks
+grotle checks
+*** TURN *** [5s Ac 9s] [Jh]
+Main pot 134000.00
+Wizzardnutz bets 86750.00 and is all-in
+grotle calls 86750.00
+*** RIVER *** [5s Ac 9s Jh] [7s]
+Main pot 307500.00
+*** SHOW DOWN ***
+Main pot 307500.00
+grotle shows [2s 2c] (a pair of Deuces [2s 2c Ac Jh 9s])
+Wizzardnutz shows [9c Jd] (two pair, Jacks and Nines [Jh Jd 9s 9c Ac])
+Wizzardnutz collected 307500.00 from main pot
+*** SUMMARY ***
+Total pot 307500.00
+Board [5s Ac 9s Jh 7s]
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle showed [2s 2c] and lost with a pair of Deuces [2s 2c Ac Jh 9s]
+Seat 4: MeKnowBluff (button) folded on the Pre-Flop
+Seat 5: pafedokul (small blind) folded on the Pre-Flop
+Seat 6: S O D (big blind) folded on the Pre-Flop
+Seat 7: Wizzardnutz showed [9c Jd] and won 307500.00 with two pair, Jacks and Nines [Jh Jd 9s 9c Ac]
+
+Game Hand #2492684227 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:23:16 UTC
+Table '28' 8-max Seat #5 is the button
+Seat 1: JgibbsBS05 (740325.00)
+Seat 2: Dope3 (314210.00)
+Seat 3: grotle (354131.00)
+Seat 4: MeKnowBluff (441424.00)
+Seat 5: pafedokul (268800.00)
+Seat 6: S O D (326821.00)
+Seat 7: Wizzardnutz (307500.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+S O D posts the small blind 10000.00
+Wizzardnutz posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 17500.00
+Dealt to grotle [8c Jh]
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+pafedokul folds
+S O D calls 10000.00
+Wizzardnutz checks
+*** FLOP *** [Tc 6h Js]
+Main pot 57500.00
+S O D bets 28750.00
+Wizzardnutz folds
+Uncalled bet (28750.00) returned to S O D
+S O D does not show
+*** SUMMARY ***
+Total pot 57500.00
+Board [Tc 6h Js]
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul (button) folded on the Pre-Flop
+Seat 6: S O D did not show and won 57500.00
+Seat 7: Wizzardnutz (big blind) folded on the Flop
+
+Game Hand #2492684865 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:23:57 UTC
+Table '28' 8-max Seat #6 is the button
+Seat 1: JgibbsBS05 (737825.00)
+Seat 2: Dope3 (311710.00)
+Seat 3: grotle (351631.00)
+Seat 4: MeKnowBluff (438924.00)
+Seat 5: pafedokul (266300.00)
+Seat 6: S O D (361821.00)
+Seat 7: Wizzardnutz (285000.00)
+Seat 8: Joeyo929 (281432.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+Wizzardnutz posts the small blind 10000.00
+Joeyo929 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [Ad 6h]
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+pafedokul raises 263800.00 to 263800.00 and is all-in
+S O D folds
+Wizzardnutz folds
+Joeyo929 folds
+Uncalled bet (243800.00) returned to pafedokul
+pafedokul does not show
+*** SUMMARY ***
+Total pot 70000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul did not show and won 70000.00
+Seat 6: S O D (button) folded on the Pre-Flop
+Seat 7: Wizzardnutz (small blind) folded on the Pre-Flop
+Seat 8: Joeyo929 (big blind) folded on the Pre-Flop
+
+Game Hand #2492685541 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:24:41 UTC
+Table '28' 8-max Seat #7 is the button
+Seat 1: JgibbsBS05 (735325.00)
+Seat 2: Dope3 (309210.00)
+Seat 3: grotle (349131.00)
+Seat 4: MeKnowBluff (436424.00)
+Seat 5: pafedokul (313800.00)
+Seat 6: S O D (359321.00)
+Seat 7: Wizzardnutz (272500.00)
+Seat 8: Joeyo929 (258932.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+Joeyo929 posts the small blind 10000.00
+JgibbsBS05 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [Ts 6c]
+Dope3 raises 306710.00 to 306710.00 and is all-in
+grotle folds
+MeKnowBluff folds
+pafedokul folds
+S O D folds
+Wizzardnutz folds
+Joeyo929 folds
+JgibbsBS05 folds
+Uncalled bet (286710.00) returned to Dope3
+Dope3 does not show
+*** SUMMARY ***
+Total pot 70000.00
+Seat 1: JgibbsBS05 (big blind) folded on the Pre-Flop
+Seat 2: Dope3 did not show and won 70000.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz (button) folded on the Pre-Flop
+Seat 8: Joeyo929 (small blind) folded on the Pre-Flop
+
+Game Hand #2492686070 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:25:16 UTC
+Table '28' 8-max Seat #8 is the button
+Seat 1: JgibbsBS05 (712825.00)
+Seat 2: Dope3 (356710.00)
+Seat 3: grotle (346631.00)
+Seat 4: MeKnowBluff (433924.00)
+Seat 5: pafedokul (311300.00)
+Seat 6: S O D (356821.00)
+Seat 7: Wizzardnutz (270000.00)
+Seat 8: Joeyo929 (246432.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+JgibbsBS05 posts the small blind 10000.00
+Dope3 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [9h 8d]
+grotle folds
+MeKnowBluff folds
+pafedokul folds
+S O D folds
+Wizzardnutz calls 20000.00
+Joeyo929 folds
+JgibbsBS05 calls 10000.00
+Dope3 checks
+*** FLOP *** [7h Js Tc]
+Main pot 80000.00
+JgibbsBS05 checks
+Dope3 checks
+Wizzardnutz checks
+*** TURN *** [7h Js Tc] [8s]
+Main pot 80000.00
+JgibbsBS05 checks
+Dope3 bets 40000.00
+Wizzardnutz folds
+JgibbsBS05 calls 40000.00
+*** RIVER *** [7h Js Tc 8s] [Kd]
+Main pot 160000.00
+JgibbsBS05 bets 120000.00
+Dope3 folds
+Uncalled bet (120000.00) returned to JgibbsBS05
+JgibbsBS05 does not show
+*** SUMMARY ***
+Total pot 160000.00
+Board [7h Js Tc 8s Kd]
+Seat 1: JgibbsBS05 did not show and won 160000.00
+Seat 2: Dope3 (big blind) folded on the River
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Turn
+Seat 8: Joeyo929 (button) folded on the Pre-Flop
+
+Game Hand #2492687218 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:26:33 UTC
+Table '28' 8-max Seat #1 is the button
+Seat 1: JgibbsBS05 (810325.00)
+Seat 2: Dope3 (294210.00)
+Seat 3: grotle (344131.00)
+Seat 4: MeKnowBluff (431424.00)
+Seat 5: pafedokul (308800.00)
+Seat 6: S O D (354321.00)
+Seat 7: Wizzardnutz (247500.00)
+Seat 8: Joeyo929 (243932.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+Dope3 posts the small blind 10000.00
+grotle posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [4h 4s]
+MeKnowBluff folds
+pafedokul folds
+S O D raises 55000.00 to 55000.00
+Wizzardnutz folds
+Joeyo929 folds
+JgibbsBS05 folds
+Dope3 folds
+grotle raises 321631.00 to 341631.00 and is all-in
+S O D folds
+Uncalled bet (286631.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 140000.00
+Seat 1: JgibbsBS05 (button) folded on the Pre-Flop
+Seat 2: Dope3 (small blind) folded on the Pre-Flop
+Seat 3: grotle did not show and won 140000.00
+Seat 4: MeKnowBluff folded on the Pre-Flop and did not bet
+Seat 5: pafedokul folded on the Pre-Flop and did not bet
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: Joeyo929 folded on the Pre-Flop and did not bet
+
+Game Hand #2492688653 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:28:10 UTC
+Table '28' 8-max Seat #2 is the button
+Seat 1: JgibbsBS05 (807825.00)
+Seat 2: Dope3 (281710.00)
+Seat 3: grotle (426631.00)
+Seat 4: MeKnowBluff (428924.00)
+Seat 5: pafedokul (306300.00)
+Seat 6: S O D (296821.00)
+Seat 7: Wizzardnutz (245000.00)
+Seat 8: Joeyo929 (241432.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+grotle posts the small blind 10000.00
+MeKnowBluff posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [9c Tc]
+pafedokul raises 303800.00 to 303800.00 and is all-in
+S O D folds
+Wizzardnutz folds
+Joeyo929 folds
+JgibbsBS05 folds
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+Uncalled bet (283800.00) returned to pafedokul
+pafedokul does not show
+*** SUMMARY ***
+Total pot 70000.00
+Seat 1: JgibbsBS05 folded on the Pre-Flop and did not bet
+Seat 2: Dope3 (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: MeKnowBluff (big blind) folded on the Pre-Flop
+Seat 5: pafedokul did not show and won 70000.00
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: Joeyo929 folded on the Pre-Flop and did not bet
+
+Game Hand #2492689292 - Tournament #33638791 - Holdem (No Limit) - Level 19 (10000.00/20000.00) - 2025/06/30 01:28:52 UTC
+Table '28' 8-max Seat #3 is the button
+Seat 1: JgibbsBS05 (805325.00)
+Seat 2: Dope3 (279210.00)
+Seat 3: grotle (414131.00)
+Seat 4: MeKnowBluff (406424.00)
+Seat 5: pafedokul (353800.00)
+Seat 6: S O D (294321.00)
+Seat 7: Wizzardnutz (242500.00)
+Seat 8: Joeyo929 (238932.00)
+JgibbsBS05 posts ante 2500.00
+Dope3 posts ante 2500.00
+grotle posts ante 2500.00
+MeKnowBluff posts ante 2500.00
+pafedokul posts ante 2500.00
+S O D posts ante 2500.00
+Wizzardnutz posts ante 2500.00
+Joeyo929 posts ante 2500.00
+MeKnowBluff posts the small blind 10000.00
+pafedokul posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [6s Jh]
+S O D folds
+Wizzardnutz folds
+Joeyo929 folds
+JgibbsBS05 raises 40000.00 to 40000.00
+Dope3 folds
+grotle folds
+MeKnowBluff folds
+pafedokul folds
+Uncalled bet (20000.00) returned to JgibbsBS05
+JgibbsBS05 does not show
+*** SUMMARY ***
+Total pot 70000.00
+Seat 1: JgibbsBS05 did not show and won 70000.00
+Seat 2: Dope3 folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Pre-Flop
+Seat 4: MeKnowBluff (small blind) folded on the Pre-Flop
+Seat 5: pafedokul (big blind) folded on the Pre-Flop
+Seat 6: S O D folded on the Pre-Flop and did not bet
+Seat 7: Wizzardnutz folded on the Pre-Flop and did not bet
+Seat 8: Joeyo929 folded on the Pre-Flop and did not bet
+

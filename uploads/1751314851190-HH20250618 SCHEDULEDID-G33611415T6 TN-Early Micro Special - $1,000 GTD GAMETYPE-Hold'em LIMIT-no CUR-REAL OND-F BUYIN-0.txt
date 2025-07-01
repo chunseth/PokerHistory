@@ -1,0 +1,874 @@
+Game Hand #2483929560 - Tournament #33611415 - Holdem (No Limit) - Level 2 (650.00/1300.00) - 2025/06/18 11:42:54 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: mmopsikov1 (92100.00)
+Seat 2: Kebrei (87125.00)
+Seat 3: KarpHunter (101193.00)
+Seat 4: KeenQwing (172414.00)
+Seat 5: cabritinha (82953.00)
+Seat 6: fufeloid1 (242126.00)
+Seat 7: adck88 (134491.00)
+Seat 8: grotle (100000.00)
+mmopsikov1 posts ante 150.00
+Kebrei posts ante 150.00
+KarpHunter posts ante 150.00
+KeenQwing posts ante 150.00
+cabritinha posts ante 150.00
+fufeloid1 posts ante 150.00
+adck88 posts ante 150.00
+grotle posts ante 150.00
+cabritinha posts the small blind 650.00
+fufeloid1 posts the big blind 1300.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [5c 7d]
+adck88 folds
+grotle folds
+mmopsikov1 folds
+Kebrei raises 2600.00 to 2600.00
+KarpHunter raises 7800.00 to 7800.00
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+Kebrei calls 5200.00
+*** FLOP *** [Ac 6c Ks]
+Main pot 18750.00
+Kebrei checks
+KarpHunter checks
+*** TURN *** [Ac 6c Ks] [5s]
+Main pot 18750.00
+Kebrei checks
+KarpHunter bets 8063.00
+Kebrei calls 8063.00
+*** RIVER *** [Ac 6c Ks 5s] [Qd]
+Main pot 34876.00
+Kebrei checks
+KarpHunter bets 16297.00
+Kebrei calls 16297.00
+*** SHOW DOWN ***
+Main pot 67470.00
+Kebrei shows [Kd Js] (a pair of Kings [Ks Kd Ac Qd Js])
+KarpHunter shows [Kc Qh] (two pair, Kings and Queens [Ks Kc Qh Qd Ac])
+KarpHunter collected 67470.00 from main pot
+*** SUMMARY ***
+Total pot 67470.00
+Board [Ac 6c Ks 5s Qd]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: Kebrei showed [Kd Js] and lost with a pair of Kings [Ks Kd Ac Qd Js]
+Seat 3: KarpHunter showed [Kc Qh] and won 67470.00 with two pair, Kings and Queens [Ks Kc Qh Qd Ac]
+Seat 4: KeenQwing (button) folded on the Pre-Flop
+Seat 5: cabritinha (small blind) folded on the Pre-Flop
+Seat 6: fufeloid1 (big blind) folded on the Pre-Flop
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483929949 - Tournament #33611415 - Holdem (No Limit) - Level 2 (650.00/1300.00) - 2025/06/18 11:45:06 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: mmopsikov1 (91950.00)
+Seat 2: Kebrei (54815.00)
+Seat 3: KarpHunter (136353.00)
+Seat 4: KeenQwing (172264.00)
+Seat 5: cabritinha (82153.00)
+Seat 6: fufeloid1 (240676.00)
+Seat 7: adck88 (134341.00)
+Seat 8: grotle (99850.00)
+mmopsikov1 posts ante 150.00
+Kebrei posts ante 150.00
+KarpHunter posts ante 150.00
+KeenQwing posts ante 150.00
+cabritinha posts ante 150.00
+fufeloid1 posts ante 150.00
+adck88 posts ante 150.00
+grotle posts ante 150.00
+fufeloid1 posts the small blind 650.00
+adck88 posts the big blind 1300.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Ac 2d]
+grotle folds
+mmopsikov1 folds
+Kebrei folds
+KarpHunter folds
+KeenQwing raises 3250.00 to 3250.00
+cabritinha folds
+fufeloid1 folds
+adck88 calls 1950.00
+*** FLOP *** [2s 7h 7d]
+Main pot 8350.00
+adck88 checks
+KeenQwing bets 3388.00
+adck88 folds
+Uncalled bet (3388.00) returned to KeenQwing
+KeenQwing does not show
+*** SUMMARY ***
+Total pot 8350.00
+Board [2s 7h 7d]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: Kebrei folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing did not show and won 8350.00
+Seat 5: cabritinha (button) folded on the Pre-Flop
+Seat 6: fufeloid1 (small blind) folded on the Pre-Flop
+Seat 7: adck88 (big blind) folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483930130 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:46:03 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: mmopsikov1 (91800.00)
+Seat 2: Kebrei (54665.00)
+Seat 3: KarpHunter (136203.00)
+Seat 4: KeenQwing (177214.00)
+Seat 5: cabritinha (82003.00)
+Seat 6: fufeloid1 (239876.00)
+Seat 7: adck88 (130941.00)
+Seat 8: grotle (99700.00)
+mmopsikov1 posts ante 175.00
+Kebrei posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+adck88 posts the small blind 700.00
+grotle posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2d Jd]
+mmopsikov1 folds
+Kebrei folds
+KarpHunter folds
+KeenQwing raises 3500.00 to 3500.00
+cabritinha folds
+fufeloid1 folds
+adck88 folds
+grotle calls 2100.00
+*** FLOP *** [As Qc 5d]
+Main pot 9100.00
+grotle checks
+KeenQwing bets 3675.00
+grotle calls 3675.00
+*** TURN *** [As Qc 5d] [2c]
+Main pot 16450.00
+grotle checks
+KeenQwing bets 23800.00
+grotle folds
+Uncalled bet (23800.00) returned to KeenQwing
+KeenQwing does not show
+*** SUMMARY ***
+Total pot 16450.00
+Board [As Qc 5d 2c]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: Kebrei folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing did not show and won 16450.00
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 (button) folded on the Pre-Flop
+Seat 7: adck88 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Turn
+
+Game Hand #2483930346 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:47:16 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: mmopsikov1 (91625.00)
+Seat 3: KarpHunter (136028.00)
+Seat 4: KeenQwing (186314.00)
+Seat 5: cabritinha (81828.00)
+Seat 6: fufeloid1 (239701.00)
+Seat 7: adck88 (130066.00)
+Seat 8: grotle (92350.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+grotle posts the small blind 700.00
+mmopsikov1 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [3h Kd]
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+adck88 raises 2800.00 to 2800.00
+grotle folds
+mmopsikov1 calls 1400.00
+*** FLOP *** [8s Jh 7s]
+Main pot 7525.00
+mmopsikov1 checks
+adck88 bets 1881.00
+mmopsikov1 folds
+Uncalled bet (1881.00) returned to adck88
+adck88 does not show
+*** SUMMARY ***
+Total pot 7525.00
+Board [8s Jh 7s]
+Seat 1: mmopsikov1 (big blind) folded on the Flop
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 did not show and won 7525.00
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2483930523 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:48:17 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: mmopsikov1 (88650.00)
+Seat 3: KarpHunter (135853.00)
+Seat 4: KeenQwing (186139.00)
+Seat 5: cabritinha (81653.00)
+Seat 6: fufeloid1 (239526.00)
+Seat 7: adck88 (134616.00)
+Seat 8: grotle (91475.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+mmopsikov1 posts the small blind 700.00
+KarpHunter posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Qc 5h]
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+adck88 raises 2800.00 to 2800.00
+grotle calls 2800.00
+mmopsikov1 folds
+KarpHunter calls 1400.00
+*** FLOP *** [8d Tc 7c]
+Main pot 10325.00
+KarpHunter checks
+adck88 checks
+grotle checks
+*** TURN *** [8d Tc 7c] [9c]
+Main pot 10325.00
+KarpHunter bets 9695.00
+adck88 folds
+grotle calls 9695.00
+*** RIVER *** [8d Tc 7c 9c] [4d]
+Main pot 29715.00
+KarpHunter bets 22029.00
+grotle folds
+Uncalled bet (22029.00) returned to KarpHunter
+KarpHunter does not show
+*** SUMMARY ***
+Total pot 29715.00
+Board [8d Tc 7c 9c 4d]
+Seat 1: mmopsikov1 (small blind) folded on the Pre-Flop
+Seat 3: KarpHunter did not show and won 29715.00
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 folded on the Turn
+Seat 8: grotle (button) folded on the River
+
+Game Hand #2483930815 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:49:56 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: mmopsikov1 (87775.00)
+Seat 3: KarpHunter (152898.00)
+Seat 4: KeenQwing (185964.00)
+Seat 5: cabritinha (81478.00)
+Seat 6: fufeloid1 (239351.00)
+Seat 7: adck88 (131641.00)
+Seat 8: grotle (78805.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+KarpHunter posts the small blind 700.00
+KeenQwing posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [4d 5d]
+cabritinha raises 3220.00 to 3220.00
+fufeloid1 folds
+adck88 folds
+grotle calls 3220.00
+mmopsikov1 folds
+KarpHunter folds
+KeenQwing folds
+*** FLOP *** [Kh 6h Ad]
+Main pot 9765.00
+cabritinha checks
+grotle checks
+*** TURN *** [Kh 6h Ad] [Tc]
+Main pot 9765.00
+cabritinha bets 1960.00
+grotle folds
+Uncalled bet (1960.00) returned to cabritinha
+cabritinha does not show
+*** SUMMARY ***
+Total pot 9765.00
+Board [Kh 6h Ad Tc]
+Seat 1: mmopsikov1 (button) folded on the Pre-Flop
+Seat 3: KarpHunter (small blind) folded on the Pre-Flop
+Seat 4: KeenQwing (big blind) folded on the Pre-Flop
+Seat 5: cabritinha did not show and won 9765.00
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Turn
+
+Game Hand #2483931003 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:50:58 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: mmopsikov1 (87600.00)
+Seat 3: KarpHunter (152023.00)
+Seat 4: KeenQwing (184389.00)
+Seat 5: cabritinha (87848.00)
+Seat 6: fufeloid1 (239176.00)
+Seat 7: adck88 (131466.00)
+Seat 8: grotle (75410.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+KeenQwing posts the small blind 700.00
+cabritinha posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Jc 9d]
+fufeloid1 folds
+adck88 folds
+grotle folds
+mmopsikov1 raises 2800.00 to 2800.00
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+Uncalled bet (1400.00) returned to mmopsikov1
+mmopsikov1 does not show
+*** SUMMARY ***
+Total pot 4725.00
+Seat 1: mmopsikov1 did not show and won 4725.00
+Seat 3: KarpHunter (button) folded on the Pre-Flop
+Seat 4: KeenQwing (small blind) folded on the Pre-Flop
+Seat 5: cabritinha (big blind) folded on the Pre-Flop
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483931085 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:51:23 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: mmopsikov1 (90750.00)
+Seat 3: KarpHunter (151848.00)
+Seat 4: KeenQwing (183514.00)
+Seat 5: cabritinha (86273.00)
+Seat 6: fufeloid1 (239001.00)
+Seat 7: adck88 (131291.00)
+Seat 8: grotle (75235.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+cabritinha posts the small blind 700.00
+fufeloid1 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [4d Qd]
+adck88 raises 2800.00 to 2800.00
+grotle folds
+mmopsikov1 folds
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+fufeloid1 calls 1400.00
+*** FLOP *** [Ts Qs 8c]
+Main pot 7525.00
+fufeloid1 checks
+adck88 bets 2258.00
+fufeloid1 calls 2258.00
+*** TURN *** [Ts Qs 8c] [3h]
+Main pot 12041.00
+fufeloid1 checks
+adck88 bets 6021.00
+fufeloid1 folds
+Uncalled bet (6021.00) returned to adck88
+adck88 does not show
+*** SUMMARY ***
+Total pot 12041.00
+Board [Ts Qs 8c 3h]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing (button) folded on the Pre-Flop
+Seat 5: cabritinha (small blind) folded on the Pre-Flop
+Seat 6: fufeloid1 (big blind) folded on the Turn
+Seat 7: adck88 did not show and won 12041.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483931270 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:52:27 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: mmopsikov1 (90575.00)
+Seat 3: KarpHunter (151673.00)
+Seat 4: KeenQwing (183339.00)
+Seat 5: cabritinha (85398.00)
+Seat 6: fufeloid1 (233768.00)
+Seat 7: adck88 (138099.00)
+Seat 8: grotle (75060.00)
+mmopsikov1 posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+fufeloid1 posts the small blind 700.00
+adck88 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Ah 9c]
+grotle raises 2800.00 to 2800.00
+mmopsikov1 folds
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+adck88 folds
+Uncalled bet (1400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 4725.00
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha (button) folded on the Pre-Flop
+Seat 6: fufeloid1 (small blind) folded on the Pre-Flop
+Seat 7: adck88 (big blind) folded on the Pre-Flop
+Seat 8: grotle did not show and won 4725.00
+
+Game Hand #2483931343 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:52:51 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: mmopsikov1 (90400.00)
+Seat 2: fiscian (100000.00)
+Seat 3: KarpHunter (151498.00)
+Seat 4: KeenQwing (183164.00)
+Seat 5: cabritinha (85223.00)
+Seat 6: fufeloid1 (232893.00)
+Seat 7: adck88 (136524.00)
+Seat 8: grotle (78210.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+adck88 posts the small blind 700.00
+grotle posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2h 8d]
+mmopsikov1 folds
+fiscian folds
+KarpHunter raises 2800.00 to 2800.00
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+adck88 folds
+grotle folds
+Uncalled bet (1400.00) returned to KarpHunter
+KarpHunter does not show
+*** SUMMARY ***
+Total pot 4900.00
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: fiscian folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter did not show and won 4900.00
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 (button) folded on the Pre-Flop
+Seat 7: adck88 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Pre-Flop
+
+Game Hand #2483931432 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:53:22 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: mmopsikov1 (90225.00)
+Seat 2: fiscian (99825.00)
+Seat 3: KarpHunter (154823.00)
+Seat 4: KeenQwing (182989.00)
+Seat 5: cabritinha (85048.00)
+Seat 6: fufeloid1 (232718.00)
+Seat 7: adck88 (135649.00)
+Seat 8: grotle (76635.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+grotle posts the small blind 700.00
+mmopsikov1 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2c 8s]
+fiscian folds
+KarpHunter folds
+KeenQwing raises 3500.00 to 3500.00
+cabritinha folds
+fufeloid1 raises 14000.00 to 14000.00
+adck88 folds
+grotle folds
+mmopsikov1 calls 12600.00
+KeenQwing calls 10500.00
+*** FLOP *** [Kd Th 7c]
+Main pot 44100.00
+mmopsikov1 checks
+KeenQwing checks
+fufeloid1 checks
+*** TURN *** [Kd Th 7c] [2s]
+Main pot 44100.00
+mmopsikov1 checks
+KeenQwing checks
+fufeloid1 bets 14553.00
+mmopsikov1 calls 14553.00
+KeenQwing folds
+*** RIVER *** [Kd Th 7c 2s] [6h]
+Main pot 73206.00
+mmopsikov1 checks
+fufeloid1 checks
+*** SHOW DOWN ***
+Main pot 73206.00
+mmopsikov1 shows [Jh Jc] (a pair of Jacks [Jh Jc Kd Th 7c])
+fufeloid1 shows [Qs Qh] (a pair of Queens [Qs Qh Kd Th 7c])
+fufeloid1 collected 73206.00 from main pot
+*** SUMMARY ***
+Total pot 73206.00
+Board [Kd Th 7c 2s 6h]
+Seat 1: mmopsikov1 (big blind) showed [Jh Jc] and lost with a pair of Jacks [Jh Jc Kd Th 7c]
+Seat 2: fiscian folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing folded on the Turn
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 showed [Qs Qh] and won 73206.00 with a pair of Queens [Qs Qh Kd Th 7c]
+Seat 7: adck88 (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2483931675 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 11:54:41 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: mmopsikov1 (61497.00)
+Seat 2: fiscian (99650.00)
+Seat 3: KarpHunter (154648.00)
+Seat 4: KeenQwing (168814.00)
+Seat 5: cabritinha (84873.00)
+Seat 6: fufeloid1 (277196.00)
+Seat 7: adck88 (135474.00)
+Seat 8: grotle (75760.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+mmopsikov1 posts the small blind 700.00
+fiscian posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Ts 6s]
+KarpHunter raises 2800.00 to 2800.00
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+adck88 folds
+grotle calls 2800.00
+mmopsikov1 folds
+fiscian calls 1400.00
+*** FLOP *** [Js 8s Ah]
+Main pot 10500.00
+fiscian bets 1428.00
+KarpHunter calls 1428.00
+grotle calls 1428.00
+*** TURN *** [Js 8s Ah] [Qc]
+Main pot 14784.00
+fiscian checks
+KarpHunter checks
+grotle checks
+*** RIVER *** [Js 8s Ah Qc] [Qs]
+Main pot 14784.00
+fiscian checks
+KarpHunter bets 10270.00
+grotle raises 30732.00 to 30732.00
+fiscian folds
+KarpHunter folds
+Uncalled bet (20462.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 35324.00
+Board [Js 8s Ah Qc Qs]
+Seat 1: mmopsikov1 (small blind) folded on the Pre-Flop
+Seat 2: fiscian (big blind) folded on the River
+Seat 3: KarpHunter folded on the River
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 35324.00
+
+Game Hand #2483932587 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 12:03:08 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: mmopsikov1 (60622.00)
+Seat 2: fiscian (95247.00)
+Seat 3: KarpHunter (139975.00)
+Seat 4: KeenQwing (168639.00)
+Seat 5: cabritinha (84698.00)
+Seat 6: fufeloid1 (277021.00)
+Seat 7: adck88 (135299.00)
+Seat 8: grotle (96411.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+fiscian posts the small blind 700.00
+KarpHunter posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [9s 2s]
+KeenQwing folds
+cabritinha raises 3220.00 to 3220.00
+fufeloid1 folds
+adck88 folds
+grotle folds
+mmopsikov1 folds
+fiscian folds
+KarpHunter raises 138400.00 to 139800.00 and is all-in
+cabritinha folds
+Uncalled bet (136580.00) returned to KarpHunter
+KarpHunter does not show
+*** SUMMARY ***
+Total pot 8540.00
+Seat 1: mmopsikov1 (button) folded on the Pre-Flop
+Seat 2: fiscian (small blind) folded on the Pre-Flop
+Seat 3: KarpHunter did not show and won 8540.00
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483932723 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 12:03:58 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: mmopsikov1 (60447.00)
+Seat 2: fiscian (94372.00)
+Seat 3: KarpHunter (145120.00)
+Seat 4: KeenQwing (168464.00)
+Seat 5: cabritinha (81303.00)
+Seat 6: fufeloid1 (276846.00)
+Seat 7: adck88 (135124.00)
+Seat 8: grotle (96236.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+KarpHunter posts the small blind 700.00
+KeenQwing posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2h Jc]
+cabritinha folds
+fufeloid1 folds
+adck88 raises 2800.00 to 2800.00
+grotle folds
+mmopsikov1 calls 2800.00
+fiscian raises 12600.00 to 12600.00
+KarpHunter folds
+KeenQwing folds
+adck88 raises 27300.00 to 30100.00
+mmopsikov1 folds
+fiscian folds
+Uncalled bet (17500.00) returned to adck88
+adck88 does not show
+*** SUMMARY ***
+Total pot 31500.00
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: fiscian (button) folded on the Pre-Flop
+Seat 3: KarpHunter (small blind) folded on the Pre-Flop
+Seat 4: KeenQwing (big blind) folded on the Pre-Flop
+Seat 5: cabritinha folded on the Pre-Flop and did not bet
+Seat 6: fufeloid1 folded on the Pre-Flop and did not bet
+Seat 7: adck88 did not show and won 31500.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483932931 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 12:05:14 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: mmopsikov1 (57472.00)
+Seat 2: fiscian (81597.00)
+Seat 3: KarpHunter (144245.00)
+Seat 4: KeenQwing (166889.00)
+Seat 5: cabritinha (81128.00)
+Seat 6: fufeloid1 (276671.00)
+Seat 7: adck88 (153849.00)
+Seat 8: grotle (96061.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+KeenQwing posts the small blind 700.00
+cabritinha posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [3c 5s]
+fufeloid1 raises 2800.00 to 2800.00
+adck88 folds
+grotle folds
+mmopsikov1 folds
+fiscian folds
+KarpHunter calls 2800.00
+KeenQwing folds
+cabritinha folds
+*** FLOP *** [5c Jh 6s]
+Main pot 9100.00
+fufeloid1 bets 3003.00
+KarpHunter calls 3003.00
+*** TURN *** [5c Jh 6s] [Js]
+Main pot 15106.00
+fufeloid1 checks
+KarpHunter bets 6496.00
+fufeloid1 folds
+Uncalled bet (6496.00) returned to KarpHunter
+KarpHunter does not show
+*** SUMMARY ***
+Total pot 15106.00
+Board [5c Jh 6s Js]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: fiscian folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter did not show and won 15106.00
+Seat 4: KeenQwing (small blind) folded on the Pre-Flop
+Seat 5: cabritinha (big blind) folded on the Pre-Flop
+Seat 6: fufeloid1 folded on the Turn
+Seat 7: adck88 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483933115 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 12:06:16 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: mmopsikov1 (57297.00)
+Seat 2: fiscian (81422.00)
+Seat 3: KarpHunter (153373.00)
+Seat 4: KeenQwing (166014.00)
+Seat 5: cabritinha (79553.00)
+Seat 6: fufeloid1 (270693.00)
+Seat 7: adck88 (153674.00)
+Seat 8: grotle (95886.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+cabritinha posts the small blind 700.00
+fufeloid1 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [3h 9d]
+adck88 raises 2800.00 to 2800.00
+grotle folds
+mmopsikov1 folds
+fiscian folds
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+fufeloid1 folds
+Uncalled bet (1400.00) returned to adck88
+adck88 does not show
+*** SUMMARY ***
+Total pot 4900.00
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: fiscian folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing (button) folded on the Pre-Flop
+Seat 5: cabritinha (small blind) folded on the Pre-Flop
+Seat 6: fufeloid1 (big blind) folded on the Pre-Flop
+Seat 7: adck88 did not show and won 4900.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2483933197 - Tournament #33611415 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/18 12:06:44 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: mmopsikov1 (57122.00)
+Seat 2: fiscian (81247.00)
+Seat 3: KarpHunter (153198.00)
+Seat 4: KeenQwing (165839.00)
+Seat 5: cabritinha (78678.00)
+Seat 6: fufeloid1 (269118.00)
+Seat 7: adck88 (156999.00)
+Seat 8: grotle (95711.00)
+mmopsikov1 posts ante 175.00
+fiscian posts ante 175.00
+KarpHunter posts ante 175.00
+KeenQwing posts ante 175.00
+cabritinha posts ante 175.00
+fufeloid1 posts ante 175.00
+adck88 posts ante 175.00
+grotle posts ante 175.00
+fufeloid1 posts the small blind 700.00
+adck88 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Ac Jc]
+grotle raises 2800.00 to 2800.00
+mmopsikov1 folds
+fiscian folds
+KarpHunter folds
+KeenQwing folds
+cabritinha folds
+fufeloid1 calls 2100.00
+adck88 calls 1400.00
+*** FLOP *** [7s Ad Tc]
+Main pot 9800.00
+fufeloid1 checks
+adck88 checks
+grotle bets 3500.00
+fufeloid1 folds
+adck88 calls 3500.00
+*** TURN *** [7s Ad Tc] [5h]
+Main pot 16800.00
+adck88 bets 8400.00
+grotle calls 8400.00
+*** RIVER *** [7s Ad Tc 5h] [4s]
+Main pot 33600.00
+adck88 bets 24920.00
+grotle raises 80836.00 to 80836.00 and is all-in
+adck88 calls 55916.00
+*** SHOW DOWN ***
+Main pot 195272.00
+adck88 shows [8s 6s] (a straight, Eight high [8s 7s 6s 5h 4s])
+grotle shows [Ac Jc] (a pair of Aces [Ad Ac Jc Tc 7s])
+adck88 collected 195272.00 from main pot
+*** SUMMARY ***
+Total pot 195272.00
+Board [7s Ad Tc 5h 4s]
+Seat 1: mmopsikov1 folded on the Pre-Flop and did not bet
+Seat 2: fiscian folded on the Pre-Flop and did not bet
+Seat 3: KarpHunter folded on the Pre-Flop and did not bet
+Seat 4: KeenQwing folded on the Pre-Flop and did not bet
+Seat 5: cabritinha (button) folded on the Pre-Flop
+Seat 6: fufeloid1 (small blind) folded on the Flop
+Seat 7: adck88 (big blind) showed [8s 6s] and won 195272.00 with a straight, Eight high [8s 7s 6s 5h 4s]
+Seat 8: grotle showed [Ac Jc] and lost with a pair of Aces [Ad Ac Jc Tc 7s]
+

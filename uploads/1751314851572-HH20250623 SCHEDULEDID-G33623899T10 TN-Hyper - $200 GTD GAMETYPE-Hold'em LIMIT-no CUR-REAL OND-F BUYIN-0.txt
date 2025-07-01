@@ -1,0 +1,52 @@
+Game Hand #2487625134 - Tournament #33623899 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 05:01:29 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: grotle (100000.00)
+Seat 2: Pokerbratt1988 (100000.00)
+Seat 3: tankerdad (100000.00)
+Seat 4: ShermMackenzie (100000.00)
+Seat 5: Dave in NH (100000.00)
+Seat 6: 915jewjew (402940.00)
+Seat 7: T-town23 (285049.00)
+grotle posts ante 750.00
+Pokerbratt1988 posts ante 750.00
+tankerdad posts ante 750.00
+ShermMackenzie posts ante 750.00
+Dave in NH posts ante 750.00
+915jewjew posts ante 750.00
+T-town23 posts ante 750.00
+Pokerbratt1988 posts the small blind 3000.00
+tankerdad posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Qh 6d]
+ShermMackenzie folds
+Dave in NH folds
+915jewjew calls 6000.00
+T-town23 calls 6000.00
+grotle folds
+Pokerbratt1988 calls 3000.00
+tankerdad checks
+*** FLOP *** [Js As 4d]
+Main pot 29250.00
+Pokerbratt1988 bets 9000.00
+tankerdad folds
+915jewjew calls 9000.00
+T-town23 folds
+*** TURN *** [Js As 4d] [9h]
+Main pot 47250.00
+Pokerbratt1988 checks
+915jewjew bets 15000.00
+Pokerbratt1988 folds
+Uncalled bet (15000.00) returned to 915jewjew
+915jewjew does not show
+*** SUMMARY ***
+Total pot 47250.00
+Board [Js As 4d 9h]
+Seat 1: grotle (button) folded on the Pre-Flop
+Seat 2: Pokerbratt1988 (small blind) folded on the Turn
+Seat 3: tankerdad (big blind) folded on the Flop
+Seat 4: ShermMackenzie folded on the Pre-Flop and did not bet
+Seat 5: Dave in NH folded on the Pre-Flop and did not bet
+Seat 6: 915jewjew did not show and won 47250.00
+Seat 7: T-town23 folded on the Flop
+

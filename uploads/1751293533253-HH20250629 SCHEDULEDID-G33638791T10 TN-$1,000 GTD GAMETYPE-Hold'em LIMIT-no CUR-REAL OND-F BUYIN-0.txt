@@ -1,0 +1,706 @@
+Game Hand #2492599499 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:41:42 UTC
+Table '10' 8-max Seat #7 is the button
+Seat 1: grotle (100000.00)
+Seat 4: Jest (33472.00)
+Seat 6: Cubbiesrule70 (260500.00)
+Seat 7: jael510 (155000.00)
+Seat 8: Mr Johnson222 (116575.00)
+grotle posts ante 400.00
+Jest posts ante 400.00
+Cubbiesrule70 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+Mr Johnson222 posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Qh 9h]
+Jest folds
+Cubbiesrule70 raises 6400.00 to 6400.00
+jael510 folds
+Mr Johnson222 calls 4800.00
+grotle raises 19100.00 to 22300.00
+Cubbiesrule70 folds
+Mr Johnson222 calls 15900.00
+*** FLOP *** [9s 4d 3d]
+Main pot 53000.00
+Mr Johnson222 checks
+grotle bets 10050.00
+Mr Johnson222 folds
+Uncalled bet (10050.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 53000.00
+Board [9s 4d 3d]
+Seat 1: grotle did not show and won 53000.00
+Seat 4: Jest folded on the Pre-Flop and did not bet
+Seat 6: Cubbiesrule70 folded on the Pre-Flop and did not bet
+Seat 7: jael510 (button) folded on the Pre-Flop
+Seat 8: Mr Johnson222 (small blind) folded on the Flop
+
+Game Hand #2492600617 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:42:54 UTC
+Table '10' 8-max Seat #8 is the button
+Seat 1: grotle (130300.00)
+Seat 4: Jest (33072.00)
+Seat 6: Cubbiesrule70 (253700.00)
+Seat 7: jael510 (154600.00)
+Seat 8: Mr Johnson222 (93875.00)
+grotle posts ante 400.00
+Jest posts ante 400.00
+Cubbiesrule70 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+grotle posts the small blind 1600.00
+Jest posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [2h 3c]
+Cubbiesrule70 folds
+jael510 raises 8000.00 to 8000.00
+Mr Johnson222 folds
+grotle folds
+Jest raises 29472.00 to 32672.00 and is all-in
+jael510 calls 24672.00
+*** FLOP *** [3s Ks 4d]
+Main pot 68944.00
+*** TURN *** [3s Ks 4d] [8h]
+Main pot 68944.00
+*** RIVER *** [3s Ks 4d 8h] [2s]
+Main pot 68944.00
+*** SHOW DOWN ***
+Main pot 68944.00
+Jest shows [As Jd] (a high card, Ace high [As Ks Jd 8h 4d])
+jael510 shows [6s 6c] (a pair of Sixs [6s 6c Ks 8h 4d])
+jael510 collected 68944.00 from main pot
+*** SUMMARY ***
+Total pot 68944.00
+Board [3s Ks 4d 8h 2s]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 4: Jest (big blind) showed [As Jd] and lost with a high card, Ace high [As Ks Jd 8h 4d]
+Seat 6: Cubbiesrule70 folded on the Pre-Flop and did not bet
+Seat 7: jael510 showed [6s 6c] and won 68944.00 with a pair of Sixs [6s 6c Ks 8h 4d]
+Seat 8: Mr Johnson222 (button) folded on the Pre-Flop
+
+Game Hand #2492601118 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:43:27 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: grotle (128300.00)
+Seat 2: mrlimbr will be allowed to play after the button
+Seat 3: Biscalchinnn will be allowed to play after the button
+Seat 6: Cubbiesrule70 (253300.00)
+Seat 7: jael510 (190472.00)
+Seat 8: Mr Johnson222 (93475.00)
+grotle posts ante 400.00
+Cubbiesrule70 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+Cubbiesrule70 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [6c Ad]
+jael510 folds
+Mr Johnson222 folds
+grotle raises 6400.00 to 6400.00
+Cubbiesrule70 calls 3200.00
+*** FLOP *** [8c 3h Td]
+Main pot 14400.00
+Cubbiesrule70 checks
+grotle checks
+*** TURN *** [8c 3h Td] [9h]
+Main pot 14400.00
+Cubbiesrule70 bets 3600.00
+grotle calls 3600.00
+*** RIVER *** [8c 3h Td 9h] [Ah]
+Main pot 21600.00
+Cubbiesrule70 checks
+grotle bets 9600.00
+Cubbiesrule70 folds
+Uncalled bet (9600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 21600.00
+Board [8c 3h Td 9h Ah]
+Seat 1: grotle did not show and won 21600.00
+Seat 6: Cubbiesrule70 (big blind) folded on the River
+Seat 7: jael510 folded on the Pre-Flop and did not bet
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492601548 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:43:56 UTC
+Table '10' 8-max Seat #4 is the button
+Seat 1: grotle (139500.00)
+Seat 2: mrlimbr (102955.00)
+Seat 3: Biscalchinnn (32419.00)
+Seat 4: dheinen will be allowed to play after the button
+Seat 7: jael510 (190072.00)
+Seat 8: Mr Johnson222 (93075.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+jael510 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [5d 3c]
+Mr Johnson222 folds
+grotle folds
+mrlimbr folds
+Biscalchinnn raises 32019.00 to 32019.00 and is all-in
+jael510 folds
+Uncalled bet (28819.00) returned to Biscalchinnn
+Biscalchinnn does not show
+*** SUMMARY ***
+Total pot 8400.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn did not show and won 8400.00
+Seat 7: jael510 (big blind) folded on the Pre-Flop
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492602110 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:44:31 UTC
+Table '10' 8-max Seat #6 is the button
+Seat 1: grotle (139100.00)
+Seat 2: mrlimbr (102555.00)
+Seat 3: Biscalchinnn (37219.00)
+Seat 4: dheinen (45785.00)
+Seat 7: jael510 (186472.00)
+Seat 8: Mr Johnson222 (92675.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+dheinen posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+jael510 posts the small blind 1600.00
+Mr Johnson222 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [2s Ts]
+grotle folds
+mrlimbr folds
+Biscalchinnn raises 36819.00 to 36819.00 and is all-in
+dheinen folds
+jael510 calls 35219.00
+Mr Johnson222 calls 33619.00
+*** FLOP *** [3h 5d 3c]
+Main pot 112857.00
+jael510 checks
+Mr Johnson222 checks
+*** TURN *** [3h 5d 3c] [6s]
+Main pot 112857.00
+jael510 checks
+Mr Johnson222 checks
+*** RIVER *** [3h 5d 3c 6s] [6d]
+Main pot 112857.00
+jael510 checks
+Mr Johnson222 checks
+*** SHOW DOWN ***
+Main pot 112857.00
+Biscalchinnn shows [Ac 5h] (two pair, Sixs and Fives [6s 6d 5h 5d Ac])
+jael510 shows [Qs Kd] (two pair, Sixs and Threes [6s 6d 3h 3c Kd])
+Mr Johnson222 shows [Qc Ah] (two pair, Sixs and Threes [6s 6d 3h 3c Ah])
+Biscalchinnn collected 112857.00 from main pot
+*** SUMMARY ***
+Total pot 112857.00
+Board [3h 5d 3c 6s 6d]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn showed [Ac 5h] and won 112857.00 with two pair, Sixs and Fives [6s 6d 5h 5d Ac]
+Seat 4: dheinen folded on the Pre-Flop and did not bet
+Seat 7: jael510 (small blind) showed [Qs Kd] and lost with two pair, Sixs and Threes [6s 6d 3h 3c Kd]
+Seat 8: Mr Johnson222 (big blind) showed [Qc Ah] and lost with two pair, Sixs and Threes [6s 6d 3h 3c Ah]
+
+Game Hand #2492603269 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:45:45 UTC
+Table '10' 8-max Seat #7 is the button
+Seat 1: grotle (138700.00)
+Seat 2: mrlimbr (102155.00)
+Seat 3: Biscalchinnn (112857.00)
+Seat 4: dheinen (45385.00)
+Seat 5: floppyfish (96800.00)
+Seat 7: jael510 (149253.00)
+Seat 8: Mr Johnson222 (55456.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+dheinen posts ante 400.00
+floppyfish posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+Mr Johnson222 posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ah Ad]
+mrlimbr raises 6400.00 to 6400.00
+Biscalchinnn folds
+dheinen folds
+floppyfish folds
+jael510 folds
+Mr Johnson222 folds
+grotle raises 16100.00 to 19300.00
+mrlimbr calls 12900.00
+*** FLOP *** [6c As Th]
+Main pot 43000.00
+grotle checks
+mrlimbr checks
+*** TURN *** [6c As Th] [4s]
+Main pot 43000.00
+grotle bets 9600.00
+mrlimbr calls 9600.00
+*** RIVER *** [6c As Th 4s] [8s]
+Main pot 62200.00
+grotle checks
+mrlimbr checks
+*** SHOW DOWN ***
+Main pot 62200.00
+grotle shows [Ah Ad] (three of a kind, Set of Aces [As Ah Ad Th 8s])
+mrlimbr shows [9d 9c] (a pair of Nines [9d 9c As Th 8s])
+grotle collected 62200.00 from main pot
+*** SUMMARY ***
+Total pot 62200.00
+Board [6c As Th 4s 8s]
+Seat 1: grotle (big blind) showed [Ah Ad] and won 62200.00 with three of a kind, Set of Aces [As Ah Ad Th 8s]
+Seat 2: mrlimbr showed [9d 9c] and lost with a pair of Nines [9d 9c As Th 8s]
+Seat 3: Biscalchinnn folded on the Pre-Flop and did not bet
+Seat 4: dheinen folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 7: jael510 (button) folded on the Pre-Flop
+Seat 8: Mr Johnson222 (small blind) folded on the Pre-Flop
+
+Game Hand #2492604586 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:47:09 UTC
+Table '10' 8-max Seat #8 is the button
+Seat 1: grotle (171600.00)
+Seat 2: mrlimbr (72855.00)
+Seat 3: Biscalchinnn (112457.00)
+Seat 4: dheinen (44985.00)
+Seat 5: floppyfish (96400.00)
+Seat 6: sebek91 (103300.00)
+Seat 7: jael510 (148853.00)
+Seat 8: Mr Johnson222 (53456.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+dheinen posts ante 400.00
+floppyfish posts ante 400.00
+sebek91 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+grotle posts the small blind 1600.00
+mrlimbr posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [8d 3s]
+Biscalchinnn folds
+dheinen folds
+floppyfish folds
+sebek91 folds
+jael510 raises 8000.00 to 8000.00
+Mr Johnson222 calls 8000.00
+grotle folds
+mrlimbr calls 4800.00
+*** FLOP *** [2h Qc Kh]
+Main pot 28800.00
+mrlimbr checks
+jael510 checks
+Mr Johnson222 bets 14400.00
+mrlimbr folds
+jael510 folds
+Uncalled bet (14400.00) returned to Mr Johnson222
+Mr Johnson222 does not show
+*** SUMMARY ***
+Total pot 28800.00
+Board [2h Qc Kh]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 2: mrlimbr (big blind) folded on the Flop
+Seat 3: Biscalchinnn folded on the Pre-Flop and did not bet
+Seat 4: dheinen folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 folded on the Flop
+Seat 8: Mr Johnson222 did not show and won 28800.00
+
+Game Hand #2492605524 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:48:07 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: grotle (169600.00)
+Seat 2: mrlimbr (64455.00)
+Seat 3: Biscalchinnn (112057.00)
+Seat 4: dheinen (44585.00)
+Seat 5: floppyfish (96000.00)
+Seat 6: sebek91 (102900.00)
+Seat 7: jael510 (140453.00)
+Seat 8: Mr Johnson222 (73856.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+dheinen posts ante 400.00
+floppyfish posts ante 400.00
+sebek91 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+mrlimbr posts the small blind 1600.00
+Biscalchinnn posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5c Jc]
+dheinen folds
+floppyfish folds
+sebek91 folds
+jael510 folds
+Mr Johnson222 folds
+grotle folds
+mrlimbr folds
+Biscalchinnn does not show
+*** SUMMARY ***
+Total pot 8000.00
+Seat 1: grotle (button) folded on the Pre-Flop
+Seat 2: mrlimbr (small blind) folded on the Pre-Flop
+Seat 3: Biscalchinnn did not show and won 8000.00
+Seat 4: dheinen folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 folded on the Pre-Flop and did not bet
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492606040 - Tournament #33638791 - Holdem (No Limit) - Level 8 (1600.00/3200.00) - 2025/06/29 23:48:37 UTC
+Table '10' 8-max Seat #2 is the button
+Seat 1: grotle (169200.00)
+Seat 2: mrlimbr (62455.00)
+Seat 3: Biscalchinnn (116457.00)
+Seat 4: dheinen (44185.00)
+Seat 5: floppyfish (95600.00)
+Seat 6: sebek91 (102500.00)
+Seat 7: jael510 (140053.00)
+Seat 8: Mr Johnson222 (73456.00)
+grotle posts ante 400.00
+mrlimbr posts ante 400.00
+Biscalchinnn posts ante 400.00
+dheinen posts ante 400.00
+floppyfish posts ante 400.00
+sebek91 posts ante 400.00
+jael510 posts ante 400.00
+Mr Johnson222 posts ante 400.00
+Biscalchinnn posts the small blind 1600.00
+dheinen posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Ah 5s]
+floppyfish folds
+sebek91 folds
+jael510 folds
+Mr Johnson222 raises 8800.00 to 8800.00
+grotle folds
+mrlimbr folds
+Biscalchinnn folds
+dheinen calls 5600.00
+*** FLOP *** [Js Ad 8d]
+Main pot 22400.00
+dheinen checks
+Mr Johnson222 bets 11200.00
+dheinen calls 11200.00
+*** TURN *** [Js Ad 8d] [Jd]
+Main pot 44800.00
+dheinen bets 23785.00 and is all-in
+Mr Johnson222 calls 23785.00
+*** RIVER *** [Js Ad 8d Jd] [9h]
+Main pot 92370.00
+*** SHOW DOWN ***
+Main pot 92370.00
+dheinen shows [Qh Tc] (a straight, Queen high [Qh Js Tc 9h 8d])
+Mr Johnson222 shows [Td Qd] (a flush, Ace high [Ad Qd Jd Td 8d])
+Mr Johnson222 collected 92370.00 from main pot
+*** SUMMARY ***
+Total pot 92370.00
+Board [Js Ad 8d Jd 9h]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: mrlimbr (button) folded on the Pre-Flop
+Seat 3: Biscalchinnn (small blind) folded on the Pre-Flop
+Seat 4: dheinen (big blind) showed [Qh Tc] and lost with a straight, Queen high [Qh Js Tc 9h 8d]
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 folded on the Pre-Flop and did not bet
+Seat 8: Mr Johnson222 showed [Td Qd] and won 92370.00 with a flush, Ace high [Ad Qd Jd Td 8d]
+
+Game Hand #2492606986 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:49:37 UTC
+Table '10' 8-max Seat #3 is the button
+Seat 1: grotle (168800.00)
+Seat 2: mrlimbr (62055.00)
+Seat 3: Biscalchinnn (114457.00)
+Seat 5: floppyfish (95200.00)
+Seat 6: sebek91 (102100.00)
+Seat 7: jael510 (139653.00)
+Seat 8: Mr Johnson222 (121641.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+floppyfish posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [2d 7c]
+sebek91 folds
+jael510 folds
+Mr Johnson222 folds
+grotle folds
+mrlimbr folds
+Biscalchinnn folds
+floppyfish does not show
+*** SUMMARY ***
+Total pot 6750.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn (button) folded on the Pre-Flop
+Seat 5: floppyfish did not show and won 6750.00
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 folded on the Pre-Flop and did not bet
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492607478 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:50:07 UTC
+Table '10' 8-max Seat #4 is the button
+Seat 1: grotle (168350.00)
+Seat 2: mrlimbr (61605.00)
+Seat 3: Biscalchinnn (114007.00)
+Seat 5: floppyfish (97900.00)
+Seat 6: sebek91 (101650.00)
+Seat 7: jael510 (139203.00)
+Seat 8: Mr Johnson222 (121191.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+floppyfish posts the small blind 1800.00
+sebek91 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [4s Td]
+jael510 raises 9000.00 to 9000.00
+Mr Johnson222 folds
+grotle folds
+mrlimbr folds
+Biscalchinnn folds
+floppyfish folds
+sebek91 calls 5400.00
+*** FLOP *** [8d 5s Jh]
+Main pot 22950.00
+sebek91 checks
+jael510 bets 14400.00
+sebek91 folds
+Uncalled bet (14400.00) returned to jael510
+jael510 does not show
+*** SUMMARY ***
+Total pot 22950.00
+Board [8d 5s Jh]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn folded on the Pre-Flop and did not bet
+Seat 5: floppyfish (small blind) folded on the Pre-Flop
+Seat 6: sebek91 (big blind) folded on the Flop
+Seat 7: jael510 did not show and won 22950.00
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492608366 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:51:04 UTC
+Table '10' 8-max Seat #5 is the button
+Seat 1: grotle (167900.00)
+Seat 2: mrlimbr (61155.00)
+Seat 3: Biscalchinnn (113557.00)
+Seat 5: floppyfish (95650.00)
+Seat 6: sebek91 (92200.00)
+Seat 7: jael510 (152703.00)
+Seat 8: Mr Johnson222 (120741.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+sebek91 posts the small blind 1800.00
+jael510 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [3s 2s]
+Mr Johnson222 folds
+grotle raises 7200.00 to 7200.00
+mrlimbr folds
+Biscalchinnn folds
+floppyfish folds
+sebek91 folds
+jael510 folds
+Uncalled bet (3600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12150.00
+Seat 1: grotle did not show and won 12150.00
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn folded on the Pre-Flop and did not bet
+Seat 5: floppyfish (button) folded on the Pre-Flop
+Seat 6: sebek91 (small blind) folded on the Pre-Flop
+Seat 7: jael510 (big blind) folded on the Pre-Flop
+Seat 8: Mr Johnson222 folded on the Pre-Flop and did not bet
+
+Game Hand #2492608901 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:51:38 UTC
+Table '10' 8-max Seat #6 is the button
+Seat 1: grotle (176000.00)
+Seat 2: mrlimbr (60705.00)
+Seat 3: Biscalchinnn (113107.00)
+Seat 4: RyBryant (100000.00)
+Seat 5: floppyfish (95200.00)
+Seat 6: sebek91 (89950.00)
+Seat 7: jael510 (148653.00)
+Seat 8: Mr Johnson222 (120291.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+RyBryant posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+jael510 posts the small blind 1800.00
+Mr Johnson222 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [9c 8c]
+grotle raises 7200.00 to 7200.00
+mrlimbr folds
+Biscalchinnn folds
+RyBryant folds
+floppyfish folds
+sebek91 folds
+jael510 folds
+Mr Johnson222 folds
+Uncalled bet (3600.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 12600.00
+Seat 1: grotle did not show and won 12600.00
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn folded on the Pre-Flop and did not bet
+Seat 4: RyBryant folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 (button) folded on the Pre-Flop
+Seat 7: jael510 (small blind) folded on the Pre-Flop
+Seat 8: Mr Johnson222 (big blind) folded on the Pre-Flop
+
+Game Hand #2492609441 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:52:12 UTC
+Table '10' 8-max Seat #7 is the button
+Seat 1: grotle (184550.00)
+Seat 2: mrlimbr (60255.00)
+Seat 3: Biscalchinnn (112657.00)
+Seat 4: RyBryant (99550.00)
+Seat 5: floppyfish (94750.00)
+Seat 6: sebek91 (89500.00)
+Seat 7: jael510 (146403.00)
+Seat 8: Mr Johnson222 (116241.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+RyBryant posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+Mr Johnson222 posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Qc 9h]
+mrlimbr folds
+Biscalchinnn raises 7200.00 to 7200.00
+RyBryant folds
+floppyfish folds
+sebek91 folds
+jael510 folds
+Mr Johnson222 folds
+grotle calls 3600.00
+*** FLOP *** [7c 9d 5c]
+Main pot 19800.00
+grotle checks
+Biscalchinnn bets 6534.00
+grotle calls 6534.00
+*** TURN *** [7c 9d 5c] [8h]
+Main pot 32868.00
+grotle checks
+Biscalchinnn checks
+*** RIVER *** [7c 9d 5c 8h] [Ks]
+Main pot 32868.00
+grotle bets 11817.00
+Biscalchinnn calls 11817.00
+*** SHOW DOWN ***
+Main pot 56502.00
+grotle shows [Qc 9h] (a pair of Nines [9h 9d Ks Qc 8h])
+Biscalchinnn shows [As Ac] (a pair of Aces [As Ac Ks 9d 8h])
+Biscalchinnn collected 56502.00 from main pot
+*** SUMMARY ***
+Total pot 56502.00
+Board [7c 9d 5c 8h Ks]
+Seat 1: grotle (big blind) showed [Qc 9h] and lost with a pair of Nines [9h 9d Ks Qc 8h]
+Seat 2: mrlimbr folded on the Pre-Flop and did not bet
+Seat 3: Biscalchinnn showed [As Ac] and won 56502.00 with a pair of Aces [As Ac Ks 9d 8h]
+Seat 4: RyBryant folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 (button) folded on the Pre-Flop
+Seat 8: Mr Johnson222 (small blind) folded on the Pre-Flop
+
+Game Hand #2492610742 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/29 23:53:33 UTC
+Table '10' 8-max Seat #8 is the button
+Seat 1: grotle (158549.00)
+Seat 2: mrlimbr (59805.00)
+Seat 3: Biscalchinnn (143158.00)
+Seat 4: RyBryant (99100.00)
+Seat 5: floppyfish (94300.00)
+Seat 6: sebek91 (89050.00)
+Seat 7: jael510 (145953.00)
+Seat 8: Mr Johnson222 (113991.00)
+grotle posts ante 450.00
+mrlimbr posts ante 450.00
+Biscalchinnn posts ante 450.00
+RyBryant posts ante 450.00
+floppyfish posts ante 450.00
+sebek91 posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+grotle posts the small blind 1800.00
+mrlimbr posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [6h 9c]
+Biscalchinnn raises 7200.00 to 7200.00
+RyBryant folds
+floppyfish folds
+sebek91 folds
+jael510 folds
+Mr Johnson222 calls 7200.00
+grotle calls 5400.00
+mrlimbr calls 3600.00
+*** FLOP *** [Jh 3h 7c]
+Main pot 32400.00
+grotle checks
+mrlimbr checks
+Biscalchinnn bets 10692.00
+Mr Johnson222 calls 10692.00
+grotle folds
+mrlimbr folds
+*** TURN *** [Jh 3h 7c] [3d]
+Main pot 53784.00
+Biscalchinnn bets 10757.00
+Mr Johnson222 folds
+Uncalled bet (10757.00) returned to Biscalchinnn
+Biscalchinnn does not show
+*** SUMMARY ***
+Total pot 53784.00
+Board [Jh 3h 7c 3d]
+Seat 1: grotle (small blind) folded on the Flop
+Seat 2: mrlimbr (big blind) folded on the Flop
+Seat 3: Biscalchinnn did not show and won 53784.00
+Seat 4: RyBryant folded on the Pre-Flop and did not bet
+Seat 5: floppyfish folded on the Pre-Flop and did not bet
+Seat 6: sebek91 folded on the Pre-Flop and did not bet
+Seat 7: jael510 folded on the Pre-Flop and did not bet
+Seat 8: Mr Johnson222 (button) folded on the Turn
+

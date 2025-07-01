@@ -2,6 +2,10 @@ import mongoose from 'mongoose';
 
 // Schema for betting actions
 const bettingActionSchema = new mongoose.Schema({
+    playerId: {
+        type: String,
+        required: true
+    },
     playerIndex: { 
         type: Number, 
         required: true,

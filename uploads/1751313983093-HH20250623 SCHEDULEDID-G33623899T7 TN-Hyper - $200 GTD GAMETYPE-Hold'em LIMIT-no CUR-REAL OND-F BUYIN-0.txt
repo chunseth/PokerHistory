@@ -1,0 +1,1103 @@
+Game Hand #2487625594 - Tournament #33623899 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 05:02:33 UTC
+Table '10' 8-max Seat #2 is the button
+Seat 1: grotle (99250.00)
+Seat 2: Pokerbratt1988 (84250.00)
+Seat 3: tankerdad (93250.00)
+Seat 4: ShermMackenzie (99250.00)
+Seat 5: Dave in NH (99250.00)
+Seat 6: 915jewjew (434440.00)
+Seat 7: T-town23 (278299.00)
+Seat 8: Birr (100000.00)
+grotle posts ante 750.00
+Pokerbratt1988 posts ante 750.00
+tankerdad posts ante 750.00
+ShermMackenzie posts ante 750.00
+Dave in NH posts ante 750.00
+915jewjew posts ante 750.00
+T-town23 posts ante 750.00
+Birr posts ante 750.00
+tankerdad posts the small blind 3000.00
+ShermMackenzie posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Qs Jh]
+Dave in NH raises 12000.00 to 12000.00
+915jewjew folds
+T-town23 folds
+Birr raises 99250.00 to 99250.00 and is all-in
+grotle folds
+Pokerbratt1988 folds
+tankerdad folds
+ShermMackenzie folds
+Dave in NH folds
+Uncalled bet (87250.00) returned to Birr
+Birr does not show
+*** SUMMARY ***
+Total pot 39000.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Pokerbratt1988 (button) folded on the Pre-Flop
+Seat 3: tankerdad (small blind) folded on the Pre-Flop
+Seat 4: ShermMackenzie (big blind) folded on the Pre-Flop
+Seat 5: Dave in NH folded on the Pre-Flop and did not bet
+Seat 6: 915jewjew folded on the Pre-Flop and did not bet
+Seat 7: T-town23 folded on the Pre-Flop and did not bet
+Seat 8: Birr did not show and won 39000.00
+
+Game Hand #2487626292 - Tournament #33623899 - Holdem (No Limit) - Level 14 (3500.00/7000.00) - 2025/06/23 05:03:58 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: ryno-23 (97750.00)
+Seat 2: Beef420SB (238310.00) is sitting out
+Seat 3: goblins200ug (99250.00)
+Seat 4: bauticius (237517.00)
+Seat 5: grotle (98500.00)
+Seat 7: FlopBendRiver (189450.00)
+Seat 8: igotthatbeat2.0 (91750.00) is sitting out
+ryno-23 posts ante 900.00
+Beef420SB posts ante 900.00
+goblins200ug posts ante 900.00
+bauticius posts ante 900.00
+grotle posts ante 900.00
+FlopBendRiver posts ante 900.00
+igotthatbeat2.0 posts ante 900.00
+igotthatbeat2.0 posts the small blind 3500.00
+ryno-23 posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 6300.00
+Dealt to grotle [Qh 8d]
+Beef420SB folds
+goblins200ug folds
+bauticius raises 14000.00 to 14000.00
+grotle folds
+FlopBendRiver raises 188550.00 to 188550.00 and is all-in
+igotthatbeat2.0 folds
+ryno-23 folds
+bauticius folds
+Uncalled bet (174550.00) returned to FlopBendRiver
+FlopBendRiver does not show
+*** SUMMARY ***
+Total pot 44800.00
+Seat 1: ryno-23 (big blind) folded on the Pre-Flop
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver did not show and won 44800.00
+Seat 8: igotthatbeat2.0 (small blind) folded on the Pre-Flop
+
+Game Hand #2487626613 - Tournament #33623899 - Holdem (No Limit) - Level 14 (3500.00/7000.00) - 2025/06/23 05:04:38 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: ryno-23 (89850.00)
+Seat 2: Beef420SB (237410.00) is sitting out
+Seat 3: goblins200ug (98350.00)
+Seat 4: bauticius (222617.00)
+Seat 5: grotle (97600.00)
+Seat 7: FlopBendRiver (219350.00)
+Seat 8: igotthatbeat2.0 (87350.00) is sitting out
+ryno-23 posts ante 900.00
+Beef420SB posts ante 900.00
+goblins200ug posts ante 900.00
+bauticius posts ante 900.00
+grotle posts ante 900.00
+FlopBendRiver posts ante 900.00
+igotthatbeat2.0 posts ante 900.00
+ryno-23 posts the small blind 3500.00
+Beef420SB posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 6300.00
+Dealt to grotle [Qc 9d]
+goblins200ug folds
+bauticius calls 7000.00
+grotle folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB checks
+*** FLOP *** [2d 5c Tc]
+Main pot 23800.00
+Beef420SB checks
+bauticius checks
+*** TURN *** [2d 5c Tc] [9h]
+Main pot 23800.00
+Beef420SB bets 17850.00
+bauticius calls 17850.00
+*** RIVER *** [2d 5c Tc 9h] [As]
+Main pot 59500.00
+Beef420SB checks
+bauticius bets 13090.00
+Beef420SB calls 13090.00
+*** SHOW DOWN ***
+Main pot 85680.00
+Beef420SB shows [Td 4s] (a pair of Tens [Td Tc As 9h 5c])
+bauticius shows [4h Ac] (a pair of Aces [As Ac Tc 9h 5c])
+bauticius collected 85680.00 from main pot
+*** SUMMARY ***
+Total pot 85680.00
+Board [2d 5c Tc 9h As]
+Seat 1: ryno-23 (small blind) folded on the Pre-Flop
+Seat 2: Beef420SB (big blind) showed [Td 4s] and lost with a pair of Tens [Td Tc As 9h 5c]
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius showed [4h Ac] and won 85680.00 with a pair of Aces [As Ac Tc 9h 5c]
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 (button) folded on the Pre-Flop
+
+Game Hand #2487627291 - Tournament #33623899 - Holdem (No Limit) - Level 14 (3500.00/7000.00) - 2025/06/23 05:06:01 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: ryno-23 (85450.00)
+Seat 2: Beef420SB (198570.00)
+Seat 3: goblins200ug (97450.00)
+Seat 4: bauticius (269457.00)
+Seat 5: grotle (96700.00)
+Seat 7: FlopBendRiver (218450.00)
+Seat 8: igotthatbeat2.0 (86450.00) is sitting out
+ryno-23 posts ante 900.00
+Beef420SB posts ante 900.00
+goblins200ug posts ante 900.00
+bauticius posts ante 900.00
+grotle posts ante 900.00
+FlopBendRiver posts ante 900.00
+igotthatbeat2.0 posts ante 900.00
+Beef420SB posts the small blind 3500.00
+goblins200ug posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 6300.00
+Dealt to grotle [7h Qd]
+bauticius folds
+grotle folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 raises 84550.00 to 84550.00 and is all-in
+Beef420SB folds
+goblins200ug folds
+Uncalled bet (77550.00) returned to ryno-23
+ryno-23 does not show
+*** SUMMARY ***
+Total pot 23800.00
+Seat 1: ryno-23 did not show and won 23800.00
+Seat 2: Beef420SB (small blind) folded on the Pre-Flop
+Seat 3: goblins200ug (big blind) folded on the Pre-Flop
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487627605 - Tournament #33623899 - Holdem (No Limit) - Level 14 (3500.00/7000.00) - 2025/06/23 05:06:37 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: ryno-23 (101350.00)
+Seat 2: Beef420SB (194170.00) is sitting out
+Seat 3: goblins200ug (89550.00)
+Seat 4: bauticius (268557.00)
+Seat 5: grotle (95800.00)
+Seat 6: Wxtheriver82 (116056.00)
+Seat 7: FlopBendRiver (217550.00)
+Seat 8: igotthatbeat2.0 (85550.00) is sitting out
+ryno-23 posts ante 900.00
+Beef420SB posts ante 900.00
+goblins200ug posts ante 900.00
+bauticius posts ante 900.00
+grotle posts ante 900.00
+Wxtheriver82 posts ante 900.00
+FlopBendRiver posts ante 900.00
+igotthatbeat2.0 posts ante 900.00
+goblins200ug posts the small blind 3500.00
+bauticius posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 7200.00
+Dealt to grotle [6h 9s]
+grotle calls 7000.00
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug folds
+bauticius checks
+*** FLOP *** [8c Kd 7c]
+Main pot 24700.00
+bauticius checks
+grotle bets 14000.00
+bauticius folds
+Uncalled bet (14000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 24700.00
+Board [8c Kd 7c]
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB (button) folded on the Pre-Flop
+Seat 3: goblins200ug (small blind) folded on the Pre-Flop
+Seat 4: bauticius (big blind) folded on the Flop
+Seat 5: grotle did not show and won 24700.00
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487627919 - Tournament #33623899 - Holdem (No Limit) - Level 14 (3500.00/7000.00) - 2025/06/23 05:07:15 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: ryno-23 (100450.00)
+Seat 2: Beef420SB (193270.00)
+Seat 3: goblins200ug (85150.00)
+Seat 4: bauticius (260657.00)
+Seat 5: grotle (112600.00)
+Seat 6: Wxtheriver82 (115156.00)
+Seat 7: FlopBendRiver (216650.00)
+Seat 8: igotthatbeat2.0 (84650.00) is sitting out
+ryno-23 posts ante 900.00
+Beef420SB posts ante 900.00
+goblins200ug posts ante 900.00
+bauticius posts ante 900.00
+grotle posts ante 900.00
+Wxtheriver82 posts ante 900.00
+FlopBendRiver posts ante 900.00
+igotthatbeat2.0 posts ante 900.00
+bauticius posts the small blind 3500.00
+grotle posts the big blind 7000.00
+*** HOLE CARDS ***
+Main pot 7200.00
+Dealt to grotle [6c 3c]
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug raises 84250.00 to 84250.00 and is all-in
+bauticius folds
+grotle folds
+Uncalled bet (77250.00) returned to goblins200ug
+goblins200ug does not show
+*** SUMMARY ***
+Total pot 24700.00
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug did not show and won 24700.00
+Seat 4: bauticius (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487628213 - Tournament #33623899 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/23 05:07:52 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: ryno-23 (99550.00)
+Seat 2: Beef420SB (192370.00) is sitting out
+Seat 3: goblins200ug (101950.00)
+Seat 4: bauticius (256257.00)
+Seat 5: grotle (104700.00)
+Seat 6: Wxtheriver82 (114256.00)
+Seat 7: FlopBendRiver (215750.00)
+Seat 8: igotthatbeat2.0 (83750.00) is sitting out
+ryno-23 posts ante 1000.00
+Beef420SB posts ante 1000.00
+goblins200ug posts ante 1000.00
+bauticius posts ante 1000.00
+grotle posts ante 1000.00
+Wxtheriver82 posts ante 1000.00
+FlopBendRiver posts ante 1000.00
+igotthatbeat2.0 posts ante 1000.00
+grotle posts the small blind 4000.00
+Wxtheriver82 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [7h 2d]
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB raises 16000.00 to 16000.00
+goblins200ug folds
+bauticius folds
+grotle folds
+Wxtheriver82 calls 8000.00
+*** FLOP *** [Ts 4h Ad]
+Main pot 44000.00
+Wxtheriver82 checks
+Beef420SB bets 22000.00
+Wxtheriver82 folds
+Uncalled bet (22000.00) returned to Beef420SB
+Beef420SB does not show
+*** SUMMARY ***
+Total pot 44000.00
+Board [Ts 4h Ad]
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB did not show and won 44000.00
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius (button) folded on the Pre-Flop
+Seat 5: grotle (small blind) folded on the Pre-Flop
+Seat 6: Wxtheriver82 (big blind) folded on the Flop
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487628631 - Tournament #33623899 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/23 05:08:44 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: ryno-23 (98550.00)
+Seat 2: Beef420SB (219370.00)
+Seat 3: goblins200ug (100950.00)
+Seat 4: bauticius (255257.00)
+Seat 5: grotle (99700.00)
+Seat 6: Wxtheriver82 (97256.00)
+Seat 7: FlopBendRiver (214750.00)
+Seat 8: igotthatbeat2.0 (82750.00) is sitting out
+ryno-23 posts ante 1000.00
+Beef420SB posts ante 1000.00
+goblins200ug posts ante 1000.00
+bauticius posts ante 1000.00
+grotle posts ante 1000.00
+Wxtheriver82 posts ante 1000.00
+FlopBendRiver posts ante 1000.00
+igotthatbeat2.0 posts ante 1000.00
+Wxtheriver82 posts the small blind 4000.00
+FlopBendRiver posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [2c 7h]
+igotthatbeat2.0 folds
+ryno-23 raises 16000.00 to 16000.00
+Beef420SB folds
+goblins200ug folds
+bauticius calls 16000.00
+grotle folds
+Wxtheriver82 folds
+FlopBendRiver calls 8000.00
+*** FLOP *** [9s Js 5c]
+Main pot 60000.00
+FlopBendRiver checks
+ryno-23 checks
+bauticius bets 19800.00
+FlopBendRiver raises 197750.00 to 197750.00 and is all-in
+ryno-23 folds
+bauticius folds
+Uncalled bet (177950.00) returned to FlopBendRiver
+FlopBendRiver does not show
+*** SUMMARY ***
+Total pot 99600.00
+Board [9s Js 5c]
+Seat 1: ryno-23 folded on the Flop
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Flop
+Seat 5: grotle (button) folded on the Pre-Flop
+Seat 6: Wxtheriver82 (small blind) folded on the Pre-Flop
+Seat 7: FlopBendRiver did not show and won 99600.00
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487629440 - Tournament #33623899 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/23 05:10:27 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: ryno-23 (81550.00)
+Seat 2: Beef420SB (218370.00)
+Seat 3: goblins200ug (99950.00)
+Seat 4: bauticius (218457.00)
+Seat 5: grotle (98700.00)
+Seat 6: Wxtheriver82 (92256.00)
+Seat 7: FlopBendRiver (277550.00)
+Seat 8: igotthatbeat2.0 (81750.00) is sitting out
+ryno-23 posts ante 1000.00
+Beef420SB posts ante 1000.00
+goblins200ug posts ante 1000.00
+bauticius posts ante 1000.00
+grotle posts ante 1000.00
+Wxtheriver82 posts ante 1000.00
+FlopBendRiver posts ante 1000.00
+igotthatbeat2.0 posts ante 1000.00
+FlopBendRiver posts the small blind 4000.00
+igotthatbeat2.0 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [8s 6h]
+ryno-23 folds
+Beef420SB raises 16000.00 to 16000.00
+goblins200ug folds
+bauticius folds
+grotle folds
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+Uncalled bet (8000.00) returned to Beef420SB
+Beef420SB does not show
+*** SUMMARY ***
+Total pot 28000.00
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB did not show and won 28000.00
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 (button) folded on the Pre-Flop
+Seat 7: FlopBendRiver (small blind) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 (big blind) folded on the Pre-Flop
+
+Game Hand #2487629778 - Tournament #33623899 - Holdem (No Limit) - Level 15 (4000.00/8000.00) - 2025/06/23 05:11:13 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: ryno-23 (80550.00)
+Seat 2: Beef420SB (237370.00)
+Seat 3: goblins200ug (98950.00)
+Seat 4: bauticius (217457.00)
+Seat 5: grotle (97700.00)
+Seat 6: Wxtheriver82 (91256.00)
+Seat 7: FlopBendRiver (272550.00)
+Seat 8: igotthatbeat2.0 (72750.00) is sitting out
+ryno-23 posts ante 1000.00
+Beef420SB posts ante 1000.00
+goblins200ug posts ante 1000.00
+bauticius posts ante 1000.00
+grotle posts ante 1000.00
+Wxtheriver82 posts ante 1000.00
+FlopBendRiver posts ante 1000.00
+igotthatbeat2.0 posts ante 1000.00
+igotthatbeat2.0 posts the small blind 4000.00
+ryno-23 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [3h Jc]
+Beef420SB raises 36000.00 to 36000.00
+goblins200ug folds
+bauticius folds
+grotle folds
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Uncalled bet (28000.00) returned to Beef420SB
+Beef420SB does not show
+*** SUMMARY ***
+Total pot 28000.00
+Seat 1: ryno-23 (big blind) folded on the Pre-Flop
+Seat 2: Beef420SB did not show and won 28000.00
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver (button) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 (small blind) folded on the Pre-Flop
+
+Game Hand #2487630112 - Tournament #33623899 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/23 05:11:54 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: ryno-23 (71550.00)
+Seat 2: Beef420SB (256370.00)
+Seat 3: goblins200ug (97950.00)
+Seat 4: bauticius (216457.00)
+Seat 5: grotle (96700.00)
+Seat 6: Wxtheriver82 (90256.00)
+Seat 7: FlopBendRiver (271550.00)
+Seat 8: igotthatbeat2.0 (67750.00) is sitting out
+ryno-23 posts ante 1250.00
+Beef420SB posts ante 1250.00
+goblins200ug posts ante 1250.00
+bauticius posts ante 1250.00
+grotle posts ante 1250.00
+Wxtheriver82 posts ante 1250.00
+FlopBendRiver posts ante 1250.00
+igotthatbeat2.0 posts ante 1250.00
+ryno-23 posts the small blind 5000.00
+Beef420SB posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [2s 9s]
+goblins200ug folds
+bauticius calls 10000.00
+grotle folds
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 raises 65300.00 to 70300.00 and is all-in
+Beef420SB folds
+bauticius calls 60300.00
+*** FLOP *** [4c 3s 3h]
+Main pot 160600.00
+*** TURN *** [4c 3s 3h] [9h]
+Main pot 160600.00
+*** RIVER *** [4c 3s 3h 9h] [9c]
+Main pot 160600.00
+*** SHOW DOWN ***
+Main pot 160600.00
+ryno-23 shows [Ad 3d] (a full house, Threes full of Nines [3s 3h 3d 9h 9c])
+bauticius shows [Ts Kh] (two pair, Nines and Threes [9h 9c 3s 3h Kh])
+ryno-23 collected 160600.00 from main pot
+*** SUMMARY ***
+Total pot 160600.00
+Board [4c 3s 3h 9h 9c]
+Seat 1: ryno-23 (small blind) showed [Ad 3d] and won 160600.00 with a full house, Threes full of Nines [3s 3h 3d 9h 9c]
+Seat 2: Beef420SB (big blind) folded on the Pre-Flop
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius showed [Ts Kh] and lost with two pair, Nines and Threes [9h 9c 3s 3h Kh]
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 (button) folded on the Pre-Flop
+
+Game Hand #2487630628 - Tournament #33623899 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/23 05:12:59 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: ryno-23 (160600.00)
+Seat 2: Beef420SB (245120.00)
+Seat 3: goblins200ug (96700.00)
+Seat 4: bauticius (144907.00)
+Seat 5: grotle (95450.00)
+Seat 6: Wxtheriver82 (89006.00)
+Seat 7: FlopBendRiver (270300.00)
+Seat 8: igotthatbeat2.0 (66500.00) is sitting out
+ryno-23 posts ante 1250.00
+Beef420SB posts ante 1250.00
+goblins200ug posts ante 1250.00
+bauticius posts ante 1250.00
+grotle posts ante 1250.00
+Wxtheriver82 posts ante 1250.00
+FlopBendRiver posts ante 1250.00
+igotthatbeat2.0 posts ante 1250.00
+Beef420SB posts the small blind 5000.00
+goblins200ug posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [Ad 3h]
+bauticius folds
+grotle folds
+Wxtheriver82 raises 87756.00 to 87756.00 and is all-in
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug folds
+Uncalled bet (77756.00) returned to Wxtheriver82
+Wxtheriver82 does not show
+*** SUMMARY ***
+Total pot 35000.00
+Seat 1: ryno-23 (button) folded on the Pre-Flop
+Seat 2: Beef420SB (small blind) folded on the Pre-Flop
+Seat 3: goblins200ug (big blind) folded on the Pre-Flop
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 did not show and won 35000.00
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487631081 - Tournament #33623899 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/23 05:13:59 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: ryno-23 (159350.00)
+Seat 2: Beef420SB (238870.00)
+Seat 3: goblins200ug (85450.00)
+Seat 4: bauticius (143657.00)
+Seat 5: grotle (94200.00)
+Seat 6: Wxtheriver82 (112756.00)
+Seat 7: FlopBendRiver (269050.00)
+Seat 8: igotthatbeat2.0 (65250.00) is sitting out
+ryno-23 posts ante 1250.00
+Beef420SB posts ante 1250.00
+goblins200ug posts ante 1250.00
+bauticius posts ante 1250.00
+grotle posts ante 1250.00
+Wxtheriver82 posts ante 1250.00
+FlopBendRiver posts ante 1250.00
+igotthatbeat2.0 posts ante 1250.00
+goblins200ug posts the small blind 5000.00
+bauticius posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [2d 3c]
+grotle folds
+Wxtheriver82 raises 111506.00 to 111506.00 and is all-in
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug folds
+bauticius folds
+Uncalled bet (101506.00) returned to Wxtheriver82
+Wxtheriver82 does not show
+*** SUMMARY ***
+Total pot 35000.00
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB (button) folded on the Pre-Flop
+Seat 3: goblins200ug (small blind) folded on the Pre-Flop
+Seat 4: bauticius (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 did not show and won 35000.00
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487631501 - Tournament #33623899 - Holdem (No Limit) - Level 16 (5000.00/10000.00) - 2025/06/23 05:14:55 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: ryno-23 (158100.00)
+Seat 2: Beef420SB (237620.00)
+Seat 3: goblins200ug (79200.00)
+Seat 4: bauticius (132407.00)
+Seat 5: grotle (92950.00)
+Seat 6: Wxtheriver82 (136506.00)
+Seat 7: FlopBendRiver (267800.00)
+Seat 8: igotthatbeat2.0 (64000.00) is sitting out
+ryno-23 posts ante 1250.00
+Beef420SB posts ante 1250.00
+goblins200ug posts ante 1250.00
+bauticius posts ante 1250.00
+grotle posts ante 1250.00
+Wxtheriver82 posts ante 1250.00
+FlopBendRiver posts ante 1250.00
+igotthatbeat2.0 posts ante 1250.00
+bauticius posts the small blind 5000.00
+grotle posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [Ah Ts]
+Wxtheriver82 folds
+FlopBendRiver raises 20000.00 to 20000.00
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug folds
+bauticius folds
+grotle raises 81700.00 to 91700.00 and is all-in
+FlopBendRiver calls 71700.00
+*** FLOP *** [As 9d 8h]
+Main pot 198400.00
+*** TURN *** [As 9d 8h] [Tc]
+Main pot 198400.00
+*** RIVER *** [As 9d 8h Tc] [Qs]
+Main pot 198400.00
+*** SHOW DOWN ***
+Main pot 198400.00
+grotle shows [Ah Ts] (two pair, Aces and Tens [As Ah Ts Tc Qs])
+FlopBendRiver shows [8c 9h] (two pair, Nines and Eights [9h 9d 8h 8c As])
+grotle collected 198400.00 from main pot
+*** SUMMARY ***
+Total pot 198400.00
+Board [As 9d 8h Tc Qs]
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug (button) folded on the Pre-Flop
+Seat 4: bauticius (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) showed [Ah Ts] and won 198400.00 with two pair, Aces and Tens [As Ah Ts Tc Qs]
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver showed [8c 9h] and lost with two pair, Nines and Eights [9h 9d 8h 8c As]
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487631847 - Tournament #33623899 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/23 05:15:39 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: ryno-23 (156850.00)
+Seat 2: Beef420SB (236370.00)
+Seat 3: goblins200ug (77950.00)
+Seat 4: bauticius (126157.00)
+Seat 5: grotle (198400.00)
+Seat 6: Wxtheriver82 (135256.00)
+Seat 7: FlopBendRiver (174850.00)
+Seat 8: igotthatbeat2.0 (62750.00) is sitting out
+ryno-23 posts ante 1500.00
+Beef420SB posts ante 1500.00
+goblins200ug posts ante 1500.00
+bauticius posts ante 1500.00
+grotle posts ante 1500.00
+Wxtheriver82 posts ante 1500.00
+FlopBendRiver posts ante 1500.00
+igotthatbeat2.0 posts ante 1500.00
+grotle posts the small blind 6000.00
+Wxtheriver82 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Th Jh]
+FlopBendRiver folds
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug folds
+bauticius folds
+grotle raises 18000.00 to 24000.00
+Wxtheriver82 folds
+Uncalled bet (12000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 36000.00
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug folded on the Pre-Flop and did not bet
+Seat 4: bauticius (button) folded on the Pre-Flop
+Seat 5: grotle did not show and won 36000.00
+Seat 6: Wxtheriver82 (big blind) folded on the Pre-Flop
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487632079 - Tournament #33623899 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/23 05:16:10 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: ryno-23 (155350.00)
+Seat 2: Beef420SB (234870.00)
+Seat 3: goblins200ug (76450.00)
+Seat 4: bauticius (124657.00)
+Seat 5: grotle (220900.00)
+Seat 6: Wxtheriver82 (121756.00)
+Seat 7: FlopBendRiver (173350.00)
+Seat 8: igotthatbeat2.0 (61250.00) is sitting out
+ryno-23 posts ante 1500.00
+Beef420SB posts ante 1500.00
+goblins200ug posts ante 1500.00
+bauticius posts ante 1500.00
+grotle posts ante 1500.00
+Wxtheriver82 posts ante 1500.00
+FlopBendRiver posts ante 1500.00
+igotthatbeat2.0 posts ante 1500.00
+Wxtheriver82 posts the small blind 6000.00
+FlopBendRiver posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [As 4h]
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+goblins200ug raises 74950.00 to 74950.00 and is all-in
+bauticius folds
+grotle folds
+Wxtheriver82 raises 114256.00 to 120256.00 and is all-in
+FlopBendRiver folds
+Uncalled bet (45306.00) returned to Wxtheriver82
+*** FLOP *** [Ks 8c 9d]
+Main pot 173900.00
+*** TURN *** [Ks 8c 9d] [Jd]
+Main pot 173900.00
+*** RIVER *** [Ks 8c 9d Jd] [Ah]
+Main pot 173900.00
+*** SHOW DOWN ***
+Main pot 173900.00
+goblins200ug shows [Th Js] (a pair of Jacks [Js Jd Ah Ks Th])
+Wxtheriver82 shows [3c Ac] (a pair of Aces [Ah Ac Ks Jd 9d])
+Wxtheriver82 collected 173900.00 from main pot
+*** SUMMARY ***
+Total pot 173900.00
+Board [Ks 8c 9d Jd Ah]
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 3: goblins200ug showed [Th Js] and lost with a pair of Jacks [Js Jd Ah Ks Th]
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle (button) folded on the Pre-Flop
+Seat 6: Wxtheriver82 (small blind) showed [3c Ac] and won 173900.00 with a pair of Aces [Ah Ac Ks Jd 9d]
+Seat 7: FlopBendRiver (big blind) folded on the Pre-Flop
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487632496 - Tournament #33623899 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/23 05:17:04 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: ryno-23 (153850.00)
+Seat 2: Beef420SB (233370.00)
+Seat 4: bauticius (123157.00)
+Seat 5: grotle (219400.00)
+Seat 6: Wxtheriver82 (219206.00)
+Seat 7: FlopBendRiver (159850.00)
+Seat 8: igotthatbeat2.0 (59750.00) is sitting out
+ryno-23 posts ante 1500.00
+Beef420SB posts ante 1500.00
+bauticius posts ante 1500.00
+grotle posts ante 1500.00
+Wxtheriver82 posts ante 1500.00
+FlopBendRiver posts ante 1500.00
+igotthatbeat2.0 posts ante 1500.00
+FlopBendRiver posts the small blind 6000.00
+igotthatbeat2.0 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [3h 8h]
+ryno-23 folds
+Beef420SB raises 24000.00 to 24000.00
+bauticius folds
+grotle folds
+Wxtheriver82 calls 24000.00
+FlopBendRiver raises 152350.00 to 158350.00 and is all-in
+igotthatbeat2.0 folds
+Beef420SB raises 207870.00 to 231870.00 and is all-in
+Wxtheriver82 folds
+Uncalled bet (73520.00) returned to Beef420SB
+*** FLOP *** [5h Tc 2s]
+Main pot 363200.00
+*** TURN *** [5h Tc 2s] [Jc]
+Main pot 363200.00
+*** RIVER *** [5h Tc 2s Jc] [8d]
+Main pot 363200.00
+*** SHOW DOWN ***
+Main pot 363200.00
+Beef420SB shows [6s 6c] (a pair of Sixs [6s 6c Jc Tc 8d])
+FlopBendRiver shows [8c Qc] (a pair of Eights [8d 8c Qc Jc Tc])
+FlopBendRiver collected 363200.00 from main pot
+*** SUMMARY ***
+Total pot 363200.00
+Board [5h Tc 2s Jc 8d]
+Seat 1: ryno-23 folded on the Pre-Flop and did not bet
+Seat 2: Beef420SB showed [6s 6c] and lost with a pair of Sixs [6s 6c Jc Tc 8d]
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 (button) folded on the Pre-Flop
+Seat 7: FlopBendRiver (small blind) showed [8c Qc] and won 363200.00 with a pair of Eights [8d 8c Qc Jc Tc]
+Seat 8: igotthatbeat2.0 (big blind) folded on the Pre-Flop
+
+Game Hand #2487632904 - Tournament #33623899 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/23 05:17:57 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: ryno-23 (152350.00)
+Seat 2: Beef420SB (73520.00)
+Seat 4: bauticius (121657.00)
+Seat 5: grotle (217900.00)
+Seat 6: Wxtheriver82 (193706.00)
+Seat 7: FlopBendRiver (363200.00)
+Seat 8: igotthatbeat2.0 (46250.00) is sitting out
+ryno-23 posts ante 1500.00
+Beef420SB posts ante 1500.00
+bauticius posts ante 1500.00
+grotle posts ante 1500.00
+Wxtheriver82 posts ante 1500.00
+FlopBendRiver posts ante 1500.00
+igotthatbeat2.0 posts ante 1500.00
+igotthatbeat2.0 posts the small blind 6000.00
+ryno-23 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [As Jd]
+Beef420SB folds
+bauticius folds
+grotle raises 24000.00 to 24000.00
+Wxtheriver82 folds
+FlopBendRiver calls 24000.00
+igotthatbeat2.0 folds
+ryno-23 folds
+*** FLOP *** [6s Js 5s]
+Main pot 76500.00
+grotle checks
+FlopBendRiver bets 25125.00
+grotle raises 88500.00 to 88500.00
+FlopBendRiver folds
+Uncalled bet (63375.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 126750.00
+Board [6s Js 5s]
+Seat 1: ryno-23 (big blind) folded on the Pre-Flop
+Seat 2: Beef420SB folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle did not show and won 126750.00
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver (button) folded on the Flop
+Seat 8: igotthatbeat2.0 (small blind) folded on the Pre-Flop
+
+Game Hand #2487633351 - Tournament #33623899 - Holdem (No Limit) - Level 17 (6000.00/12000.00) - 2025/06/23 05:18:58 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: ryno-23 (138850.00)
+Seat 2: Beef420SB (72020.00)
+Seat 4: bauticius (120157.00)
+Seat 5: grotle (294025.00)
+Seat 6: Wxtheriver82 (192206.00)
+Seat 7: FlopBendRiver (312575.00)
+Seat 8: igotthatbeat2.0 (38750.00) is sitting out
+ryno-23 posts ante 1500.00
+Beef420SB posts ante 1500.00
+bauticius posts ante 1500.00
+grotle posts ante 1500.00
+Wxtheriver82 posts ante 1500.00
+FlopBendRiver posts ante 1500.00
+igotthatbeat2.0 posts ante 1500.00
+ryno-23 posts the small blind 6000.00
+Beef420SB posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [2s Ah]
+bauticius folds
+grotle calls 12000.00
+Wxtheriver82 folds
+FlopBendRiver raises 311075.00 to 311075.00 and is all-in
+igotthatbeat2.0 folds
+ryno-23 folds
+Beef420SB folds
+grotle folds
+Uncalled bet (299075.00) returned to FlopBendRiver
+FlopBendRiver does not show
+*** SUMMARY ***
+Total pot 52500.00
+Seat 1: ryno-23 (small blind) folded on the Pre-Flop
+Seat 2: Beef420SB (big blind) folded on the Pre-Flop
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver did not show and won 52500.00
+Seat 8: igotthatbeat2.0 (button) folded on the Pre-Flop
+
+Game Hand #2487633693 - Tournament #33623899 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/23 05:19:42 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: ryno-23 (131350.00)
+Seat 2: Beef420SB (58520.00) is sitting out
+Seat 4: bauticius (118657.00)
+Seat 5: grotle (280525.00)
+Seat 6: Wxtheriver82 (190706.00)
+Seat 7: FlopBendRiver (351575.00)
+Seat 8: igotthatbeat2.0 (37250.00) is sitting out
+ryno-23 posts ante 2000.00
+Beef420SB posts ante 2000.00
+bauticius posts ante 2000.00
+grotle posts ante 2000.00
+Wxtheriver82 posts ante 2000.00
+FlopBendRiver posts ante 2000.00
+igotthatbeat2.0 posts ante 2000.00
+Beef420SB posts the small blind 8000.00
+bauticius posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [4d Qc]
+grotle folds
+Wxtheriver82 folds
+FlopBendRiver raises 349575.00 to 349575.00 and is all-in
+igotthatbeat2.0 folds
+ryno-23 calls 129350.00 and is all-in
+Beef420SB folds
+bauticius folds
+Uncalled bet (220225.00) returned to FlopBendRiver
+*** FLOP *** [Th Kc 9s]
+Main pot 296700.00
+*** TURN *** [Th Kc 9s] [9d]
+Main pot 296700.00
+*** RIVER *** [Th Kc 9s 9d] [Ah]
+Main pot 296700.00
+*** SHOW DOWN ***
+Main pot 296700.00
+ryno-23 shows [3h 3d] (two pair, Nines and Threes [9s 9d 3h 3d Ah])
+FlopBendRiver shows [Ks 8d] (two pair, Kings and Nines [Ks Kc 9s 9d Ah])
+FlopBendRiver collected 296700.00 from main pot
+*** SUMMARY ***
+Total pot 296700.00
+Board [Th Kc 9s 9d Ah]
+Seat 1: ryno-23 (button) showed [3h 3d] and lost with two pair, Nines and Threes [9s 9d 3h 3d Ah]
+Seat 2: Beef420SB (small blind) folded on the Pre-Flop
+Seat 4: bauticius (big blind) folded on the Pre-Flop
+Seat 5: grotle folded on the Pre-Flop and did not bet
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver showed [Ks 8d] and won 296700.00 with two pair, Kings and Nines [Ks Kc 9s 9d Ah]
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487633952 - Tournament #33623899 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/23 05:20:19 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: Wolffriendly (268500.00)
+Seat 2: Beef420SB (48520.00)
+Seat 4: bauticius (100657.00)
+Seat 5: grotle (278525.00)
+Seat 6: Wxtheriver82 (188706.00)
+Seat 7: FlopBendRiver (516925.00)
+Seat 8: igotthatbeat2.0 (35250.00) is sitting out
+Wolffriendly posts ante 2000.00
+Beef420SB posts ante 2000.00
+bauticius posts ante 2000.00
+grotle posts ante 2000.00
+Wxtheriver82 posts ante 2000.00
+FlopBendRiver posts ante 2000.00
+igotthatbeat2.0 posts ante 2000.00
+bauticius posts the small blind 8000.00
+grotle posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 14000.00
+Dealt to grotle [Td Qc]
+Wxtheriver82 folds
+FlopBendRiver folds
+igotthatbeat2.0 folds
+Wolffriendly raises 266500.00 to 266500.00 and is all-in
+Beef420SB calls 46520.00 and is all-in
+bauticius folds
+grotle folds
+Uncalled bet (219980.00) returned to Wolffriendly
+*** FLOP *** [Ts 3c 6d]
+Main pot 131040.00
+*** TURN *** [Ts 3c 6d] [Jd]
+Main pot 131040.00
+*** RIVER *** [Ts 3c 6d Jd] [9h]
+Main pot 131040.00
+*** SHOW DOWN ***
+Main pot 131040.00
+Wolffriendly shows [Js Ad] (a pair of Jacks [Js Jd Ad Ts 9h])
+Beef420SB shows [7s 9s] (a pair of Nines [9s 9h Jd Ts 7s])
+Wolffriendly collected 131040.00 from main pot
+*** SUMMARY ***
+Total pot 131040.00
+Board [Ts 3c 6d Jd 9h]
+Seat 1: Wolffriendly showed [Js Ad] and won 131040.00 with a pair of Jacks [Js Jd Ad Ts 9h]
+Seat 2: Beef420SB (button) showed [7s 9s] and lost with a pair of Nines [9s 9h Jd Ts 7s]
+Seat 4: bauticius (small blind) folded on the Pre-Flop
+Seat 5: grotle (big blind) folded on the Pre-Flop
+Seat 6: Wxtheriver82 folded on the Pre-Flop and did not bet
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487634370 - Tournament #33623899 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/23 05:21:12 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: Wolffriendly (351020.00)
+Seat 4: bauticius (90657.00)
+Seat 5: grotle (260525.00)
+Seat 6: Wxtheriver82 (186706.00)
+Seat 7: FlopBendRiver (514925.00)
+Seat 8: igotthatbeat2.0 (33250.00) is sitting out
+Wolffriendly posts ante 2000.00
+bauticius posts ante 2000.00
+grotle posts ante 2000.00
+Wxtheriver82 posts ante 2000.00
+FlopBendRiver posts ante 2000.00
+igotthatbeat2.0 posts ante 2000.00
+grotle posts the small blind 8000.00
+Wxtheriver82 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [6h 9h]
+FlopBendRiver folds
+igotthatbeat2.0 folds
+Wolffriendly folds
+bauticius folds
+grotle raises 40000.00 to 48000.00
+Wxtheriver82 folds
+Uncalled bet (32000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 44000.00
+Seat 1: Wolffriendly folded on the Pre-Flop and did not bet
+Seat 4: bauticius (button) folded on the Pre-Flop
+Seat 5: grotle did not show and won 44000.00
+Seat 6: Wxtheriver82 (big blind) folded on the Pre-Flop
+Seat 7: FlopBendRiver folded on the Pre-Flop and did not bet
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+
+Game Hand #2487634567 - Tournament #33623899 - Holdem (No Limit) - Level 18 (8000.00/16000.00) - 2025/06/23 05:21:41 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: Wolffriendly (349020.00)
+Seat 4: bauticius (88657.00)
+Seat 5: grotle (286525.00)
+Seat 6: Wxtheriver82 (168706.00)
+Seat 7: FlopBendRiver (512925.00)
+Seat 8: igotthatbeat2.0 (31250.00) is sitting out
+Wolffriendly posts ante 2000.00
+bauticius posts ante 2000.00
+grotle posts ante 2000.00
+Wxtheriver82 posts ante 2000.00
+FlopBendRiver posts ante 2000.00
+igotthatbeat2.0 posts ante 2000.00
+Wxtheriver82 posts the small blind 8000.00
+FlopBendRiver posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [2d 4d]
+igotthatbeat2.0 folds
+Wolffriendly folds
+bauticius folds
+grotle calls 16000.00
+Wxtheriver82 calls 8000.00
+FlopBendRiver checks
+*** FLOP *** [3s 4h 2c]
+Main pot 60000.00
+Wxtheriver82 checks
+FlopBendRiver checks
+grotle bets 24000.00
+Wxtheriver82 calls 24000.00
+FlopBendRiver raises 494925.00 to 494925.00 and is all-in
+grotle calls 244525.00 and is all-in
+Wxtheriver82 calls 126706.00 and is all-in
+Uncalled bet (226400.00) returned to FlopBendRiver
+*** TURN *** [3s 4h 2c] [6s]
+Main pot 512118.00
+Side pot(1) 235638.00
+*** RIVER *** [3s 4h 2c 6s] [3d]
+Main pot 512118.00
+Side pot(1) 235638.00
+*** SHOW DOWN ***
+Main pot 512118.00
+Side pot(1) 235638.00
+grotle shows [2d 4d] (two pair, Fours and Threes [4h 4d 3s 3d 6s])
+Wxtheriver82 shows [4s 6c] (two pair, Sixs and Fours [6s 6c 4s 4h 3s])
+FlopBendRiver shows [Qs 4c] (two pair, Fours and Threes [4h 4c 3s 3d Qs])
+Wxtheriver82 collected 512118.00 from main pot
+FlopBendRiver collected 235638.00 from side pot-1
+*** SUMMARY ***
+Total pot 747756.00
+Board [3s 4h 2c 6s 3d]
+Seat 1: Wolffriendly folded on the Pre-Flop and did not bet
+Seat 4: bauticius folded on the Pre-Flop and did not bet
+Seat 5: grotle (button) showed [2d 4d] and lost with two pair, Fours and Threes [4h 4d 3s 3d 6s]
+Seat 6: Wxtheriver82 (small blind) showed [4s 6c] and won 512118.00 with two pair, Sixs and Fours [6s 6c 4s 4h 3s]
+Seat 7: FlopBendRiver (big blind) showed [Qs 4c] and won 235638.00 with two pair, Fours and Threes [4h 4c 3s 3d Qs] with the kicker Queen
+Seat 8: igotthatbeat2.0 folded on the Pre-Flop and did not bet
+

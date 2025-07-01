@@ -1,0 +1,1514 @@
+Game Hand #2487605721 - Tournament #33623619 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/23 04:23:26 UTC
+Table '24' 8-max Seat #3 is the button
+Seat 2: KidGamble (467226.00)
+Seat 3: ArgentinianE (659848.00)
+Seat 4: fappuccino (714502.00)
+Seat 5: ScottyCTempe (48900.00)
+Seat 6: TrevFish (208844.00)
+Seat 7: MAG_77 (130224.00)
+Seat 8: grotle (218462.00)
+KidGamble posts ante 750.00
+ArgentinianE posts ante 750.00
+fappuccino posts ante 750.00
+ScottyCTempe posts ante 750.00
+TrevFish posts ante 750.00
+MAG_77 posts ante 750.00
+grotle posts ante 750.00
+fappuccino posts the small blind 3000.00
+ScottyCTempe posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [2c Qc]
+TrevFish raises 13200.00 to 13200.00
+MAG_77 folds
+grotle folds
+KidGamble calls 13200.00
+ArgentinianE calls 13200.00
+fappuccino folds
+ScottyCTempe raises 42150.00 to 48150.00 and is all-in
+TrevFish raises 194894.00 to 208094.00 and is all-in
+KidGamble folds
+ArgentinianE folds
+Uncalled bet (159944.00) returned to TrevFish
+*** FLOP *** [Ad Kc 3d]
+Main pot 130950.00
+*** TURN *** [Ad Kc 3d] [9d]
+Main pot 130950.00
+*** RIVER *** [Ad Kc 3d 9d] [6h]
+Main pot 130950.00
+*** SHOW DOWN ***
+Main pot 130950.00
+ScottyCTempe shows [9s Tc] (a pair of Nines [9s 9d Ad Kc Tc])
+TrevFish shows [Td Th] (a pair of Tens [Th Td Ad Kc 9d])
+TrevFish collected 130950.00 from main pot
+*** SUMMARY ***
+Total pot 130950.00
+Board [Ad Kc 3d 9d 6h]
+Seat 2: KidGamble folded on the Pre-Flop and did not bet
+Seat 3: ArgentinianE (button) folded on the Pre-Flop
+Seat 4: fappuccino (small blind) folded on the Pre-Flop
+Seat 5: ScottyCTempe (big blind) showed [9s Tc] and lost with a pair of Nines [9s 9d Ad Kc Tc]
+Seat 6: TrevFish showed [Td Th] and won 130950.00 with a pair of Tens [Th Td Ad Kc 9d]
+Seat 7: MAG_77 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487606960 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:25:31 UTC
+Table '25' 8-max Seat #3 is the button
+Seat 1: Redhunter6s (96114.00)
+Seat 2: Fildy (195700.00)
+Seat 3: wfp9 (139152.00)
+Seat 4: rusart88 (283070.00)
+Seat 5: Pokerbratt1988 (434501.00)
+Seat 6: Meesho51 (519485.00)
+Seat 7: Crusty Dollars (34000.00)
+Seat 8: grotle (217712.00)
+Redhunter6s posts ante 1000.00
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+Crusty Dollars posts ante 1000.00
+grotle posts ante 1000.00
+rusart88 posts the small blind 4000.00
+Pokerbratt1988 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 8000.00
+Dealt to grotle [8h 3s]
+Meesho51 folds
+Crusty Dollars folds
+grotle folds
+Redhunter6s raises 95114.00 to 95114.00 and is all-in
+Fildy folds
+wfp9 folds
+rusart88 folds
+Pokerbratt1988 calls 87114.00
+*** FLOP *** [Th Td 6s]
+Main pot 202228.00
+*** TURN *** [Th Td 6s] [9s]
+Main pot 202228.00
+*** RIVER *** [Th Td 6s 9s] [Kh]
+Main pot 202228.00
+*** SHOW DOWN ***
+Main pot 202228.00
+Redhunter6s shows [As 9c] (two pair, Tens and Nines [Th Td 9s 9c As])
+Pokerbratt1988 shows [Tc Jc] (three of a kind, Set of Tens [Th Td Tc Kh Jc])
+Pokerbratt1988 collected 202228.00 from main pot
+*** SUMMARY ***
+Total pot 202228.00
+Board [Th Td 6s 9s Kh]
+Seat 1: Redhunter6s showed [As 9c] and lost with two pair, Tens and Nines [Th Td 9s 9c As]
+Seat 2: Fildy folded on the Pre-Flop and did not bet
+Seat 3: wfp9 (button) folded on the Pre-Flop
+Seat 4: rusart88 (small blind) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 (big blind) showed [Tc Jc] and won 202228.00 with three of a kind, Set of Tens [Th Td Tc Kh Jc]
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Crusty Dollars folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487607327 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:26:10 UTC
+Table '25' 8-max Seat #4 is the button
+Seat 2: Fildy (194700.00)
+Seat 3: wfp9 (138152.00)
+Seat 4: rusart88 (278070.00)
+Seat 5: Pokerbratt1988 (540615.00)
+Seat 6: Meesho51 (518485.00)
+Seat 7: Crusty Dollars (33000.00)
+Seat 8: grotle (216712.00)
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+Crusty Dollars posts ante 1000.00
+grotle posts ante 1000.00
+Pokerbratt1988 posts the small blind 4000.00
+Meesho51 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [Qc Ah]
+Crusty Dollars folds
+grotle raises 16000.00 to 16000.00
+Fildy folds
+wfp9 folds
+rusart88 folds
+Pokerbratt1988 calls 12000.00
+Meesho51 calls 8000.00
+*** FLOP *** [4s 7d Ad]
+Main pot 55000.00
+Pokerbratt1988 checks
+Meesho51 checks
+grotle bets 20000.00
+Pokerbratt1988 folds
+Meesho51 folds
+Uncalled bet (20000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 55000.00
+Board [4s 7d Ad]
+Seat 2: Fildy folded on the Pre-Flop and did not bet
+Seat 3: wfp9 folded on the Pre-Flop and did not bet
+Seat 4: rusart88 (button) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 (small blind) folded on the Flop
+Seat 6: Meesho51 (big blind) folded on the Flop
+Seat 7: Crusty Dollars folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 55000.00
+
+Game Hand #2487608103 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:27:31 UTC
+Table '25' 8-max Seat #5 is the button
+Seat 2: Fildy (193700.00)
+Seat 3: wfp9 (137152.00)
+Seat 4: rusart88 (277070.00)
+Seat 5: Pokerbratt1988 (523615.00)
+Seat 6: Meesho51 (501485.00)
+Seat 7: Crusty Dollars (32000.00)
+Seat 8: grotle (254712.00)
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+Crusty Dollars posts ante 1000.00
+grotle posts ante 1000.00
+Meesho51 posts the small blind 4000.00
+Crusty Dollars posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [Qh 6h]
+grotle folds
+Fildy folds
+wfp9 folds
+rusart88 folds
+Pokerbratt1988 raises 16000.00 to 16000.00
+Meesho51 folds
+Crusty Dollars raises 23000.00 to 31000.00 and is all-in
+Pokerbratt1988 calls 15000.00
+*** FLOP *** [Qd Ad 7h]
+Main pot 73000.00
+*** TURN *** [Qd Ad 7h] [5c]
+Main pot 73000.00
+*** RIVER *** [Qd Ad 7h 5c] [Jd]
+Main pot 73000.00
+*** SHOW DOWN ***
+Main pot 73000.00
+Pokerbratt1988 shows [5s Jc] (two pair, Jacks and Fives [Jd Jc 5s 5c Ad])
+Crusty Dollars shows [Ts Tc] (a pair of Tens [Ts Tc Ad Qd Jd])
+Pokerbratt1988 collected 73000.00 from main pot
+*** SUMMARY ***
+Total pot 73000.00
+Board [Qd Ad 7h 5c Jd]
+Seat 2: Fildy folded on the Pre-Flop and did not bet
+Seat 3: wfp9 folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 (button) showed [5s Jc] and won 73000.00 with two pair, Jacks and Fives [Jd Jc 5s 5c Ad]
+Seat 6: Meesho51 (small blind) folded on the Pre-Flop
+Seat 7: Crusty Dollars (big blind) showed [Ts Tc] and lost with a pair of Tens [Ts Tc Ad Qd Jd]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487608583 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:28:18 UTC
+Table '25' 8-max Seat #6 is the button
+Seat 1: *others* (445648.00)
+Seat 2: Fildy (192700.00)
+Seat 3: wfp9 (136152.00)
+Seat 4: rusart88 (276070.00)
+Seat 5: Pokerbratt1988 (564615.00)
+Seat 6: Meesho51 (496485.00)
+Seat 8: grotle (253712.00)
+*others* posts ante 1000.00
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+grotle posts ante 1000.00
+grotle posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [Kh 8h]
+*others* folds
+Fildy folds
+wfp9 raises 16000.00 to 16000.00
+rusart88 folds
+Pokerbratt1988 raises 48000.00 to 48000.00
+Meesho51 folds
+grotle calls 40000.00
+wfp9 folds
+*** FLOP *** [Kc Qh 8c]
+Main pot 119000.00
+grotle checks
+Pokerbratt1988 checks
+*** TURN *** [Kc Qh 8c] [9c]
+Main pot 119000.00
+grotle bets 29750.00
+Pokerbratt1988 calls 29750.00
+*** RIVER *** [Kc Qh 8c 9c] [3h]
+Main pot 178500.00
+grotle bets 149454.00
+Pokerbratt1988 folds
+Uncalled bet (149454.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 178500.00
+Board [Kc Qh 8c 9c 3h]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: Fildy folded on the Pre-Flop and did not bet
+Seat 3: wfp9 folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the River
+Seat 6: Meesho51 (button) folded on the Pre-Flop
+Seat 8: grotle did not show and won 178500.00
+
+Game Hand #2487609458 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:29:50 UTC
+Table '25' 8-max Seat #7 is the button
+Seat 1: *others* (444648.00)
+Seat 2: Fildy (191700.00)
+Seat 3: wfp9 (119152.00)
+Seat 4: rusart88 (275070.00)
+Seat 5: Pokerbratt1988 (485865.00)
+Seat 6: Meesho51 (495485.00)
+Seat 8: grotle (353462.00)
+*others* posts ante 1000.00
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+grotle posts ante 1000.00
+grotle posts the small blind 4000.00
+*others* posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [9c 7s]
+Fildy folds
+wfp9 folds
+rusart88 folds
+Pokerbratt1988 raises 16000.00 to 16000.00
+Meesho51 folds
+grotle folds
+*others* folds
+Uncalled bet (8000.00) returned to Pokerbratt1988
+Pokerbratt1988 does not show
+*** SUMMARY ***
+Total pot 27000.00
+Seat 1: *others* (big blind) folded on the Pre-Flop
+Seat 2: Fildy folded on the Pre-Flop and did not bet
+Seat 3: wfp9 folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 did not show and won 27000.00
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2487609821 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:30:26 UTC
+Table '25' 8-max Seat #8 is the button
+Seat 1: *others* (435648.00)
+Seat 2: Fildy (190700.00)
+Seat 3: wfp9 (118152.00)
+Seat 4: rusart88 (274070.00)
+Seat 5: Pokerbratt1988 (503865.00)
+Seat 6: Meesho51 (494485.00)
+Seat 8: grotle (348462.00)
+*others* posts ante 1000.00
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+grotle posts ante 1000.00
+*others* posts the small blind 4000.00
+Fildy posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [3s 4c]
+wfp9 folds
+rusart88 folds
+Pokerbratt1988 folds
+Meesho51 raises 21500.00 to 21500.00
+grotle folds
+*others* folds
+Fildy folds
+Uncalled bet (13500.00) returned to Meesho51
+Meesho51 does not show
+*** SUMMARY ***
+Total pot 27000.00
+Seat 1: *others* (small blind) folded on the Pre-Flop
+Seat 2: Fildy (big blind) folded on the Pre-Flop
+Seat 3: wfp9 folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 did not show and won 27000.00
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2487610241 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:31:08 UTC
+Table '25' 8-max Seat #1 is the button
+Seat 1: *others* (430648.00)
+Seat 2: Fildy (181700.00)
+Seat 3: wfp9 (117152.00)
+Seat 4: rusart88 (273070.00)
+Seat 5: Pokerbratt1988 (502865.00)
+Seat 6: Meesho51 (512485.00)
+Seat 8: grotle (347462.00)
+*others* posts ante 1000.00
+Fildy posts ante 1000.00
+wfp9 posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+grotle posts ante 1000.00
+Fildy posts the small blind 4000.00
+wfp9 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [7s 3s]
+rusart88 raises 16000.00 to 16000.00
+Pokerbratt1988 folds
+Meesho51 folds
+grotle calls 16000.00
+*others* calls 16000.00
+Fildy calls 12000.00
+wfp9 calls 8000.00
+*** FLOP *** [7c Td 7h]
+Main pot 87000.00
+Fildy checks
+wfp9 checks
+rusart88 checks
+grotle checks
+*others* checks
+*** TURN *** [7c Td 7h] [Kd]
+Main pot 87000.00
+Fildy checks
+wfp9 bets 100152.00 and is all-in
+rusart88 folds
+grotle calls 100152.00
+*others* folds
+Fildy folds
+*** RIVER *** [7c Td 7h Kd] [9d]
+Main pot 287304.00
+*** SHOW DOWN ***
+Main pot 287304.00
+wfp9 shows [Kh 5d] (two pair, Kings and Sevens [Kh Kd 7h 7c Td])
+grotle shows [7s 3s] (three of a kind, Set of Sevens [7s 7h 7c Kd Td])
+grotle collected 287304.00 from main pot
+*** SUMMARY ***
+Total pot 287304.00
+Board [7c Td 7h Kd 9d]
+Seat 1: *others* (button) folded on the Turn
+Seat 2: Fildy (small blind) folded on the Turn
+Seat 3: wfp9 (big blind) showed [Kh 5d] and lost with two pair, Kings and Sevens [Kh Kd 7h 7c Td]
+Seat 4: rusart88 folded on the Turn
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [7s 3s] and won 287304.00 with three of a kind, Set of Sevens [7s 7h 7c Kd Td]
+
+Game Hand #2487610879 - Tournament #33623619 - Holdem (No Limit) - Level 14 (4000.00/8000.00) - 2025/06/23 04:32:16 UTC
+Table '25' 8-max Seat #2 is the button
+Seat 1: *others* (413648.00)
+Seat 2: Fildy (164700.00)
+Seat 4: rusart88 (256070.00)
+Seat 5: Pokerbratt1988 (501865.00)
+Seat 6: Meesho51 (511485.00)
+Seat 7: Xer76 (403350.00)
+Seat 8: grotle (517614.00)
+*others* posts ante 1000.00
+Fildy posts ante 1000.00
+rusart88 posts ante 1000.00
+Pokerbratt1988 posts ante 1000.00
+Meesho51 posts ante 1000.00
+Xer76 posts ante 1000.00
+grotle posts ante 1000.00
+rusart88 posts the big blind 8000.00
+*** HOLE CARDS ***
+Main pot 7000.00
+Dealt to grotle [9s 8s]
+Pokerbratt1988 raises 18400.00 to 18400.00
+Meesho51 folds
+Xer76 folds
+grotle calls 18400.00
+*others* folds
+Fildy raises 163700.00 to 163700.00 and is all-in
+rusart88 folds
+Pokerbratt1988 calls 145300.00
+grotle folds
+*** FLOP *** [8c Td Tc]
+Main pot 360800.00
+*** TURN *** [8c Td Tc] [Jc]
+Main pot 360800.00
+*** RIVER *** [8c Td Tc Jc] [7h]
+Main pot 360800.00
+*** SHOW DOWN ***
+Main pot 360800.00
+Fildy shows [As 9d] (a straight, Jack high [Jc Td 9d 8c 7h])
+Pokerbratt1988 shows [2c 4c] (a flush, Jack high [Jc Tc 8c 4c 2c])
+Pokerbratt1988 collected 360800.00 from main pot
+*** SUMMARY ***
+Total pot 360800.00
+Board [8c Td Tc Jc 7h]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: Fildy (button) showed [As 9d] and lost with a straight, Jack high [Jc Td 9d 8c 7h]
+Seat 4: rusart88 (big blind) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 showed [2c 4c] and won 360800.00 with a flush, Jack high [Jc Tc 8c 4c 2c]
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487611331 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:33:04 UTC
+Table '25' 8-max Seat #3 is the button
+Seat 1: *others* (412648.00)
+Seat 4: rusart88 (247070.00)
+Seat 5: Pokerbratt1988 (697965.00)
+Seat 6: Meesho51 (510485.00)
+Seat 7: Xer76 (402350.00)
+Seat 8: grotle (498214.00)
+*others* posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+rusart88 posts the small blind 5000.00
+Pokerbratt1988 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 7500.00
+Dealt to grotle [Kc 2d]
+Meesho51 calls 10000.00
+Xer76 calls 10000.00
+grotle folds
+*others* calls 10000.00
+rusart88 calls 5000.00
+Pokerbratt1988 checks
+*** FLOP *** [8c 6c 7d]
+Main pot 57500.00
+rusart88 checks
+Pokerbratt1988 checks
+Meesho51 bets 28750.00
+Xer76 calls 28750.00
+*others* folds
+rusart88 folds
+Pokerbratt1988 folds
+*** TURN *** [8c 6c 7d] [5d]
+Main pot 115000.00
+Meesho51 checks
+Xer76 bets 57500.00
+Meesho51 calls 57500.00
+*** RIVER *** [8c 6c 7d 5d] [3c]
+Main pot 230000.00
+Meesho51 checks
+Xer76 checks
+*** SHOW DOWN ***
+Main pot 230000.00
+Meesho51 shows [4h 4d] (a straight, Eight high [8c 7d 6c 5d 4h])
+Xer76 shows [5s 6s] (two pair, Sixs and Fives [6s 6c 5s 5d 8c])
+Meesho51 collected 230000.00 from main pot
+*** SUMMARY ***
+Total pot 230000.00
+Board [8c 6c 7d 5d 3c]
+Seat 1: *others* folded on the Flop
+Seat 4: rusart88 (small blind) folded on the Flop
+Seat 5: Pokerbratt1988 (big blind) folded on the Flop
+Seat 6: Meesho51 showed [4h 4d] and won 230000.00 with a straight, Eight high [8c 7d 6c 5d 4h]
+Seat 7: Xer76 showed [5s 6s] and lost with two pair, Sixs and Fives [6s 6c 5s 5d 8c]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487612044 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:34:19 UTC
+Table '25' 8-max Seat #4 is the button
+Seat 1: *others* (401398.00)
+Seat 2: GhostofM (184650.00)
+Seat 3: RWASWORLD (420981.00)
+Seat 4: rusart88 (235820.00)
+Seat 5: Pokerbratt1988 (686715.00)
+Seat 6: Meesho51 (642985.00)
+Seat 7: Xer76 (304850.00)
+Seat 8: grotle (496964.00)
+*others* posts ante 1250.00
+GhostofM posts ante 1250.00
+RWASWORLD posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+Pokerbratt1988 posts the small blind 5000.00
+Meesho51 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [Ah Qd]
+Xer76 raises 25000.00 to 25000.00
+grotle calls 25000.00
+*others* folds
+GhostofM folds
+RWASWORLD folds
+rusart88 folds
+Pokerbratt1988 calls 20000.00
+Meesho51 folds
+*** FLOP *** [2h As 4d]
+Main pot 95000.00
+Pokerbratt1988 checks
+Xer76 checks
+grotle checks
+*** TURN *** [2h As 4d] [9d]
+Main pot 95000.00
+Pokerbratt1988 checks
+Xer76 checks
+grotle bets 23750.00
+Pokerbratt1988 raises 55000.00 to 55000.00
+Xer76 folds
+grotle calls 31250.00
+*** RIVER *** [2h As 4d 9d] [4c]
+Main pot 205000.00
+Pokerbratt1988 checks
+grotle bets 130000.00
+Pokerbratt1988 folds
+Uncalled bet (130000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 205000.00
+Board [2h As 4d 9d 4c]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: rusart88 (button) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 (small blind) folded on the River
+Seat 6: Meesho51 (big blind) folded on the Pre-Flop
+Seat 7: Xer76 folded on the Turn
+Seat 8: grotle did not show and won 205000.00
+
+Game Hand #2487613046 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:36:05 UTC
+Table '25' 8-max Seat #5 is the button
+Seat 1: *others* (400148.00)
+Seat 2: GhostofM (183400.00)
+Seat 3: RWASWORLD (419731.00)
+Seat 4: rusart88 (234570.00)
+Seat 5: Pokerbratt1988 (605465.00)
+Seat 6: Meesho51 (631735.00)
+Seat 7: Xer76 (278600.00)
+Seat 8: grotle (620714.00)
+*others* posts ante 1250.00
+GhostofM posts ante 1250.00
+RWASWORLD posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+Meesho51 posts the small blind 5000.00
+Xer76 posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [8s 4c]
+grotle folds
+*others* calls 10000.00
+GhostofM raises 30000.00 to 30000.00
+RWASWORLD folds
+rusart88 folds
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 folds
+*others* calls 20000.00
+*** FLOP *** [Js 3c Ah]
+Main pot 85000.00
+*others* checks
+GhostofM bets 26250.00
+*others* folds
+Uncalled bet (26250.00) returned to GhostofM
+GhostofM does not show
+*** SUMMARY ***
+Total pot 85000.00
+Board [Js 3c Ah]
+Seat 1: *others* folded on the Flop
+Seat 2: GhostofM did not show and won 85000.00
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 (button) folded on the Pre-Flop
+Seat 6: Meesho51 (small blind) folded on the Pre-Flop
+Seat 7: Xer76 (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487613525 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:36:56 UTC
+Table '25' 8-max Seat #6 is the button
+Seat 1: *others* (368898.00)
+Seat 2: GhostofM (237150.00)
+Seat 3: RWASWORLD (418481.00)
+Seat 4: rusart88 (233320.00)
+Seat 5: Pokerbratt1988 (604215.00)
+Seat 6: Meesho51 (625485.00)
+Seat 7: Xer76 (267350.00)
+Seat 8: grotle (619464.00)
+*others* posts ante 1250.00
+GhostofM posts ante 1250.00
+RWASWORLD posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+Xer76 posts the small blind 5000.00
+grotle posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [9h 8h]
+*others* calls 10000.00
+GhostofM folds
+RWASWORLD calls 10000.00
+rusart88 folds
+Pokerbratt1988 raises 25000.00 to 25000.00
+Meesho51 folds
+Xer76 folds
+grotle calls 15000.00
+*others* raises 115000.00 to 125000.00
+RWASWORLD folds
+Pokerbratt1988 folds
+grotle calls 100000.00
+*** FLOP *** [6d 3c 6c]
+Main pot 300000.00
+grotle checks
+*others* bets 242648.00 and is all-in
+grotle folds
+Uncalled bet (242648.00) returned to *others*
+*others* does not show
+*** SUMMARY ***
+Total pot 300000.00
+Board [6d 3c 6c]
+Seat 1: *others* did not show and won 300000.00
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 (button) folded on the Pre-Flop
+Seat 7: Xer76 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Flop
+
+Game Hand #2487614010 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:37:49 UTC
+Table '25' 8-max Seat #7 is the button
+Seat 1: *others* (542648.00)
+Seat 2: GhostofM (235900.00)
+Seat 3: RWASWORLD (407231.00)
+Seat 4: rusart88 (232070.00)
+Seat 5: Pokerbratt1988 (577965.00)
+Seat 6: Meesho51 (624235.00)
+Seat 7: Xer76 (261100.00)
+Seat 8: grotle (493214.00)
+*others* posts ante 1250.00
+GhostofM posts ante 1250.00
+RWASWORLD posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+grotle posts the small blind 5000.00
+*others* posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [9c Js]
+GhostofM folds
+RWASWORLD raises 20000.00 to 20000.00
+rusart88 folds
+Pokerbratt1988 raises 70000.00 to 70000.00
+Meesho51 folds
+Xer76 folds
+grotle calls 65000.00
+*others* folds
+RWASWORLD calls 50000.00
+*** FLOP *** [6h Ah Qh]
+Main pot 230000.00
+grotle checks
+RWASWORLD checks
+Pokerbratt1988 checks
+*** TURN *** [6h Ah Qh] [7c]
+Main pot 230000.00
+grotle checks
+RWASWORLD bets 57500.00
+Pokerbratt1988 raises 316250.00 to 316250.00
+grotle folds
+RWASWORLD folds
+Uncalled bet (258750.00) returned to Pokerbratt1988
+Pokerbratt1988 does not show
+*** SUMMARY ***
+Total pot 345000.00
+Board [6h Ah Qh 7c]
+Seat 1: *others* (big blind) folded on the Pre-Flop
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Turn
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 did not show and won 345000.00
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Turn
+
+Game Hand #2487614759 - Tournament #33623619 - Holdem (No Limit) - Level 15 (5000.00/10000.00) - 2025/06/23 04:39:11 UTC
+Table '25' 8-max Seat #8 is the button
+Seat 1: *others* (531398.00)
+Seat 2: GhostofM (234650.00)
+Seat 3: RWASWORLD (278481.00)
+Seat 4: rusart88 (230820.00)
+Seat 5: Pokerbratt1988 (794215.00)
+Seat 6: Meesho51 (622985.00)
+Seat 7: Xer76 (259850.00)
+Seat 8: grotle (421964.00)
+*others* posts ante 1250.00
+GhostofM posts ante 1250.00
+RWASWORLD posts ante 1250.00
+rusart88 posts ante 1250.00
+Pokerbratt1988 posts ante 1250.00
+Meesho51 posts ante 1250.00
+Xer76 posts ante 1250.00
+grotle posts ante 1250.00
+*others* posts the small blind 5000.00
+GhostofM posts the big blind 10000.00
+*** HOLE CARDS ***
+Main pot 10000.00
+Dealt to grotle [Ad 8h]
+RWASWORLD folds
+rusart88 folds
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 folds
+grotle raises 20000.00 to 20000.00
+*others* folds
+GhostofM calls 10000.00
+*** FLOP *** [Jc 3c 4d]
+Main pot 55000.00
+GhostofM checks
+grotle checks
+*** TURN *** [Jc 3c 4d] [3d]
+Main pot 55000.00
+GhostofM bets 20000.00
+grotle calls 20000.00
+*** RIVER *** [Jc 3c 4d 3d] [9d]
+Main pot 95000.00
+GhostofM bets 71250.00
+grotle raises 172500.00 to 172500.00
+GhostofM calls 101250.00
+*** SHOW DOWN ***
+Main pot 440000.00
+GhostofM shows [Kd 6d] (a flush, King high [Kd 9d 6d 4d 3d])
+grotle shows [Ad 8h] (a pair of Threes [3d 3c Ad Jc 9d])
+GhostofM collected 440000.00 from main pot
+*** SUMMARY ***
+Total pot 440000.00
+Board [Jc 3c 4d 3d 9d]
+Seat 1: *others* (small blind) folded on the Pre-Flop
+Seat 2: GhostofM (big blind) showed [Kd 6d] and won 440000.00 with a flush, King high [Kd 9d 6d 4d 3d]
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) showed [Ad 8h] and lost with a pair of Threes [3d 3c Ad Jc 9d]
+
+Game Hand #2487615199 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:39:58 UTC
+Table '25' 8-max Seat #1 is the button
+Seat 1: *others* (525148.00)
+Seat 2: GhostofM (460900.00)
+Seat 3: RWASWORLD (277231.00)
+Seat 4: rusart88 (229570.00)
+Seat 5: Pokerbratt1988 (792965.00)
+Seat 6: Meesho51 (621735.00)
+Seat 7: Xer76 (258600.00)
+Seat 8: grotle (208214.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+rusart88 posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+GhostofM posts the small blind 6000.00
+RWASWORLD posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [Qs 4s]
+rusart88 folds
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 folds
+grotle folds
+*others* calls 12000.00
+GhostofM calls 6000.00
+RWASWORLD checks
+*** FLOP *** [3s Jd 6c]
+Main pot 48000.00
+GhostofM checks
+RWASWORLD bets 12000.00
+*others* folds
+GhostofM folds
+Uncalled bet (12000.00) returned to RWASWORLD
+RWASWORLD does not show
+*** SUMMARY ***
+Total pot 48000.00
+Board [3s Jd 6c]
+Seat 1: *others* (button) folded on the Flop
+Seat 2: GhostofM (small blind) folded on the Flop
+Seat 3: RWASWORLD did not show and won 48000.00
+Seat 4: rusart88 folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487615731 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:40:54 UTC
+Table '25' 8-max Seat #2 is the button
+Seat 1: *others* (511648.00)
+Seat 2: GhostofM (447400.00)
+Seat 3: RWASWORLD (311731.00)
+Seat 4: rusart88 (228070.00)
+Seat 5: Pokerbratt1988 (791465.00)
+Seat 6: Meesho51 (620235.00)
+Seat 7: Xer76 (257100.00)
+Seat 8: grotle (206714.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+rusart88 posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+RWASWORLD posts the small blind 6000.00
+rusart88 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [4c Td]
+Pokerbratt1988 folds
+Meesho51 calls 12000.00
+Xer76 calls 12000.00
+grotle folds
+*others* folds
+GhostofM folds
+RWASWORLD calls 6000.00
+rusart88 checks
+*** FLOP *** [Ah Ad Kd]
+Main pot 60000.00
+RWASWORLD checks
+rusart88 checks
+Meesho51 checks
+Xer76 checks
+*** TURN *** [Ah Ad Kd] [4s]
+Main pot 60000.00
+RWASWORLD checks
+rusart88 checks
+Meesho51 bets 30000.00
+Xer76 calls 30000.00
+RWASWORLD folds
+rusart88 folds
+*** RIVER *** [Ah Ad Kd 4s] [9h]
+Main pot 120000.00
+Meesho51 checks
+Xer76 checks
+*** SHOW DOWN ***
+Main pot 120000.00
+Meesho51 shows [Ts 9c] (two pair, Aces and Nines [Ah Ad 9h 9c Kd])
+Xer76 shows [Th Qd] (a pair of Aces [Ah Ad Kd Qd Th])
+Meesho51 collected 120000.00 from main pot
+*** SUMMARY ***
+Total pot 120000.00
+Board [Ah Ad Kd 4s 9h]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM (button) folded on the Pre-Flop
+Seat 3: RWASWORLD (small blind) folded on the Turn
+Seat 4: rusart88 (big blind) folded on the Turn
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 showed [Ts 9c] and won 120000.00 with two pair, Aces and Nines [Ah Ad 9h 9c Kd]
+Seat 7: Xer76 showed [Th Qd] and lost with a pair of Aces [Ah Ad Kd Qd Th]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487616481 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:42:17 UTC
+Table '25' 8-max Seat #3 is the button
+Seat 1: *others* (510148.00)
+Seat 2: GhostofM (445900.00)
+Seat 3: RWASWORLD (298231.00)
+Seat 4: rusart88 (214570.00)
+Seat 5: Pokerbratt1988 (789965.00)
+Seat 6: Meesho51 (696735.00)
+Seat 7: Xer76 (213600.00)
+Seat 8: grotle (205214.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+rusart88 posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+rusart88 posts the small blind 6000.00
+Pokerbratt1988 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [6d 4s]
+Meesho51 folds
+Xer76 folds
+grotle folds
+*others* calls 12000.00
+GhostofM folds
+RWASWORLD calls 12000.00
+rusart88 calls 6000.00
+Pokerbratt1988 raises 30000.00 to 42000.00
+*others* calls 30000.00
+RWASWORLD calls 30000.00
+rusart88 calls 30000.00
+*** FLOP *** [Ts Ad Tc]
+Main pot 180000.00
+rusart88 checks
+Pokerbratt1988 bets 54000.00
+*others* folds
+RWASWORLD calls 54000.00
+rusart88 folds
+*** TURN *** [Ts Ad Tc] [2h]
+Main pot 288000.00
+Pokerbratt1988 checks
+RWASWORLD bets 72000.00
+Pokerbratt1988 folds
+Uncalled bet (72000.00) returned to RWASWORLD
+RWASWORLD does not show
+*** SUMMARY ***
+Total pot 288000.00
+Board [Ts Ad Tc 2h]
+Seat 1: *others* folded on the Flop
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD did not show and won 288000.00
+Seat 4: rusart88 (small blind) folded on the Flop
+Seat 5: Pokerbratt1988 (big blind) folded on the Turn
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487617477 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:44:03 UTC
+Table '25' 8-max Seat #4 is the button
+Seat 1: *others* (466648.00)
+Seat 2: GhostofM (444400.00)
+Seat 3: RWASWORLD (488731.00)
+Seat 5: Pokerbratt1988 (692465.00)
+Seat 6: Meesho51 (695235.00)
+Seat 7: Xer76 (212100.00)
+Seat 8: grotle (203714.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+Pokerbratt1988 posts the small blind 6000.00
+Meesho51 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [Js 8s]
+Xer76 folds
+grotle raises 24000.00 to 24000.00
+*others* folds
+GhostofM folds
+RWASWORLD folds
+Pokerbratt1988 folds
+Meesho51 folds
+Uncalled bet (12000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 40500.00
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 (small blind) folded on the Pre-Flop
+Seat 6: Meesho51 (big blind) folded on the Pre-Flop
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 40500.00
+
+Game Hand #2487617838 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:44:43 UTC
+Table '25' 8-max Seat #5 is the button
+Seat 1: *others* (465148.00)
+Seat 2: GhostofM (442900.00)
+Seat 3: RWASWORLD (487231.00)
+Seat 5: Pokerbratt1988 (684965.00) is sitting out
+Seat 6: Meesho51 (681735.00)
+Seat 7: Xer76 (210600.00)
+Seat 8: grotle (230714.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+Meesho51 posts the small blind 6000.00
+Xer76 posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [6s Ac]
+grotle folds
+*others* folds
+GhostofM folds
+RWASWORLD raises 24000.00 to 24000.00
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 folds
+Uncalled bet (12000.00) returned to RWASWORLD
+RWASWORLD does not show
+*** SUMMARY ***
+Total pot 40500.00
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD did not show and won 40500.00
+Seat 5: Pokerbratt1988 (button) folded on the Pre-Flop
+Seat 6: Meesho51 (small blind) folded on the Pre-Flop
+Seat 7: Xer76 (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487618127 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:45:15 UTC
+Table '25' 8-max Seat #6 is the button
+Seat 1: *others* (463648.00)
+Seat 2: GhostofM (441400.00)
+Seat 3: RWASWORLD (514231.00)
+Seat 5: Pokerbratt1988 (683465.00)
+Seat 6: Meesho51 (674235.00)
+Seat 7: Xer76 (197100.00)
+Seat 8: grotle (229214.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+Xer76 posts the small blind 6000.00
+grotle posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 10500.00
+Dealt to grotle [Ac Ah]
+*others* folds
+GhostofM folds
+RWASWORLD raises 24000.00 to 24000.00
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 folds
+grotle raises 215714.00 to 227714.00 and is all-in
+RWASWORLD calls 203714.00
+*** FLOP *** [6s 2s Kd]
+Main pot 471928.00
+*** TURN *** [6s 2s Kd] [5s]
+Main pot 471928.00
+*** RIVER *** [6s 2s Kd 5s] [Kc]
+Main pot 471928.00
+*** SHOW DOWN ***
+Main pot 471928.00
+RWASWORLD shows [Qd Jc] (a pair of Kings [Kd Kc Qd Jc 6s])
+grotle shows [Ac Ah] (two pair, Aces and Kings [Ah Ac Kd Kc 6s])
+grotle collected 471928.00 from main pot
+*** SUMMARY ***
+Total pot 471928.00
+Board [6s 2s Kd 5s Kc]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD showed [Qd Jc] and lost with a pair of Kings [Kd Kc Qd Jc 6s]
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 (button) folded on the Pre-Flop
+Seat 7: Xer76 (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) showed [Ac Ah] and won 471928.00 with two pair, Aces and Kings [Ah Ac Kd Kc 6s]
+
+Game Hand #2487618588 - Tournament #33623619 - Holdem (No Limit) - Level 16 (6000.00/12000.00) - 2025/06/23 04:46:06 UTC
+Table '25' 8-max Seat #7 is the button
+Seat 1: *others* (462148.00)
+Seat 2: GhostofM (439900.00)
+Seat 3: RWASWORLD (285017.00)
+Seat 4: FoxyMeadow (542596.00)
+Seat 5: Pokerbratt1988 (681965.00)
+Seat 6: Meesho51 (672735.00)
+Seat 7: Xer76 (189600.00)
+Seat 8: grotle (471928.00)
+*others* posts ante 1500.00
+GhostofM posts ante 1500.00
+RWASWORLD posts ante 1500.00
+FoxyMeadow posts ante 1500.00
+Pokerbratt1988 posts ante 1500.00
+Meesho51 posts ante 1500.00
+Xer76 posts ante 1500.00
+grotle posts ante 1500.00
+grotle posts the small blind 6000.00
+*others* posts the big blind 12000.00
+*** HOLE CARDS ***
+Main pot 12000.00
+Dealt to grotle [8s Ad]
+GhostofM folds
+RWASWORLD folds
+FoxyMeadow folds
+Pokerbratt1988 raises 24000.00 to 24000.00
+Meesho51 folds
+Xer76 calls 24000.00
+grotle calls 18000.00
+*others* folds
+*** FLOP *** [2c Qd Kh]
+Main pot 96000.00
+grotle checks
+Pokerbratt1988 checks
+Xer76 bets 48000.00
+grotle folds
+Pokerbratt1988 calls 48000.00
+*** TURN *** [2c Qd Kh] [9c]
+Main pot 192000.00
+Pokerbratt1988 checks
+Xer76 checks
+*** RIVER *** [2c Qd Kh 9c] [5c]
+Main pot 192000.00
+Pokerbratt1988 checks
+Xer76 checks
+*** SHOW DOWN ***
+Main pot 192000.00
+Pokerbratt1988 shows [Jh As] (a high card, Ace high [As Kh Qd Jh 9c])
+Xer76 shows [8d Jd] (a high card, King high [Kh Qd Jd 9c 8d])
+Pokerbratt1988 collected 192000.00 from main pot
+*** SUMMARY ***
+Total pot 192000.00
+Board [2c Qd Kh 9c 5c]
+Seat 1: *others* (big blind) folded on the Pre-Flop
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: FoxyMeadow folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 showed [Jh As] and won 192000.00 with a high card, Ace high [As Kh Qd Jh 9c]
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 (button) showed [8d Jd] and lost with a high card, King high [Kh Qd Jd 9c 8d]
+Seat 8: grotle (small blind) folded on the Flop
+
+Game Hand #2487619353 - Tournament #33623619 - Holdem (No Limit) - Level 17 (8000.00/16000.00) - 2025/06/23 04:47:33 UTC
+Table '25' 8-max Seat #8 is the button
+Seat 1: *others* (448648.00)
+Seat 2: GhostofM (438400.00)
+Seat 3: RWASWORLD (283517.00)
+Seat 4: FoxyMeadow (541096.00)
+Seat 5: Pokerbratt1988 (800465.00)
+Seat 6: Meesho51 (671235.00)
+Seat 7: Xer76 (116100.00)
+Seat 8: grotle (446428.00)
+*others* posts ante 2000.00
+GhostofM posts ante 2000.00
+RWASWORLD posts ante 2000.00
+FoxyMeadow posts ante 2000.00
+Pokerbratt1988 posts ante 2000.00
+Meesho51 posts ante 2000.00
+Xer76 posts ante 2000.00
+grotle posts ante 2000.00
+*others* posts the small blind 8000.00
+GhostofM posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [9h 4d]
+RWASWORLD folds
+FoxyMeadow raises 40000.00 to 40000.00
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 calls 40000.00
+grotle folds
+*others* calls 32000.00
+GhostofM calls 24000.00
+*** FLOP *** [7c 6s Qd]
+Main pot 176000.00
+*others* checks
+GhostofM checks
+FoxyMeadow checks
+Xer76 bets 74100.00 and is all-in
+*others* calls 74100.00
+GhostofM calls 74100.00
+FoxyMeadow folds
+*** TURN *** [7c 6s Qd] [Jc]
+Main pot 398300.00
+*others* checks
+GhostofM checks
+*** RIVER *** [7c 6s Qd Jc] [2h]
+Main pot 398300.00
+*others* bets 298725.00
+GhostofM folds
+Uncalled bet (298725.00) returned to *others*
+*** SHOW DOWN ***
+Main pot 398300.00
+*others* shows [Qs Kc] (a pair of Queens [Qs Qd Kc Jc 7c])
+Xer76 shows [Qh Ah] (a pair of Queens [Qh Qd Ah Jc 7c])
+Xer76 collected 398300.00 from main pot
+*** SUMMARY ***
+Total pot 398300.00
+Board [7c 6s Qd Jc 2h]
+Seat 1: *others* (small blind) showed [Qs Kc] and lost with a pair of Queens [Qs Qd Kc Jc 7c]
+Seat 2: GhostofM (big blind) folded on the River
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: FoxyMeadow folded on the Flop
+Seat 5: Pokerbratt1988 folded on the Pre-Flop and did not bet
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 showed [Qh Ah] and won 398300.00 with a pair of Queens [Qh Qd Ah Jc 7c] with the kicker Ace
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2487620019 - Tournament #33623619 - Holdem (No Limit) - Level 17 (8000.00/16000.00) - 2025/06/23 04:48:47 UTC
+Table '25' 8-max Seat #1 is the button
+Seat 1: *others* (332548.00)
+Seat 2: GhostofM (322300.00)
+Seat 3: RWASWORLD (281517.00)
+Seat 4: FoxyMeadow (499096.00)
+Seat 5: Pokerbratt1988 (798465.00)
+Seat 6: Meesho51 (669235.00)
+Seat 7: Xer76 (398300.00)
+Seat 8: grotle (444428.00)
+*others* posts ante 2000.00
+GhostofM posts ante 2000.00
+RWASWORLD posts ante 2000.00
+FoxyMeadow posts ante 2000.00
+Pokerbratt1988 posts ante 2000.00
+Meesho51 posts ante 2000.00
+Xer76 posts ante 2000.00
+grotle posts ante 2000.00
+GhostofM posts the small blind 8000.00
+RWASWORLD posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [8s 4d]
+FoxyMeadow folds
+Pokerbratt1988 raises 32000.00 to 32000.00
+Meesho51 folds
+Xer76 folds
+grotle folds
+*others* folds
+GhostofM folds
+RWASWORLD calls 16000.00
+*** FLOP *** [3c Tc Qh]
+Main pot 88000.00
+RWASWORLD bets 22000.00
+Pokerbratt1988 calls 22000.00
+*** TURN *** [3c Tc Qh] [5s]
+Main pot 132000.00
+RWASWORLD bets 33000.00
+Pokerbratt1988 folds
+Uncalled bet (33000.00) returned to RWASWORLD
+RWASWORLD does not show
+*** SUMMARY ***
+Total pot 132000.00
+Board [3c Tc Qh 5s]
+Seat 1: *others* (button) folded on the Pre-Flop
+Seat 2: GhostofM (small blind) folded on the Pre-Flop
+Seat 3: RWASWORLD did not show and won 132000.00
+Seat 4: FoxyMeadow folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 folded on the Turn
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487620580 - Tournament #33623619 - Holdem (No Limit) - Level 17 (8000.00/16000.00) - 2025/06/23 04:49:49 UTC
+Table '25' 8-max Seat #2 is the button
+Seat 1: *others* (330548.00)
+Seat 2: GhostofM (312300.00)
+Seat 3: RWASWORLD (357517.00)
+Seat 4: FoxyMeadow (497096.00)
+Seat 5: Pokerbratt1988 (742465.00)
+Seat 6: Meesho51 (667235.00)
+Seat 7: Xer76 (396300.00)
+Seat 8: grotle (442428.00)
+*others* posts ante 2000.00
+GhostofM posts ante 2000.00
+RWASWORLD posts ante 2000.00
+FoxyMeadow posts ante 2000.00
+Pokerbratt1988 posts ante 2000.00
+Meesho51 posts ante 2000.00
+Xer76 posts ante 2000.00
+grotle posts ante 2000.00
+RWASWORLD posts the small blind 8000.00
+FoxyMeadow posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [6s Td]
+Pokerbratt1988 raises 36800.00 to 36800.00
+Meesho51 folds
+Xer76 calls 36800.00
+grotle folds
+*others* folds
+GhostofM folds
+RWASWORLD calls 28800.00
+FoxyMeadow folds
+*** FLOP *** [5h 7d 7c]
+Main pot 142400.00
+RWASWORLD checks
+Pokerbratt1988 bets 48000.00
+Xer76 calls 48000.00
+RWASWORLD folds
+*** TURN *** [5h 7d 7c] [Kc]
+Main pot 238400.00
+Pokerbratt1988 checks
+Xer76 checks
+*** RIVER *** [5h 7d 7c Kc] [Ad]
+Main pot 238400.00
+Pokerbratt1988 bets 128000.00
+Xer76 calls 128000.00
+*** SHOW DOWN ***
+Main pot 494400.00
+Pokerbratt1988 shows [Tc 4s] (a pair of Sevens [7d 7c Ad Kc Tc])
+Xer76 shows [Ah 2h] (two pair, Aces and Sevens [Ah Ad 7d 7c Kc])
+Xer76 collected 494400.00 from main pot
+*** SUMMARY ***
+Total pot 494400.00
+Board [5h 7d 7c Kc Ad]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM (button) folded on the Pre-Flop
+Seat 3: RWASWORLD (small blind) folded on the Flop
+Seat 4: FoxyMeadow (big blind) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 showed [Tc 4s] and lost with a pair of Sevens [7d 7c Ad Kc Tc]
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 showed [Ah 2h] and won 494400.00 with two pair, Aces and Sevens [Ah Ad 7d 7c Kc]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487621621 - Tournament #33623619 - Holdem (No Limit) - Level 17 (8000.00/16000.00) - 2025/06/23 04:51:44 UTC
+Table '25' 8-max Seat #3 is the button
+Seat 1: *others* (328548.00)
+Seat 2: GhostofM (310300.00)
+Seat 3: RWASWORLD (318717.00)
+Seat 4: FoxyMeadow (479096.00)
+Seat 5: Pokerbratt1988 (527665.00)
+Seat 6: Meesho51 (665235.00)
+Seat 7: Xer76 (675900.00)
+Seat 8: grotle (440428.00)
+*others* posts ante 2000.00
+GhostofM posts ante 2000.00
+RWASWORLD posts ante 2000.00
+FoxyMeadow posts ante 2000.00
+Pokerbratt1988 posts ante 2000.00
+Meesho51 posts ante 2000.00
+Xer76 posts ante 2000.00
+grotle posts ante 2000.00
+FoxyMeadow posts the small blind 8000.00
+Pokerbratt1988 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [3c Qh]
+Meesho51 folds
+Xer76 raises 40000.00 to 40000.00
+grotle folds
+*others* calls 40000.00
+GhostofM folds
+RWASWORLD folds
+FoxyMeadow raises 184000.00 to 192000.00
+Pokerbratt1988 folds
+Xer76 calls 152000.00
+*others* folds
+*** FLOP *** [2c 6s 8h]
+Main pot 456000.00
+FoxyMeadow bets 128000.00
+Xer76 folds
+Uncalled bet (128000.00) returned to FoxyMeadow
+FoxyMeadow does not show
+*** SUMMARY ***
+Total pot 456000.00
+Board [2c 6s 8h]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD (button) folded on the Pre-Flop
+Seat 4: FoxyMeadow did not show and won 456000.00
+Seat 5: Pokerbratt1988 (big blind) folded on the Pre-Flop
+Seat 6: Meesho51 folded on the Pre-Flop and did not bet
+Seat 7: Xer76 folded on the Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2487622406 - Tournament #33623619 - Holdem (No Limit) - Level 17 (8000.00/16000.00) - 2025/06/23 04:53:14 UTC
+Table '25' 8-max Seat #4 is the button
+Seat 1: *others* (286548.00)
+Seat 2: GhostofM (308300.00)
+Seat 3: RWASWORLD (316717.00)
+Seat 4: FoxyMeadow (741096.00)
+Seat 5: Pokerbratt1988 (509665.00)
+Seat 6: Meesho51 (663235.00)
+Seat 7: Xer76 (481900.00)
+Seat 8: grotle (438428.00)
+*others* posts ante 2000.00
+GhostofM posts ante 2000.00
+RWASWORLD posts ante 2000.00
+FoxyMeadow posts ante 2000.00
+Pokerbratt1988 posts ante 2000.00
+Meesho51 posts ante 2000.00
+Xer76 posts ante 2000.00
+grotle posts ante 2000.00
+Pokerbratt1988 posts the small blind 8000.00
+Meesho51 posts the big blind 16000.00
+*** HOLE CARDS ***
+Main pot 16000.00
+Dealt to grotle [Ad 3d]
+Xer76 folds
+grotle raises 32000.00 to 32000.00
+*others* folds
+GhostofM folds
+RWASWORLD folds
+FoxyMeadow folds
+Pokerbratt1988 calls 24000.00
+Meesho51 folds
+*** FLOP *** [5d 5h 5c]
+Main pot 96000.00
+Pokerbratt1988 bets 48000.00
+grotle calls 48000.00
+*** TURN *** [5d 5h 5c] [9d]
+Main pot 192000.00
+Pokerbratt1988 checks
+grotle checks
+*** RIVER *** [5d 5h 5c 9d] [4h]
+Main pot 192000.00
+Pokerbratt1988 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 192000.00
+Pokerbratt1988 shows [6d 6h] (a full house, Fives full of Sixs [5h 5d 5c 6h 6d])
+grotle shows [Ad 3d] (three of a kind, Set of Fives [5h 5d 5c Ad 9d])
+Pokerbratt1988 collected 192000.00 from main pot
+*** SUMMARY ***
+Total pot 192000.00
+Board [5d 5h 5c 9d 4h]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM folded on the Pre-Flop and did not bet
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: FoxyMeadow (button) folded on the Pre-Flop
+Seat 5: Pokerbratt1988 (small blind) showed [6d 6h] and won 192000.00 with a full house, Fives full of Sixs [5h 5d 5c 6h 6d]
+Seat 6: Meesho51 (big blind) folded on the Pre-Flop
+Seat 7: Xer76 folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [Ad 3d] and lost with three of a kind, Set of Fives [5h 5d 5c Ad 9d]
+
+Game Hand #2487623099 - Tournament #33623619 - Holdem (No Limit) - Level 18 (10000.00/20000.00) - 2025/06/23 04:54:36 UTC
+Table '25' 8-max Seat #5 is the button
+Seat 1: *others* (284548.00)
+Seat 2: GhostofM (306300.00)
+Seat 3: RWASWORLD (314717.00)
+Seat 4: FoxyMeadow (739096.00)
+Seat 5: Pokerbratt1988 (619665.00)
+Seat 6: Meesho51 (645235.00)
+Seat 7: Xer76 (479900.00)
+Seat 8: grotle (356428.00)
+*others* posts ante 2500.00
+GhostofM posts ante 2500.00
+RWASWORLD posts ante 2500.00
+FoxyMeadow posts ante 2500.00
+Pokerbratt1988 posts ante 2500.00
+Meesho51 posts ante 2500.00
+Xer76 posts ante 2500.00
+grotle posts ante 2500.00
+Meesho51 posts the small blind 10000.00
+Xer76 posts the big blind 20000.00
+*** HOLE CARDS ***
+Main pot 20000.00
+Dealt to grotle [5c Qh]
+grotle folds
+*others* folds
+GhostofM raises 303800.00 to 303800.00 and is all-in
+RWASWORLD folds
+FoxyMeadow folds
+Pokerbratt1988 folds
+Meesho51 folds
+Xer76 calls 283800.00
+*** FLOP *** [3s 4s 2h]
+Main pot 637600.00
+*** TURN *** [3s 4s 2h] [7c]
+Main pot 637600.00
+*** RIVER *** [3s 4s 2h 7c] [Kh]
+Main pot 637600.00
+*** SHOW DOWN ***
+Main pot 637600.00
+GhostofM shows [Kd Ah] (a pair of Kings [Kh Kd Ah 7c 4s])
+Xer76 shows [Kc Js] (a pair of Kings [Kh Kc Js 7c 4s])
+GhostofM collected 637600.00 from main pot
+*** SUMMARY ***
+Total pot 637600.00
+Board [3s 4s 2h 7c Kh]
+Seat 1: *others* folded on the Pre-Flop and did not bet
+Seat 2: GhostofM showed [Kd Ah] and won 637600.00 with a pair of Kings [Kh Kd Ah 7c 4s] with the kicker Ace
+Seat 3: RWASWORLD folded on the Pre-Flop and did not bet
+Seat 4: FoxyMeadow folded on the Pre-Flop and did not bet
+Seat 5: Pokerbratt1988 (button) folded on the Pre-Flop
+Seat 6: Meesho51 (small blind) folded on the Pre-Flop
+Seat 7: Xer76 (big blind) showed [Kc Js] and lost with a pair of Kings [Kh Kc Js 7c 4s]
+Seat 8: grotle folded on the Pre-Flop and did not bet
+

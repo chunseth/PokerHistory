@@ -1,0 +1,113 @@
+Game Hand #2487598644 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:11:44 UTC
+Table '14' 8-max Seat #1 is the button
+Seat 1: fappuccino (597136.00)
+Seat 2: MAG_77 (149674.00)
+Seat 3: ArgentinianE (485348.00)
+Seat 4: liejacker (116422.00)
+Seat 5: IM_MPREST (188800.00)
+Seat 6: grotle (100000.00)
+Seat 7: ScottyCTempe (141450.00)
+Seat 8: TrevFish (90700.00)
+fappuccino posts ante 600.00
+MAG_77 posts ante 600.00
+ArgentinianE posts ante 600.00
+liejacker posts ante 600.00
+IM_MPREST posts ante 600.00
+grotle posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+MAG_77 posts the small blind 2500.00
+ArgentinianE posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [9c Ad]
+liejacker folds
+IM_MPREST folds
+grotle calls 5000.00
+ScottyCTempe folds
+TrevFish folds
+fappuccino raises 20000.00 to 20000.00
+MAG_77 folds
+ArgentinianE calls 15000.00
+grotle raises 94400.00 to 99400.00 and is all-in
+fappuccino raises 192450.00 to 212450.00
+ArgentinianE folds
+Uncalled bet (113050.00) returned to fappuccino
+*** FLOP *** [4h 9d 9h]
+Main pot 226100.00
+*** TURN *** [4h 9d 9h] [8s]
+Main pot 226100.00
+*** RIVER *** [4h 9d 9h 8s] [Jc]
+Main pot 226100.00
+*** SHOW DOWN ***
+Main pot 226100.00
+fappuccino shows [5h 5c] (two pair, Nines and Fives [9h 9d 5h 5c Jc])
+grotle shows [9c Ad] (three of a kind, Set of Nines [9h 9d 9c Ad Jc])
+grotle collected 226100.00 from main pot
+*** SUMMARY ***
+Total pot 226100.00
+Board [4h 9d 9h 8s Jc]
+Seat 1: fappuccino (button) showed [5h 5c] and lost with two pair, Nines and Fives [9h 9d 5h 5c Jc]
+Seat 2: MAG_77 (small blind) folded on the Pre-Flop
+Seat 3: ArgentinianE (big blind) folded on the Pre-Flop
+Seat 4: liejacker folded on the Pre-Flop and did not bet
+Seat 5: IM_MPREST folded on the Pre-Flop and did not bet
+Seat 6: grotle showed [9c Ad] and won 226100.00 with three of a kind, Set of Nines [9h 9d 9c Ad Jc]
+Seat 7: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 8: TrevFish folded on the Pre-Flop and did not bet
+
+Game Hand #2487599382 - Tournament #33623619 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/23 04:13:00 UTC
+Table '14' 8-max Seat #2 is the button
+Seat 1: fappuccino (497136.00)
+Seat 2: MAG_77 (146574.00)
+Seat 3: ArgentinianE (464748.00)
+Seat 4: liejacker (115822.00)
+Seat 5: IM_MPREST (188200.00)
+Seat 6: grotle (226100.00)
+Seat 7: ScottyCTempe (140850.00)
+Seat 8: TrevFish (90100.00)
+fappuccino posts ante 600.00
+MAG_77 posts ante 600.00
+ArgentinianE posts ante 600.00
+liejacker posts ante 600.00
+IM_MPREST posts ante 600.00
+grotle posts ante 600.00
+ScottyCTempe posts ante 600.00
+TrevFish posts ante 600.00
+ArgentinianE posts the small blind 2500.00
+liejacker posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [As 9s]
+IM_MPREST raises 12500.00 to 12500.00
+grotle calls 12500.00
+ScottyCTempe folds
+TrevFish folds
+fappuccino folds
+MAG_77 folds
+ArgentinianE calls 10000.00
+liejacker folds
+*** FLOP *** [8s Tc Qc]
+Main pot 47300.00
+ArgentinianE checks
+IM_MPREST bets 31150.00
+grotle calls 31150.00
+ArgentinianE folds
+*** TURN *** [8s Tc Qc] [Qd]
+Main pot 109600.00
+IM_MPREST bets 109600.00
+grotle folds
+Uncalled bet (109600.00) returned to IM_MPREST
+IM_MPREST does not show
+*** SUMMARY ***
+Total pot 109600.00
+Board [8s Tc Qc Qd]
+Seat 1: fappuccino folded on the Pre-Flop and did not bet
+Seat 2: MAG_77 (button) folded on the Pre-Flop
+Seat 3: ArgentinianE (small blind) folded on the Flop
+Seat 4: liejacker (big blind) folded on the Pre-Flop
+Seat 5: IM_MPREST did not show and won 109600.00
+Seat 6: grotle folded on the Turn
+Seat 7: ScottyCTempe folded on the Pre-Flop and did not bet
+Seat 8: TrevFish folded on the Pre-Flop and did not bet
+

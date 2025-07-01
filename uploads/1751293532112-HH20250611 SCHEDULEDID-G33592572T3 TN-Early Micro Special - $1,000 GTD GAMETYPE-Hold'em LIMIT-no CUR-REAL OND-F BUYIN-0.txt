@@ -1,0 +1,2222 @@
+Game Hand #2478799166 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 13:51:57 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 2: grotle (531712.00)
+Seat 3: noslinedbtm (40950.00)
+Seat 4: Birr (86850.00)
+Seat 5: h.o.c (169463.00)
+Seat 6: CozzyP (206609.00)
+Seat 7: targinodsv (220083.00) is sitting out
+Seat 8: kutuku1 (21005.00)
+grotle posts ante 400.00
+noslinedbtm posts ante 400.00
+Birr posts ante 400.00
+h.o.c posts ante 400.00
+CozzyP posts ante 400.00
+targinodsv posts ante 400.00
+kutuku1 posts ante 400.00
+kutuku1 posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 2800.00
+Dealt to grotle [Ks As]
+noslinedbtm folds
+Birr folds
+h.o.c folds
+CozzyP raises 6720.00 to 6720.00
+targinodsv folds
+kutuku1 folds
+grotle raises 16900.00 to 20100.00
+CozzyP calls 13380.00
+*** FLOP *** [6h 5d Ad]
+Main pot 44600.00
+grotle checks
+CozzyP bets 14718.00
+grotle calls 14718.00
+*** TURN *** [6h 5d Ad] [Ts]
+Main pot 74036.00
+grotle bets 50727.00
+CozzyP folds
+Uncalled bet (50727.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 74036.00
+Board [6h 5d Ad Ts]
+Seat 2: grotle did not show and won 74036.00
+Seat 3: noslinedbtm folded on the Pre-Flop and did not bet
+Seat 4: Birr folded on the Pre-Flop and did not bet
+Seat 5: h.o.c folded on the Pre-Flop and did not bet
+Seat 6: CozzyP folded on the Turn
+Seat 7: targinodsv (button) folded on the Pre-Flop
+Seat 8: kutuku1 (small blind) folded on the Pre-Flop
+
+Game Hand #2478801015 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 14:01:23 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (570530.00)
+Seat 2: Ferreira1985 (100000.00)
+Seat 3: MrBrilliance (178490.00)
+Seat 4: Flordetua (77703.00)
+Seat 5: Ertinshove8901 (240672.00)
+Seat 6: Mahavoy (158810.00)
+Seat 7: Lemonade76 (326789.00)
+Seat 8: imanav8r82 (84000.00)
+grotle posts ante 400.00
+Ferreira1985 posts ante 400.00
+MrBrilliance posts ante 400.00
+Flordetua posts ante 400.00
+Ertinshove8901 posts ante 400.00
+Mahavoy posts ante 400.00
+Lemonade76 posts ante 400.00
+imanav8r82 posts ante 400.00
+Mahavoy posts the small blind 1600.00
+Lemonade76 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [5s Ac]
+imanav8r82 folds
+grotle folds
+Ferreira1985 raises 6400.00 to 6400.00
+MrBrilliance raises 17600.00 to 17600.00
+Flordetua folds
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 calls 14400.00
+Ferreira1985 calls 11200.00
+*** FLOP *** [7d 5h Ts]
+Main pot 57600.00
+Lemonade76 checks
+Ferreira1985 checks
+MrBrilliance bets 30400.00
+Lemonade76 folds
+Ferreira1985 calls 30400.00
+*** TURN *** [7d 5h Ts] [Td]
+Main pot 118400.00
+Ferreira1985 checks
+MrBrilliance bets 59200.00
+Ferreira1985 calls 51600.00 and is all-in
+Uncalled bet (7600.00) returned to MrBrilliance
+*** RIVER *** [7d 5h Ts Td] [4s]
+Main pot 221600.00
+*** SHOW DOWN ***
+Main pot 221600.00
+Ferreira1985 shows [Jc Th] (three of a kind, Set of Tens [Ts Th Td Jc 7d])
+MrBrilliance shows [2d Ad] (a pair of Tens [Ts Td Ad 7d 5h])
+Ferreira1985 collected 221600.00 from main pot
+*** SUMMARY ***
+Total pot 221600.00
+Board [7d 5h Ts Td 4s]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 showed [Jc Th] and won 221600.00 with three of a kind, Set of Tens [Ts Th Td Jc 7d]
+Seat 3: MrBrilliance showed [2d Ad] and lost with a pair of Tens [Ts Td Ad 7d 5h]
+Seat 4: Flordetua folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 (button) folded on the Pre-Flop
+Seat 6: Mahavoy (small blind) folded on the Pre-Flop
+Seat 7: Lemonade76 (big blind) folded on the Flop
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478801428 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 14:02:47 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (570130.00)
+Seat 2: Ferreira1985 (221600.00)
+Seat 3: MrBrilliance (78490.00)
+Seat 4: Flordetua (77303.00)
+Seat 5: Ertinshove8901 (240272.00)
+Seat 6: Mahavoy (156810.00)
+Seat 7: Lemonade76 (308789.00)
+Seat 8: imanav8r82 (83600.00)
+grotle posts ante 400.00
+Ferreira1985 posts ante 400.00
+MrBrilliance posts ante 400.00
+Flordetua posts ante 400.00
+Ertinshove8901 posts ante 400.00
+Mahavoy posts ante 400.00
+Lemonade76 posts ante 400.00
+imanav8r82 posts ante 400.00
+Lemonade76 posts the small blind 1600.00
+imanav8r82 posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [2h Th]
+grotle folds
+Ferreira1985 raises 6400.00 to 6400.00
+MrBrilliance folds
+Flordetua folds
+Ertinshove8901 raises 19200.00 to 19200.00
+Mahavoy folds
+Lemonade76 calls 17600.00
+imanav8r82 folds
+Ferreira1985 raises 60800.00 to 67200.00
+Ertinshove8901 folds
+Lemonade76 calls 48000.00
+*** FLOP *** [7d 5c 4c]
+Main pot 160000.00
+Lemonade76 checks
+Ferreira1985 bets 154000.00 and is all-in
+Lemonade76 folds
+Uncalled bet (154000.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 160000.00
+Board [7d 5c 4c]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 did not show and won 160000.00
+Seat 3: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 4: Flordetua folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy (button) folded on the Pre-Flop
+Seat 7: Lemonade76 (small blind) folded on the Flop
+Seat 8: imanav8r82 (big blind) folded on the Pre-Flop
+
+Game Hand #2478801976 - Tournament #33592572 - Holdem (No Limit) - Level 10 (1600.00/3200.00) - 2025/06/11 14:04:39 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (569730.00)
+Seat 2: Ferreira1985 (314000.00)
+Seat 3: MrBrilliance (78090.00)
+Seat 4: Flordetua (76903.00)
+Seat 5: Ertinshove8901 (220672.00)
+Seat 6: Mahavoy (156410.00)
+Seat 7: Lemonade76 (241189.00)
+Seat 8: imanav8r82 (80000.00)
+grotle posts ante 400.00
+Ferreira1985 posts ante 400.00
+MrBrilliance posts ante 400.00
+Flordetua posts ante 400.00
+Ertinshove8901 posts ante 400.00
+Mahavoy posts ante 400.00
+Lemonade76 posts ante 400.00
+imanav8r82 posts ante 400.00
+imanav8r82 posts the small blind 1600.00
+grotle posts the big blind 3200.00
+*** HOLE CARDS ***
+Main pot 3200.00
+Dealt to grotle [Th Ts]
+Ferreira1985 folds
+MrBrilliance folds
+Flordetua folds
+Ertinshove8901 folds
+Mahavoy raises 8000.00 to 8000.00
+Lemonade76 calls 8000.00
+imanav8r82 calls 6400.00
+grotle raises 40000.00 to 43200.00
+Mahavoy folds
+Lemonade76 calls 35200.00
+imanav8r82 calls 35200.00
+*** FLOP *** [4d 8c 9h]
+Main pot 140800.00
+imanav8r82 checks
+grotle bets 70400.00
+Lemonade76 folds
+imanav8r82 calls 36400.00 and is all-in
+Uncalled bet (34000.00) returned to grotle
+*** TURN *** [4d 8c 9h] [5c]
+Main pot 213600.00
+*** RIVER *** [4d 8c 9h 5c] [Ks]
+Main pot 213600.00
+*** SHOW DOWN ***
+Main pot 213600.00
+grotle shows [Th Ts] (a pair of Tens [Ts Th Ks 9h 8c])
+imanav8r82 shows [Qd Kc] (a pair of Kings [Ks Kc Qd 9h 8c])
+imanav8r82 collected 213600.00 from main pot
+*** SUMMARY ***
+Total pot 213600.00
+Board [4d 8c 9h 5c Ks]
+Seat 1: grotle (big blind) showed [Th Ts] and lost with a pair of Tens [Ts Th Ks 9h 8c]
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 4: Flordetua folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 (button) folded on the Flop
+Seat 8: imanav8r82 (small blind) showed [Qd Kc] and won 213600.00 with a pair of Kings [Ks Kc Qd 9h 8c]
+
+Game Hand #2478802523 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:06:14 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: grotle (489730.00)
+Seat 2: Ferreira1985 (313600.00)
+Seat 3: MrBrilliance (77690.00)
+Seat 4: Flordetua (76503.00)
+Seat 5: Ertinshove8901 (220272.00)
+Seat 6: Mahavoy (148010.00)
+Seat 7: Lemonade76 (197589.00)
+Seat 8: imanav8r82 (213600.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Flordetua posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+grotle posts the small blind 1800.00
+Ferreira1985 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Qs 5s]
+MrBrilliance folds
+Flordetua folds
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 calls 3600.00
+imanav8r82 raises 18000.00 to 18000.00
+grotle folds
+Ferreira1985 folds
+Lemonade76 calls 14400.00
+*** FLOP *** [As 9c 8d]
+Main pot 45000.00
+Lemonade76 checks
+imanav8r82 bets 22500.00
+Lemonade76 calls 22500.00
+*** TURN *** [As 9c 8d] [Qd]
+Main pot 90000.00
+Lemonade76 checks
+imanav8r82 checks
+*** RIVER *** [As 9c 8d Qd] [4c]
+Main pot 90000.00
+Lemonade76 bets 52200.00
+imanav8r82 folds
+Uncalled bet (52200.00) returned to Lemonade76
+Lemonade76 does not show
+*** SUMMARY ***
+Total pot 90000.00
+Board [As 9c 8d Qd 4c]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 (big blind) folded on the Pre-Flop
+Seat 3: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 4: Flordetua folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 did not show and won 90000.00
+Seat 8: imanav8r82 (button) folded on the River
+
+Game Hand #2478803175 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:08:04 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (487480.00)
+Seat 2: Ferreira1985 (309550.00)
+Seat 3: MrBrilliance (77240.00)
+Seat 4: Flordetua (76053.00)
+Seat 5: Ertinshove8901 (219822.00)
+Seat 6: Mahavoy (147560.00)
+Seat 7: Lemonade76 (246639.00)
+Seat 8: imanav8r82 (172650.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Flordetua posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+Ferreira1985 posts the small blind 1800.00
+MrBrilliance posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [4d Ac]
+Flordetua folds
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 folds
+imanav8r82 raises 7200.00 to 7200.00
+grotle calls 7200.00
+Ferreira1985 folds
+MrBrilliance calls 3600.00
+*** FLOP *** [2d 8h Kc]
+Main pot 27000.00
+MrBrilliance checks
+imanav8r82 checks
+grotle checks
+*** TURN *** [2d 8h Kc] [Js]
+Main pot 27000.00
+MrBrilliance bets 9900.00
+imanav8r82 folds
+grotle folds
+Uncalled bet (9900.00) returned to MrBrilliance
+MrBrilliance does not show
+*** SUMMARY ***
+Total pot 27000.00
+Board [2d 8h Kc Js]
+Seat 1: grotle (button) folded on the Turn
+Seat 2: Ferreira1985 (small blind) folded on the Pre-Flop
+Seat 3: MrBrilliance did not show and won 27000.00
+Seat 4: Flordetua folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Turn
+
+Game Hand #2478803927 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:10:13 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: grotle (479830.00)
+Seat 2: Ferreira1985 (307300.00)
+Seat 3: MrBrilliance (96590.00)
+Seat 4: Flordetua (75603.00)
+Seat 5: Ertinshove8901 (219372.00)
+Seat 6: Mahavoy (147110.00)
+Seat 7: Lemonade76 (246189.00)
+Seat 8: imanav8r82 (165000.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Flordetua posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+MrBrilliance posts the small blind 1800.00
+Flordetua posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Kc Jc]
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 calls 3600.00
+imanav8r82 folds
+grotle raises 7200.00 to 7200.00
+Ferreira1985 folds
+MrBrilliance folds
+Flordetua folds
+Lemonade76 calls 3600.00
+*** FLOP *** [6c Ac 8s]
+Main pot 23400.00
+Lemonade76 checks
+grotle bets 11700.00
+Lemonade76 calls 11700.00
+*** TURN *** [6c Ac 8s] [Kh]
+Main pot 46800.00
+Lemonade76 checks
+grotle checks
+*** RIVER *** [6c Ac 8s Kh] [Qd]
+Main pot 46800.00
+Lemonade76 checks
+grotle bets 23400.00
+Lemonade76 calls 23400.00
+*** SHOW DOWN ***
+Main pot 93600.00
+grotle shows [Kc Jc] (a pair of Kings [Kh Kc Ac Qd Jc])
+Lemonade76 shows [5c 8c] (a pair of Eights [8s 8c Ac Kh Qd])
+grotle collected 93600.00 from main pot
+*** SUMMARY ***
+Total pot 93600.00
+Board [6c Ac 8s Kh Qd]
+Seat 1: grotle showed [Kc Jc] and won 93600.00 with a pair of Kings [Kh Kc Ac Qd Jc]
+Seat 2: Ferreira1985 (button) folded on the Pre-Flop
+Seat 3: MrBrilliance (small blind) folded on the Pre-Flop
+Seat 4: Flordetua (big blind) folded on the Pre-Flop
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 showed [5c 8c] and lost with a pair of Eights [8s 8c Ac Kh Qd]
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478804512 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:11:54 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (530680.00)
+Seat 2: Ferreira1985 (306850.00)
+Seat 3: MrBrilliance (94340.00)
+Seat 4: Flordetua (71553.00)
+Seat 5: Ertinshove8901 (218922.00)
+Seat 6: Mahavoy (146660.00)
+Seat 7: Lemonade76 (203439.00)
+Seat 8: imanav8r82 (164550.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Flordetua posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+Flordetua posts the small blind 1800.00
+Ertinshove8901 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [9c Qh]
+Mahavoy raises 9000.00 to 9000.00
+Lemonade76 folds
+imanav8r82 calls 9000.00
+grotle folds
+Ferreira1985 folds
+MrBrilliance folds
+Flordetua raises 69303.00 to 71103.00 and is all-in
+Ertinshove8901 folds
+Mahavoy calls 62103.00
+imanav8r82 folds
+*** FLOP *** [2d 6s 6h]
+Main pot 158406.00
+*** TURN *** [2d 6s 6h] [5s]
+Main pot 158406.00
+*** RIVER *** [2d 6s 6h 5s] [Ts]
+Main pot 158406.00
+*** SHOW DOWN ***
+Main pot 158406.00
+Flordetua shows [Kc Kh] (two pair, Kings and Sixs [Kh Kc 6s 6h Ts])
+Mahavoy shows [Tc Th] (a full house, Tens full of Sixs [Ts Th Tc 6s 6h])
+Mahavoy collected 158406.00 from main pot
+*** SUMMARY ***
+Total pot 158406.00
+Board [2d 6s 6h 5s Ts]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: MrBrilliance (button) folded on the Pre-Flop
+Seat 4: Flordetua (small blind) showed [Kc Kh] and lost with two pair, Kings and Sixs [Kh Kc 6s 6h Ts]
+Seat 5: Ertinshove8901 (big blind) folded on the Pre-Flop
+Seat 6: Mahavoy showed [Tc Th] and won 158406.00 with a full house, Tens full of Sixs [Ts Th Tc 6s 6h]
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478804859 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:12:52 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (530230.00)
+Seat 2: Ferreira1985 (306400.00)
+Seat 3: MrBrilliance (93890.00)
+Seat 5: Ertinshove8901 (214872.00)
+Seat 6: Mahavoy (233513.00)
+Seat 7: Lemonade76 (202989.00)
+Seat 8: imanav8r82 (155100.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+Ertinshove8901 posts the small blind 1800.00
+Mahavoy posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Ad 8c]
+Lemonade76 calls 3600.00
+imanav8r82 folds
+grotle raises 7200.00 to 7200.00
+Ferreira1985 folds
+MrBrilliance folds
+Ertinshove8901 folds
+Mahavoy calls 3600.00
+Lemonade76 calls 3600.00
+*** FLOP *** [9s 2s 4h]
+Main pot 26550.00
+Mahavoy checks
+Lemonade76 checks
+grotle checks
+*** TURN *** [9s 2s 4h] [4c]
+Main pot 26550.00
+Mahavoy checks
+Lemonade76 bets 28350.00
+grotle folds
+Mahavoy folds
+Uncalled bet (28350.00) returned to Lemonade76
+Lemonade76 does not show
+*** SUMMARY ***
+Total pot 26550.00
+Board [9s 2s 4h 4c]
+Seat 1: grotle folded on the Turn
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 (small blind) folded on the Pre-Flop
+Seat 6: Mahavoy (big blind) folded on the Turn
+Seat 7: Lemonade76 did not show and won 26550.00
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478805599 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:15:00 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (522580.00)
+Seat 2: Ferreira1985 (305950.00)
+Seat 3: MrBrilliance (93440.00)
+Seat 5: Ertinshove8901 (212622.00)
+Seat 6: Mahavoy (225863.00)
+Seat 7: Lemonade76 (221889.00)
+Seat 8: imanav8r82 (154650.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+Mahavoy posts the small blind 1800.00
+Lemonade76 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5s 7c]
+imanav8r82 folds
+grotle folds
+Ferreira1985 raises 15750.00 to 15750.00
+MrBrilliance folds
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 calls 12150.00
+*** FLOP *** [Ts 3c Kc]
+Main pot 36450.00
+Lemonade76 checks
+Ferreira1985 bets 36450.00
+Lemonade76 folds
+Uncalled bet (36450.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 36450.00
+Board [Ts 3c Kc]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 did not show and won 36450.00
+Seat 3: MrBrilliance folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 (button) folded on the Pre-Flop
+Seat 6: Mahavoy (small blind) folded on the Pre-Flop
+Seat 7: Lemonade76 (big blind) folded on the Flop
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478806045 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:16:16 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (522130.00)
+Seat 2: Ferreira1985 (326200.00)
+Seat 3: MrBrilliance (92990.00)
+Seat 5: Ertinshove8901 (212172.00)
+Seat 6: Mahavoy (223613.00)
+Seat 7: Lemonade76 (205689.00)
+Seat 8: imanav8r82 (154200.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+MrBrilliance posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Mahavoy posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+Lemonade76 posts the small blind 1800.00
+imanav8r82 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5c Qh]
+grotle folds
+Ferreira1985 raises 7200.00 to 7200.00
+MrBrilliance calls 7200.00
+Ertinshove8901 folds
+Mahavoy folds
+Lemonade76 calls 5400.00
+imanav8r82 calls 3600.00
+*** FLOP *** [8s Ts 9s]
+Main pot 31950.00
+Lemonade76 checks
+imanav8r82 checks
+Ferreira1985 checks
+MrBrilliance checks
+*** TURN *** [8s Ts 9s] [As]
+Main pot 31950.00
+Lemonade76 checks
+imanav8r82 checks
+Ferreira1985 checks
+MrBrilliance checks
+*** RIVER *** [8s Ts 9s As] [4c]
+Main pot 31950.00
+Lemonade76 checks
+imanav8r82 checks
+Ferreira1985 checks
+MrBrilliance checks
+*** SHOW DOWN ***
+Main pot 31950.00
+Ferreira1985 shows [Th Tc] (three of a kind, Set of Tens [Ts Th Tc As 9s])
+MrBrilliance shows [7d 7c] (a pair of Sevens [7d 7c As Ts 9s])
+Lemonade76 shows [Kc Jh] (a high card, Ace high [As Kc Jh Ts 9s])
+imanav8r82 shows [Ac 2d] (a pair of Aces [As Ac Ts 9s 8s])
+Ferreira1985 collected 31950.00 from main pot
+*** SUMMARY ***
+Total pot 31950.00
+Board [8s Ts 9s As 4c]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 showed [Th Tc] and won 31950.00 with three of a kind, Set of Tens [Ts Th Tc As 9s]
+Seat 3: MrBrilliance showed [7d 7c] and lost with a pair of Sevens [7d 7c As Ts 9s]
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Mahavoy (button) folded on the Pre-Flop
+Seat 7: Lemonade76 (small blind) showed [Kc Jh] and lost with a high card, Ace high [As Kc Jh Ts 9s]
+Seat 8: imanav8r82 (big blind) showed [Ac 2d] and lost with a pair of Aces [As Ac Ts 9s 8s]
+
+Game Hand #2478806743 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:18:11 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (521680.00)
+Seat 2: Ferreira1985 (350500.00)
+Seat 4: jmnold (100000.00)
+Seat 5: Ertinshove8901 (211722.00)
+Seat 7: Lemonade76 (198039.00)
+Seat 8: imanav8r82 (146550.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+jmnold posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+imanav8r82 posts the small blind 1800.00
+grotle posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [9c 2c]
+Ferreira1985 raises 7200.00 to 7200.00
+jmnold folds
+Ertinshove8901 folds
+Lemonade76 calls 7200.00
+imanav8r82 folds
+grotle folds
+*** FLOP *** [4h 6d Jc]
+Main pot 22500.00
+Ferreira1985 checks
+Lemonade76 checks
+*** TURN *** [4h 6d Jc] [As]
+Main pot 22500.00
+Ferreira1985 checks
+Lemonade76 checks
+*** RIVER *** [4h 6d Jc As] [Td]
+Main pot 22500.00
+Ferreira1985 bets 22500.00
+Lemonade76 folds
+Uncalled bet (22500.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 22500.00
+Board [4h 6d Jc As Td]
+Seat 1: grotle (big blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 did not show and won 22500.00
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 (button) folded on the River
+Seat 8: imanav8r82 (small blind) folded on the Pre-Flop
+
+Game Hand #2478807194 - Tournament #33592572 - Holdem (No Limit) - Level 11 (1800.00/3600.00) - 2025/06/11 14:19:29 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: grotle (517630.00)
+Seat 2: Ferreira1985 (365350.00)
+Seat 4: jmnold (99550.00)
+Seat 5: Ertinshove8901 (211272.00)
+Seat 7: Lemonade76 (190389.00)
+Seat 8: imanav8r82 (144300.00)
+grotle posts ante 450.00
+Ferreira1985 posts ante 450.00
+jmnold posts ante 450.00
+Ertinshove8901 posts ante 450.00
+Lemonade76 posts ante 450.00
+imanav8r82 posts ante 450.00
+grotle posts the small blind 1800.00
+Ferreira1985 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 2700.00
+Dealt to grotle [6d Js]
+jmnold calls 3600.00
+Ertinshove8901 folds
+Lemonade76 folds
+imanav8r82 folds
+grotle folds
+Ferreira1985 checks
+*** FLOP *** [Kh Ac Ah]
+Main pot 11700.00
+Ferreira1985 checks
+jmnold checks
+*** TURN *** [Kh Ac Ah] [7h]
+Main pot 11700.00
+Ferreira1985 checks
+jmnold checks
+*** RIVER *** [Kh Ac Ah 7h] [5h]
+Main pot 11700.00
+Ferreira1985 checks
+jmnold checks
+*** SHOW DOWN ***
+Main pot 11700.00
+Ferreira1985 shows [3d Ts] (a pair of Aces [Ah Ac Kh Ts 7h])
+jmnold shows [8c 9c] (a pair of Aces [Ah Ac Kh 9c 8c])
+Ferreira1985 collected 11700.00 from main pot
+*** SUMMARY ***
+Total pot 11700.00
+Board [Kh Ac Ah 7h 5h]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 (big blind) showed [3d Ts] and won 11700.00 with a pair of Aces [Ah Ac Kh Ts 7h] with the kicker Ten
+Seat 4: jmnold showed [8c 9c] and lost with a pair of Aces [Ah Ac Kh 9c 8c]
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 (button) folded on the Pre-Flop
+
+Game Hand #2478807490 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:20:17 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (515380.00)
+Seat 2: Ferreira1985 (373000.00)
+Seat 3: TiPicoFumo (100000.00)
+Seat 4: jmnold (95500.00)
+Seat 5: Ertinshove8901 (210822.00)
+Seat 7: Lemonade76 (189939.00)
+Seat 8: imanav8r82 (143850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+Ferreira1985 posts the small blind 2000.00
+TiPicoFumo posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [5c 6d]
+jmnold folds
+Ertinshove8901 folds
+Lemonade76 folds
+imanav8r82 folds
+grotle folds
+Ferreira1985 calls 2000.00
+TiPicoFumo raises 95500.00 to 99500.00 and is all-in
+Ferreira1985 folds
+Uncalled bet (95500.00) returned to TiPicoFumo
+TiPicoFumo does not show
+*** SUMMARY ***
+Total pot 11500.00
+Seat 1: grotle (button) folded on the Pre-Flop
+Seat 2: Ferreira1985 (small blind) folded on the Pre-Flop
+Seat 3: TiPicoFumo did not show and won 11500.00
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478807717 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:20:56 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: grotle (514880.00)
+Seat 2: Ferreira1985 (368500.00)
+Seat 3: TiPicoFumo (107000.00)
+Seat 4: jmnold (95000.00)
+Seat 5: Ertinshove8901 (210322.00)
+Seat 7: Lemonade76 (189439.00)
+Seat 8: imanav8r82 (143350.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+TiPicoFumo posts the small blind 2000.00
+jmnold posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [6h 2s]
+Ertinshove8901 folds
+Lemonade76 raises 17500.00 to 17500.00
+imanav8r82 folds
+grotle folds
+Ferreira1985 calls 17500.00
+TiPicoFumo folds
+jmnold folds
+*** FLOP *** [Ah Td 7h]
+Main pot 44500.00
+Lemonade76 bets 28250.00
+Ferreira1985 calls 28250.00
+*** TURN *** [Ah Td 7h] [Jd]
+Main pot 101000.00
+Lemonade76 checks
+Ferreira1985 bets 56500.00
+Lemonade76 folds
+Uncalled bet (56500.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 101000.00
+Board [Ah Td 7h Jd]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 did not show and won 101000.00
+Seat 3: TiPicoFumo (small blind) folded on the Pre-Flop
+Seat 4: jmnold (big blind) folded on the Pre-Flop
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Turn
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478808197 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:22:14 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (514380.00)
+Seat 2: Ferreira1985 (423250.00)
+Seat 3: TiPicoFumo (104500.00)
+Seat 4: jmnold (90500.00)
+Seat 5: Ertinshove8901 (209822.00)
+Seat 6: Vagnerbauer (100000.00)
+Seat 7: Lemonade76 (143189.00)
+Seat 8: imanav8r82 (142850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+jmnold posts the small blind 2000.00
+Ertinshove8901 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [Tc 3h]
+Vagnerbauer folds
+Lemonade76 calls 4000.00
+imanav8r82 folds
+grotle folds
+Ferreira1985 calls 4000.00
+TiPicoFumo folds
+jmnold calls 2000.00
+Ertinshove8901 checks
+*** FLOP *** [Qc Th 6s]
+Main pot 20000.00
+jmnold checks
+Ertinshove8901 checks
+Lemonade76 checks
+Ferreira1985 checks
+*** TURN *** [Qc Th 6s] [Qh]
+Main pot 20000.00
+jmnold checks
+Ertinshove8901 checks
+Lemonade76 checks
+Ferreira1985 checks
+*** RIVER *** [Qc Th 6s Qh] [2h]
+Main pot 20000.00
+jmnold checks
+Ertinshove8901 checks
+Lemonade76 checks
+Ferreira1985 checks
+*** SHOW DOWN ***
+Main pot 20000.00
+Ferreira1985 shows [Ad 9s] (a pair of Queens [Qh Qc Ad Th 9s])
+jmnold shows [Jh Ks] (a pair of Queens [Qh Qc Ks Jh Th])
+Ertinshove8901 shows [Ts 9d] (two pair, Queens and Tens [Qh Qc Ts Th 9d])
+Lemonade76 shows [8d Kc] (a pair of Queens [Qh Qc Kc Th 8d])
+Ertinshove8901 collected 20000.00 from main pot
+*** SUMMARY ***
+Total pot 20000.00
+Board [Qc Th 6s Qh 2h]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 showed [Ad 9s] and lost with a pair of Queens [Qh Qc Ad Th 9s]
+Seat 3: TiPicoFumo (button) folded on the Pre-Flop
+Seat 4: jmnold (small blind) showed [Jh Ks] and lost with a pair of Queens [Qh Qc Ks Jh Th]
+Seat 5: Ertinshove8901 (big blind) showed [Ts 9d] and won 20000.00 with two pair, Queens and Tens [Qh Qc Ts Th 9d]
+Seat 6: Vagnerbauer folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 showed [8d Kc] and lost with a pair of Queens [Qh Qc Kc Th 8d]
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478808724 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:23:43 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (513880.00)
+Seat 2: Ferreira1985 (418750.00)
+Seat 3: TiPicoFumo (104000.00)
+Seat 4: jmnold (86000.00)
+Seat 5: Ertinshove8901 (225322.00)
+Seat 6: Vagnerbauer (99500.00)
+Seat 7: Lemonade76 (138689.00)
+Seat 8: imanav8r82 (142350.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+Ertinshove8901 posts the small blind 2000.00
+Vagnerbauer posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [2c Qs]
+Lemonade76 raises 12000.00 to 12000.00
+imanav8r82 folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Ertinshove8901 calls 10000.00
+Vagnerbauer folds
+*** FLOP *** [Kc 9c Js]
+Main pot 32000.00
+Ertinshove8901 checks
+Lemonade76 bets 16000.00
+Ertinshove8901 folds
+Uncalled bet (16000.00) returned to Lemonade76
+Lemonade76 does not show
+*** SUMMARY ***
+Total pot 32000.00
+Board [Kc 9c Js]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold (button) folded on the Pre-Flop
+Seat 5: Ertinshove8901 (small blind) folded on the Flop
+Seat 6: Vagnerbauer (big blind) folded on the Pre-Flop
+Seat 7: Lemonade76 did not show and won 32000.00
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478809117 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:24:49 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (513380.00)
+Seat 2: Ferreira1985 (418250.00)
+Seat 3: TiPicoFumo (103500.00)
+Seat 4: jmnold (85500.00)
+Seat 5: Ertinshove8901 (212822.00)
+Seat 6: Vagnerbauer (95000.00)
+Seat 7: Lemonade76 (158189.00)
+Seat 8: imanav8r82 (141850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+Vagnerbauer posts the small blind 2000.00
+Lemonade76 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [3d Th]
+imanav8r82 folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold calls 4000.00
+Ertinshove8901 folds
+Vagnerbauer folds
+Lemonade76 checks
+*** FLOP *** [2d 6h 4s]
+Main pot 14000.00
+Lemonade76 checks
+jmnold checks
+*** TURN *** [2d 6h 4s] [4d]
+Main pot 14000.00
+Lemonade76 checks
+jmnold checks
+*** RIVER *** [2d 6h 4s 4d] [7d]
+Main pot 14000.00
+Lemonade76 checks
+jmnold checks
+*** SHOW DOWN ***
+Main pot 14000.00
+jmnold shows [Ac 7s] (two pair, Sevens and Fours [7s 7d 4s 4d Ac])
+Lemonade76 shows [Kh Ts] (a pair of Fours [4s 4d Kh Ts 7d])
+jmnold collected 14000.00 from main pot
+*** SUMMARY ***
+Total pot 14000.00
+Board [2d 6h 4s 4d 7d]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold showed [Ac 7s] and won 14000.00 with two pair, Sevens and Fours [7s 7d 4s 4d Ac]
+Seat 5: Ertinshove8901 (button) folded on the Pre-Flop
+Seat 6: Vagnerbauer (small blind) folded on the Pre-Flop
+Seat 7: Lemonade76 (big blind) showed [Kh Ts] and lost with a pair of Fours [4s 4d Kh Ts 7d]
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478809550 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:26:02 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (512880.00)
+Seat 2: Ferreira1985 (417750.00)
+Seat 3: TiPicoFumo (103000.00)
+Seat 4: jmnold (95000.00)
+Seat 5: Ertinshove8901 (212322.00)
+Seat 6: Vagnerbauer (92500.00)
+Seat 7: Lemonade76 (153689.00)
+Seat 8: imanav8r82 (141350.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+Lemonade76 posts the small blind 2000.00
+imanav8r82 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [7h 8d]
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Ertinshove8901 folds
+Vagnerbauer raises 8000.00 to 8000.00
+Lemonade76 calls 6000.00
+imanav8r82 calls 4000.00
+*** FLOP *** [Kd 4s 5s]
+Main pot 28000.00
+Lemonade76 checks
+imanav8r82 checks
+Vagnerbauer checks
+*** TURN *** [Kd 4s 5s] [7c]
+Main pot 28000.00
+Lemonade76 checks
+imanav8r82 checks
+Vagnerbauer checks
+*** RIVER *** [Kd 4s 5s 7c] [2c]
+Main pot 28000.00
+Lemonade76 checks
+imanav8r82 checks
+Vagnerbauer bets 14000.00
+Lemonade76 folds
+imanav8r82 folds
+Uncalled bet (14000.00) returned to Vagnerbauer
+Vagnerbauer does not show
+*** SUMMARY ***
+Total pot 28000.00
+Board [Kd 4s 5s 7c 2c]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Vagnerbauer did not show and won 28000.00
+Seat 7: Lemonade76 (small blind) folded on the River
+Seat 8: imanav8r82 (big blind) folded on the River
+
+Game Hand #2478810205 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:27:53 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (512380.00)
+Seat 2: Ferreira1985 (417250.00)
+Seat 3: TiPicoFumo (102500.00)
+Seat 4: jmnold (94500.00)
+Seat 5: Ertinshove8901 (211822.00)
+Seat 6: Vagnerbauer (112000.00)
+Seat 7: Lemonade76 (145189.00)
+Seat 8: imanav8r82 (132850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+imanav8r82 posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [4d 6h]
+Ferreira1985 folds
+TiPicoFumo raises 8000.00 to 8000.00
+jmnold folds
+Ertinshove8901 folds
+Vagnerbauer folds
+Lemonade76 raises 27500.00 to 27500.00
+imanav8r82 folds
+grotle folds
+TiPicoFumo calls 19500.00
+*** FLOP *** [Kc 6c Ks]
+Main pot 65000.00
+TiPicoFumo checks
+Lemonade76 checks
+*** TURN *** [Kc 6c Ks] [7h]
+Main pot 65000.00
+TiPicoFumo bets 16250.00
+Lemonade76 folds
+Uncalled bet (16250.00) returned to TiPicoFumo
+TiPicoFumo does not show
+*** SUMMARY ***
+Total pot 65000.00
+Board [Kc 6c Ks 7h]
+Seat 1: grotle (big blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo did not show and won 65000.00
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Vagnerbauer folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 (button) folded on the Turn
+Seat 8: imanav8r82 (small blind) folded on the Pre-Flop
+
+Game Hand #2478810657 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:29:09 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: grotle (507880.00)
+Seat 2: Ferreira1985 (416750.00)
+Seat 3: TiPicoFumo (139500.00)
+Seat 4: jmnold (94000.00)
+Seat 5: Ertinshove8901 (211322.00)
+Seat 6: Vagnerbauer (111500.00)
+Seat 7: Lemonade76 (117189.00)
+Seat 8: imanav8r82 (130350.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+grotle posts the small blind 2000.00
+Ferreira1985 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [5s 2h]
+TiPicoFumo folds
+jmnold folds
+Ertinshove8901 folds
+Vagnerbauer raises 8000.00 to 8000.00
+Lemonade76 calls 8000.00
+imanav8r82 folds
+grotle folds
+Ferreira1985 calls 4000.00
+*** FLOP *** [5h Ad 2c]
+Main pot 30000.00
+Ferreira1985 checks
+Vagnerbauer checks
+Lemonade76 checks
+*** TURN *** [5h Ad 2c] [Js]
+Main pot 30000.00
+Ferreira1985 bets 22500.00
+Vagnerbauer calls 22500.00
+Lemonade76 folds
+*** RIVER *** [5h Ad 2c Js] [7c]
+Main pot 75000.00
+Ferreira1985 checks
+Vagnerbauer checks
+*** SHOW DOWN ***
+Main pot 75000.00
+Ferreira1985 shows [Ac Td] (a pair of Aces [Ad Ac Js Td 7c])
+Vagnerbauer shows [Kc Ks] (a pair of Kings [Ks Kc Ad Js 7c])
+Ferreira1985 collected 75000.00 from main pot
+*** SUMMARY ***
+Total pot 75000.00
+Board [5h Ad 2c Js 7c]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 (big blind) showed [Ac Td] and won 75000.00 with a pair of Aces [Ad Ac Js Td 7c]
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Vagnerbauer showed [Kc Ks] and lost with a pair of Kings [Ks Kc Ad Js 7c]
+Seat 7: Lemonade76 folded on the Turn
+Seat 8: imanav8r82 (button) folded on the Pre-Flop
+
+Game Hand #2478811259 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:30:49 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (505380.00)
+Seat 2: Ferreira1985 (460750.00)
+Seat 3: TiPicoFumo (139000.00)
+Seat 4: jmnold (93500.00)
+Seat 5: Ertinshove8901 (210822.00)
+Seat 6: Vagnerbauer (80500.00)
+Seat 7: Lemonade76 (108689.00)
+Seat 8: imanav8r82 (129850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+Ferreira1985 posts the small blind 2000.00
+TiPicoFumo posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [Ah 7d]
+jmnold raises 8000.00 to 8000.00
+Ertinshove8901 folds
+Vagnerbauer folds
+Lemonade76 folds
+imanav8r82 folds
+grotle calls 8000.00
+Ferreira1985 folds
+TiPicoFumo calls 4000.00
+*** FLOP *** [Jh 6c 9d]
+Main pot 30000.00
+TiPicoFumo checks
+jmnold checks
+grotle checks
+*** TURN *** [Jh 6c 9d] [4s]
+Main pot 30000.00
+TiPicoFumo bets 7500.00
+jmnold raises 52500.00 to 52500.00
+grotle folds
+TiPicoFumo folds
+Uncalled bet (45000.00) returned to jmnold
+jmnold does not show
+*** SUMMARY ***
+Total pot 45000.00
+Board [Jh 6c 9d 4s]
+Seat 1: grotle (button) folded on the Turn
+Seat 2: Ferreira1985 (small blind) folded on the Pre-Flop
+Seat 3: TiPicoFumo (big blind) folded on the Turn
+Seat 4: jmnold did not show and won 45000.00
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Vagnerbauer folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478811647 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:31:54 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: grotle (496880.00)
+Seat 2: Ferreira1985 (458250.00)
+Seat 3: TiPicoFumo (123000.00)
+Seat 4: jmnold (122500.00)
+Seat 5: Ertinshove8901 (210322.00)
+Seat 6: Vagnerbauer (80000.00)
+Seat 7: Lemonade76 (108189.00)
+Seat 8: imanav8r82 (129350.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Vagnerbauer posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+TiPicoFumo posts the small blind 2000.00
+jmnold posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [6s 3d]
+Ertinshove8901 folds
+Vagnerbauer raises 8000.00 to 8000.00
+Lemonade76 folds
+imanav8r82 folds
+grotle folds
+Ferreira1985 calls 8000.00
+TiPicoFumo folds
+jmnold calls 4000.00
+*** FLOP *** [Js 7c 8d]
+Main pot 30000.00
+jmnold bets 30000.00
+Vagnerbauer calls 30000.00
+Ferreira1985 folds
+*** TURN *** [Js 7c 8d] [4d]
+Main pot 90000.00
+jmnold bets 22500.00
+Vagnerbauer raises 41500.00 to 41500.00 and is all-in
+jmnold calls 19000.00
+*** RIVER *** [Js 7c 8d 4d] [6d]
+Main pot 173000.00
+*** SHOW DOWN ***
+Main pot 173000.00
+jmnold shows [Qh Jh] (a pair of Jacks [Js Jh Qh 8d 7c])
+Vagnerbauer shows [Tc Th] (a pair of Tens [Th Tc Js 8d 7c])
+jmnold collected 173000.00 from main pot
+*** SUMMARY ***
+Total pot 173000.00
+Board [Js 7c 8d 4d 6d]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 (button) folded on the Flop
+Seat 3: TiPicoFumo (small blind) folded on the Pre-Flop
+Seat 4: jmnold (big blind) showed [Qh Jh] and won 173000.00 with a pair of Jacks [Js Jh Qh 8d 7c]
+Seat 5: Ertinshove8901 folded on the Pre-Flop and did not bet
+Seat 6: Vagnerbauer showed [Tc Th] and lost with a pair of Tens [Th Tc Js 8d 7c]
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478811929 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:32:41 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (496380.00)
+Seat 2: Ferreira1985 (449750.00)
+Seat 3: TiPicoFumo (120500.00)
+Seat 4: jmnold (215500.00)
+Seat 5: Ertinshove8901 (209822.00)
+Seat 7: Lemonade76 (107689.00)
+Seat 8: imanav8r82 (128850.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Ertinshove8901 posts ante 500.00
+Lemonade76 posts ante 500.00
+imanav8r82 posts ante 500.00
+jmnold posts the small blind 2000.00
+Ertinshove8901 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Qd Ks]
+Lemonade76 folds
+imanav8r82 folds
+grotle raises 8000.00 to 8000.00
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Ertinshove8901 calls 4000.00
+*** FLOP *** [Kc 3s 4d]
+Main pot 21500.00
+Ertinshove8901 checks
+grotle bets 10750.00
+Ertinshove8901 folds
+Uncalled bet (10750.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 21500.00
+Board [Kc 3s 4d]
+Seat 1: grotle did not show and won 21500.00
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo (button) folded on the Pre-Flop
+Seat 4: jmnold (small blind) folded on the Pre-Flop
+Seat 5: Ertinshove8901 (big blind) folded on the Flop
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: imanav8r82 folded on the Pre-Flop and did not bet
+
+Game Hand #2478812139 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:33:19 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (509380.00)
+Seat 2: Ferreira1985 (449250.00)
+Seat 3: TiPicoFumo (120000.00)
+Seat 4: jmnold (213000.00)
+Seat 6: Tchaka (100000.00)
+Seat 7: Lemonade76 (107189.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Tchaka posts ante 500.00
+Lemonade76 posts ante 500.00
+Tchaka posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to grotle [2h 5h]
+Lemonade76 calls 4000.00
+grotle folds
+Ferreira1985 raises 19000.00 to 19000.00
+TiPicoFumo folds
+jmnold folds
+Tchaka folds
+Lemonade76 folds
+Uncalled bet (15000.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 15000.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 did not show and won 15000.00
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold (button) folded on the Pre-Flop
+Seat 6: Tchaka (big blind) folded on the Pre-Flop
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+
+Game Hand #2478812359 - Tournament #33592572 - Holdem (No Limit) - Level 12 (2000.00/4000.00) - 2025/06/11 14:33:56 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (508880.00)
+Seat 2: Ferreira1985 (459750.00)
+Seat 3: TiPicoFumo (119500.00)
+Seat 4: jmnold (212500.00)
+Seat 6: Tchaka (95500.00)
+Seat 7: Lemonade76 (102689.00)
+grotle posts ante 500.00
+Ferreira1985 posts ante 500.00
+TiPicoFumo posts ante 500.00
+jmnold posts ante 500.00
+Tchaka posts ante 500.00
+Lemonade76 posts ante 500.00
+Tchaka posts the small blind 2000.00
+Lemonade76 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3000.00
+Dealt to grotle [8h Js]
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Tchaka raises 10000.00 to 12000.00
+Lemonade76 calls 8000.00
+*** FLOP *** [4s As 2d]
+Main pot 27000.00
+Tchaka bets 8910.00
+Lemonade76 calls 8910.00
+*** TURN *** [4s As 2d] [Jd]
+Main pot 44820.00
+Tchaka bets 22651.00
+Lemonade76 calls 22651.00
+*** RIVER *** [4s As 2d Jd] [Qs]
+Main pot 90122.00
+Tchaka bets 51439.00 and is all-in
+Lemonade76 folds
+Uncalled bet (51439.00) returned to Tchaka
+Tchaka does not show
+*** SUMMARY ***
+Total pot 90122.00
+Board [4s As 2d Jd Qs]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 6: Tchaka did not show and won 90122.00
+Seat 7: Lemonade76 (big blind) folded on the River
+
+Game Hand #2478812856 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:35:22 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (508380.00)
+Seat 2: Ferreira1985 (459250.00)
+Seat 3: TiPicoFumo (119000.00)
+Seat 4: jmnold (212000.00)
+Seat 5: Seyfer (193197.00)
+Seat 6: Tchaka (141561.00)
+Seat 7: Lemonade76 (58628.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Lemonade76 posts the small blind 2250.00
+grotle posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 3850.00
+Dealt to grotle [Qs Ah]
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold calls 4500.00
+Seyfer raises 15750.00 to 15750.00
+Tchaka folds
+Lemonade76 folds
+grotle raises 53350.00 to 57850.00
+jmnold folds
+Seyfer folds
+Uncalled bet (42100.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 42100.00
+Seat 1: grotle did not show and won 42100.00
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka (button) folded on the Pre-Flop
+Seat 7: Lemonade76 (small blind) folded on the Pre-Flop
+
+Game Hand #2478813211 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:36:19 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (534180.00)
+Seat 2: Ferreira1985 (458700.00)
+Seat 3: TiPicoFumo (118450.00)
+Seat 4: jmnold (206950.00)
+Seat 5: Seyfer (176897.00)
+Seat 6: Tchaka (141011.00)
+Seat 7: Lemonade76 (55828.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+grotle posts the small blind 2250.00
+Ferreira1985 posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 3850.00
+Dealt to grotle [2c As]
+TiPicoFumo raises 9000.00 to 9000.00
+jmnold folds
+Seyfer folds
+Tchaka folds
+Lemonade76 calls 9000.00
+grotle calls 6750.00
+Ferreira1985 calls 4500.00
+*** FLOP *** [7c 5d 3d]
+Main pot 39850.00
+grotle checks
+Ferreira1985 checks
+TiPicoFumo checks
+Lemonade76 checks
+*** TURN *** [7c 5d 3d] [4d]
+Main pot 39850.00
+grotle bets 19925.00
+Ferreira1985 folds
+TiPicoFumo folds
+Lemonade76 calls 19925.00
+*** RIVER *** [7c 5d 3d 4d] [9c]
+Main pot 79700.00
+grotle bets 19925.00
+Lemonade76 folds
+Uncalled bet (19925.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 79700.00
+Board [7c 5d 3d 4d 9c]
+Seat 1: grotle did not show and won 79700.00
+Seat 2: Ferreira1985 (big blind) folded on the Turn
+Seat 3: TiPicoFumo folded on the Turn
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 (button) folded on the River
+
+Game Hand #2478813770 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:37:56 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (584405.00)
+Seat 2: Ferreira1985 (449150.00)
+Seat 3: TiPicoFumo (108900.00)
+Seat 4: jmnold (206400.00)
+Seat 5: Seyfer (176347.00)
+Seat 6: Tchaka (140461.00)
+Seat 7: Lemonade76 (26353.00)
+Seat 8: Rmantoan (100000.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Ferreira1985 posts the small blind 2250.00
+TiPicoFumo posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [Kh 7d]
+jmnold calls 4500.00
+Seyfer folds
+Tchaka raises 15750.00 to 15750.00
+Lemonade76 raises 25803.00 to 25803.00 and is all-in
+Rmantoan folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo raises 103850.00 to 108350.00 and is all-in
+jmnold folds
+Tchaka folds
+Uncalled bet (82547.00) returned to TiPicoFumo
+*** FLOP *** [Ad Qs 9d]
+Main pot 78506.00
+*** TURN *** [Ad Qs 9d] [Js]
+Main pot 78506.00
+*** RIVER *** [Ad Qs 9d Js] [2c]
+Main pot 78506.00
+*** SHOW DOWN ***
+Main pot 78506.00
+TiPicoFumo shows [7h 7s] (a pair of Sevens [7s 7h Ad Qs Js])
+Lemonade76 shows [9h 8c] (a pair of Nines [9h 9d Ad Qs Js])
+Lemonade76 collected 78506.00 from main pot
+*** SUMMARY ***
+Total pot 78506.00
+Board [Ad Qs 9d Js 2c]
+Seat 1: grotle (button) folded on the Pre-Flop
+Seat 2: Ferreira1985 (small blind) folded on the Pre-Flop
+Seat 3: TiPicoFumo (big blind) showed [7h 7s] and lost with a pair of Sevens [7s 7h Ad Qs Js]
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 showed [9h 8c] and won 78506.00 with a pair of Nines [9h 9d Ad Qs Js]
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478814130 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:38:57 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: grotle (583855.00)
+Seat 2: Ferreira1985 (446350.00)
+Seat 3: TiPicoFumo (82547.00)
+Seat 4: jmnold (201350.00)
+Seat 5: Seyfer (175797.00)
+Seat 6: Tchaka (124161.00)
+Seat 7: Lemonade76 (78506.00)
+Seat 8: Rmantoan (99450.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+TiPicoFumo posts the small blind 2250.00
+jmnold posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [2s 9h]
+Seyfer folds
+Tchaka raises 9000.00 to 9000.00
+Lemonade76 folds
+Rmantoan folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Uncalled bet (4500.00) returned to Tchaka
+Tchaka does not show
+*** SUMMARY ***
+Total pot 15650.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 (button) folded on the Pre-Flop
+Seat 3: TiPicoFumo (small blind) folded on the Pre-Flop
+Seat 4: jmnold (big blind) folded on the Pre-Flop
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka did not show and won 15650.00
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478814353 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:39:36 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (583305.00)
+Seat 2: Ferreira1985 (445800.00)
+Seat 3: TiPicoFumo (79747.00)
+Seat 4: jmnold (196300.00)
+Seat 5: Seyfer (175247.00)
+Seat 6: Tchaka (134761.00)
+Seat 7: Lemonade76 (77956.00)
+Seat 8: Rmantoan (98900.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+jmnold posts the small blind 2250.00
+Seyfer posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [4s Ac]
+Tchaka folds
+Lemonade76 folds
+Rmantoan folds
+grotle folds
+Ferreira1985 raises 9000.00 to 9000.00
+TiPicoFumo folds
+jmnold folds
+Seyfer calls 4500.00
+*** FLOP *** [Js 6d 6s]
+Main pot 24650.00
+Seyfer checks
+Ferreira1985 bets 9000.00
+Seyfer folds
+Uncalled bet (9000.00) returned to Ferreira1985
+Ferreira1985 does not show
+*** SUMMARY ***
+Total pot 24650.00
+Board [Js 6d 6s]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 did not show and won 24650.00
+Seat 3: TiPicoFumo (button) folded on the Pre-Flop
+Seat 4: jmnold (small blind) folded on the Pre-Flop
+Seat 5: Seyfer (big blind) folded on the Flop
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478814810 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:40:35 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (582755.00)
+Seat 2: Ferreira1985 (460900.00)
+Seat 3: TiPicoFumo (79197.00)
+Seat 4: jmnold (193500.00)
+Seat 5: Seyfer (165697.00)
+Seat 6: Tchaka (134211.00)
+Seat 7: Lemonade76 (77406.00)
+Seat 8: Rmantoan (98350.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Seyfer posts the small blind 2250.00
+Tchaka posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [4s Qc]
+Lemonade76 folds
+Rmantoan folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo raises 9000.00 to 9000.00
+jmnold folds
+Seyfer folds
+Tchaka folds
+Uncalled bet (4500.00) returned to TiPicoFumo
+TiPicoFumo does not show
+*** SUMMARY ***
+Total pot 15650.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo did not show and won 15650.00
+Seat 4: jmnold (button) folded on the Pre-Flop
+Seat 5: Seyfer (small blind) folded on the Pre-Flop
+Seat 6: Tchaka (big blind) folded on the Pre-Flop
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478815175 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:41:19 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (582205.00)
+Seat 2: Ferreira1985 (460350.00)
+Seat 3: TiPicoFumo (89797.00)
+Seat 4: jmnold (192950.00)
+Seat 5: Seyfer (162897.00)
+Seat 6: Tchaka (129161.00)
+Seat 7: Lemonade76 (76856.00)
+Seat 8: Rmantoan (97800.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Tchaka posts the small blind 2250.00
+Lemonade76 posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [2h 3c]
+Rmantoan folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold calls 4500.00
+Seyfer raises 15750.00 to 15750.00
+Tchaka folds
+Lemonade76 folds
+jmnold calls 11250.00
+*** FLOP *** [2d 5c As]
+Main pot 42650.00
+jmnold checks
+Seyfer bets 14928.00
+jmnold folds
+Uncalled bet (14928.00) returned to Seyfer
+Seyfer does not show
+*** SUMMARY ***
+Total pot 42650.00
+Board [2d 5c As]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Flop
+Seat 5: Seyfer did not show and won 42650.00
+Seat 6: Tchaka (small blind) folded on the Pre-Flop
+Seat 7: Lemonade76 (big blind) folded on the Pre-Flop
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478815801 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:42:29 UTC
+Table '3' 8-max Seat #6 is the button
+Seat 1: grotle (581655.00)
+Seat 2: Ferreira1985 (459800.00)
+Seat 3: TiPicoFumo (89247.00)
+Seat 4: jmnold (176650.00)
+Seat 5: Seyfer (189247.00)
+Seat 6: Tchaka (126361.00)
+Seat 7: Lemonade76 (71806.00)
+Seat 8: Rmantoan (97250.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Lemonade76 posts the small blind 2250.00
+Rmantoan posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [8h 4s]
+grotle folds
+Ferreira1985 folds
+TiPicoFumo raises 9000.00 to 9000.00
+jmnold folds
+Seyfer calls 9000.00
+Tchaka calls 9000.00
+Lemonade76 folds
+Rmantoan calls 4500.00
+*** FLOP *** [Qh 3h 2s]
+Main pot 42650.00
+Rmantoan checks
+TiPicoFumo checks
+Seyfer checks
+Tchaka checks
+*** TURN *** [Qh 3h 2s] [Qc]
+Main pot 42650.00
+Rmantoan checks
+TiPicoFumo bets 10663.00
+Seyfer folds
+Tchaka calls 10663.00
+Rmantoan folds
+*** RIVER *** [Qh 3h 2s Qc] [Tc]
+Main pot 63976.00
+TiPicoFumo bets 22988.00
+Tchaka folds
+Uncalled bet (22988.00) returned to TiPicoFumo
+TiPicoFumo does not show
+*** SUMMARY ***
+Total pot 63976.00
+Board [Qh 3h 2s Qc Tc]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo did not show and won 63976.00
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Turn
+Seat 6: Tchaka (button) folded on the River
+Seat 7: Lemonade76 (small blind) folded on the Pre-Flop
+Seat 8: Rmantoan (big blind) folded on the Turn
+
+Game Hand #2478816959 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:44:47 UTC
+Table '3' 8-max Seat #7 is the button
+Seat 1: grotle (581105.00)
+Seat 2: Ferreira1985 (459250.00)
+Seat 3: TiPicoFumo (133010.00)
+Seat 4: jmnold (176100.00)
+Seat 5: Seyfer (179697.00)
+Seat 6: Tchaka (106148.00)
+Seat 7: Lemonade76 (69006.00)
+Seat 8: Rmantoan (87700.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Rmantoan posts the small blind 2250.00
+grotle posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [8c Kc]
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold folds
+Seyfer folds
+Tchaka folds
+Lemonade76 calls 4500.00
+Rmantoan folds
+grotle checks
+*** FLOP *** [4c 5h Ah]
+Main pot 15650.00
+grotle checks
+Lemonade76 checks
+*** TURN *** [4c 5h Ah] [Qs]
+Main pot 15650.00
+grotle checks
+Lemonade76 checks
+*** RIVER *** [4c 5h Ah Qs] [Ac]
+Main pot 15650.00
+grotle checks
+Lemonade76 checks
+*** SHOW DOWN ***
+Main pot 15650.00
+grotle shows [8c Kc] (a pair of Aces [Ah Ac Kc Qs 8c])
+Lemonade76 shows [Js 8h] (a pair of Aces [Ah Ac Qs Js 8h])
+grotle collected 15650.00 from main pot
+*** SUMMARY ***
+Total pot 15650.00
+Board [4c 5h Ah Qs Ac]
+Seat 1: grotle (big blind) showed [8c Kc] and won 15650.00 with a pair of Aces [Ah Ac Kc Qs 8c] with the kicker King
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 (button) showed [Js 8h] and lost with a pair of Aces [Ah Ac Qs Js 8h]
+Seat 8: Rmantoan (small blind) folded on the Pre-Flop
+
+Game Hand #2478817576 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:46:04 UTC
+Table '3' 8-max Seat #8 is the button
+Seat 1: grotle (591705.00)
+Seat 2: Ferreira1985 (458700.00)
+Seat 3: TiPicoFumo (132460.00)
+Seat 4: jmnold (175550.00)
+Seat 5: Seyfer (179147.00)
+Seat 6: Tchaka (105598.00)
+Seat 7: Lemonade76 (63956.00)
+Seat 8: Rmantoan (84900.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+grotle posts the small blind 2250.00
+Ferreira1985 posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [Ts 6h]
+TiPicoFumo raises 9000.00 to 9000.00
+jmnold raises 13500.00 to 13500.00
+Seyfer folds
+Tchaka folds
+Lemonade76 folds
+Rmantoan folds
+grotle folds
+Ferreira1985 folds
+TiPicoFumo calls 4500.00
+*** FLOP *** [5c 4d 9c]
+Main pot 38150.00
+TiPicoFumo checks
+jmnold bets 19075.00
+TiPicoFumo folds
+Uncalled bet (19075.00) returned to jmnold
+jmnold does not show
+*** SUMMARY ***
+Total pot 38150.00
+Board [5c 4d 9c]
+Seat 1: grotle (small blind) folded on the Pre-Flop
+Seat 2: Ferreira1985 (big blind) folded on the Pre-Flop
+Seat 3: TiPicoFumo folded on the Flop
+Seat 4: jmnold did not show and won 38150.00
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan (button) folded on the Pre-Flop
+
+Game Hand #2478818233 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:47:29 UTC
+Table '3' 8-max Seat #1 is the button
+Seat 1: grotle (588905.00)
+Seat 2: Ferreira1985 (453650.00)
+Seat 3: TiPicoFumo (118410.00)
+Seat 4: jmnold (199650.00)
+Seat 5: Seyfer (178597.00)
+Seat 6: Tchaka (105048.00)
+Seat 7: Lemonade76 (63406.00)
+Seat 8: Rmantoan (84350.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+Ferreira1985 posts the small blind 2250.00
+TiPicoFumo posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [4h Ac]
+jmnold folds
+Seyfer raises 9000.00 to 9000.00
+Tchaka folds
+Lemonade76 folds
+Rmantoan folds
+grotle calls 9000.00
+Ferreira1985 folds
+TiPicoFumo folds
+*** FLOP *** [Qc 9h Tc]
+Main pot 29150.00
+Seyfer bets 21571.00
+grotle calls 21571.00
+*** TURN *** [Qc 9h Tc] [Kd]
+Main pot 72292.00
+Seyfer bets 29802.00
+grotle calls 29802.00
+*** RIVER *** [Qc 9h Tc Kd] [7s]
+Main pot 131896.00
+Seyfer checks
+grotle bets 65948.00
+Seyfer calls 65948.00
+*** SHOW DOWN ***
+Main pot 263792.00
+grotle shows [4h Ac] (a high card, Ace high [Ac Kd Qc Tc 9h])
+Seyfer shows [Qh Th] (two pair, Queens and Tens [Qh Qc Th Tc Kd])
+Seyfer collected 263792.00 from main pot
+*** SUMMARY ***
+Total pot 263792.00
+Board [Qc 9h Tc Kd 7s]
+Seat 1: grotle (button) showed [4h Ac] and lost with a high card, Ace high [Ac Kd Qc Tc 9h]
+Seat 2: Ferreira1985 (small blind) folded on the Pre-Flop
+Seat 3: TiPicoFumo (big blind) folded on the Pre-Flop
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer showed [Qh Th] and won 263792.00 with two pair, Queens and Tens [Qh Qc Th Tc Kd]
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478819253 - Tournament #33592572 - Holdem (No Limit) - Level 13 (2250.00/4500.00) - 2025/06/11 14:49:53 UTC
+Table '3' 8-max Seat #2 is the button
+Seat 1: grotle (462034.00)
+Seat 2: Ferreira1985 (450850.00)
+Seat 3: TiPicoFumo (113360.00)
+Seat 4: jmnold (199100.00)
+Seat 5: Seyfer (315518.00)
+Seat 6: Tchaka (104498.00)
+Seat 7: Lemonade76 (62856.00)
+Seat 8: Rmantoan (83800.00)
+grotle posts ante 550.00
+Ferreira1985 posts ante 550.00
+TiPicoFumo posts ante 550.00
+jmnold posts ante 550.00
+Seyfer posts ante 550.00
+Tchaka posts ante 550.00
+Lemonade76 posts ante 550.00
+Rmantoan posts ante 550.00
+TiPicoFumo posts the small blind 2250.00
+jmnold posts the big blind 4500.00
+*** HOLE CARDS ***
+Main pot 4400.00
+Dealt to grotle [As 2h]
+Seyfer folds
+Tchaka folds
+Lemonade76 calls 4500.00
+Rmantoan folds
+grotle calls 4500.00
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold checks
+*** FLOP *** [8h Jd Jh]
+Main pot 20150.00
+jmnold checks
+Lemonade76 checks
+grotle checks
+*** TURN *** [8h Jd Jh] [7h]
+Main pot 20150.00
+jmnold checks
+Lemonade76 checks
+grotle checks
+*** RIVER *** [8h Jd Jh 7h] [Ks]
+Main pot 20150.00
+jmnold checks
+Lemonade76 checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 20150.00
+grotle shows [As 2h] (a pair of Jacks [Jh Jd As Ks 8h])
+jmnold shows [Ts 2c] (a pair of Jacks [Jh Jd Ks Ts 8h])
+Lemonade76 shows [3c Ac] (a pair of Jacks [Jh Jd Ac Ks 8h])
+grotle collected 10075.00 from main pot
+Lemonade76 collected 10075.00 from main pot
+*** SUMMARY ***
+Total pot 20150.00
+Board [8h Jd Jh 7h Ks]
+Seat 1: grotle showed [As 2h] and won 10075.00 with a pair of Jacks [Jh Jd As Ks 8h] with the kicker Ace
+Seat 2: Ferreira1985 (button) folded on the Pre-Flop
+Seat 3: TiPicoFumo (small blind) folded on the Pre-Flop
+Seat 4: jmnold (big blind) showed [Ts 2c] and lost with a pair of Jacks [Jh Jd Ks Ts 8h]
+Seat 5: Seyfer folded on the Pre-Flop and did not bet
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 showed [3c Ac] and won 10075.00 with a pair of Jacks [Jh Jd Ac Ks 8h] with the kicker Ace
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478819941 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 14:51:37 UTC
+Table '3' 8-max Seat #3 is the button
+Seat 1: grotle (467059.00)
+Seat 2: Ferreira1985 (450300.00)
+Seat 3: TiPicoFumo (110560.00)
+Seat 4: jmnold (194050.00)
+Seat 5: Seyfer (314968.00)
+Seat 6: Tchaka (103948.00)
+Seat 7: Lemonade76 (67881.00)
+Seat 8: Rmantoan (83250.00)
+grotle posts ante 600.00
+Ferreira1985 posts ante 600.00
+TiPicoFumo posts ante 600.00
+jmnold posts ante 600.00
+Seyfer posts ante 600.00
+Tchaka posts ante 600.00
+Lemonade76 posts ante 600.00
+Rmantoan posts ante 600.00
+jmnold posts the small blind 2500.00
+Seyfer posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [As 3c]
+Tchaka folds
+Lemonade76 folds
+Rmantoan folds
+grotle raises 10000.00 to 10000.00
+Ferreira1985 folds
+TiPicoFumo folds
+jmnold calls 7500.00
+Seyfer folds
+*** FLOP *** [6h 7d 8h]
+Main pot 29800.00
+jmnold checks
+grotle checks
+*** TURN *** [6h 7d 8h] [5c]
+Main pot 29800.00
+jmnold bets 14900.00
+grotle folds
+Uncalled bet (14900.00) returned to jmnold
+jmnold does not show
+*** SUMMARY ***
+Total pot 29800.00
+Board [6h 7d 8h 5c]
+Seat 1: grotle folded on the Turn
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo (button) folded on the Pre-Flop
+Seat 4: jmnold did not show and won 29800.00
+Seat 5: Seyfer (big blind) folded on the Pre-Flop
+Seat 6: Tchaka folded on the Pre-Flop and did not bet
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan folded on the Pre-Flop and did not bet
+
+Game Hand #2478820368 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 14:52:42 UTC
+Table '3' 8-max Seat #4 is the button
+Seat 1: grotle (456459.00)
+Seat 2: Ferreira1985 (449700.00)
+Seat 3: TiPicoFumo (109960.00)
+Seat 4: jmnold (213250.00)
+Seat 5: Seyfer (309368.00)
+Seat 6: Tchaka (103348.00)
+Seat 7: Lemonade76 (67281.00)
+Seat 8: Rmantoan (82650.00)
+grotle posts ante 600.00
+Ferreira1985 posts ante 600.00
+TiPicoFumo posts ante 600.00
+jmnold posts ante 600.00
+Seyfer posts ante 600.00
+Tchaka posts ante 600.00
+Lemonade76 posts ante 600.00
+Rmantoan posts ante 600.00
+Seyfer posts the small blind 2500.00
+Tchaka posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4800.00
+Dealt to grotle [8h 5s]
+Lemonade76 folds
+Rmantoan raises 10000.00 to 10000.00
+grotle folds
+Ferreira1985 folds
+TiPicoFumo calls 10000.00
+jmnold calls 10000.00
+Seyfer folds
+Tchaka folds
+*** FLOP *** [Kd 8c 5c]
+Main pot 42300.00
+Rmantoan checks
+TiPicoFumo bets 10575.00
+jmnold folds
+Rmantoan calls 10575.00
+*** TURN *** [Kd 8c 5c] [2d]
+Main pot 63450.00
+Rmantoan checks
+TiPicoFumo bets 31725.00
+Rmantoan raises 61475.00 to 61475.00 and is all-in
+TiPicoFumo calls 29750.00
+*** RIVER *** [Kd 8c 5c 2d] [4c]
+Main pot 186400.00
+*** SHOW DOWN ***
+Main pot 186400.00
+TiPicoFumo shows [Jd Ks] (a pair of Kings [Ks Kd Jd 8c 5c])
+Rmantoan shows [8d Ad] (a pair of Eights [8d 8c Ad Kd 5c])
+TiPicoFumo collected 186400.00 from main pot
+*** SUMMARY ***
+Total pot 186400.00
+Board [Kd 8c 5c 2d 4c]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo showed [Jd Ks] and won 186400.00 with a pair of Kings [Ks Kd Jd 8c 5c]
+Seat 4: jmnold (button) folded on the Flop
+Seat 5: Seyfer (small blind) folded on the Pre-Flop
+Seat 6: Tchaka (big blind) folded on the Pre-Flop
+Seat 7: Lemonade76 folded on the Pre-Flop and did not bet
+Seat 8: Rmantoan showed [8d Ad] and lost with a pair of Eights [8d 8c Ad Kd 5c]
+
+Game Hand #2478820924 - Tournament #33592572 - Holdem (No Limit) - Level 14 (2500.00/5000.00) - 2025/06/11 14:54:06 UTC
+Table '3' 8-max Seat #5 is the button
+Seat 1: grotle (455859.00)
+Seat 2: Ferreira1985 (449100.00)
+Seat 3: TiPicoFumo (213710.00)
+Seat 4: jmnold (202650.00)
+Seat 5: Seyfer (306268.00)
+Seat 6: Tchaka (97748.00)
+Seat 7: Lemonade76 (66681.00)
+grotle posts ante 600.00
+Ferreira1985 posts ante 600.00
+TiPicoFumo posts ante 600.00
+jmnold posts ante 600.00
+Seyfer posts ante 600.00
+Tchaka posts ante 600.00
+Lemonade76 posts ante 600.00
+Tchaka posts the small blind 2500.00
+Lemonade76 posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4200.00
+Dealt to grotle [Ah 5s]
+grotle raises 10000.00 to 10000.00
+Ferreira1985 calls 10000.00
+TiPicoFumo folds
+jmnold folds
+Seyfer raises 55000.00 to 55000.00
+Tchaka folds
+Lemonade76 folds
+grotle folds
+Ferreira1985 folds
+Uncalled bet (45000.00) returned to Seyfer
+Seyfer does not show
+*** SUMMARY ***
+Total pot 41700.00
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Ferreira1985 folded on the Pre-Flop and did not bet
+Seat 3: TiPicoFumo folded on the Pre-Flop and did not bet
+Seat 4: jmnold folded on the Pre-Flop and did not bet
+Seat 5: Seyfer did not show and won 41700.00
+Seat 6: Tchaka (small blind) folded on the Pre-Flop
+Seat 7: Lemonade76 (big blind) folded on the Pre-Flop
+

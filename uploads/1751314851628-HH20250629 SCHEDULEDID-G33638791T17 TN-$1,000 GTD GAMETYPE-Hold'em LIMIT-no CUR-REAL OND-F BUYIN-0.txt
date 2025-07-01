@@ -1,0 +1,94 @@
+Game Hand #2492614591 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/30 00:01:38 UTC
+Table '17' 8-max Seat #1 is the button
+Seat 1: CalvsDez (100000.00)
+Seat 2: QueenV1 (100000.00)
+Seat 3: walstielt (100000.00)
+Seat 4: jael510 (145503.00)
+Seat 5: Mr Johnson222 (95649.00)
+Seat 6: grotle (150899.00)
+Seat 7: roi1713 (248134.00)
+CalvsDez posts ante 450.00
+QueenV1 posts ante 450.00
+walstielt posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+grotle posts ante 450.00
+roi1713 posts ante 450.00
+QueenV1 posts the small blind 1800.00
+walstielt posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [Kh 3h]
+jael510 folds
+Mr Johnson222 folds
+grotle folds
+roi1713 folds
+CalvsDez raises 7200.00 to 7200.00
+QueenV1 folds
+walstielt calls 3600.00
+*** FLOP *** [5d Ah 2d]
+Main pot 19350.00
+walstielt checks
+CalvsDez bets 11610.00
+walstielt raises 26820.00 to 26820.00
+CalvsDez raises 80740.00 to 92350.00 and is all-in
+walstielt folds
+Uncalled bet (65530.00) returned to CalvsDez
+CalvsDez does not show
+*** SUMMARY ***
+Total pot 72990.00
+Board [5d Ah 2d]
+Seat 1: CalvsDez did not show and won 72990.00
+Seat 2: QueenV1 (small blind) folded on the Pre-Flop
+Seat 3: walstielt (big blind) folded on the Flop
+Seat 4: jael510 folded on the Pre-Flop and did not bet
+Seat 5: Mr Johnson222 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: roi1713 folded on the Pre-Flop and did not bet
+
+Game Hand #2492615450 - Tournament #33638791 - Holdem (No Limit) - Level 9 (1800.00/3600.00) - 2025/06/30 00:02:40 UTC
+Table '17' 8-max Seat #2 is the button
+Seat 1: CalvsDez (138520.00)
+Seat 2: QueenV1 (97750.00)
+Seat 3: walstielt (65530.00)
+Seat 4: jael510 (145053.00)
+Seat 5: Mr Johnson222 (95199.00)
+Seat 6: grotle (150449.00)
+Seat 7: roi1713 (247684.00)
+CalvsDez posts ante 450.00
+QueenV1 posts ante 450.00
+walstielt posts ante 450.00
+jael510 posts ante 450.00
+Mr Johnson222 posts ante 450.00
+grotle posts ante 450.00
+roi1713 posts ante 450.00
+walstielt posts the small blind 1800.00
+jael510 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [5c 6h]
+Mr Johnson222 folds
+grotle folds
+roi1713 folds
+CalvsDez folds
+QueenV1 raises 7200.00 to 7200.00
+walstielt folds
+jael510 calls 3600.00
+*** FLOP *** [Qd 7h 5s]
+Main pot 19350.00
+jael510 checks
+QueenV1 bets 19350.00
+jael510 folds
+Uncalled bet (19350.00) returned to QueenV1
+QueenV1 does not show
+*** SUMMARY ***
+Total pot 19350.00
+Board [Qd 7h 5s]
+Seat 1: CalvsDez folded on the Pre-Flop and did not bet
+Seat 2: QueenV1 did not show and won 19350.00
+Seat 3: walstielt (small blind) folded on the Pre-Flop
+Seat 4: jael510 (big blind) folded on the Flop
+Seat 5: Mr Johnson222 folded on the Pre-Flop and did not bet
+Seat 6: grotle folded on the Pre-Flop and did not bet
+Seat 7: roi1713 folded on the Pre-Flop and did not bet
+

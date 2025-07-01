@@ -1,0 +1,1229 @@
+Game Hand #2478775120 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:16:23 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: grotle (100000.00)
+Seat 2: Olika25 (90112.00)
+Seat 3: Hae6opotenb (75133.00)
+Seat 4: Nikkag1227 (43280.00)
+Seat 5: Spacer731 (163118.00)
+Seat 6: Belatrix35 (100000.00)
+grotle posts ante 175.00
+Olika25 posts ante 175.00
+Hae6opotenb posts ante 175.00
+Nikkag1227 posts ante 175.00
+Spacer731 posts ante 175.00
+Belatrix35 posts ante 175.00
+Olika25 posts the small blind 750.00
+Hae6opotenb posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [Ks 5s]
+Nikkag1227 folds
+Spacer731 folds
+Belatrix35 raises 3000.00 to 3000.00
+grotle calls 3000.00
+Olika25 folds
+Hae6opotenb calls 1500.00
+*** FLOP *** [9s 5d 3s]
+Main pot 10800.00
+Hae6opotenb checks
+Belatrix35 checks
+grotle bets 5400.00
+Hae6opotenb calls 5400.00
+Belatrix35 calls 5400.00
+*** TURN *** [9s 5d 3s] [4c]
+Main pot 27000.00
+Hae6opotenb checks
+Belatrix35 checks
+grotle checks
+*** RIVER *** [9s 5d 3s 4c] [6s]
+Main pot 27000.00
+Hae6opotenb checks
+Belatrix35 checks
+grotle bets 16875.00
+Hae6opotenb folds
+Belatrix35 folds
+Uncalled bet (16875.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27000.00
+Board [9s 5d 3s 4c 6s]
+Seat 1: grotle did not show and won 27000.00
+Seat 2: Olika25 (small blind) folded on the Pre-Flop
+Seat 3: Hae6opotenb (big blind) folded on the River
+Seat 4: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Belatrix35 folded on the River
+
+Game Hand #2478775563 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:18:22 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: grotle (118425.00)
+Seat 2: Olika25 (89187.00)
+Seat 3: Hae6opotenb (66558.00)
+Seat 4: Nikkag1227 (43105.00)
+Seat 5: Spacer731 (162943.00)
+Seat 6: Belatrix35 (91425.00)
+Seat 7: EOBIXXX (72684.00)
+grotle posts ante 175.00
+Olika25 posts ante 175.00
+Hae6opotenb posts ante 175.00
+Nikkag1227 posts ante 175.00
+Spacer731 posts ante 175.00
+Belatrix35 posts ante 175.00
+EOBIXXX posts ante 175.00
+Hae6opotenb posts the small blind 750.00
+Nikkag1227 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Ac Ts]
+Spacer731 raises 3000.00 to 3000.00
+Belatrix35 folds
+EOBIXXX folds
+grotle raises 9750.00 to 9750.00
+Olika25 folds
+Hae6opotenb folds
+Nikkag1227 folds
+Spacer731 folds
+Uncalled bet (6750.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 9475.00
+Seat 1: grotle did not show and won 9475.00
+Seat 2: Olika25 (button) folded on the Pre-Flop
+Seat 3: Hae6opotenb (small blind) folded on the Pre-Flop
+Seat 4: Nikkag1227 (big blind) folded on the Pre-Flop
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+
+Game Hand #2478775713 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:19:04 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: grotle (124725.00)
+Seat 2: Olika25 (89012.00)
+Seat 3: Hae6opotenb (65633.00)
+Seat 4: Nikkag1227 (41430.00)
+Seat 5: Spacer731 (159768.00)
+Seat 6: Belatrix35 (91250.00)
+Seat 7: EOBIXXX (72509.00)
+grotle posts ante 175.00
+Olika25 posts ante 175.00
+Hae6opotenb posts ante 175.00
+Nikkag1227 posts ante 175.00
+Spacer731 posts ante 175.00
+Belatrix35 posts ante 175.00
+EOBIXXX posts ante 175.00
+Nikkag1227 posts the small blind 750.00
+Spacer731 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [3h 8d]
+Belatrix35 raises 3000.00 to 3000.00
+EOBIXXX folds
+grotle folds
+Olika25 folds
+Hae6opotenb folds
+Nikkag1227 raises 8794.00 to 9544.00
+Spacer731 folds
+Belatrix35 calls 6544.00
+*** FLOP *** [5s 9d 8h]
+Main pot 21813.00
+Nikkag1227 checks
+Belatrix35 bets 5453.00
+Nikkag1227 raises 14085.00 to 14085.00
+Belatrix35 raises 58615.00 to 64068.00
+Nikkag1227 calls 17626.00 and is all-in
+Uncalled bet (32357.00) returned to Belatrix35
+*** TURN *** [5s 9d 8h] [3s]
+Main pot 85235.00
+*** RIVER *** [5s 9d 8h 3s] [Kc]
+Main pot 85235.00
+*** SHOW DOWN ***
+Main pot 85235.00
+Nikkag1227 shows [Qd Qc] (a pair of Queens [Qd Qc Kc 9d 8h])
+Belatrix35 shows [Js Jd] (a pair of Jacks [Js Jd Kc 9d 8h])
+Nikkag1227 collected 85235.00 from main pot
+*** SUMMARY ***
+Total pot 85235.00
+Board [5s 9d 8h 3s Kc]
+Seat 1: grotle folded on the Pre-Flop and did not bet
+Seat 2: Olika25 folded on the Pre-Flop and did not bet
+Seat 3: Hae6opotenb (button) folded on the Pre-Flop
+Seat 4: Nikkag1227 (small blind) showed [Qd Qc] and won 85235.00 with a pair of Queens [Qd Qc Kc 9d 8h]
+Seat 5: Spacer731 (big blind) folded on the Pre-Flop
+Seat 6: Belatrix35 showed [Js Jd] and lost with a pair of Jacks [Js Jd Kc 9d 8h]
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+
+Game Hand #2478776186 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:21:16 UTC
+Table '8' 8-max Seat #1 is the button
+Seat 1: icaropizzotti (100000.00)
+Seat 2: grotle (124375.00)
+Seat 3: Olika25 (88662.00)
+Seat 4: Hae6opotenb (65283.00)
+Seat 5: Nikkag1227 (105529.00)
+Seat 6: Smithington100 (195929.00)
+Seat 7: dibraldim (267648.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+Olika25 posts ante 200.00
+Hae6opotenb posts ante 200.00
+Nikkag1227 posts ante 200.00
+Smithington100 posts ante 200.00
+dibraldim posts ante 200.00
+grotle posts the small blind 800.00
+Olika25 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Kd 4s]
+Hae6opotenb folds
+Nikkag1227 folds
+Smithington100 folds
+dibraldim raises 3200.00 to 3200.00
+icaropizzotti calls 3200.00
+grotle folds
+Olika25 raises 14400.00 to 16000.00
+dibraldim folds
+icaropizzotti folds
+Uncalled bet (12800.00) returned to Olika25
+Olika25 does not show
+*** SUMMARY ***
+Total pot 11800.00
+Seat 1: icaropizzotti (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: Olika25 did not show and won 11800.00
+Seat 4: Hae6opotenb folded on the Pre-Flop and did not bet
+Seat 5: Nikkag1227 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 folded on the Pre-Flop and did not bet
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+
+Game Hand #2478776466 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:22:31 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: icaropizzotti (96600.00)
+Seat 2: grotle (123375.00)
+Seat 5: Spacer731 (161568.00)
+Seat 6: Belatrix35 (29951.00)
+Seat 7: EOBIXXX (67759.00)
+Seat 8: Ratatat19 (73491.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+Spacer731 posts ante 200.00
+Belatrix35 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+Ratatat19 posts the small blind 800.00
+icaropizzotti posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [4s 3d]
+grotle folds
+Spacer731 folds
+Belatrix35 folds
+EOBIXXX raises 3200.00 to 3200.00
+Ratatat19 folds
+icaropizzotti calls 1600.00
+*** FLOP *** [Qd Jc 3h]
+Main pot 8400.00
+icaropizzotti checks
+EOBIXXX bets 2900.00
+icaropizzotti raises 11400.00 to 11400.00
+EOBIXXX calls 8500.00
+*** TURN *** [Qd Jc 3h] [8c]
+Main pot 31200.00
+icaropizzotti bets 7800.00
+EOBIXXX raises 23600.00 to 23600.00
+icaropizzotti folds
+Uncalled bet (15800.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 46800.00
+Board [Qd Jc 3h 8c]
+Seat 1: icaropizzotti (big blind) folded on the Turn
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX did not show and won 46800.00
+Seat 8: Ratatat19 (small blind) folded on the Pre-Flop
+
+Game Hand #2478776845 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:24:14 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: icaropizzotti (74000.00)
+Seat 2: grotle (123175.00)
+Seat 3: NastyNa (167280.00)
+Seat 5: Spacer731 (161368.00)
+Seat 6: Belatrix35 (29751.00)
+Seat 7: EOBIXXX (91959.00)
+Seat 8: Ratatat19 (72491.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Spacer731 posts ante 200.00
+Belatrix35 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+icaropizzotti posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Qs Ks]
+NastyNa folds
+Spacer731 raises 3200.00 to 3200.00
+Belatrix35 raises 29551.00 to 29551.00 and is all-in
+EOBIXXX folds
+Ratatat19 folds
+icaropizzotti folds
+grotle calls 27951.00
+Spacer731 folds
+*** FLOP *** [5c 8s As]
+Main pot 64502.00
+*** TURN *** [5c 8s As] [Kh]
+Main pot 64502.00
+*** RIVER *** [5c 8s As Kh] [Kc]
+Main pot 64502.00
+*** SHOW DOWN ***
+Main pot 64502.00
+grotle shows [Qs Ks] (three of a kind, Set of Kings [Ks Kh Kc As Qs])
+Belatrix35 shows [Ah Qd] (two pair, Aces and Kings [As Ah Kh Kc Qd])
+grotle collected 64502.00 from main pot
+*** SUMMARY ***
+Total pot 64502.00
+Board [5c 8s As Kh Kc]
+Seat 1: icaropizzotti (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) showed [Qs Ks] and won 64502.00 with three of a kind, Set of Kings [Ks Kh Kc As Qs]
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Belatrix35 showed [Ah Qd] and lost with two pair, Aces and Kings [As Ah Kh Kc Qd]
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 (button) folded on the Pre-Flop
+
+Game Hand #2478776992 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:24:56 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: icaropizzotti (73000.00)
+Seat 2: grotle (157926.00)
+Seat 3: NastyNa (167080.00)
+Seat 5: Spacer731 (157968.00)
+Seat 7: EOBIXXX (91759.00)
+Seat 8: Ratatat19 (72291.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Spacer731 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+grotle posts the small blind 800.00
+NastyNa posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [Th Kc]
+Spacer731 folds
+EOBIXXX folds
+Ratatat19 folds
+icaropizzotti folds
+grotle raises 4800.00 to 5600.00
+NastyNa folds
+Uncalled bet (4000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 4400.00
+Seat 1: icaropizzotti (button) folded on the Pre-Flop
+Seat 2: grotle did not show and won 4400.00
+Seat 3: NastyNa (big blind) folded on the Pre-Flop
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478777231 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:26:03 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: icaropizzotti (72800.00)
+Seat 2: grotle (160526.00)
+Seat 3: NastyNa (165280.00)
+Seat 4: Belatrix35 (100000.00)
+Seat 5: Spacer731 (157768.00)
+Seat 7: EOBIXXX (91559.00)
+Seat 8: Ratatat19 (72091.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+NastyNa posts the small blind 800.00
+Belatrix35 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [5s 3d]
+Spacer731 folds
+EOBIXXX folds
+Ratatat19 folds
+icaropizzotti folds
+grotle folds
+NastyNa raises 4000.00 to 4800.00
+Belatrix35 calls 3200.00
+*** FLOP *** [3h 4d 8d]
+Main pot 11000.00
+NastyNa bets 7260.00
+Belatrix35 folds
+Uncalled bet (7260.00) returned to NastyNa
+NastyNa does not show
+*** SUMMARY ***
+Total pot 11000.00
+Board [3h 4d 8d]
+Seat 1: icaropizzotti folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: NastyNa did not show and won 11000.00
+Seat 4: Belatrix35 (big blind) folded on the Flop
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478777450 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:27:08 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: icaropizzotti (72600.00)
+Seat 2: grotle (160326.00)
+Seat 3: NastyNa (171280.00)
+Seat 4: Belatrix35 (95000.00)
+Seat 5: Spacer731 (157568.00)
+Seat 7: EOBIXXX (91359.00)
+Seat 8: Ratatat19 (71891.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+Belatrix35 posts the small blind 800.00
+Spacer731 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [8d Js]
+EOBIXXX folds
+Ratatat19 raises 3200.00 to 3200.00
+icaropizzotti raises 9600.00 to 9600.00
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Spacer731 folds
+Ratatat19 folds
+Uncalled bet (6400.00) returned to icaropizzotti
+icaropizzotti does not show
+*** SUMMARY ***
+Total pot 10200.00
+Seat 1: icaropizzotti did not show and won 10200.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa (button) folded on the Pre-Flop
+Seat 4: Belatrix35 (small blind) folded on the Pre-Flop
+Seat 5: Spacer731 (big blind) folded on the Pre-Flop
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478777620 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:27:58 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: icaropizzotti (79400.00)
+Seat 2: grotle (160126.00)
+Seat 3: NastyNa (171080.00)
+Seat 4: Belatrix35 (94000.00)
+Seat 5: Spacer731 (155768.00)
+Seat 7: EOBIXXX (91159.00)
+Seat 8: Ratatat19 (68491.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+Spacer731 posts the small blind 800.00
+EOBIXXX posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [3h 7s]
+Ratatat19 folds
+icaropizzotti folds
+grotle folds
+NastyNa raises 4800.00 to 4800.00
+Belatrix35 folds
+Spacer731 folds
+EOBIXXX raises 13400.00 to 15000.00
+NastyNa folds
+Uncalled bet (10200.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 11800.00
+Seat 1: icaropizzotti folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 (button) folded on the Pre-Flop
+Seat 5: Spacer731 (small blind) folded on the Pre-Flop
+Seat 7: EOBIXXX did not show and won 11800.00
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478777834 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:29:06 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: icaropizzotti (79200.00)
+Seat 2: grotle (159926.00)
+Seat 3: NastyNa (166080.00)
+Seat 4: Belatrix35 (93800.00)
+Seat 5: Spacer731 (154768.00)
+Seat 7: EOBIXXX (97959.00)
+Seat 8: Ratatat19 (68291.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+EOBIXXX posts the small blind 800.00
+Ratatat19 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [8d 5h]
+icaropizzotti folds
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Spacer731 raises 3200.00 to 3200.00
+EOBIXXX raises 14200.00 to 15000.00
+Ratatat19 folds
+Spacer731 folds
+Uncalled bet (11800.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 9400.00
+Seat 1: icaropizzotti folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 (button) folded on the Pre-Flop
+Seat 7: EOBIXXX did not show and won 9400.00
+Seat 8: Ratatat19 (big blind) folded on the Pre-Flop
+
+Game Hand #2478777989 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:29:55 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: icaropizzotti (79000.00)
+Seat 2: grotle (159726.00)
+Seat 3: NastyNa (165880.00)
+Seat 4: Belatrix35 (93600.00)
+Seat 5: Spacer731 (151368.00)
+Seat 6: Jogador23 (100000.00)
+Seat 7: EOBIXXX (103959.00)
+Seat 8: Ratatat19 (66491.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+Ratatat19 posts the small blind 800.00
+icaropizzotti posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Qd 2s]
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Spacer731 folds
+Jogador23 raises 3200.00 to 3200.00
+EOBIXXX folds
+Ratatat19 folds
+icaropizzotti folds
+Uncalled bet (1600.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 5600.00
+Seat 1: icaropizzotti (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 did not show and won 5600.00
+Seat 7: EOBIXXX (button) folded on the Pre-Flop
+Seat 8: Ratatat19 (small blind) folded on the Pre-Flop
+
+Game Hand #2478778114 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:30:33 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: icaropizzotti (77200.00)
+Seat 2: grotle (159526.00)
+Seat 3: NastyNa (165680.00)
+Seat 4: Belatrix35 (93400.00)
+Seat 5: Spacer731 (151168.00)
+Seat 6: Jogador23 (103800.00)
+Seat 7: EOBIXXX (103759.00)
+Seat 8: Ratatat19 (65491.00)
+icaropizzotti posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+icaropizzotti posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [9s Ts]
+NastyNa folds
+Belatrix35 folds
+Spacer731 raises 3200.00 to 3200.00
+Jogador23 folds
+EOBIXXX folds
+Ratatat19 folds
+icaropizzotti calls 2400.00
+grotle calls 1600.00
+*** FLOP *** [Jh 6d 4c]
+Main pot 11200.00
+icaropizzotti checks
+grotle checks
+Spacer731 bets 5296.00
+icaropizzotti raises 16992.00 to 16992.00
+grotle folds
+Spacer731 calls 11696.00
+*** TURN *** [Jh 6d 4c] [8h]
+Main pot 45184.00
+icaropizzotti bets 21311.00
+Spacer731 raises 58897.00 to 58897.00
+icaropizzotti calls 35497.00 and is all-in
+Uncalled bet (2089.00) returned to Spacer731
+*** RIVER *** [Jh 6d 4c 8h] [2h]
+Main pot 158800.00
+*** SHOW DOWN ***
+Main pot 158800.00
+icaropizzotti shows [Js Ah] (a pair of Jacks [Js Jh Ah 8h 6d])
+Spacer731 shows [4d 4s] (three of a kind, Set of Fours [4s 4d 4c Jh 8h])
+Spacer731 collected 158800.00 from main pot
+*** SUMMARY ***
+Total pot 158800.00
+Board [Jh 6d 4c 8h 2h]
+Seat 1: icaropizzotti (small blind) showed [Js Ah] and lost with a pair of Jacks [Js Jh Ah 8h 6d]
+Seat 2: grotle (big blind) folded on the Flop
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 showed [4d 4s] and won 158800.00 with three of a kind, Set of Fours [4s 4d 4c Jh 8h]
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 (button) folded on the Pre-Flop
+
+Game Hand #2478778603 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:32:59 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 2: grotle (156126.00)
+Seat 3: NastyNa (165480.00)
+Seat 4: Belatrix35 (93200.00)
+Seat 5: Spacer731 (232768.00)
+Seat 6: Jogador23 (103600.00)
+Seat 7: EOBIXXX (103559.00)
+Seat 8: Ratatat19 (65291.00)
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+grotle posts the small blind 800.00
+NastyNa posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2s 5c]
+Belatrix35 folds
+Spacer731 folds
+Jogador23 raises 3520.00 to 3520.00
+EOBIXXX folds
+Ratatat19 raises 11840.00 to 11840.00
+grotle folds
+NastyNa folds
+Jogador23 raises 23040.00 to 26560.00
+Ratatat19 folds
+Uncalled bet (14720.00) returned to Jogador23
+Jogador23 does not show
+*** SUMMARY ***
+Total pot 27480.00
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: NastyNa (big blind) folded on the Pre-Flop
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 did not show and won 27480.00
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478778769 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:33:49 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: Favorito (100000.00)
+Seat 2: grotle (155126.00)
+Seat 3: NastyNa (163680.00)
+Seat 4: Belatrix35 (93000.00)
+Seat 5: Spacer731 (232568.00)
+Seat 6: Jogador23 (119040.00)
+Seat 7: EOBIXXX (103359.00)
+Seat 8: Ratatat19 (53251.00)
+Favorito posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+NastyNa posts the small blind 800.00
+Belatrix35 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [2d 5c]
+Spacer731 folds
+Jogador23 raises 3200.00 to 3200.00
+EOBIXXX raises 11000.00 to 11000.00
+Ratatat19 folds
+Favorito folds
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Jogador23 folds
+Uncalled bet (7800.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 10400.00
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: NastyNa (small blind) folded on the Pre-Flop
+Seat 4: Belatrix35 (big blind) folded on the Pre-Flop
+Seat 5: Spacer731 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX did not show and won 10400.00
+Seat 8: Ratatat19 folded on the Pre-Flop and did not bet
+
+Game Hand #2478778950 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:34:45 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: Favorito (99800.00)
+Seat 2: grotle (154926.00)
+Seat 3: NastyNa (162680.00)
+Seat 4: Belatrix35 (91200.00)
+Seat 5: Spacer731 (232368.00)
+Seat 6: Jogador23 (115640.00)
+Seat 7: EOBIXXX (110359.00)
+Seat 8: Ratatat19 (53051.00)
+Favorito posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Ratatat19 posts ante 200.00
+Belatrix35 posts the small blind 800.00
+Spacer731 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [5s 3s]
+Jogador23 raises 3520.00 to 3520.00
+EOBIXXX folds
+Ratatat19 raises 10240.00 to 10240.00
+Favorito folds
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Spacer731 folds
+Jogador23 calls 6720.00
+*** FLOP *** [Tc 4s 5h]
+Main pot 24480.00
+Jogador23 checks
+Ratatat19 bets 6120.00
+Jogador23 calls 6120.00
+*** TURN *** [Tc 4s 5h] [3h]
+Main pot 36720.00
+Jogador23 checks
+Ratatat19 bets 36491.00 and is all-in
+Jogador23 calls 36491.00
+*** RIVER *** [Tc 4s 5h 3h] [Js]
+Main pot 109702.00
+*** SHOW DOWN ***
+Main pot 109702.00
+Jogador23 shows [Ad Ah] (a pair of Aces [Ah Ad Js Tc 5h])
+Ratatat19 shows [Ac 5c] (a pair of Fives [5h 5c Ac Js Tc])
+Jogador23 collected 109702.00 from main pot
+*** SUMMARY ***
+Total pot 109702.00
+Board [Tc 4s 5h 3h Js]
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa (button) folded on the Pre-Flop
+Seat 4: Belatrix35 (small blind) folded on the Pre-Flop
+Seat 5: Spacer731 (big blind) folded on the Pre-Flop
+Seat 6: Jogador23 showed [Ad Ah] and won 109702.00 with a pair of Aces [Ah Ad Js Tc 5h]
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: Ratatat19 showed [Ac 5c] and lost with a pair of Fives [5h 5c Ac Js Tc]
+
+Game Hand #2478779208 - Tournament #33592573 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:36:04 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: Favorito (99600.00)
+Seat 2: grotle (154726.00)
+Seat 3: NastyNa (162480.00)
+Seat 4: Belatrix35 (90200.00)
+Seat 5: Spacer731 (230568.00)
+Seat 6: Jogador23 (172291.00)
+Seat 7: EOBIXXX (110159.00)
+Favorito posts ante 200.00
+grotle posts ante 200.00
+NastyNa posts ante 200.00
+Belatrix35 posts ante 200.00
+Spacer731 posts ante 200.00
+Jogador23 posts ante 200.00
+EOBIXXX posts ante 200.00
+Spacer731 posts the small blind 800.00
+Jogador23 posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Qc Tc]
+EOBIXXX raises 3200.00 to 3200.00
+Favorito folds
+grotle calls 3200.00
+NastyNa folds
+Belatrix35 calls 3200.00
+Spacer731 folds
+Jogador23 folds
+*** FLOP *** [7c Th 5h]
+Main pot 13400.00
+EOBIXXX checks
+grotle bets 6700.00
+Belatrix35 calls 6700.00
+EOBIXXX folds
+*** TURN *** [7c Th 5h] [Jd]
+Main pot 26800.00
+grotle checks
+Belatrix35 bets 8844.00
+grotle calls 8844.00
+*** RIVER *** [7c Th 5h Jd] [8d]
+Main pot 44488.00
+grotle checks
+Belatrix35 bets 31766.00
+grotle calls 31766.00
+*** SHOW DOWN ***
+Main pot 108020.00
+grotle shows [Qc Tc] (a pair of Tens [Th Tc Qc Jd 8d])
+Belatrix35 shows [9c 9d] (a straight, Jack high [Jd Th 9d 8d 7c])
+Belatrix35 collected 108020.00 from main pot
+*** SUMMARY ***
+Total pot 108020.00
+Board [7c Th 5h Jd 8d]
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [Qc Tc] and lost with a pair of Tens [Th Tc Qc Jd 8d]
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 (button) showed [9c 9d] and won 108020.00 with a straight, Jack high [Jd Th 9d 8d 7c]
+Seat 5: Spacer731 (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) folded on the Pre-Flop
+Seat 7: EOBIXXX folded on the Flop
+
+Game Hand #2478779726 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:38:48 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: Favorito (99400.00)
+Seat 2: grotle (104016.00)
+Seat 3: NastyNa (162280.00)
+Seat 4: Belatrix35 (147510.00)
+Seat 5: Spacer731 (229568.00)
+Seat 6: Jogador23 (170491.00)
+Seat 7: EOBIXXX (106759.00)
+Seat 8: ToastedWhoDat (100000.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Spacer731 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+Jogador23 posts the small blind 900.00
+EOBIXXX posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [4h 2h]
+ToastedWhoDat folds
+Favorito folds
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Spacer731 raises 3600.00 to 3600.00
+Jogador23 raises 14940.00 to 15840.00
+EOBIXXX raises 36180.00 to 37980.00
+Spacer731 folds
+Jogador23 folds
+Uncalled bet (22140.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 37080.00
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Spacer731 (button) folded on the Pre-Flop
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: EOBIXXX did not show and won 37080.00
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+
+Game Hand #2478779950 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:39:57 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: Favorito (99175.00)
+Seat 2: grotle (103791.00)
+Seat 3: NastyNa (162055.00)
+Seat 4: Belatrix35 (147285.00)
+Seat 6: Jogador23 (154426.00)
+Seat 7: EOBIXXX (127774.00)
+Seat 8: ToastedWhoDat (99775.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+EOBIXXX posts the small blind 900.00
+ToastedWhoDat posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [2s 7h]
+Favorito raises 3780.00 to 3780.00
+grotle folds
+NastyNa folds
+Belatrix35 calls 3780.00
+Jogador23 folds
+EOBIXXX folds
+ToastedWhoDat folds
+*** FLOP *** [7s Qs Jd]
+Main pot 11835.00
+Favorito bets 3906.00
+Belatrix35 calls 3906.00
+*** TURN *** [7s Qs Jd] [Qd]
+Main pot 19647.00
+Favorito bets 16308.00
+Belatrix35 folds
+Uncalled bet (16308.00) returned to Favorito
+Favorito does not show
+*** SUMMARY ***
+Total pot 19647.00
+Board [7s Qs Jd Qd]
+Seat 1: Favorito did not show and won 19647.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Turn
+Seat 6: Jogador23 (button) folded on the Pre-Flop
+Seat 7: EOBIXXX (small blind) folded on the Pre-Flop
+Seat 8: ToastedWhoDat (big blind) folded on the Pre-Flop
+
+Game Hand #2478780275 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:41:29 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: Favorito (110911.00)
+Seat 2: grotle (103566.00)
+Seat 3: NastyNa (161830.00)
+Seat 4: Belatrix35 (139374.00)
+Seat 6: Jogador23 (154201.00)
+Seat 7: EOBIXXX (126649.00)
+Seat 8: ToastedWhoDat (97750.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+ToastedWhoDat posts the small blind 900.00
+Favorito posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [5h 3s]
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Jogador23 raises 3960.00 to 3960.00
+EOBIXXX folds
+ToastedWhoDat raises 13455.00 to 14355.00
+Favorito folds
+Jogador23 folds
+Uncalled bet (10395.00) returned to ToastedWhoDat
+ToastedWhoDat does not show
+*** SUMMARY ***
+Total pot 11295.00
+Seat 1: Favorito (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX (button) folded on the Pre-Flop
+Seat 8: ToastedWhoDat did not show and won 11295.00
+
+Game Hand #2478780459 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:42:24 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: Favorito (108886.00)
+Seat 2: grotle (103341.00)
+Seat 3: NastyNa (161605.00)
+Seat 4: Belatrix35 (139149.00)
+Seat 6: Jogador23 (150016.00)
+Seat 7: EOBIXXX (126424.00)
+Seat 8: ToastedWhoDat (104860.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+Favorito posts the small blind 900.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [Kh Qh]
+NastyNa folds
+Belatrix35 folds
+Jogador23 folds
+EOBIXXX raises 3600.00 to 3600.00
+ToastedWhoDat raises 10238.00 to 10238.00
+Favorito folds
+grotle calls 8438.00
+EOBIXXX calls 6638.00
+*** FLOP *** [9d Qd 4s]
+Main pot 33189.00
+grotle checks
+EOBIXXX checks
+ToastedWhoDat bets 8297.00
+grotle calls 8297.00
+EOBIXXX calls 8297.00
+*** TURN *** [9d Qd 4s] [2d]
+Main pot 58080.00
+grotle checks
+EOBIXXX checks
+ToastedWhoDat checks
+*** RIVER *** [9d Qd 4s 2d] [9h]
+Main pot 58080.00
+grotle checks
+EOBIXXX bets 14520.00
+ToastedWhoDat calls 14520.00
+grotle folds
+*** SHOW DOWN ***
+Main pot 87120.00
+EOBIXXX shows [Th Tc] (two pair, Tens and Nines [Th Tc 9h 9d Qd])
+ToastedWhoDat shows [As 9c] (three of a kind, Set of Nines [9h 9d 9c As Qd])
+ToastedWhoDat collected 87120.00 from main pot
+*** SUMMARY ***
+Total pot 87120.00
+Board [9d Qd 4s 2d 9h]
+Seat 1: Favorito (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) folded on the River
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX showed [Th Tc] and lost with two pair, Tens and Nines [Th Tc 9h 9d Qd]
+Seat 8: ToastedWhoDat (button) showed [As 9c] and won 87120.00 with three of a kind, Set of Nines [9h 9d 9c As Qd]
+
+Game Hand #2478781002 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:44:55 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: Favorito (107761.00)
+Seat 2: grotle (84581.00)
+Seat 3: NastyNa (161380.00)
+Seat 4: Belatrix35 (138924.00)
+Seat 6: Jogador23 (149791.00)
+Seat 7: EOBIXXX (93144.00)
+Seat 8: ToastedWhoDat (158700.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+grotle posts the small blind 900.00
+NastyNa posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1575.00
+Dealt to grotle [3s Ad]
+Belatrix35 folds
+Jogador23 folds
+EOBIXXX folds
+ToastedWhoDat raises 4500.00 to 4500.00
+Favorito folds
+grotle calls 3600.00
+NastyNa calls 2700.00
+*** FLOP *** [Tc Qs 7c]
+Main pot 15075.00
+grotle checks
+NastyNa checks
+ToastedWhoDat bets 4968.00
+grotle folds
+NastyNa calls 4968.00
+*** TURN *** [Tc Qs 7c] [Js]
+Main pot 25011.00
+NastyNa checks
+ToastedWhoDat bets 18758.00
+NastyNa folds
+Uncalled bet (18758.00) returned to ToastedWhoDat
+ToastedWhoDat does not show
+*** SUMMARY ***
+Total pot 25011.00
+Board [Tc Qs 7c Js]
+Seat 1: Favorito (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Flop
+Seat 3: NastyNa (big blind) folded on the Turn
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat did not show and won 25011.00
+
+Game Hand #2478781465 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:47:01 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: Favorito (107536.00)
+Seat 2: grotle (79856.00)
+Seat 3: NastyNa (151687.00)
+Seat 4: Belatrix35 (138699.00)
+Seat 5: Olika25 (100000.00)
+Seat 6: Jogador23 (149566.00)
+Seat 7: EOBIXXX (92919.00)
+Seat 8: ToastedWhoDat (174018.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Olika25 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+NastyNa posts the small blind 900.00
+Belatrix35 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [6c Ad]
+Olika25 folds
+Jogador23 folds
+EOBIXXX raises 3600.00 to 3600.00
+ToastedWhoDat folds
+Favorito folds
+grotle calls 3600.00
+NastyNa folds
+Belatrix35 calls 1800.00
+*** FLOP *** [9h 9d 3s]
+Main pot 13500.00
+Belatrix35 checks
+EOBIXXX bets 3375.00
+grotle calls 3375.00
+Belatrix35 folds
+*** TURN *** [9h 9d 3s] [3d]
+Main pot 20250.00
+EOBIXXX bets 11025.00
+grotle calls 11025.00
+*** RIVER *** [9h 9d 3s 3d] [6h]
+Main pot 42300.00
+EOBIXXX bets 22950.00
+grotle calls 22950.00
+*** SHOW DOWN ***
+Main pot 88200.00
+grotle shows [6c Ad] (two pair, Nines and Sixs [9h 9d 6h 6c Ad])
+EOBIXXX shows [Jd 8d] (two pair, Nines and Threes [9h 9d 3s 3d Jd])
+grotle collected 88200.00 from main pot
+*** SUMMARY ***
+Total pot 88200.00
+Board [9h 9d 3s 3d 6h]
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) showed [6c Ad] and won 88200.00 with two pair, Nines and Sixs [9h 9d 6h 6c Ad]
+Seat 3: NastyNa (small blind) folded on the Pre-Flop
+Seat 4: Belatrix35 (big blind) folded on the Flop
+Seat 5: Olika25 folded on the Pre-Flop and did not bet
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX showed [Jd 8d] and lost with two pair, Nines and Threes [9h 9d 3s 3d Jd]
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+
+Game Hand #2478782133 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:50:13 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: Favorito (107311.00)
+Seat 2: grotle (126881.00)
+Seat 3: NastyNa (150562.00)
+Seat 4: Belatrix35 (134874.00)
+Seat 5: Olika25 (99775.00)
+Seat 6: Jogador23 (149341.00)
+Seat 7: EOBIXXX (51744.00)
+Seat 8: ToastedWhoDat (173793.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Olika25 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+Belatrix35 posts the small blind 900.00
+Olika25 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Ah 7d]
+Jogador23 folds
+EOBIXXX folds
+ToastedWhoDat raises 4500.00 to 4500.00
+Favorito folds
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Olika25 folds
+Uncalled bet (2700.00) returned to ToastedWhoDat
+ToastedWhoDat does not show
+*** SUMMARY ***
+Total pot 6300.00
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa (button) folded on the Pre-Flop
+Seat 4: Belatrix35 (small blind) folded on the Pre-Flop
+Seat 5: Olika25 (big blind) folded on the Pre-Flop
+Seat 6: Jogador23 folded on the Pre-Flop and did not bet
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat did not show and won 6300.00
+
+Game Hand #2478782268 - Tournament #33592573 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:50:52 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: Favorito (107086.00)
+Seat 2: grotle (126656.00)
+Seat 3: NastyNa (150337.00)
+Seat 4: Belatrix35 (133749.00)
+Seat 5: Olika25 (97750.00)
+Seat 6: Jogador23 (149116.00)
+Seat 7: EOBIXXX (51519.00)
+Seat 8: ToastedWhoDat (178068.00)
+Favorito posts ante 225.00
+grotle posts ante 225.00
+NastyNa posts ante 225.00
+Belatrix35 posts ante 225.00
+Olika25 posts ante 225.00
+Jogador23 posts ante 225.00
+EOBIXXX posts ante 225.00
+ToastedWhoDat posts ante 225.00
+Olika25 posts the small blind 900.00
+Jogador23 posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1800.00
+Dealt to grotle [Jh Td]
+EOBIXXX folds
+ToastedWhoDat folds
+Favorito folds
+grotle raises 3600.00 to 3600.00
+NastyNa folds
+Belatrix35 raises 10800.00 to 10800.00
+Olika25 folds
+Jogador23 folds
+grotle calls 7200.00
+*** FLOP *** [6h Kh 6d]
+Main pot 26100.00
+grotle checks
+Belatrix35 bets 6525.00
+grotle calls 6525.00
+*** TURN *** [6h Kh 6d] [4d]
+Main pot 39150.00
+grotle checks
+Belatrix35 bets 23963.00
+grotle folds
+Uncalled bet (23963.00) returned to Belatrix35
+Belatrix35 does not show
+*** SUMMARY ***
+Total pot 39150.00
+Board [6h Kh 6d 4d]
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Turn
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 did not show and won 39150.00
+Seat 5: Olika25 (small blind) folded on the Pre-Flop
+Seat 6: Jogador23 (big blind) folded on the Pre-Flop
+Seat 7: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+

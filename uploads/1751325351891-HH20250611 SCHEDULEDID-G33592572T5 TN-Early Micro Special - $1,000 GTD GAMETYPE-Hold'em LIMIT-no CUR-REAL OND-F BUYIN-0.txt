@@ -1,0 +1,1555 @@
+Game Hand #2478772089 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:01:30 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Garboogy (128233.00)
+Seat 3: 16sixteen (72050.00)
+Seat 4: prale21 (177650.00)
+Seat 5: Andrestuqui (101646.00)
+Seat 6: GeorgePin (315008.00)
+Seat 7: RealGNetwork (126362.00)
+Seat 8: grotle (102450.00)
+Garboogy posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+RealGNetwork posts the small blind 700.00
+grotle posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [9d 9c]
+Garboogy folds
+16sixteen folds
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork folds
+grotle does not show
+*** SUMMARY ***
+Total pot 3325.00
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 3: 16sixteen folded on the Pre-Flop and did not bet
+Seat 4: prale21 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin (button) folded on the Pre-Flop
+Seat 7: RealGNetwork (small blind) folded on the Pre-Flop
+Seat 8: grotle did not show and won 3325.00
+
+Game Hand #2478772205 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:02:15 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: Garboogy (128058.00)
+Seat 3: 16sixteen (71875.00)
+Seat 4: prale21 (177475.00)
+Seat 5: Andrestuqui (101471.00)
+Seat 6: GeorgePin (314833.00)
+Seat 7: RealGNetwork (125487.00)
+Seat 8: grotle (104200.00)
+Garboogy posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+grotle posts the small blind 700.00
+Garboogy posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [6d 7d]
+16sixteen folds
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork raises 3763.00 to 3763.00
+grotle calls 3063.00
+Garboogy folds
+*** FLOP *** [2d 7s Kh]
+Main pot 10151.00
+grotle bets 2800.00
+RealGNetwork raises 14613.00 to 14613.00
+grotle calls 11813.00
+*** TURN *** [2d 7s Kh] [Jc]
+Main pot 39377.00
+grotle checks
+RealGNetwork bets 16844.00
+grotle calls 16844.00
+*** RIVER *** [2d 7s Kh Jc] [Qs]
+Main pot 73065.00
+grotle checks
+RealGNetwork bets 90092.00 and is all-in
+grotle folds
+Uncalled bet (90092.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 73065.00
+Board [2d 7s Kh Jc Qs]
+Seat 1: Garboogy (big blind) folded on the Pre-Flop
+Seat 3: 16sixteen folded on the Pre-Flop and did not bet
+Seat 4: prale21 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork did not show and won 73065.00
+Seat 8: grotle (small blind) folded on the River
+
+Game Hand #2478772551 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:04:13 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Garboogy (126483.00)
+Seat 3: 16sixteen (71700.00)
+Seat 4: prale21 (177300.00)
+Seat 5: Andrestuqui (101296.00)
+Seat 6: GeorgePin (314658.00)
+Seat 7: RealGNetwork (163157.00)
+Seat 8: grotle (68805.00)
+Garboogy posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+Garboogy posts the small blind 700.00
+16sixteen posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [3c As]
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork folds
+grotle raises 2800.00 to 2800.00
+Garboogy folds
+16sixteen folds
+Uncalled bet (1400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 4725.00
+Seat 1: Garboogy (small blind) folded on the Pre-Flop
+Seat 3: 16sixteen (big blind) folded on the Pre-Flop
+Seat 4: prale21 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 4725.00
+
+Game Hand #2478772637 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:04:41 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Garboogy (125608.00)
+Seat 2: khmo1 will be allowed to play after the button
+Seat 3: 16sixteen (70125.00)
+Seat 4: prale21 (177125.00)
+Seat 5: Andrestuqui (101121.00)
+Seat 6: GeorgePin (314483.00)
+Seat 7: RealGNetwork (162982.00)
+Seat 8: grotle (71955.00)
+Garboogy posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+16sixteen posts the small blind 700.00
+prale21 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Ac 3c]
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork folds
+grotle raises 2800.00 to 2800.00
+Garboogy folds
+16sixteen folds
+prale21 folds
+Uncalled bet (1400.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 4725.00
+Seat 1: Garboogy (button) folded on the Pre-Flop
+Seat 3: 16sixteen (small blind) folded on the Pre-Flop
+Seat 4: prale21 (big blind) folded on the Pre-Flop
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 4725.00
+
+Game Hand #2478772760 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:05:21 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 1: Garboogy (125433.00)
+Seat 2: khmo1 (100000.00)
+Seat 3: 16sixteen (69250.00)
+Seat 4: prale21 (175550.00)
+Seat 5: Andrestuqui (100946.00)
+Seat 6: GeorgePin (314308.00)
+Seat 7: RealGNetwork (162807.00)
+Seat 8: grotle (75105.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+prale21 posts the small blind 700.00
+Andrestuqui posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [4c Th]
+GeorgePin raises 2800.00 to 2800.00
+RealGNetwork raises 9625.00 to 9625.00
+grotle folds
+Garboogy folds
+khmo1 calls 9625.00
+16sixteen folds
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+*** FLOP *** [Ah 3h 2s]
+Main pot 25550.00
+RealGNetwork bets 8488.00
+khmo1 folds
+Uncalled bet (8488.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 25550.00
+Board [Ah 3h 2s]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 folded on the Flop
+Seat 3: 16sixteen (button) folded on the Pre-Flop
+Seat 4: prale21 (small blind) folded on the Pre-Flop
+Seat 5: Andrestuqui (big blind) folded on the Pre-Flop
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork did not show and won 25550.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478772933 - Tournament #33592572 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:06:18 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: Garboogy (125258.00)
+Seat 2: khmo1 (90200.00)
+Seat 3: 16sixteen (69075.00)
+Seat 4: prale21 (174675.00)
+Seat 5: Andrestuqui (99371.00)
+Seat 6: GeorgePin (311333.00)
+Seat 7: RealGNetwork (178557.00)
+Seat 8: grotle (74930.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+Andrestuqui posts the small blind 700.00
+GeorgePin posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Qh 6h]
+RealGNetwork folds
+grotle folds
+Garboogy raises 2800.00 to 2800.00
+khmo1 calls 2800.00
+16sixteen folds
+prale21 calls 2800.00
+Andrestuqui folds
+GeorgePin folds
+*** FLOP *** [4h 3h 9c]
+Main pot 11900.00
+Garboogy bets 8400.00
+khmo1 calls 8400.00
+prale21 calls 8400.00
+*** TURN *** [4h 3h 9c] [5d]
+Main pot 37100.00
+Garboogy checks
+khmo1 checks
+prale21 checks
+*** RIVER *** [4h 3h 9c 5d] [7d]
+Main pot 37100.00
+Garboogy checks
+khmo1 checks
+prale21 checks
+*** SHOW DOWN ***
+Main pot 37100.00
+Garboogy shows [Kh Jh] (a high card, King high [Kh Jh 9c 7d 5d])
+khmo1 shows [Js Kc] (a high card, King high [Kc Js 9c 7d 5d])
+prale21 shows [Td 9d] (a pair of Nines [9d 9c Td 7d 5d])
+prale21 collected 37100.00 from main pot
+*** SUMMARY ***
+Total pot 37100.00
+Board [4h 3h 9c 5d 7d]
+Seat 1: Garboogy showed [Kh Jh] and lost with a high card, King high [Kh Jh 9c 7d 5d]
+Seat 2: khmo1 showed [Js Kc] and lost with a high card, King high [Kc Js 9c 7d 5d]
+Seat 3: 16sixteen folded on the Pre-Flop and did not bet
+Seat 4: prale21 (button) showed [Td 9d] and won 37100.00 with a pair of Nines [9d 9c Td 7d 5d]
+Seat 5: Andrestuqui (small blind) folded on the Pre-Flop
+Seat 6: GeorgePin (big blind) folded on the Pre-Flop
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478773334 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:08:32 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 1: Garboogy (113883.00)
+Seat 2: khmo1 (78825.00)
+Seat 3: 16sixteen (68900.00)
+Seat 4: prale21 (200400.00)
+Seat 5: Andrestuqui (98496.00)
+Seat 6: GeorgePin (309758.00)
+Seat 7: RealGNetwork (178382.00)
+Seat 8: grotle (74755.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+GeorgePin posts the small blind 750.00
+RealGNetwork posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [6d As]
+grotle folds
+Garboogy folds
+khmo1 folds
+16sixteen raises 3000.00 to 3000.00
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork calls 1500.00
+*** FLOP *** [7s 4c Qs]
+Main pot 8150.00
+RealGNetwork checks
+16sixteen bets 2690.00
+RealGNetwork raises 14338.00 to 14338.00
+16sixteen folds
+Uncalled bet (11648.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 13530.00
+Board [7s 4c Qs]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 folded on the Pre-Flop and did not bet
+Seat 3: 16sixteen folded on the Flop
+Seat 4: prale21 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui (button) folded on the Pre-Flop
+Seat 6: GeorgePin (small blind) folded on the Pre-Flop
+Seat 7: RealGNetwork did not show and won 13530.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478773504 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:09:26 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Garboogy (113708.00)
+Seat 2: khmo1 (78650.00)
+Seat 3: 16sixteen (63035.00)
+Seat 4: prale21 (200225.00)
+Seat 5: Andrestuqui (98321.00)
+Seat 6: GeorgePin (308833.00)
+Seat 7: RealGNetwork (186047.00)
+Seat 8: grotle (74580.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+16sixteen posts ante 175.00
+prale21 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+RealGNetwork posts the small blind 750.00
+grotle posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [6c 4c]
+Garboogy folds
+khmo1 calls 1500.00
+16sixteen calls 1500.00
+prale21 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork calls 750.00
+grotle checks
+*** FLOP *** [Js 3c 2d]
+Main pot 7400.00
+RealGNetwork bets 3700.00
+grotle calls 3700.00
+khmo1 folds
+16sixteen calls 3700.00
+*** TURN *** [Js 3c 2d] [4s]
+Main pot 18500.00
+RealGNetwork bets 13875.00
+grotle calls 13875.00
+16sixteen folds
+*** RIVER *** [Js 3c 2d 4s] [Jh]
+Main pot 46250.00
+RealGNetwork checks
+grotle checks
+*** SHOW DOWN ***
+Main pot 46250.00
+RealGNetwork shows [2s Qs] (two pair, Jacks and Deuces [Js Jh 2s 2d Qs])
+grotle shows [6c 4c] (two pair, Jacks and Fours [Js Jh 4s 4c 6c])
+grotle collected 46250.00 from main pot
+*** SUMMARY ***
+Total pot 46250.00
+Board [Js 3c 2d 4s Jh]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 folded on the Flop
+Seat 3: 16sixteen folded on the Turn
+Seat 4: prale21 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin (button) folded on the Pre-Flop
+Seat 7: RealGNetwork (small blind) showed [2s Qs] and lost with two pair, Jacks and Deuces [Js Jh 2s 2d Qs]
+Seat 8: grotle (big blind) showed [6c 4c] and won 46250.00 with two pair, Jacks and Fours [Js Jh 4s 4c 6c]
+
+Game Hand #2478773876 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:11:17 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: Garboogy (113533.00)
+Seat 2: khmo1 (76975.00)
+Seat 5: Andrestuqui (98146.00)
+Seat 6: GeorgePin (308658.00)
+Seat 7: RealGNetwork (166797.00)
+Seat 8: grotle (101580.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+grotle posts the small blind 750.00
+Garboogy posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [9h 7h]
+khmo1 folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork raises 3900.00 to 3900.00
+grotle calls 3150.00
+Garboogy folds
+*** FLOP *** [2h Th Ks]
+Main pot 10350.00
+grotle checks
+RealGNetwork bets 7763.00
+grotle calls 7763.00
+*** TURN *** [2h Th Ks] [Jc]
+Main pot 25876.00
+grotle checks
+RealGNetwork bets 15188.00
+grotle calls 15188.00
+*** RIVER *** [2h Th Ks Jc] [6h]
+Main pot 56252.00
+grotle bets 63000.00
+RealGNetwork calls 63000.00
+*** SHOW DOWN ***
+Main pot 182252.00
+RealGNetwork shows [Ac Qc] (a straight, Ace high [Ac Ks Qc Jc Th])
+grotle shows [9h 7h] (a flush, Ten high [Th 9h 7h 6h 2h])
+grotle collected 182252.00 from main pot
+*** SUMMARY ***
+Total pot 182252.00
+Board [2h Th Ks Jc 6h]
+Seat 1: Garboogy (big blind) folded on the Pre-Flop
+Seat 2: khmo1 folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork (button) showed [Ac Qc] and lost with a straight, Ace high [Ac Ks Qc Jc Th]
+Seat 8: grotle (small blind) showed [9h 7h] and won 182252.00 with a flush, Ten high [Th 9h 7h 6h 2h]
+
+Game Hand #2478774307 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:13:06 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Garboogy (111858.00)
+Seat 2: khmo1 (76800.00)
+Seat 5: Andrestuqui (97971.00)
+Seat 6: GeorgePin (308483.00)
+Seat 7: RealGNetwork (76771.00)
+Seat 8: grotle (193806.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+Garboogy posts the small blind 750.00
+khmo1 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [8h 6h]
+Andrestuqui raises 3450.00 to 3450.00
+GeorgePin calls 3450.00
+RealGNetwork folds
+grotle calls 3450.00
+Garboogy folds
+khmo1 calls 1950.00
+*** FLOP *** [7h 2s 6d]
+Main pot 15600.00
+khmo1 checks
+Andrestuqui bets 3900.00
+GeorgePin calls 3900.00
+grotle raises 24375.00 to 24375.00
+khmo1 folds
+Andrestuqui folds
+GeorgePin folds
+Uncalled bet (20475.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27300.00
+Board [7h 2s 6d]
+Seat 1: Garboogy (small blind) folded on the Pre-Flop
+Seat 2: khmo1 (big blind) folded on the Flop
+Seat 5: Andrestuqui folded on the Flop
+Seat 6: GeorgePin folded on the Flop
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 27300.00
+
+Game Hand #2478774594 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:14:10 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Garboogy (110933.00)
+Seat 2: khmo1 (73175.00)
+Seat 5: Andrestuqui (90446.00)
+Seat 6: GeorgePin (300958.00)
+Seat 7: RealGNetwork (76596.00)
+Seat 8: grotle (213581.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+khmo1 posts the small blind 750.00
+Andrestuqui posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [9d Ad]
+GeorgePin folds
+RealGNetwork folds
+grotle raises 3000.00 to 3000.00
+Garboogy raises 9000.00 to 9000.00
+khmo1 calls 8250.00
+Andrestuqui folds
+grotle calls 6000.00
+*** FLOP *** [5c Tc 2d]
+Main pot 29550.00
+khmo1 checks
+grotle checks
+Garboogy checks
+*** TURN *** [5c Tc 2d] [Jc]
+Main pot 29550.00
+khmo1 checks
+grotle checks
+Garboogy bets 12090.00
+khmo1 folds
+grotle calls 12090.00
+*** RIVER *** [5c Tc 2d Jc] [Jd]
+Main pot 53730.00
+grotle checks
+Garboogy bets 35142.00
+grotle folds
+Uncalled bet (35142.00) returned to Garboogy
+Garboogy does not show
+*** SUMMARY ***
+Total pot 53730.00
+Board [5c Tc 2d Jc Jd]
+Seat 1: Garboogy did not show and won 53730.00
+Seat 2: khmo1 (small blind) folded on the Turn
+Seat 5: Andrestuqui (big blind) folded on the Pre-Flop
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the River
+
+Game Hand #2478774981 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:15:48 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 1: Garboogy (143398.00)
+Seat 2: khmo1 (64000.00)
+Seat 5: Andrestuqui (88771.00)
+Seat 6: GeorgePin (300783.00)
+Seat 7: RealGNetwork (76421.00)
+Seat 8: grotle (192316.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+Andrestuqui posts the small blind 750.00
+GeorgePin posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1050.00
+Dealt to grotle [Jd 2d]
+RealGNetwork folds
+grotle folds
+Garboogy folds
+khmo1 calls 1500.00
+Andrestuqui calls 750.00
+GeorgePin checks
+*** FLOP *** [9c Js 8d]
+Main pot 5550.00
+Andrestuqui checks
+GeorgePin checks
+khmo1 bets 4163.00
+Andrestuqui folds
+GeorgePin calls 4163.00
+*** TURN *** [9c Js 8d] [7d]
+Main pot 13876.00
+GeorgePin checks
+khmo1 bets 58162.00 and is all-in
+GeorgePin folds
+Uncalled bet (58162.00) returned to khmo1
+khmo1 does not show
+*** SUMMARY ***
+Total pot 13876.00
+Board [9c Js 8d 7d]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 did not show and won 13876.00
+Seat 5: Andrestuqui (small blind) folded on the Flop
+Seat 6: GeorgePin (big blind) folded on the Turn
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478775324 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:17:21 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 1: Garboogy (143223.00)
+Seat 2: khmo1 (72038.00)
+Seat 3: dibraldim (96595.00)
+Seat 4: b0tanik (58336.00)
+Seat 5: Andrestuqui (87096.00)
+Seat 6: GeorgePin (294945.00)
+Seat 7: RealGNetwork (76246.00)
+Seat 8: grotle (192141.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+dibraldim posts ante 175.00
+b0tanik posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+GeorgePin posts the small blind 750.00
+RealGNetwork posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2d 7h]
+grotle folds
+Garboogy folds
+khmo1 calls 1500.00
+dibraldim folds
+b0tanik folds
+Andrestuqui raises 8250.00 to 8250.00
+GeorgePin folds
+RealGNetwork calls 6750.00
+khmo1 calls 6750.00
+*** FLOP *** [3s Td 2h]
+Main pot 26900.00
+RealGNetwork checks
+khmo1 checks
+Andrestuqui checks
+*** TURN *** [3s Td 2h] [5h]
+Main pot 26900.00
+RealGNetwork bets 13450.00
+khmo1 calls 13450.00
+Andrestuqui folds
+*** RIVER *** [3s Td 2h 5h] [Kh]
+Main pot 53800.00
+RealGNetwork bets 14950.00
+khmo1 folds
+Uncalled bet (14950.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 53800.00
+Board [3s Td 2h 5h Kh]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 folded on the River
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui (button) folded on the Turn
+Seat 6: GeorgePin (small blind) folded on the Pre-Flop
+Seat 7: RealGNetwork did not show and won 53800.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478775668 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:18:53 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Garboogy (143048.00)
+Seat 2: khmo1 (50163.00)
+Seat 3: dibraldim (96420.00)
+Seat 4: b0tanik (58161.00)
+Seat 5: Andrestuqui (78671.00)
+Seat 6: GeorgePin (294020.00)
+Seat 7: RealGNetwork (108171.00)
+Seat 8: grotle (191966.00)
+Garboogy posts ante 175.00
+khmo1 posts ante 175.00
+dibraldim posts ante 175.00
+b0tanik posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+RealGNetwork posts the small blind 750.00
+grotle posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [4d Ah]
+Garboogy folds
+khmo1 calls 1500.00
+dibraldim folds
+b0tanik folds
+Andrestuqui raises 8250.00 to 8250.00
+GeorgePin folds
+RealGNetwork folds
+grotle calls 6750.00
+khmo1 calls 6750.00
+*** FLOP *** [8d 7d 9d]
+Main pot 26900.00
+grotle checks
+khmo1 bets 41738.00 and is all-in
+Andrestuqui calls 41738.00
+grotle folds
+*** TURN *** [8d 7d 9d] [9s]
+Main pot 110376.00
+*** RIVER *** [8d 7d 9d 9s] [Td]
+Main pot 110376.00
+*** SHOW DOWN ***
+Main pot 110376.00
+khmo1 shows [9h 3h] (three of a kind, Set of Nines [9s 9h 9d Td 8d])
+Andrestuqui shows [Jd Qd] (a straight flush, Queen high [Qd Jd Td 9d 8d])
+Andrestuqui collected 110376.00 from main pot
+*** SUMMARY ***
+Total pot 110376.00
+Board [8d 7d 9d 9s Td]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: khmo1 showed [9h 3h] and lost with three of a kind, Set of Nines [9s 9h 9d Td 8d]
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui showed [Jd Qd] and won 110376.00 with a straight flush, Queen high [Qd Jd Td 9d 8d]
+Seat 6: GeorgePin (button) folded on the Pre-Flop
+Seat 7: RealGNetwork (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Flop
+
+Game Hand #2478775846 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:19:41 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: Garboogy (142873.00)
+Seat 3: dibraldim (96245.00)
+Seat 4: b0tanik (57986.00)
+Seat 5: Andrestuqui (138884.00)
+Seat 6: GeorgePin (293845.00)
+Seat 7: RealGNetwork (107246.00)
+Seat 8: grotle (183541.00)
+Garboogy posts ante 175.00
+dibraldim posts ante 175.00
+b0tanik posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+grotle posts the small blind 750.00
+Garboogy posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Ks 4d]
+dibraldim folds
+b0tanik folds
+Andrestuqui raises 3750.00 to 3750.00
+GeorgePin folds
+RealGNetwork folds
+grotle folds
+Garboogy folds
+Uncalled bet (2250.00) returned to Andrestuqui
+Andrestuqui does not show
+*** SUMMARY ***
+Total pot 4975.00
+Seat 1: Garboogy (big blind) folded on the Pre-Flop
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui did not show and won 4975.00
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2478775971 - Tournament #33592572 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:20:14 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Garboogy (141198.00)
+Seat 3: dibraldim (96070.00)
+Seat 4: b0tanik (57811.00)
+Seat 5: Andrestuqui (142184.00)
+Seat 6: GeorgePin (293670.00)
+Seat 7: RealGNetwork (107071.00)
+Seat 8: grotle (182616.00)
+Garboogy posts ante 175.00
+dibraldim posts ante 175.00
+b0tanik posts ante 175.00
+Andrestuqui posts ante 175.00
+GeorgePin posts ante 175.00
+RealGNetwork posts ante 175.00
+grotle posts ante 175.00
+Garboogy posts the small blind 750.00
+dibraldim posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [7s 7h]
+b0tanik folds
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork raises 3988.00 to 3988.00
+grotle raises 12576.00 to 12576.00
+Garboogy folds
+dibraldim folds
+RealGNetwork calls 8588.00
+*** FLOP *** [Kh 5h 3h]
+Main pot 28627.00
+RealGNetwork checks
+grotle bets 15750.00
+RealGNetwork calls 15750.00
+*** TURN *** [Kh 5h 3h] [4c]
+Main pot 60127.00
+RealGNetwork checks
+grotle checks
+*** RIVER *** [Kh 5h 3h 4c] [5d]
+Main pot 60127.00
+RealGNetwork bets 15032.00
+grotle calls 15032.00
+*** SHOW DOWN ***
+Main pot 90191.00
+RealGNetwork shows [9d Kd] (two pair, Kings and Fives [Kh Kd 5h 5d 9d])
+grotle shows [7s 7h] (two pair, Sevens and Fives [7s 7h 5h 5d Kh])
+RealGNetwork collected 90191.00 from main pot
+*** SUMMARY ***
+Total pot 90191.00
+Board [Kh 5h 3h 4c 5d]
+Seat 1: Garboogy (small blind) folded on the Pre-Flop
+Seat 3: dibraldim (big blind) folded on the Pre-Flop
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork showed [9d Kd] and won 90191.00 with two pair, Kings and Fives [Kh Kd 5h 5d 9d]
+Seat 8: grotle (button) showed [7s 7h] and lost with two pair, Sevens and Fives [7s 7h 5h 5d Kh]
+
+Game Hand #2478776388 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:22:11 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Garboogy (140273.00)
+Seat 3: dibraldim (94395.00)
+Seat 4: b0tanik (57636.00)
+Seat 5: Andrestuqui (142009.00)
+Seat 6: GeorgePin (293495.00)
+Seat 7: RealGNetwork (153729.00)
+Seat 8: grotle (139083.00)
+Garboogy posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+dibraldim posts the small blind 800.00
+b0tanik posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2d 3d]
+Andrestuqui folds
+GeorgePin raises 3200.00 to 3200.00
+RealGNetwork folds
+grotle calls 3200.00
+Garboogy folds
+dibraldim folds
+b0tanik calls 1600.00
+*** FLOP *** [2c 7d 4d]
+Main pot 11800.00
+b0tanik checks
+GeorgePin bets 22750.00
+grotle raises 51400.00 to 51400.00
+b0tanik folds
+GeorgePin raises 267345.00 to 290095.00 and is all-in
+grotle calls 84283.00 and is all-in
+Uncalled bet (154412.00) returned to GeorgePin
+*** TURN *** [2c 7d 4d] [3c]
+Main pot 283166.00
+*** RIVER *** [2c 7d 4d 3c] [8d]
+Main pot 283166.00
+*** SHOW DOWN ***
+Main pot 283166.00
+GeorgePin shows [Qd Qh] (a pair of Queens [Qh Qd 8d 7d 4d])
+grotle shows [2d 3d] (a flush, Eight high [8d 7d 4d 3d 2d])
+grotle collected 283166.00 from main pot
+*** SUMMARY ***
+Total pot 283166.00
+Board [2c 7d 4d 3c 8d]
+Seat 1: Garboogy (button) folded on the Pre-Flop
+Seat 3: dibraldim (small blind) folded on the Pre-Flop
+Seat 4: b0tanik (big blind) folded on the Flop
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin showed [Qd Qh] and lost with a pair of Queens [Qh Qd 8d 7d 4d]
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [2d 3d] and won 283166.00 with a flush, Eight high [8d 7d 4d 3d 2d]
+
+Game Hand #2478776778 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:23:58 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 1: Garboogy (140073.00)
+Seat 3: dibraldim (93395.00)
+Seat 4: b0tanik (54236.00)
+Seat 5: Andrestuqui (141809.00)
+Seat 6: GeorgePin (154412.00)
+Seat 7: RealGNetwork (153529.00)
+Seat 8: grotle (283166.00)
+Garboogy posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+b0tanik posts the small blind 800.00
+Andrestuqui posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [As 4h]
+GeorgePin folds
+RealGNetwork raises 3200.00 to 3200.00
+grotle folds
+Garboogy folds
+dibraldim folds
+b0tanik folds
+Andrestuqui calls 1600.00
+*** FLOP *** [8d 7d Jd]
+Main pot 8600.00
+Andrestuqui checks
+RealGNetwork bets 2150.00
+Andrestuqui calls 2150.00
+*** TURN *** [8d 7d Jd] [Kc]
+Main pot 12900.00
+Andrestuqui checks
+RealGNetwork bets 7250.00
+Andrestuqui folds
+Uncalled bet (7250.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 12900.00
+Board [8d 7d Jd Kc]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 3: dibraldim (button) folded on the Pre-Flop
+Seat 4: b0tanik (small blind) folded on the Pre-Flop
+Seat 5: Andrestuqui (big blind) folded on the Turn
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork did not show and won 12900.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478777014 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:25:02 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: Garboogy (139873.00)
+Seat 3: dibraldim (93195.00)
+Seat 4: b0tanik (53236.00)
+Seat 5: Andrestuqui (136259.00)
+Seat 6: GeorgePin (154212.00)
+Seat 7: RealGNetwork (160879.00)
+Seat 8: grotle (282966.00)
+Garboogy posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+Andrestuqui posts the small blind 800.00
+GeorgePin posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [7d As]
+RealGNetwork raises 4300.00 to 4300.00
+grotle folds
+Garboogy folds
+dibraldim folds
+b0tanik folds
+Andrestuqui folds
+GeorgePin folds
+Uncalled bet (2700.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 5400.00
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik (button) folded on the Pre-Flop
+Seat 5: Andrestuqui (small blind) folded on the Pre-Flop
+Seat 6: GeorgePin (big blind) folded on the Pre-Flop
+Seat 7: RealGNetwork did not show and won 5400.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478777127 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:25:34 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 1: Garboogy (139673.00)
+Seat 3: dibraldim (92995.00)
+Seat 4: b0tanik (53036.00)
+Seat 5: Andrestuqui (135259.00)
+Seat 6: GeorgePin (152412.00)
+Seat 7: RealGNetwork (164479.00)
+Seat 8: grotle (282766.00)
+Garboogy posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+GeorgePin posts the small blind 800.00
+RealGNetwork posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [5s Ad]
+grotle raises 3200.00 to 3200.00
+Garboogy folds
+dibraldim folds
+b0tanik folds
+Andrestuqui calls 3200.00
+GeorgePin calls 2400.00
+RealGNetwork calls 1600.00
+*** FLOP *** [4s Ks 7s]
+Main pot 14200.00
+GeorgePin checks
+RealGNetwork checks
+grotle checks
+Andrestuqui checks
+*** TURN *** [4s Ks 7s] [Ac]
+Main pot 14200.00
+GeorgePin checks
+RealGNetwork checks
+grotle checks
+Andrestuqui checks
+*** RIVER *** [4s Ks 7s Ac] [Th]
+Main pot 14200.00
+GeorgePin checks
+RealGNetwork checks
+grotle checks
+Andrestuqui checks
+*** SHOW DOWN ***
+Main pot 14200.00
+Andrestuqui shows [8d 9s] (a high card, Ace high [Ac Ks Th 9s 8d])
+GeorgePin shows [9h Ah] (a pair of Aces [Ah Ac Ks Th 9h])
+RealGNetwork shows [6c 4d] (a pair of Fours [4s 4d Ac Ks Th])
+grotle shows [5s Ad] (a pair of Aces [Ad Ac Ks Th 7s])
+GeorgePin collected 14200.00 from main pot
+*** SUMMARY ***
+Total pot 14200.00
+Board [4s Ks 7s Ac Th]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui (button) showed [8d 9s] and lost with a high card, Ace high [Ac Ks Th 9s 8d]
+Seat 6: GeorgePin (small blind) showed [9h Ah] and won 14200.00 with a pair of Aces [Ah Ac Ks Th 9h] with the kicker Nine
+Seat 7: RealGNetwork (big blind) showed [6c 4d] and lost with a pair of Fours [4s 4d Ac Ks Th]
+Seat 8: grotle showed [5s Ad] and lost with a pair of Aces [Ad Ac Ks Th 7s]
+
+Game Hand #2478777470 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:27:12 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 1: Garboogy (139473.00)
+Seat 2: Hogir (100000.00)
+Seat 3: dibraldim (92795.00)
+Seat 4: b0tanik (52836.00)
+Seat 5: Andrestuqui (131859.00)
+Seat 6: GeorgePin (163212.00)
+Seat 7: RealGNetwork (161079.00)
+Seat 8: grotle (279366.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+RealGNetwork posts the small blind 800.00
+grotle posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [4c 3c]
+Garboogy folds
+Hogir raises 4000.00 to 4000.00
+dibraldim folds
+b0tanik folds
+Andrestuqui folds
+GeorgePin calls 4000.00
+RealGNetwork folds
+grotle calls 2400.00
+*** FLOP *** [9c Kc Ah]
+Main pot 14400.00
+grotle checks
+Hogir bets 4800.00
+GeorgePin raises 14400.00 to 14400.00
+grotle calls 14400.00
+Hogir folds
+*** TURN *** [9c Kc Ah] [Jh]
+Main pot 48000.00
+grotle checks
+GeorgePin bets 144612.00 and is all-in
+grotle folds
+Uncalled bet (144612.00) returned to GeorgePin
+GeorgePin does not show
+*** SUMMARY ***
+Total pot 48000.00
+Board [9c Kc Ah Jh]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: Hogir folded on the Flop
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin did not show and won 48000.00
+Seat 7: RealGNetwork (small blind) folded on the Pre-Flop
+Seat 8: grotle (big blind) folded on the Turn
+
+Game Hand #2478777749 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:28:35 UTC
+Table '5' 8-max Seat #7 is the button
+Seat 1: Garboogy (139273.00)
+Seat 2: Hogir (91000.00)
+Seat 3: dibraldim (92595.00)
+Seat 4: b0tanik (52636.00)
+Seat 5: Andrestuqui (131659.00)
+Seat 6: GeorgePin (192612.00)
+Seat 7: RealGNetwork (160079.00)
+Seat 8: grotle (260766.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+grotle posts the small blind 800.00
+Garboogy posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Js 3d]
+Hogir calls 1600.00
+dibraldim folds
+b0tanik folds
+Andrestuqui folds
+GeorgePin raises 3200.00 to 3200.00
+RealGNetwork folds
+grotle folds
+Garboogy calls 1600.00
+Hogir calls 1600.00
+*** FLOP *** [3c Ac 6c]
+Main pot 12000.00
+Garboogy checks
+Hogir checks
+GeorgePin bets 2400.00
+Garboogy folds
+Hogir folds
+Uncalled bet (2400.00) returned to GeorgePin
+GeorgePin does not show
+*** SUMMARY ***
+Total pot 12000.00
+Board [3c Ac 6c]
+Seat 1: Garboogy (big blind) folded on the Flop
+Seat 2: Hogir folded on the Flop
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin did not show and won 12000.00
+Seat 7: RealGNetwork (button) folded on the Pre-Flop
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2478777901 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:29:28 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: Garboogy (135873.00)
+Seat 2: Hogir (87600.00)
+Seat 3: dibraldim (92395.00)
+Seat 4: b0tanik (52436.00)
+Seat 5: Andrestuqui (131459.00)
+Seat 6: GeorgePin (201212.00)
+Seat 7: RealGNetwork (159879.00)
+Seat 8: grotle (259766.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+Garboogy posts the small blind 800.00
+Hogir posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Qc 6d]
+dibraldim folds
+b0tanik raises 3520.00 to 3520.00
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork folds
+grotle calls 3520.00
+Garboogy folds
+Hogir folds
+*** FLOP *** [7d Ts 4c]
+Main pot 11040.00
+b0tanik bets 3643.00
+grotle calls 3643.00
+*** TURN *** [7d Ts 4c] [7s]
+Main pot 18326.00
+b0tanik checks
+grotle checks
+*** RIVER *** [7d Ts 4c 7s] [Qh]
+Main pot 18326.00
+b0tanik checks
+grotle bets 18326.00
+b0tanik folds
+Uncalled bet (18326.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 18326.00
+Board [7d Ts 4c 7s Qh]
+Seat 1: Garboogy (small blind) folded on the Pre-Flop
+Seat 2: Hogir (big blind) folded on the Pre-Flop
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the River
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 18326.00
+
+Game Hand #2478778170 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:30:50 UTC
+Table '5' 8-max Seat #1 is the button
+Seat 1: Garboogy (134873.00)
+Seat 2: Hogir (85800.00)
+Seat 3: dibraldim (92195.00)
+Seat 4: b0tanik (45073.00)
+Seat 5: Andrestuqui (131259.00)
+Seat 6: GeorgePin (201012.00)
+Seat 7: RealGNetwork (159679.00)
+Seat 8: grotle (270729.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+Hogir posts the small blind 800.00
+dibraldim posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [5s 7s]
+b0tanik folds
+Andrestuqui raises 3680.00 to 3680.00
+GeorgePin folds
+RealGNetwork folds
+grotle calls 3680.00
+Garboogy folds
+Hogir calls 2880.00
+dibraldim folds
+*** FLOP *** [Tc 4h 5d]
+Main pot 14240.00
+Hogir checks
+Andrestuqui bets 3560.00
+grotle calls 3560.00
+Hogir raises 8720.00 to 8720.00
+Andrestuqui calls 5160.00
+grotle calls 5160.00
+*** TURN *** [Tc 4h 5d] [Js]
+Main pot 40400.00
+Hogir bets 6400.00
+Andrestuqui folds
+grotle calls 6400.00
+*** RIVER *** [Tc 4h 5d Js] [2c]
+Main pot 53200.00
+Hogir bets 8000.00
+grotle raises 34096.00 to 34096.00
+Hogir calls 26096.00
+*** SHOW DOWN ***
+Main pot 121392.00
+Hogir shows [Th Qs] (a pair of Tens [Th Tc Qs Js 5d])
+grotle shows [5s 7s] (a pair of Fives [5s 5d Js Tc 7s])
+Hogir collected 121392.00 from main pot
+*** SUMMARY ***
+Total pot 121392.00
+Board [Tc 4h 5d Js 2c]
+Seat 1: Garboogy (button) folded on the Pre-Flop
+Seat 2: Hogir (small blind) showed [Th Qs] and won 121392.00 with a pair of Tens [Th Tc Qs Js 5d]
+Seat 3: dibraldim (big blind) folded on the Pre-Flop
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Andrestuqui folded on the Turn
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [5s 7s] and lost with a pair of Fives [5s 5d Js Tc 7s]
+
+Game Hand #2478778628 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:33:06 UTC
+Table '5' 8-max Seat #2 is the button
+Seat 1: Garboogy (134673.00)
+Seat 2: Hogir (154096.00)
+Seat 3: dibraldim (90395.00)
+Seat 4: b0tanik (44873.00)
+Seat 5: Andrestuqui (118659.00)
+Seat 6: GeorgePin (200812.00)
+Seat 7: RealGNetwork (159479.00)
+Seat 8: grotle (217633.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+dibraldim posts the small blind 800.00
+b0tanik posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Jh 6h]
+Andrestuqui folds
+GeorgePin folds
+RealGNetwork raises 4400.00 to 4400.00
+grotle folds
+Garboogy folds
+Hogir folds
+dibraldim calls 3600.00
+b0tanik folds
+*** FLOP *** [3h 8s Ah]
+Main pot 12000.00
+dibraldim checks
+RealGNetwork bets 6800.00
+dibraldim calls 6800.00
+*** TURN *** [3h 8s Ah] [2s]
+Main pot 25600.00
+dibraldim checks
+RealGNetwork bets 15200.00
+dibraldim folds
+Uncalled bet (15200.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 25600.00
+Board [3h 8s Ah 2s]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: Hogir (button) folded on the Pre-Flop
+Seat 3: dibraldim (small blind) folded on the Turn
+Seat 4: b0tanik (big blind) folded on the Pre-Flop
+Seat 5: Andrestuqui folded on the Pre-Flop and did not bet
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork did not show and won 25600.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478778847 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:34:17 UTC
+Table '5' 8-max Seat #3 is the button
+Seat 1: Garboogy (134473.00)
+Seat 2: Hogir (153896.00)
+Seat 3: dibraldim (78995.00)
+Seat 4: b0tanik (43073.00)
+Seat 5: Andrestuqui (118459.00)
+Seat 6: GeorgePin (200612.00)
+Seat 7: RealGNetwork (173679.00)
+Seat 8: grotle (217433.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+b0tanik posts the small blind 800.00
+Andrestuqui posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Js 9d]
+GeorgePin folds
+RealGNetwork raises 4400.00 to 4400.00
+grotle folds
+Garboogy folds
+Hogir folds
+dibraldim calls 4400.00
+b0tanik folds
+Andrestuqui calls 2800.00
+*** FLOP *** [Qh 6d Kc]
+Main pot 15600.00
+Andrestuqui checks
+RealGNetwork bets 9400.00
+dibraldim folds
+Andrestuqui folds
+Uncalled bet (9400.00) returned to RealGNetwork
+RealGNetwork does not show
+*** SUMMARY ***
+Total pot 15600.00
+Board [Qh 6d Kc]
+Seat 1: Garboogy folded on the Pre-Flop and did not bet
+Seat 2: Hogir folded on the Pre-Flop and did not bet
+Seat 3: dibraldim (button) folded on the Flop
+Seat 4: b0tanik (small blind) folded on the Pre-Flop
+Seat 5: Andrestuqui (big blind) folded on the Flop
+Seat 6: GeorgePin folded on the Pre-Flop and did not bet
+Seat 7: RealGNetwork did not show and won 15600.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478779065 - Tournament #33592572 - Holdem (No Limit) - Level 5 (800.00/1600.00) - 2025/06/11 12:35:18 UTC
+Table '5' 8-max Seat #4 is the button
+Seat 1: Garboogy (134273.00)
+Seat 2: Hogir (153696.00)
+Seat 3: dibraldim (74395.00)
+Seat 4: b0tanik (42073.00)
+Seat 5: Andrestuqui (113859.00)
+Seat 6: GeorgePin (200412.00)
+Seat 7: RealGNetwork (184679.00)
+Seat 8: grotle (217233.00)
+Garboogy posts ante 200.00
+Hogir posts ante 200.00
+dibraldim posts ante 200.00
+b0tanik posts ante 200.00
+Andrestuqui posts ante 200.00
+GeorgePin posts ante 200.00
+RealGNetwork posts ante 200.00
+grotle posts ante 200.00
+Andrestuqui posts the small blind 800.00
+GeorgePin posts the big blind 1600.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [5c 3s]
+RealGNetwork folds
+grotle folds
+Garboogy raises 3200.00 to 3200.00
+Hogir folds
+dibraldim calls 3200.00
+b0tanik calls 3200.00
+Andrestuqui folds
+GeorgePin calls 1600.00
+*** FLOP *** [2c 5h 2h]
+Main pot 15200.00
+GeorgePin checks
+Garboogy checks
+dibraldim bets 5016.00
+b0tanik calls 5016.00
+GeorgePin calls 5016.00
+Garboogy folds
+*** TURN *** [2c 5h 2h] [6c]
+Main pot 30248.00
+GeorgePin checks
+dibraldim bets 15729.00
+b0tanik folds
+GeorgePin calls 15729.00
+*** RIVER *** [2c 5h 2h 6c] [8c]
+Main pot 61706.00
+GeorgePin checks
+dibraldim checks
+*** SHOW DOWN ***
+Main pot 61706.00
+dibraldim shows [7c 7s] (two pair, Sevens and Deuces [7s 7c 2h 2c 8c])
+GeorgePin shows [9c 3c] (a flush, Nine high [9c 8c 6c 3c 2c])
+GeorgePin collected 61706.00 from main pot
+*** SUMMARY ***
+Total pot 61706.00
+Board [2c 5h 2h 6c 8c]
+Seat 1: Garboogy folded on the Flop
+Seat 2: Hogir folded on the Pre-Flop and did not bet
+Seat 3: dibraldim showed [7c 7s] and lost with two pair, Sevens and Deuces [7s 7c 2h 2c 8c]
+Seat 4: b0tanik (button) folded on the Turn
+Seat 5: Andrestuqui (small blind) folded on the Pre-Flop
+Seat 6: GeorgePin (big blind) showed [9c 3c] and won 61706.00 with a flush, Nine high [9c 8c 6c 3c 2c]
+Seat 7: RealGNetwork folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2478779438 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:37:20 UTC
+Table '5' 8-max Seat #5 is the button
+Seat 2: Hogir (153496.00)
+Seat 3: dibraldim (50250.00)
+Seat 4: b0tanik (33657.00)
+Seat 8: grotle (217033.00)
+Hogir posts ante 225.00
+dibraldim posts ante 225.00
+b0tanik posts ante 225.00
+grotle posts ante 225.00
+grotle posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 900.00
+Dealt to grotle [2s Tc]
+Hogir folds
+dibraldim folds
+b0tanik folds
+grotle does not show
+*** SUMMARY ***
+Total pot 2700.00
+Seat 2: Hogir folded on the Pre-Flop and did not bet
+Seat 3: dibraldim folded on the Pre-Flop and did not bet
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 8: grotle did not show and won 2700.00
+
+Game Hand #2478779495 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:37:36 UTC
+Table '5' 8-max Seat #6 is the button
+Seat 2: Hogir (153271.00)
+Seat 3: dibraldim (50025.00)
+Seat 4: b0tanik (33432.00)
+Seat 8: grotle (217708.00)
+Hogir posts ante 225.00
+dibraldim posts ante 225.00
+b0tanik posts ante 225.00
+grotle posts ante 225.00
+grotle posts the small blind 900.00
+Hogir posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 900.00
+Dealt to grotle [4h 7c]
+dibraldim raises 3600.00 to 3600.00
+b0tanik folds
+grotle folds
+Hogir calls 1800.00
+*** FLOP *** [4s Ts 5h]
+Main pot 9000.00
+Hogir checks
+dibraldim bets 2970.00
+Hogir folds
+Uncalled bet (2970.00) returned to dibraldim
+dibraldim does not show
+*** SUMMARY ***
+Total pot 9000.00
+Board [4s Ts 5h]
+Seat 2: Hogir (big blind) folded on the Flop
+Seat 3: dibraldim did not show and won 9000.00
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 8: grotle (small blind) folded on the Pre-Flop
+
+Game Hand #2478779854 - Tournament #33592572 - Holdem (No Limit) - Level 6 (900.00/1800.00) - 2025/06/11 12:39:30 UTC
+Table '5' 8-max Seat #8 is the button
+Seat 1: MrBrilliance will be allowed to play after the button
+Seat 2: Hogir (149446.00)
+Seat 3: dibraldim (55200.00)
+Seat 4: b0tanik (33207.00)
+Seat 5: Limon931407 (197659.00)
+Seat 6: MindOverChips2 (99959.00)
+Seat 8: grotle (216583.00)
+Hogir posts ante 225.00
+dibraldim posts ante 225.00
+b0tanik posts ante 225.00
+Limon931407 posts ante 225.00
+MindOverChips2 posts ante 225.00
+grotle posts ante 225.00
+Hogir posts the small blind 900.00
+dibraldim posts the big blind 1800.00
+*** HOLE CARDS ***
+Main pot 1350.00
+Dealt to grotle [Qc 6h]
+b0tanik folds
+Limon931407 raises 3600.00 to 3600.00
+MindOverChips2 folds
+grotle folds
+Hogir calls 2700.00
+dibraldim calls 1800.00
+*** FLOP *** [Jc 7d 4h]
+Main pot 12150.00
+Hogir checks
+dibraldim checks
+Limon931407 bets 3038.00
+Hogir calls 3038.00
+dibraldim folds
+*** TURN *** [Jc 7d 4h] [4s]
+Main pot 18226.00
+Hogir checks
+Limon931407 checks
+*** RIVER *** [Jc 7d 4h 4s] [Jh]
+Main pot 18226.00
+Hogir checks
+Limon931407 bets 14570.00
+Hogir folds
+Uncalled bet (14570.00) returned to Limon931407
+Limon931407 does not show
+*** SUMMARY ***
+Total pot 18226.00
+Board [Jc 7d 4h 4s Jh]
+Seat 2: Hogir (small blind) folded on the River
+Seat 3: dibraldim (big blind) folded on the Flop
+Seat 4: b0tanik folded on the Pre-Flop and did not bet
+Seat 5: Limon931407 did not show and won 18226.00
+Seat 6: MindOverChips2 folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+

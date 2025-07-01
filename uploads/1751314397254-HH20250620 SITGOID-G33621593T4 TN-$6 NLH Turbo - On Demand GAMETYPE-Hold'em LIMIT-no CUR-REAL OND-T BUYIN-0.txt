@@ -1,0 +1,242 @@
+Game Hand #2485433966 - Tournament #33621593 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/20 14:52:53 UTC
+Table '4' 8-max Seat #1 is the button
+Seat 1: cruzette (30000.00)
+Seat 2: grotle (30000.00)
+Seat 3: Knuxer (30000.00)
+cruzette posts ante 200.00
+grotle posts ante 200.00
+Knuxer posts ante 200.00
+grotle posts the small blind 1000.00
+Knuxer posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 600.00
+Dealt to grotle [Qs 5s]
+cruzette folds
+grotle calls 1000.00
+Knuxer raises 27800.00 to 29800.00 and is all-in
+grotle calls 27800.00 and is all-in
+*** FLOP *** [4c Kc 6d]
+Main pot 60200.00
+*** TURN *** [4c Kc 6d] [9c]
+Main pot 60200.00
+*** RIVER *** [4c Kc 6d 9c] [2h]
+Main pot 60200.00
+*** SHOW DOWN ***
+Main pot 60200.00
+grotle shows [Qs 5s] (a high card, King high [Kc Qs 9c 6d 5s])
+Knuxer shows [8d Ad] (a high card, Ace high [Ad Kc 9c 8d 6d])
+Knuxer collected 60200.00 from main pot
+*** SUMMARY ***
+Total pot 60200.00
+Board [4c Kc 6d 9c 2h]
+Seat 1: cruzette (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) showed [Qs 5s] and lost with a high card, King high [Kc Qs 9c 6d 5s]
+Seat 3: Knuxer (big blind) showed [8d Ad] and won 60200.00 with a high card, Ace high [Ad Kc 9c 8d 6d]
+
+Game Hand #2485434366 - Tournament #33621593 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/20 14:53:59 UTC
+Table '4' 8-max Seat #3 is the button
+Seat 1: cruzette (33800.00)
+Seat 2: grotle (30000.00)
+Seat 3: Knuxer (59000.00)
+Seat 4: fundiver199 (22565.00)
+Seat 5: CONKPOKER (28557.00)
+Seat 6: rdominy (142790.00)
+Seat 7: CalmUrTilties (29800.00)
+cruzette posts ante 200.00
+grotle posts ante 200.00
+Knuxer posts ante 200.00
+fundiver199 posts ante 200.00
+CONKPOKER posts ante 200.00
+rdominy posts ante 200.00
+CalmUrTilties posts ante 200.00
+fundiver199 posts the small blind 1000.00
+CONKPOKER posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [9h Kh]
+rdominy folds
+CalmUrTilties folds
+cruzette calls 2000.00
+grotle calls 2000.00
+Knuxer folds
+fundiver199 calls 1000.00
+CONKPOKER raises 26357.00 to 28357.00 and is all-in
+cruzette calls 26357.00
+grotle raises 27800.00 to 29800.00 and is all-in
+fundiver199 folds
+cruzette calls 1443.00
+*** FLOP *** [5h 9c 3s]
+Main pot 88471.00
+Side pot(1) 2886.00
+*** TURN *** [5h 9c 3s] [3d]
+Main pot 88471.00
+Side pot(1) 2886.00
+*** RIVER *** [5h 9c 3s 3d] [6h]
+Main pot 88471.00
+Side pot(1) 2886.00
+*** SHOW DOWN ***
+Main pot 88471.00
+Side pot(1) 2886.00
+cruzette shows [Ac Jd] (a pair of Threes [3s 3d Ac Jd 9c])
+grotle shows [9h Kh] (two pair, Nines and Threes [9h 9c 3s 3d Kh])
+CONKPOKER shows [Kd Kc] (two pair, Kings and Threes [Kd Kc 3s 3d 9c])
+CONKPOKER collected 88471.00 from main pot
+grotle collected 2886.00 from side pot-1
+*** SUMMARY ***
+Total pot 91357.00
+Board [5h 9c 3s 3d 6h]
+Seat 1: cruzette showed [Ac Jd] and lost with a pair of Threes [3s 3d Ac Jd 9c]
+Seat 2: grotle showed [9h Kh] and won 2886.00 with two pair, Nines and Threes [9h 9c 3s 3d Kh]
+Seat 3: Knuxer (button) folded on the Pre-Flop
+Seat 4: fundiver199 (small blind) folded on the Pre-Flop
+Seat 5: CONKPOKER (big blind) showed [Kd Kc] and won 88471.00 with two pair, Kings and Threes [Kd Kc 3s 3d 9c]
+Seat 6: rdominy folded on the Pre-Flop and did not bet
+Seat 7: CalmUrTilties folded on the Pre-Flop and did not bet
+
+Game Hand #2485434741 - Tournament #33621593 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/20 14:54:59 UTC
+Table '4' 8-max Seat #4 is the button
+Seat 2: grotle (2886.00)
+Seat 3: Knuxer (58800.00)
+Seat 4: fundiver199 (20365.00)
+Seat 5: CONKPOKER (88471.00)
+Seat 6: rdominy (142590.00)
+Seat 7: CalmUrTilties (29600.00)
+grotle posts ante 200.00
+Knuxer posts ante 200.00
+fundiver199 posts ante 200.00
+CONKPOKER posts ante 200.00
+rdominy posts ante 200.00
+CalmUrTilties posts ante 200.00
+CONKPOKER posts the small blind 1000.00
+rdominy posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1200.00
+Dealt to grotle [9s 7h]
+CalmUrTilties raises 29400.00 to 29400.00 and is all-in
+grotle folds
+Knuxer calls 29400.00
+fundiver199 folds
+CONKPOKER folds
+rdominy folds
+*** FLOP *** [Jh 3s 5s]
+Main pot 63000.00
+*** TURN *** [Jh 3s 5s] [Qc]
+Main pot 63000.00
+*** RIVER *** [Jh 3s 5s Qc] [9c]
+Main pot 63000.00
+*** SHOW DOWN ***
+Main pot 63000.00
+Knuxer shows [Qh Ac] (a pair of Queens [Qh Qc Ac Jh 9c])
+CalmUrTilties shows [Ah 9d] (a pair of Nines [9d 9c Ah Qc Jh])
+Knuxer collected 63000.00 from main pot
+*** SUMMARY ***
+Total pot 63000.00
+Board [Jh 3s 5s Qc 9c]
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Knuxer showed [Qh Ac] and won 63000.00 with a pair of Queens [Qh Qc Ac Jh 9c]
+Seat 4: fundiver199 (button) folded on the Pre-Flop
+Seat 5: CONKPOKER (small blind) folded on the Pre-Flop
+Seat 6: rdominy (big blind) folded on the Pre-Flop
+Seat 7: CalmUrTilties showed [Ah 9d] and lost with a pair of Nines [9d 9c Ah Qc Jh]
+
+Game Hand #2485435512 - Tournament #33621593 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/20 15:00:34 UTC
+Table '4' 8-max Seat #5 is the button
+Seat 1: OscarMAYlaHoya (30000.00)
+Seat 2: grotle (2686.00)
+Seat 3: Knuxer (92200.00)
+Seat 4: fundiver199 (20165.00)
+Seat 5: CONKPOKER (87271.00)
+Seat 6: rdominy (140390.00)
+Seat 7: Rageman2 (30000.00)
+Seat 8: Glitchee (30000.00)
+OscarMAYlaHoya posts ante 200.00
+grotle posts ante 200.00
+Knuxer posts ante 200.00
+fundiver199 posts ante 200.00
+CONKPOKER posts ante 200.00
+rdominy posts ante 200.00
+Rageman2 posts ante 200.00
+Glitchee posts ante 200.00
+rdominy posts the small blind 1000.00
+Rageman2 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1600.00
+Dealt to grotle [Qc Kd]
+Glitchee folds
+OscarMAYlaHoya folds
+grotle folds
+Knuxer raises 6000.00 to 6000.00
+fundiver199 folds
+CONKPOKER folds
+rdominy folds
+Rageman2 folds
+Uncalled bet (4000.00) returned to Knuxer
+Knuxer does not show
+*** SUMMARY ***
+Total pot 6600.00
+Seat 1: OscarMAYlaHoya folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: Knuxer did not show and won 6600.00
+Seat 4: fundiver199 folded on the Pre-Flop and did not bet
+Seat 5: CONKPOKER (button) folded on the Pre-Flop
+Seat 6: rdominy (small blind) folded on the Pre-Flop
+Seat 7: Rageman2 (big blind) folded on the Pre-Flop
+Seat 8: Glitchee folded on the Pre-Flop and did not bet
+
+Game Hand #2485435856 - Tournament #33621593 - Holdem (No Limit) - Level 5 (1000.00/2000.00) - 2025/06/20 15:01:52 UTC
+Table '4' 8-max Seat #6 is the button
+Seat 1: OscarMAYlaHoya (29800.00)
+Seat 2: grotle (2486.00)
+Seat 4: fundiver199 (19965.00)
+Seat 5: CONKPOKER (87071.00)
+Seat 6: rdominy (139190.00)
+Seat 7: Rageman2 (27800.00)
+Seat 8: Glitchee (29800.00)
+OscarMAYlaHoya posts ante 200.00
+grotle posts ante 200.00
+fundiver199 posts ante 200.00
+CONKPOKER posts ante 200.00
+rdominy posts ante 200.00
+Rageman2 posts ante 200.00
+Glitchee posts ante 200.00
+Rageman2 posts the small blind 1000.00
+Glitchee posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [2c Ad]
+OscarMAYlaHoya folds
+grotle raises 2286.00 to 2286.00 and is all-in
+fundiver199 folds
+CONKPOKER folds
+rdominy calls 2286.00
+Rageman2 raises 26600.00 to 27600.00 and is all-in
+Glitchee folds
+rdominy calls 25314.00
+*** FLOP *** [9s 2s Jh]
+Main pot 10258.00
+Side pot(1) 50628.00
+*** TURN *** [9s 2s Jh] [5c]
+Main pot 10258.00
+Side pot(1) 50628.00
+*** RIVER *** [9s 2s Jh 5c] [Qd]
+Main pot 10258.00
+Side pot(1) 50628.00
+*** SHOW DOWN ***
+Main pot 10258.00
+Side pot(1) 50628.00
+grotle shows [2c Ad] (a pair of Deuces [2s 2c Ad Qd Jh])
+rdominy shows [Td Ah] (a high card, Ace high [Ah Qd Jh Td 9s])
+Rageman2 shows [Jd As] (a pair of Jacks [Jh Jd As Qd 9s])
+Rageman2 collected 10258.00 from main pot
+Rageman2 collected 50628.00 from side pot-1
+*** SUMMARY ***
+Total pot 60886.00
+Board [9s 2s Jh 5c Qd]
+Seat 1: OscarMAYlaHoya folded on the Pre-Flop and did not bet
+Seat 2: grotle showed [2c Ad] and lost with a pair of Deuces [2s 2c Ad Qd Jh]
+Seat 4: fundiver199 folded on the Pre-Flop and did not bet
+Seat 5: CONKPOKER folded on the Pre-Flop and did not bet
+Seat 6: rdominy (button) showed [Td Ah] and lost with a high card, Ace high [Ah Qd Jh Td 9s]
+Seat 7: Rageman2 (small blind) showed [Jd As] and won 60886.00 with a pair of Jacks [Jh Jd As Qd 9s]
+Seat 8: Glitchee (big blind) folded on the Pre-Flop
+

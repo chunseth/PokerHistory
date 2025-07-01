@@ -1,0 +1,921 @@
+Game Hand #2485434705 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 14:54:53 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: chuggle (175013.00)
+Seat 2: KovalevEvgen (352596.00)
+Seat 3: BrunoPinto (64074.00)
+Seat 4: JulioCheddar (69690.00)
+Seat 5: TopeteQQ (374925.00)
+Seat 6: MeanerUglier (137310.00)
+Seat 7: grotle will be allowed to play after the button
+Seat 8: zimboraaa (143525.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+zimboraaa posts ante 625.00
+zimboraaa posts the small blind 2500.00
+chuggle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+KovalevEvgen folds
+BrunoPinto raises 10000.00 to 10000.00
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier folds
+zimboraaa folds
+chuggle calls 5000.00
+*** FLOP *** [2h 9d 7d]
+Main pot 26875.00
+chuggle checks
+BrunoPinto checks
+*** TURN *** [2h 9d 7d] [5h]
+Main pot 26875.00
+chuggle checks
+BrunoPinto checks
+*** RIVER *** [2h 9d 7d 5h] [9c]
+Main pot 26875.00
+chuggle checks
+BrunoPinto checks
+*** SHOW DOWN ***
+Main pot 26875.00
+chuggle shows [Qd Th] (a pair of Nines [9d 9c Qd Th 7d])
+BrunoPinto shows [As 3s] (a pair of Nines [9d 9c As 7d 5h])
+BrunoPinto collected 26875.00 from main pot
+*** SUMMARY ***
+Total pot 26875.00
+Board [2h 9d 7d 5h 9c]
+Seat 1: chuggle (big blind) showed [Qd Th] and lost with a pair of Nines [9d 9c Qd Th 7d]
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: BrunoPinto showed [As 3s] and won 26875.00 with a pair of Nines [9d 9c As 7d 5h] with the kicker Ace
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier (button) folded on the Pre-Flop
+Seat 8: zimboraaa (small blind) folded on the Pre-Flop
+
+Game Hand #2485435643 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:01:03 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: chuggle (164388.00)
+Seat 2: KovalevEvgen (351971.00)
+Seat 3: BrunoPinto (80324.00)
+Seat 4: JulioCheddar (69065.00)
+Seat 5: TopeteQQ (374300.00)
+Seat 6: MeanerUglier (136685.00)
+Seat 7: grotle (100000.00)
+Seat 8: zimboraaa (140400.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+chuggle posts the small blind 2500.00
+KovalevEvgen posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to grotle [7h 8s]
+BrunoPinto folds
+JulioCheddar folds
+TopeteQQ raises 10000.00 to 10000.00
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+chuggle folds
+KovalevEvgen raises 35000.00 to 40000.00
+TopeteQQ folds
+Uncalled bet (30000.00) returned to KovalevEvgen
+KovalevEvgen does not show
+*** SUMMARY ***
+Total pot 27500.00
+Seat 1: chuggle (small blind) folded on the Pre-Flop
+Seat 2: KovalevEvgen did not show and won 27500.00
+Seat 3: BrunoPinto folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa (button) folded on the Pre-Flop
+
+Game Hand #2485435871 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:01:54 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 1: chuggle (161263.00)
+Seat 2: KovalevEvgen (368846.00)
+Seat 3: BrunoPinto (79699.00)
+Seat 4: JulioCheddar (68440.00)
+Seat 5: TopeteQQ (363675.00)
+Seat 6: MeanerUglier (136060.00)
+Seat 7: grotle (99375.00)
+Seat 8: zimboraaa (139775.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+KovalevEvgen posts the small blind 2500.00
+BrunoPinto posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to grotle [Th 4h]
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier raises 10000.00 to 10000.00
+grotle folds
+zimboraaa folds
+chuggle folds
+KovalevEvgen calls 7500.00
+BrunoPinto calls 5000.00
+*** FLOP *** [7h Qs Ad]
+Main pot 35000.00
+KovalevEvgen checks
+BrunoPinto checks
+MeanerUglier bets 15000.00
+KovalevEvgen calls 15000.00
+BrunoPinto folds
+*** TURN *** [7h Qs Ad] [Qh]
+Main pot 65000.00
+KovalevEvgen checks
+MeanerUglier checks
+*** RIVER *** [7h Qs Ad Qh] [Td]
+Main pot 65000.00
+KovalevEvgen checks
+MeanerUglier bets 20000.00
+KovalevEvgen calls 20000.00
+*** SHOW DOWN ***
+Main pot 105000.00
+KovalevEvgen shows [Kh Kc] (two pair, Kings and Queens [Kh Kc Qs Qh Ad])
+MeanerUglier shows [Js As] (two pair, Aces and Queens [As Ad Qs Qh Js])
+MeanerUglier collected 105000.00 from main pot
+*** SUMMARY ***
+Total pot 105000.00
+Board [7h Qs Ad Qh Td]
+Seat 1: chuggle (button) folded on the Pre-Flop
+Seat 2: KovalevEvgen (small blind) showed [Kh Kc] and lost with two pair, Kings and Queens [Kh Kc Qs Qh Ad]
+Seat 3: BrunoPinto (big blind) folded on the Flop
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier showed [Js As] and won 105000.00 with two pair, Aces and Queens [As Ad Qs Qh Js]
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485436448 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:03:35 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 1: chuggle (160638.00)
+Seat 2: KovalevEvgen (323221.00)
+Seat 3: BrunoPinto (69074.00)
+Seat 4: JulioCheddar (67815.00)
+Seat 5: TopeteQQ (363050.00)
+Seat 6: MeanerUglier (195435.00)
+Seat 7: grotle (98750.00)
+Seat 8: zimboraaa (139150.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+BrunoPinto posts the small blind 2500.00
+JulioCheddar posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to grotle [Kc 3d]
+TopeteQQ folds
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+chuggle folds
+KovalevEvgen folds
+BrunoPinto raises 65949.00 to 68449.00 and is all-in
+JulioCheddar calls 62190.00 and is all-in
+Uncalled bet (1259.00) returned to BrunoPinto
+*** FLOP *** [3c 8c Jh]
+Main pot 139380.00
+*** TURN *** [3c 8c Jh] [Ah]
+Main pot 139380.00
+*** RIVER *** [3c 8c Jh Ah] [Ad]
+Main pot 139380.00
+*** SHOW DOWN ***
+Main pot 139380.00
+BrunoPinto shows [5d Kh] (a pair of Aces [Ah Ad Kh Jh 8c])
+JulioCheddar shows [8d 8s] (a full house, Eights full of Aces [8s 8d 8c Ah Ad])
+JulioCheddar collected 139380.00 from main pot
+*** SUMMARY ***
+Total pot 139380.00
+Board [3c 8c Jh Ah Ad]
+Seat 1: chuggle folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen (button) folded on the Pre-Flop
+Seat 3: BrunoPinto (small blind) showed [5d Kh] and lost with a pair of Aces [Ah Ad Kh Jh 8c]
+Seat 4: JulioCheddar (big blind) showed [8d 8s] and won 139380.00 with a full house, Eights full of Aces [8s 8d 8c Ah Ad]
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485436740 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:04:23 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 1: chuggle (160013.00)
+Seat 2: KovalevEvgen (322596.00)
+Seat 3: BrunoPinto (1259.00)
+Seat 4: JulioCheddar (139380.00)
+Seat 5: TopeteQQ (362425.00)
+Seat 6: MeanerUglier (194810.00)
+Seat 7: grotle (98125.00)
+Seat 8: zimboraaa (138525.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+JulioCheddar posts the small blind 2500.00
+TopeteQQ posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to grotle [Js 3c]
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+chuggle folds
+KovalevEvgen folds
+BrunoPinto calls 634.00 and is all-in
+JulioCheddar calls 2500.00
+TopeteQQ checks
+*** FLOP *** [8c Qs Jh]
+Main pot 6902.00
+Side pot(1) 8732.00
+JulioCheddar checks
+TopeteQQ checks
+*** TURN *** [8c Qs Jh] [3d]
+Main pot 6902.00
+Side pot(1) 8732.00
+JulioCheddar bets 8599.00
+TopeteQQ folds
+Uncalled bet (8599.00) returned to JulioCheddar
+*** RIVER *** [8c Qs Jh 3d] [Qd]
+Main pot 6902.00
+Side pot(1) 8732.00
+*** SHOW DOWN ***
+Main pot 6902.00
+Side pot(1) 8732.00
+BrunoPinto shows [Tc 9d] (a straight, Queen high [Qs Jh Tc 9d 8c])
+JulioCheddar shows [4c 6s] (a pair of Queens [Qs Qd Jh 8c 6s])
+BrunoPinto collected 6902.00 from main pot
+JulioCheddar collected 8732.00 from side pot-1
+*** SUMMARY ***
+Total pot 15634.00
+Board [8c Qs Jh 3d Qd]
+Seat 1: chuggle folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: BrunoPinto (button) showed [Tc 9d] and won 6902.00 with a straight, Queen high [Qs Jh Tc 9d 8c]
+Seat 4: JulioCheddar (small blind) showed [4c 6s] and won 8732.00 with a pair of Queens [Qs Qd Jh 8c 6s]
+Seat 5: TopeteQQ (big blind) folded on the Turn
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485436942 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:04:59 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 1: chuggle (159388.00)
+Seat 2: KovalevEvgen (321971.00)
+Seat 3: BrunoPinto (6902.00)
+Seat 4: JulioCheddar (142487.00)
+Seat 5: TopeteQQ (356800.00)
+Seat 6: MeanerUglier (194185.00)
+Seat 7: grotle (97500.00)
+Seat 8: zimboraaa (137900.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+BrunoPinto posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+TopeteQQ posts the small blind 2500.00
+MeanerUglier posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 5000.00
+Dealt to grotle [3s Kd]
+grotle folds
+zimboraaa raises 10500.00 to 10500.00
+chuggle folds
+KovalevEvgen folds
+BrunoPinto calls 6277.00 and is all-in
+JulioCheddar calls 10500.00
+TopeteQQ calls 8000.00
+MeanerUglier folds
+*** FLOP *** [Th Ad 7d]
+Main pot 35108.00
+Side pot(1) 12669.00
+TopeteQQ checks
+zimboraaa bets 12500.00
+JulioCheddar calls 12500.00
+TopeteQQ calls 12500.00
+*** TURN *** [Th Ad 7d] [5c]
+Main pot 35108.00
+Side pot(1) 50169.00
+TopeteQQ checks
+zimboraaa bets 42639.00
+JulioCheddar folds
+TopeteQQ folds
+Uncalled bet (42639.00) returned to zimboraaa
+*** RIVER *** [Th Ad 7d 5c] [9s]
+Main pot 35108.00
+Side pot(1) 50169.00
+*** SHOW DOWN ***
+Main pot 35108.00
+Side pot(1) 50169.00
+BrunoPinto shows [Ks Ts] (a pair of Tens [Ts Th Ad Ks 9s])
+zimboraaa shows [Jd Jc] (a pair of Jacks [Jd Jc Ad Th 9s])
+zimboraaa collected 35108.00 from main pot
+zimboraaa collected 50169.00 from side pot-1
+*** SUMMARY ***
+Total pot 85277.00
+Board [Th Ad 7d 5c 9s]
+Seat 1: chuggle folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: BrunoPinto showed [Ks Ts] and lost with a pair of Tens [Ts Th Ad Ks 9s]
+Seat 4: JulioCheddar (button) folded on the Turn
+Seat 5: TopeteQQ (small blind) folded on the Turn
+Seat 6: MeanerUglier (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa showed [Jd Jc] and won 85277.00 with a pair of Jacks [Jd Jc Ad Th 9s]
+
+Game Hand #2485437322 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:06:02 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: chuggle (158763.00)
+Seat 2: KovalevEvgen (321346.00)
+Seat 4: JulioCheddar (118862.00)
+Seat 5: TopeteQQ (333175.00)
+Seat 6: MeanerUglier (188560.00)
+Seat 7: grotle (96875.00)
+Seat 8: zimboraaa (199552.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+MeanerUglier posts the small blind 2500.00
+grotle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [6c 8d]
+zimboraaa folds
+chuggle folds
+KovalevEvgen folds
+JulioCheddar raises 10000.00 to 10000.00
+TopeteQQ folds
+MeanerUglier folds
+grotle folds
+Uncalled bet (5000.00) returned to JulioCheddar
+JulioCheddar does not show
+*** SUMMARY ***
+Total pot 16875.00
+Seat 1: chuggle folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar did not show and won 16875.00
+Seat 5: TopeteQQ (button) folded on the Pre-Flop
+Seat 6: MeanerUglier (small blind) folded on the Pre-Flop
+Seat 7: grotle (big blind) folded on the Pre-Flop
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485437494 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:06:28 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: chuggle (158138.00)
+Seat 2: KovalevEvgen (320721.00)
+Seat 4: JulioCheddar (130112.00)
+Seat 5: TopeteQQ (332550.00)
+Seat 6: MeanerUglier (185435.00)
+Seat 7: grotle (91250.00)
+Seat 8: zimboraaa (198927.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+grotle posts the small blind 2500.00
+zimboraaa posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [7s 8h]
+chuggle folds
+KovalevEvgen folds
+JulioCheddar raises 10000.00 to 10000.00
+TopeteQQ calls 10000.00
+MeanerUglier calls 10000.00
+grotle folds
+zimboraaa folds
+*** FLOP *** [2s 8d 9s]
+Main pot 41875.00
+JulioCheddar checks
+TopeteQQ bets 13819.00
+MeanerUglier calls 13819.00
+JulioCheddar folds
+*** TURN *** [2s 8d 9s] [8c]
+Main pot 69513.00
+TopeteQQ bets 34757.00
+MeanerUglier calls 34757.00
+*** RIVER *** [2s 8d 9s 8c] [6d]
+Main pot 139027.00
+TopeteQQ checks
+MeanerUglier bets 126234.00 and is all-in
+TopeteQQ folds
+Uncalled bet (126234.00) returned to MeanerUglier
+MeanerUglier does not show
+*** SUMMARY ***
+Total pot 139027.00
+Board [2s 8d 9s 8c 6d]
+Seat 1: chuggle folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Flop
+Seat 5: TopeteQQ folded on the River
+Seat 6: MeanerUglier did not show and won 139027.00
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: zimboraaa (big blind) folded on the Pre-Flop
+
+Game Hand #2485437964 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:07:45 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: chuggle (157513.00)
+Seat 2: KovalevEvgen (320096.00)
+Seat 4: JulioCheddar (119487.00)
+Seat 5: TopeteQQ (273349.00)
+Seat 6: MeanerUglier (265261.00)
+Seat 7: grotle (88125.00)
+Seat 8: zimboraaa (193302.00)
+chuggle posts ante 625.00
+KovalevEvgen posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+zimboraaa posts the small blind 2500.00
+chuggle posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [7c 2s]
+KovalevEvgen folds
+JulioCheddar raises 10000.00 to 10000.00
+TopeteQQ folds
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+chuggle folds
+Uncalled bet (5000.00) returned to JulioCheddar
+JulioCheddar does not show
+*** SUMMARY ***
+Total pot 16875.00
+Seat 1: chuggle (big blind) folded on the Pre-Flop
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar did not show and won 16875.00
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: zimboraaa (small blind) folded on the Pre-Flop
+
+Game Hand #2485438245 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:08:32 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 2: KovalevEvgen (319471.00)
+Seat 3: henriquerod (196823.00)
+Seat 4: JulioCheddar (130737.00)
+Seat 5: TopeteQQ (272724.00)
+Seat 6: MeanerUglier (264636.00)
+Seat 7: grotle (87500.00)
+Seat 8: zimboraaa (190177.00)
+KovalevEvgen posts ante 625.00
+henriquerod posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+KovalevEvgen posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [Td 6c]
+henriquerod folds
+JulioCheddar folds
+TopeteQQ raises 10000.00 to 10000.00
+MeanerUglier folds
+grotle folds
+zimboraaa raises 32500.00 to 32500.00
+KovalevEvgen folds
+TopeteQQ folds
+Uncalled bet (22500.00) returned to zimboraaa
+zimboraaa does not show
+*** SUMMARY ***
+Total pot 29375.00
+Seat 2: KovalevEvgen (big blind) folded on the Pre-Flop
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa did not show and won 29375.00
+
+Game Hand #2485438435 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:09:03 UTC
+Table '7' 8-max Seat #1 is the button
+Seat 2: KovalevEvgen (313846.00)
+Seat 3: henriquerod (196198.00)
+Seat 4: JulioCheddar (130112.00)
+Seat 5: TopeteQQ (262099.00)
+Seat 6: MeanerUglier (264011.00)
+Seat 7: grotle (86875.00)
+Seat 8: zimboraaa (208927.00)
+KovalevEvgen posts ante 625.00
+henriquerod posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+KovalevEvgen posts the small blind 2500.00
+henriquerod posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [Qd 7h]
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier raises 10000.00 to 10000.00
+grotle folds
+zimboraaa folds
+KovalevEvgen folds
+henriquerod folds
+Uncalled bet (5000.00) returned to MeanerUglier
+MeanerUglier does not show
+*** SUMMARY ***
+Total pot 16875.00
+Seat 2: KovalevEvgen (small blind) folded on the Pre-Flop
+Seat 3: henriquerod (big blind) folded on the Pre-Flop
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier did not show and won 16875.00
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485438765 - Tournament #33616317 - Holdem (No Limit) - Level 12 (2500.00/5000.00) - 2025/06/20 15:10:01 UTC
+Table '7' 8-max Seat #2 is the button
+Seat 2: KovalevEvgen (310721.00)
+Seat 3: henriquerod (190573.00)
+Seat 4: JulioCheddar (129487.00)
+Seat 5: TopeteQQ (261474.00)
+Seat 6: MeanerUglier (275261.00)
+Seat 7: grotle (86250.00)
+Seat 8: zimboraaa (208302.00)
+KovalevEvgen posts ante 625.00
+henriquerod posts ante 625.00
+JulioCheddar posts ante 625.00
+TopeteQQ posts ante 625.00
+MeanerUglier posts ante 625.00
+grotle posts ante 625.00
+zimboraaa posts ante 625.00
+henriquerod posts the small blind 2500.00
+JulioCheddar posts the big blind 5000.00
+*** HOLE CARDS ***
+Main pot 4375.00
+Dealt to grotle [9h Qs]
+TopeteQQ raises 10000.00 to 10000.00
+MeanerUglier calls 10000.00
+grotle folds
+zimboraaa folds
+KovalevEvgen folds
+henriquerod folds
+JulioCheddar folds
+*** FLOP *** [Js 5s Td]
+Main pot 31875.00
+TopeteQQ checks
+MeanerUglier checks
+*** TURN *** [Js 5s Td] [4d]
+Main pot 31875.00
+TopeteQQ bets 15938.00
+MeanerUglier calls 15938.00
+*** RIVER *** [Js 5s Td 4d] [4s]
+Main pot 63751.00
+TopeteQQ checks
+MeanerUglier checks
+*** SHOW DOWN ***
+Main pot 63751.00
+TopeteQQ shows [5d Ad] (two pair, Fives and Fours [5s 5d 4s 4d Ad])
+MeanerUglier shows [8h 8s] (two pair, Eights and Fours [8s 8h 4s 4d Js])
+MeanerUglier collected 63751.00 from main pot
+*** SUMMARY ***
+Total pot 63751.00
+Board [Js 5s Td 4d 4s]
+Seat 2: KovalevEvgen (button) folded on the Pre-Flop
+Seat 3: henriquerod (small blind) folded on the Pre-Flop
+Seat 4: JulioCheddar (big blind) folded on the Pre-Flop
+Seat 5: TopeteQQ showed [5d Ad] and lost with two pair, Fives and Fours [5s 5d 4s 4d Ad]
+Seat 6: MeanerUglier showed [8h 8s] and won 63751.00 with two pair, Eights and Fours [8s 8h 4s 4d Js]
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485439209 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:11:01 UTC
+Table '7' 8-max Seat #3 is the button
+Seat 2: KovalevEvgen (310096.00)
+Seat 3: henriquerod (187448.00)
+Seat 4: JulioCheddar (123862.00)
+Seat 5: TopeteQQ (234911.00)
+Seat 6: MeanerUglier (312449.00)
+Seat 7: grotle (85625.00)
+Seat 8: zimboraaa (207677.00)
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+JulioCheddar posts the small blind 3000.00
+TopeteQQ posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Kc 2h]
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+KovalevEvgen raises 12000.00 to 12000.00
+henriquerod folds
+JulioCheddar folds
+TopeteQQ calls 6000.00
+*** FLOP *** [5c Qs Ks]
+Main pot 32250.00
+TopeteQQ checks
+KovalevEvgen bets 8063.00
+TopeteQQ calls 8063.00
+*** TURN *** [5c Qs Ks] [5h]
+Main pot 48376.00
+TopeteQQ checks
+KovalevEvgen bets 24180.00
+TopeteQQ calls 24180.00
+*** RIVER *** [5c Qs Ks 5h] [8s]
+Main pot 96736.00
+TopeteQQ checks
+KovalevEvgen checks
+*** SHOW DOWN ***
+Main pot 96736.00
+KovalevEvgen shows [Ac 6s] (a pair of Fives [5h 5c Ac Ks Qs])
+TopeteQQ shows [9d Qc] (two pair, Queens and Fives [Qs Qc 5h 5c Ks])
+TopeteQQ collected 96736.00 from main pot
+*** SUMMARY ***
+Total pot 96736.00
+Board [5c Qs Ks 5h 8s]
+Seat 2: KovalevEvgen showed [Ac 6s] and lost with a pair of Fives [5h 5c Ac Ks Qs]
+Seat 3: henriquerod (button) folded on the Pre-Flop
+Seat 4: JulioCheddar (small blind) folded on the Pre-Flop
+Seat 5: TopeteQQ (big blind) showed [9d Qc] and won 96736.00 with two pair, Queens and Fives [Qs Qc 5h 5c Ks]
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485439656 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:12:02 UTC
+Table '7' 8-max Seat #4 is the button
+Seat 2: KovalevEvgen (265103.00)
+Seat 3: henriquerod (186698.00)
+Seat 4: JulioCheddar (120112.00)
+Seat 5: TopeteQQ (286654.00)
+Seat 6: MeanerUglier (311699.00)
+Seat 7: grotle (84875.00)
+Seat 8: zimboraaa (206927.00)
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+TopeteQQ posts the small blind 3000.00
+MeanerUglier posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [Jc 8s]
+grotle folds
+zimboraaa folds
+KovalevEvgen folds
+henriquerod folds
+JulioCheddar raises 12000.00 to 12000.00
+TopeteQQ raises 45000.00 to 48000.00
+MeanerUglier folds
+JulioCheddar folds
+Uncalled bet (36000.00) returned to TopeteQQ
+TopeteQQ does not show
+*** SUMMARY ***
+Total pot 35250.00
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar (button) folded on the Pre-Flop
+Seat 5: TopeteQQ did not show and won 35250.00
+Seat 6: MeanerUglier (big blind) folded on the Pre-Flop
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485440064 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:12:57 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 2: KovalevEvgen (264353.00)
+Seat 3: henriquerod (185948.00)
+Seat 4: JulioCheddar (107362.00)
+Seat 5: TopeteQQ (309154.00)
+Seat 6: MeanerUglier (304949.00)
+Seat 7: grotle (84125.00)
+Seat 8: zimboraaa (206177.00)
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+MeanerUglier posts the small blind 3000.00
+grotle posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 5250.00
+Dealt to grotle [4s 5c]
+zimboraaa folds
+KovalevEvgen folds
+henriquerod folds
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier folds
+grotle does not show
+*** SUMMARY ***
+Total pot 14250.00
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ (button) folded on the Pre-Flop
+Seat 6: MeanerUglier (small blind) folded on the Pre-Flop
+Seat 7: grotle did not show and won 14250.00
+Seat 8: zimboraaa folded on the Pre-Flop and did not bet
+
+Game Hand #2485440240 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:13:24 UTC
+Table '7' 8-max Seat #6 is the button
+Seat 1: Weddingplans18 (596245.00)
+Seat 2: KovalevEvgen (263603.00)
+Seat 3: henriquerod (185198.00)
+Seat 4: JulioCheddar (106612.00)
+Seat 5: TopeteQQ (308404.00)
+Seat 6: MeanerUglier (301199.00)
+Seat 7: grotle (91625.00)
+Seat 8: zimboraaa (205427.00)
+Weddingplans18 posts ante 750.00
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+grotle posts the small blind 3000.00
+zimboraaa posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Js 8h]
+Weddingplans18 folds
+KovalevEvgen folds
+henriquerod folds
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier raises 12000.00 to 12000.00
+grotle folds
+zimboraaa calls 6000.00
+*** FLOP *** [4c 2c Kc]
+Main pot 33000.00
+zimboraaa checks
+MeanerUglier checks
+*** TURN *** [4c 2c Kc] [2s]
+Main pot 33000.00
+zimboraaa bets 16500.00
+MeanerUglier calls 16500.00
+*** RIVER *** [4c 2c Kc 2s] [3h]
+Main pot 66000.00
+zimboraaa checks
+MeanerUglier bets 45000.00
+zimboraaa folds
+Uncalled bet (45000.00) returned to MeanerUglier
+MeanerUglier does not show
+*** SUMMARY ***
+Total pot 66000.00
+Board [4c 2c Kc 2s 3h]
+Seat 1: Weddingplans18 folded on the Pre-Flop and did not bet
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier did not show and won 66000.00
+Seat 7: grotle (small blind) folded on the Pre-Flop
+Seat 8: zimboraaa (big blind) folded on the River
+
+Game Hand #2485440659 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:14:21 UTC
+Table '7' 8-max Seat #7 is the button
+Seat 1: Weddingplans18 (595495.00)
+Seat 2: KovalevEvgen (262853.00)
+Seat 3: henriquerod (184448.00)
+Seat 4: JulioCheddar (105862.00)
+Seat 5: TopeteQQ (307654.00)
+Seat 6: MeanerUglier (337949.00)
+Seat 7: grotle (87875.00)
+Seat 8: zimboraaa (176177.00)
+Weddingplans18 posts ante 750.00
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+zimboraaa posts the small blind 3000.00
+Weddingplans18 posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [Kc 7s]
+KovalevEvgen folds
+henriquerod folds
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier raises 12000.00 to 12000.00
+grotle folds
+zimboraaa folds
+Weddingplans18 calls 6000.00
+*** FLOP *** [2s 6h Kd]
+Main pot 33000.00
+Weddingplans18 checks
+MeanerUglier checks
+*** TURN *** [2s 6h Kd] [9c]
+Main pot 33000.00
+Weddingplans18 bets 18000.00
+MeanerUglier calls 18000.00
+*** RIVER *** [2s 6h Kd 9c] [2h]
+Main pot 69000.00
+Weddingplans18 bets 18000.00
+MeanerUglier calls 18000.00
+*** SHOW DOWN ***
+Main pot 105000.00
+Weddingplans18 shows [3h Ks] (two pair, Kings and Deuces [Ks Kd 2s 2h 9c])
+MeanerUglier shows [9s Ac] (two pair, Nines and Deuces [9s 9c 2s 2h Ac])
+Weddingplans18 collected 105000.00 from main pot
+*** SUMMARY ***
+Total pot 105000.00
+Board [2s 6h Kd 9c 2h]
+Seat 1: Weddingplans18 (big blind) showed [3h Ks] and won 105000.00 with two pair, Kings and Deuces [Ks Kd 2s 2h 9c]
+Seat 2: KovalevEvgen folded on the Pre-Flop and did not bet
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier showed [9s Ac] and lost with two pair, Nines and Deuces [9s 9c 2s 2h Ac]
+Seat 7: grotle (button) folded on the Pre-Flop
+Seat 8: zimboraaa (small blind) folded on the Pre-Flop
+
+Game Hand #2485441130 - Tournament #33616317 - Holdem (No Limit) - Level 13 (3000.00/6000.00) - 2025/06/20 15:15:30 UTC
+Table '7' 8-max Seat #8 is the button
+Seat 1: Weddingplans18 (651745.00)
+Seat 2: KovalevEvgen (262103.00)
+Seat 3: henriquerod (183698.00)
+Seat 4: JulioCheddar (105112.00)
+Seat 5: TopeteQQ (306904.00)
+Seat 6: MeanerUglier (289199.00)
+Seat 7: grotle (87125.00)
+Seat 8: zimboraaa (172427.00)
+Weddingplans18 posts ante 750.00
+KovalevEvgen posts ante 750.00
+henriquerod posts ante 750.00
+JulioCheddar posts ante 750.00
+TopeteQQ posts ante 750.00
+MeanerUglier posts ante 750.00
+grotle posts ante 750.00
+zimboraaa posts ante 750.00
+Weddingplans18 posts the small blind 3000.00
+KovalevEvgen posts the big blind 6000.00
+*** HOLE CARDS ***
+Main pot 6000.00
+Dealt to grotle [7d Ks]
+henriquerod folds
+JulioCheddar folds
+TopeteQQ folds
+MeanerUglier folds
+grotle folds
+zimboraaa folds
+Weddingplans18 folds
+KovalevEvgen does not show
+*** SUMMARY ***
+Total pot 15000.00
+Seat 1: Weddingplans18 (small blind) folded on the Pre-Flop
+Seat 2: KovalevEvgen did not show and won 15000.00
+Seat 3: henriquerod folded on the Pre-Flop and did not bet
+Seat 4: JulioCheddar folded on the Pre-Flop and did not bet
+Seat 5: TopeteQQ folded on the Pre-Flop and did not bet
+Seat 6: MeanerUglier folded on the Pre-Flop and did not bet
+Seat 7: grotle folded on the Pre-Flop and did not bet
+Seat 8: zimboraaa (button) folded on the Pre-Flop
+

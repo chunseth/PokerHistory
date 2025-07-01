@@ -1,0 +1,537 @@
+Game Hand #2485442755 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:19:17 UTC
+Table '9' 8-max Seat #7 is the button
+Seat 1: Kargin888 (134048.00)
+Seat 2: Dikey08 (443264.00)
+Seat 3: davcab92 (55212.00)
+Seat 4: H0wes (279942.00)
+Seat 5: oblap (81093.00)
+Seat 6: chimpaz (34865.00)
+Seat 7: SashaVasilev (262716.00)
+Seat 8: grotle will be allowed to play after the button
+Kargin888 posts ante 450.00
+Dikey08 posts ante 450.00
+davcab92 posts ante 450.00
+H0wes posts ante 450.00
+oblap posts ante 450.00
+chimpaz posts ante 450.00
+SashaVasilev posts ante 450.00
+Kargin888 posts the small blind 1800.00
+Dikey08 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+davcab92 folds
+H0wes folds
+oblap raises 7560.00 to 7560.00
+chimpaz folds
+SashaVasilev calls 7560.00
+Kargin888 raises 27000.00 to 28800.00
+Dikey08 folds
+oblap folds
+SashaVasilev calls 21240.00
+*** FLOP *** [Kd 9s 8h]
+Main pot 71910.00
+Kargin888 bets 27330.00
+SashaVasilev folds
+Uncalled bet (27330.00) returned to Kargin888
+Kargin888 does not show
+*** SUMMARY ***
+Total pot 71910.00
+Board [Kd 9s 8h]
+Seat 1: Kargin888 did not show and won 71910.00
+Seat 2: Dikey08 (big blind) folded on the Pre-Flop
+Seat 3: davcab92 folded on the Pre-Flop and did not bet
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev (button) folded on the Flop
+
+Game Hand #2485443267 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:20:31 UTC
+Table '9' 8-max Seat #1 is the button
+Seat 1: Kargin888 (176708.00)
+Seat 2: Dikey08 (439214.00)
+Seat 3: davcab92 (54762.00)
+Seat 4: H0wes (279492.00)
+Seat 5: oblap (73083.00)
+Seat 6: chimpaz (34415.00)
+Seat 7: SashaVasilev (233466.00)
+Seat 8: grotle (100000.00)
+Kargin888 posts ante 450.00
+Dikey08 posts ante 450.00
+davcab92 posts ante 450.00
+H0wes posts ante 450.00
+oblap posts ante 450.00
+chimpaz posts ante 450.00
+SashaVasilev posts ante 450.00
+grotle posts ante 450.00
+Dikey08 posts the small blind 1800.00
+davcab92 posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [Th 3s]
+H0wes folds
+oblap folds
+chimpaz raises 33965.00 to 33965.00 and is all-in
+SashaVasilev folds
+grotle folds
+Kargin888 folds
+Dikey08 folds
+davcab92 folds
+Uncalled bet (30365.00) returned to chimpaz
+chimpaz does not show
+*** SUMMARY ***
+Total pot 12600.00
+Seat 1: Kargin888 (button) folded on the Pre-Flop
+Seat 2: Dikey08 (small blind) folded on the Pre-Flop
+Seat 3: davcab92 (big blind) folded on the Pre-Flop
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz did not show and won 12600.00
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485443521 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:21:08 UTC
+Table '9' 8-max Seat #2 is the button
+Seat 1: Kargin888 (176258.00)
+Seat 2: Dikey08 (436964.00)
+Seat 3: davcab92 (50712.00)
+Seat 4: H0wes (279042.00)
+Seat 5: oblap (72633.00)
+Seat 6: chimpaz (42965.00)
+Seat 7: SashaVasilev (233016.00)
+Seat 8: grotle (99550.00)
+Kargin888 posts ante 450.00
+Dikey08 posts ante 450.00
+davcab92 posts ante 450.00
+H0wes posts ante 450.00
+oblap posts ante 450.00
+chimpaz posts ante 450.00
+SashaVasilev posts ante 450.00
+grotle posts ante 450.00
+davcab92 posts the small blind 1800.00
+H0wes posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3600.00
+Dealt to grotle [3c Jc]
+oblap folds
+chimpaz folds
+SashaVasilev folds
+grotle folds
+Kargin888 raises 7200.00 to 7200.00
+Dikey08 folds
+davcab92 raises 48462.00 to 50262.00 and is all-in
+H0wes folds
+Kargin888 calls 43062.00
+*** FLOP *** [Ah Jh 6h]
+Main pot 107724.00
+*** TURN *** [Ah Jh 6h] [8h]
+Main pot 107724.00
+*** RIVER *** [Ah Jh 6h 8h] [Kc]
+Main pot 107724.00
+*** SHOW DOWN ***
+Main pot 107724.00
+Kargin888 shows [Ad 9h] (a flush, Ace high [Ah Jh 9h 8h 6h])
+davcab92 shows [Js Kd] (two pair, Kings and Jacks [Kd Kc Js Jh Ah])
+Kargin888 collected 107724.00 from main pot
+*** SUMMARY ***
+Total pot 107724.00
+Board [Ah Jh 6h 8h Kc]
+Seat 1: Kargin888 showed [Ad 9h] and won 107724.00 with a flush, Ace high [Ah Jh 9h 8h 6h]
+Seat 2: Dikey08 (button) folded on the Pre-Flop
+Seat 3: davcab92 (small blind) showed [Js Kd] and lost with two pair, Kings and Jacks [Kd Kc Js Jh Ah]
+Seat 4: H0wes (big blind) folded on the Pre-Flop
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485443885 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:22:02 UTC
+Table '9' 8-max Seat #3 is the button
+Seat 1: Kargin888 (233270.00)
+Seat 2: Dikey08 (436514.00)
+Seat 4: H0wes (274992.00)
+Seat 5: oblap (72183.00)
+Seat 6: chimpaz (42515.00)
+Seat 7: SashaVasilev (232566.00)
+Seat 8: grotle (99100.00)
+Kargin888 posts ante 450.00
+Dikey08 posts ante 450.00
+H0wes posts ante 450.00
+oblap posts ante 450.00
+chimpaz posts ante 450.00
+SashaVasilev posts ante 450.00
+grotle posts ante 450.00
+H0wes posts the small blind 1800.00
+oblap posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [6h Js]
+chimpaz folds
+SashaVasilev raises 7200.00 to 7200.00
+grotle folds
+Kargin888 folds
+Dikey08 folds
+H0wes calls 5400.00
+oblap folds
+*** FLOP *** [3c 3d 9s]
+Main pot 21150.00
+H0wes checks
+SashaVasilev bets 6980.00
+H0wes folds
+Uncalled bet (6980.00) returned to SashaVasilev
+SashaVasilev does not show
+*** SUMMARY ***
+Total pot 21150.00
+Board [3c 3d 9s]
+Seat 1: Kargin888 folded on the Pre-Flop and did not bet
+Seat 2: Dikey08 folded on the Pre-Flop and did not bet
+Seat 4: H0wes (small blind) folded on the Flop
+Seat 5: oblap (big blind) folded on the Pre-Flop
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev did not show and won 21150.00
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485444105 - Tournament #33616407 - Holdem (No Limit) - Level 10 (1800.00/3600.00) - 2025/06/20 15:22:35 UTC
+Table '9' 8-max Seat #4 is the button
+Seat 1: Kargin888 (232820.00)
+Seat 2: Dikey08 (436064.00)
+Seat 4: H0wes (267342.00)
+Seat 5: oblap (68133.00)
+Seat 6: chimpaz (42065.00)
+Seat 7: SashaVasilev (246066.00)
+Seat 8: grotle (98650.00)
+Kargin888 posts ante 450.00
+Dikey08 posts ante 450.00
+H0wes posts ante 450.00
+oblap posts ante 450.00
+chimpaz posts ante 450.00
+SashaVasilev posts ante 450.00
+grotle posts ante 450.00
+oblap posts the small blind 1800.00
+chimpaz posts the big blind 3600.00
+*** HOLE CARDS ***
+Main pot 3150.00
+Dealt to grotle [8c 9h]
+SashaVasilev folds
+grotle folds
+Kargin888 raises 7200.00 to 7200.00
+Dikey08 folds
+H0wes calls 7200.00
+oblap folds
+chimpaz folds
+*** FLOP *** [3s Ac 4s]
+Main pot 22950.00
+Kargin888 checks
+H0wes checks
+*** TURN *** [3s Ac 4s] [2c]
+Main pot 22950.00
+Kargin888 bets 11475.00
+H0wes folds
+Uncalled bet (11475.00) returned to Kargin888
+Kargin888 does not show
+*** SUMMARY ***
+Total pot 22950.00
+Board [3s Ac 4s 2c]
+Seat 1: Kargin888 did not show and won 22950.00
+Seat 2: Dikey08 folded on the Pre-Flop and did not bet
+Seat 4: H0wes (button) folded on the Turn
+Seat 5: oblap (small blind) folded on the Pre-Flop
+Seat 6: chimpaz (big blind) folded on the Pre-Flop
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485444563 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:23:40 UTC
+Table '9' 8-max Seat #5 is the button
+Seat 1: Kargin888 (248120.00)
+Seat 2: Dikey08 (435614.00)
+Seat 4: H0wes (259692.00)
+Seat 5: oblap (65883.00)
+Seat 6: chimpaz (38015.00)
+Seat 7: SashaVasilev (245616.00)
+Seat 8: grotle (98200.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+chimpaz posts the small blind 2000.00
+SashaVasilev posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [6c Th]
+grotle folds
+Kargin888 raises 8400.00 to 8400.00
+Dikey08 folds
+H0wes calls 8400.00
+oblap folds
+chimpaz raises 35515.00 to 37515.00 and is all-in
+SashaVasilev folds
+Kargin888 folds
+H0wes calls 29115.00
+*** FLOP *** [Kc Td Ah]
+Main pot 90930.00
+*** TURN *** [Kc Td Ah] [3d]
+Main pot 90930.00
+*** RIVER *** [Kc Td Ah 3d] [Jd]
+Main pot 90930.00
+*** SHOW DOWN ***
+Main pot 90930.00
+H0wes shows [Ac Ts] (two pair, Aces and Tens [Ah Ac Ts Td Kc])
+chimpaz shows [As Js] (two pair, Aces and Jacks [As Ah Js Jd Kc])
+chimpaz collected 90930.00 from main pot
+*** SUMMARY ***
+Total pot 90930.00
+Board [Kc Td Ah 3d Jd]
+Seat 1: Kargin888 folded on the Pre-Flop and did not bet
+Seat 2: Dikey08 folded on the Pre-Flop and did not bet
+Seat 4: H0wes showed [Ac Ts] and lost with two pair, Aces and Tens [Ah Ac Ts Td Kc]
+Seat 5: oblap (button) folded on the Pre-Flop
+Seat 6: chimpaz (small blind) showed [As Js] and won 90930.00 with two pair, Aces and Jacks [As Ah Js Jd Kc]
+Seat 7: SashaVasilev (big blind) folded on the Pre-Flop
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485444971 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:24:39 UTC
+Table '9' 8-max Seat #6 is the button
+Seat 1: Kargin888 (239220.00)
+Seat 2: Dikey08 (435114.00)
+Seat 4: H0wes (221677.00)
+Seat 5: oblap (65383.00)
+Seat 6: chimpaz (90930.00)
+Seat 7: SashaVasilev (241116.00)
+Seat 8: grotle (97700.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+SashaVasilev posts the small blind 2000.00
+grotle posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [9h 9d]
+Kargin888 folds
+Dikey08 folds
+H0wes folds
+oblap folds
+chimpaz raises 8000.00 to 8000.00
+SashaVasilev calls 6000.00
+grotle calls 4000.00
+*** FLOP *** [4s 7s 5s]
+Main pot 27500.00
+SashaVasilev checks
+grotle bets 12000.00
+chimpaz folds
+SashaVasilev folds
+Uncalled bet (12000.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27500.00
+Board [4s 7s 5s]
+Seat 1: Kargin888 folded on the Pre-Flop and did not bet
+Seat 2: Dikey08 folded on the Pre-Flop and did not bet
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz (button) folded on the Flop
+Seat 7: SashaVasilev (small blind) folded on the Flop
+Seat 8: grotle did not show and won 27500.00
+
+Game Hand #2485445255 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:25:20 UTC
+Table '9' 8-max Seat #7 is the button
+Seat 1: Kargin888 (238720.00)
+Seat 2: Dikey08 (434614.00)
+Seat 4: H0wes (221177.00)
+Seat 5: oblap (64883.00)
+Seat 6: chimpaz (82430.00)
+Seat 7: SashaVasilev (232616.00)
+Seat 8: grotle (116700.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+grotle posts the small blind 2000.00
+Kargin888 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [9c Tc]
+Dikey08 folds
+H0wes folds
+oblap folds
+chimpaz folds
+SashaVasilev folds
+grotle calls 2000.00
+Kargin888 raises 8000.00 to 12000.00
+grotle raises 112200.00 to 116200.00 and is all-in
+Kargin888 folds
+Uncalled bet (104200.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 27500.00
+Seat 1: Kargin888 (big blind) folded on the Pre-Flop
+Seat 2: Dikey08 folded on the Pre-Flop and did not bet
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev (button) folded on the Pre-Flop
+Seat 8: grotle did not show and won 27500.00
+
+Game Hand #2485445451 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:25:50 UTC
+Table '9' 8-max Seat #8 is the button
+Seat 1: Kargin888 (226220.00)
+Seat 2: Dikey08 (434114.00)
+Seat 4: H0wes (220677.00)
+Seat 5: oblap (64383.00)
+Seat 6: chimpaz (81930.00)
+Seat 7: SashaVasilev (232116.00)
+Seat 8: grotle (131700.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+Kargin888 posts the small blind 2000.00
+Dikey08 posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 3500.00
+Dealt to grotle [Qh Kd]
+H0wes folds
+oblap folds
+chimpaz folds
+SashaVasilev raises 8000.00 to 8000.00
+grotle calls 8000.00
+Kargin888 folds
+Dikey08 raises 56000.00 to 60000.00
+SashaVasilev folds
+grotle folds
+Uncalled bet (52000.00) returned to Dikey08
+Dikey08 does not show
+*** SUMMARY ***
+Total pot 29500.00
+Seat 1: Kargin888 (small blind) folded on the Pre-Flop
+Seat 2: Dikey08 did not show and won 29500.00
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle (button) folded on the Pre-Flop
+
+Game Hand #2485445771 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:26:36 UTC
+Table '9' 8-max Seat #1 is the button
+Seat 1: Kargin888 (223720.00)
+Seat 2: Dikey08 (455114.00)
+Seat 3: H3llfire (377126.00)
+Seat 4: H0wes (220177.00)
+Seat 5: oblap (63883.00)
+Seat 6: chimpaz (81430.00)
+Seat 7: SashaVasilev (223616.00)
+Seat 8: grotle (123200.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H3llfire posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+Dikey08 posts the small blind 2000.00
+H3llfire posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [Qc 9c]
+H0wes folds
+oblap raises 63383.00 to 63383.00 and is all-in
+chimpaz folds
+SashaVasilev folds
+grotle folds
+Kargin888 folds
+Dikey08 folds
+H3llfire calls 59383.00
+*** FLOP *** [Ks 2c 2d]
+Main pot 132766.00
+*** TURN *** [Ks 2c 2d] [Jh]
+Main pot 132766.00
+*** RIVER *** [Ks 2c 2d Jh] [6s]
+Main pot 132766.00
+*** SHOW DOWN ***
+Main pot 132766.00
+H3llfire shows [Ah 9d] (a pair of Deuces [2d 2c Ah Ks Jh])
+oblap shows [As Ts] (a pair of Deuces [2d 2c As Ks Jh])
+H3llfire collected 66383.00 from main pot
+oblap collected 66383.00 from main pot
+*** SUMMARY ***
+Total pot 132766.00
+Board [Ks 2c 2d Jh 6s]
+Seat 1: Kargin888 (button) folded on the Pre-Flop
+Seat 2: Dikey08 (small blind) folded on the Pre-Flop
+Seat 3: H3llfire (big blind) showed [Ah 9d] and won 66383.00 with a pair of Deuces [2d 2c Ah Ks Jh]
+Seat 4: H0wes folded on the Pre-Flop and did not bet
+Seat 5: oblap showed [As Ts] and won 66383.00 with a pair of Deuces [2d 2c As Ks Jh]
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle folded on the Pre-Flop and did not bet
+
+Game Hand #2485446044 - Tournament #33616407 - Holdem (No Limit) - Level 11 (2000.00/4000.00) - 2025/06/20 15:27:16 UTC
+Table '9' 8-max Seat #2 is the button
+Seat 1: Kargin888 (223220.00)
+Seat 2: Dikey08 (452614.00)
+Seat 3: H3llfire (379626.00)
+Seat 4: H0wes (219677.00)
+Seat 5: oblap (66383.00)
+Seat 6: chimpaz (80930.00)
+Seat 7: SashaVasilev (223116.00)
+Seat 8: grotle (122700.00)
+Kargin888 posts ante 500.00
+Dikey08 posts ante 500.00
+H3llfire posts ante 500.00
+H0wes posts ante 500.00
+oblap posts ante 500.00
+chimpaz posts ante 500.00
+SashaVasilev posts ante 500.00
+grotle posts ante 500.00
+H3llfire posts the small blind 2000.00
+H0wes posts the big blind 4000.00
+*** HOLE CARDS ***
+Main pot 4000.00
+Dealt to grotle [Qs Qd]
+oblap folds
+chimpaz folds
+SashaVasilev folds
+grotle calls 4000.00
+Kargin888 raises 14000.00 to 14000.00
+Dikey08 raises 38000.00 to 38000.00
+H3llfire folds
+H0wes folds
+grotle raises 118200.00 to 122200.00 and is all-in
+Kargin888 raises 208720.00 to 222720.00 and is all-in
+Dikey08 folds
+Uncalled bet (100520.00) returned to Kargin888
+*** FLOP *** [4h 7s 6c]
+Main pot 292400.00
+*** TURN *** [4h 7s 6c] [8d]
+Main pot 292400.00
+*** RIVER *** [4h 7s 6c 8d] [6s]
+Main pot 292400.00
+*** SHOW DOWN ***
+Main pot 292400.00
+Kargin888 shows [Kd Ks] (two pair, Kings and Sixs [Ks Kd 6s 6c 8d])
+grotle shows [Qs Qd] (two pair, Queens and Sixs [Qs Qd 6s 6c 8d])
+Kargin888 collected 292400.00 from main pot
+*** SUMMARY ***
+Total pot 292400.00
+Board [4h 7s 6c 8d 6s]
+Seat 1: Kargin888 showed [Kd Ks] and won 292400.00 with two pair, Kings and Sixs [Ks Kd 6s 6c 8d]
+Seat 2: Dikey08 (button) folded on the Pre-Flop
+Seat 3: H3llfire (small blind) folded on the Pre-Flop
+Seat 4: H0wes (big blind) folded on the Pre-Flop
+Seat 5: oblap folded on the Pre-Flop and did not bet
+Seat 6: chimpaz folded on the Pre-Flop and did not bet
+Seat 7: SashaVasilev folded on the Pre-Flop and did not bet
+Seat 8: grotle showed [Qs Qd] and lost with two pair, Queens and Sixs [Qs Qd 6s 6c 8d]
+

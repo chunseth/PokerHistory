@@ -1,0 +1,99 @@
+Step 11: Estimate Opponent's Response Frequencies - Breakdown into Steps a-x
+
+Step 11a: Determine the Player's Action Type
+    Identify whether the player is betting, raising, calling, or checking
+    Extract the action amount and sizing relative to pot
+    Determine if this is a continuation bet, value bet, or bluff
+Step 11b: Calculate Pot Odds for Opponent
+    Calculate the amount the opponent needs to call
+    Determine pot odds: callAmount / (potSize + callAmount)
+    Identify if this is a small, medium, or large bet sizing
+Step 11c: Assess Opponent's Current Range Strength
+    Use the opponent's range from step 10
+    Calculate the weighted average hand strength of their range
+    Identify what percentage of their range is strong vs weak hands
+Step 11d: Determine Street-Specific Response Patterns
+    Flop: Higher fold frequencies to continuation bets
+    Turn: More calling with draws and medium strength hands
+    River: More polarized responses (fold weak, raise strong)
+Step 11e: Calculate Base Fold Frequency
+    Start with GTO-inspired base frequencies:
+    Small bet (33% pot): 40-60% fold
+    Medium bet (66% pot): 60-80% fold
+    Large bet (100%+ pot): 80-90% fold
+Step 11f: Adjust for Opponent's Range Strength
+    Strong range: Reduce fold frequency by 20-30%
+    Weak range: Increase fold frequency by 20-30%
+    Medium range: Use base frequencies
+Step 11g: Adjust for Position
+    In position: Slightly lower fold frequencies (more calling)
+    Out of position: Higher fold frequencies (more folding)
+    Blind vs Blind: More aggressive responses
+Step 11h: Adjust for Stack Depth
+    Deep stacks: More calling with draws, more raising with strong hands
+    Short stacks: More all-in or fold decisions
+    Medium stacks: Balanced approach
+Step 11i: Adjust for Multiway vs Heads-up
+    Multiway: Higher fold frequencies (more players to act)
+    Heads-up: More aggressive responses
+    Three-way: Intermediate frequencies
+Step 11j: Calculate Call Frequency
+    Call Frequency = (1 - Fold Frequency) * (1 - Raise Frequency)
+    Adjust based on pot odds and range strength
+    Consider implied odds for drawing hands
+Step 11k: Calculate Raise Frequency
+    Strong hands: 20-40% raise frequency
+    Medium hands: 10-20% raise frequency
+    Weak hands: 5-15% raise frequency (bluff raises)
+    Draws: 15-25% raise frequency (semi-bluffs)
+Step 11l: Adjust for Bet Sizing
+    Small bets: Higher raise frequencies (easier to raise)
+    Large bets: Lower raise frequencies (harder to raise)
+    All-in bets: Binary fold/call decision
+Step 11m: Consider Previous Action Patterns
+    If opponent has been passive: Reduce raise frequency
+    If opponent has been aggressive: Increase raise frequency
+    If opponent has been folding: Increase fold frequency
+Step 11n: Adjust for Board Texture
+    Dry boards: More polarized responses
+    Wet boards: More calling with draws
+    Paired boards: More cautious responses
+Step 11o: Calculate Weighted Response Probabilities
+    Sum all adjustments to get final probabilities
+    Ensure probabilities sum to 1.0
+    Round to reasonable precision (e.g., 0.01)
+Step 11p: Validate Response Frequencies
+    Check that fold + call + raise = 1.0
+    Ensure frequencies are reasonable (0-1 range)
+    Adjust if any frequency is outside expected bounds
+Step 11q: Store Response Frequencies
+    Save fold probability
+    Save call probability
+    Save raise probability
+    Store confidence level in estimates
+Step 11r: Calculate Response Ranges
+    Folding range: Hands that fold to this action
+    Calling range: Hands that call this action
+    Raising range: Hands that raise to this action
+Step 11s: Estimate Raise Sizing
+    Small raises: 2.5-3x the bet size
+    Medium raises: 3-4x the bet size
+    Large raises: 4x+ the bet size
+    All-in raises: Remaining stack
+Step 11t: Calculate Weighted Average Raise Size
+    Weight each raise size by its probability
+    Consider opponent's stack size constraints
+    Factor in pot odds and implied odds
+Step 11u: Finalize Response Model
+    Create response object with all probabilities
+    Include ranges for each response type
+    Add metadata about confidence and assumptions
+Step 11v: Document Assumptions
+    Note any assumptions made about opponent tendencies
+    Record the basis for frequency adjustments
+    Flag areas where more data would improve accuracy
+Step 11w: Prepare for EV Calculation
+    Format response frequencies for step 12 (equity calculation)
+    Ensure compatibility with equity calculation functions
+    Validate data types and ranges
+Step 11x: Return Response Frequencies Object

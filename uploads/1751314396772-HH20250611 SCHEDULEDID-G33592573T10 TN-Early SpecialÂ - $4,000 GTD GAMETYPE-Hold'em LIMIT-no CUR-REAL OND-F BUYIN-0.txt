@@ -1,0 +1,595 @@
+Game Hand #2478782626 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 12:52:31 UTC
+Table '7' 8-max Seat #5 is the button
+Seat 1: Favorito (106861.00)
+Seat 2: grotle (109106.00)
+Seat 3: NastyNa (150112.00)
+Seat 4: Belatrix35 (155349.00)
+Seat 5: Olika25 (96625.00)
+Seat 6: Jogador23 (147091.00)
+Seat 7: EOBIXXX (51294.00)
+Seat 8: ToastedWhoDat (177843.00)
+Favorito posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Olika25 posts ante 250.00
+Jogador23 posts ante 250.00
+EOBIXXX posts ante 250.00
+ToastedWhoDat posts ante 250.00
+Jogador23 posts the small blind 1000.00
+EOBIXXX posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [4d 2d]
+ToastedWhoDat folds
+Favorito folds
+grotle folds
+NastyNa raises 6000.00 to 6000.00
+Belatrix35 folds
+Olika25 raises 18000.00 to 18000.00
+Jogador23 folds
+EOBIXXX folds
+NastyNa folds
+Uncalled bet (12000.00) returned to Olika25
+Olika25 does not show
+*** SUMMARY ***
+Total pot 17000.00
+Seat 1: Favorito folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: NastyNa folded on the Pre-Flop and did not bet
+Seat 4: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 5: Olika25 did not show and won 17000.00
+Seat 6: Jogador23 (small blind) folded on the Pre-Flop
+Seat 7: EOBIXXX (big blind) folded on the Pre-Flop
+Seat 8: ToastedWhoDat folded on the Pre-Flop and did not bet
+
+Game Hand #2478782847 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 12:53:32 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: Stayson22 (100000.00)
+Seat 2: EOBIXXX (49044.00)
+Seat 3: grotle (108856.00)
+Seat 4: NastyNa (143862.00)
+Seat 5: Belatrix35 (155099.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+EOBIXXX posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 1250.00
+Dealt to grotle [9d Jd]
+NastyNa folds
+Belatrix35 raises 4000.00 to 4000.00
+Stayson22 folds
+EOBIXXX folds
+grotle calls 2000.00
+*** FLOP *** [9c Ah 2s]
+Main pot 10250.00
+grotle checks
+Belatrix35 bets 3383.00
+grotle calls 3383.00
+*** TURN *** [9c Ah 2s] [Td]
+Main pot 17016.00
+grotle checks
+Belatrix35 checks
+*** RIVER *** [9c Ah 2s Td] [Ts]
+Main pot 17016.00
+grotle checks
+Belatrix35 bets 9615.00
+grotle calls 9615.00
+*** SHOW DOWN ***
+Main pot 36246.00
+grotle shows [9d Jd] (two pair, Tens and Nines [Ts Td 9d 9c Ah])
+Belatrix35 shows [Kd Ks] (two pair, Kings and Tens [Ks Kd Ts Td Ah])
+Belatrix35 collected 36246.00 from main pot
+*** SUMMARY ***
+Total pot 36246.00
+Board [9c Ah 2s Td Ts]
+Seat 1: Stayson22 (button) folded on the Pre-Flop
+Seat 2: EOBIXXX (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) showed [9d Jd] and lost with two pair, Tens and Nines [Ts Td 9d 9c Ah]
+Seat 4: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Belatrix35 showed [Kd Ks] and won 36246.00 with two pair, Kings and Tens [Ks Kd Ts Td Ah]
+
+Game Hand #2478783917 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:01:54 UTC
+Table '10' 8-max Seat #2 is the button
+Seat 1: Stayson22 (99750.00)
+Seat 2: EOBIXXX (47794.00)
+Seat 3: grotle (91608.00)
+Seat 4: NastyNa (143612.00)
+Seat 5: Belatrix35 (174097.00)
+Seat 6: Smithington100 (306895.00)
+Seat 7: dibraldim (86621.00)
+Seat 8: own3dddd (100000.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+grotle posts the small blind 1000.00
+NastyNa posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [6s 4c]
+Belatrix35 folds
+Smithington100 raises 4000.00 to 4000.00
+dibraldim folds
+own3dddd calls 4000.00
+Stayson22 folds
+EOBIXXX raises 47544.00 to 47544.00 and is all-in
+grotle folds
+NastyNa folds
+Smithington100 folds
+own3dddd folds
+Uncalled bet (43544.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 17000.00
+Seat 1: Stayson22 folded on the Pre-Flop and did not bet
+Seat 2: EOBIXXX did not show and won 17000.00
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: NastyNa (big blind) folded on the Pre-Flop
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 folded on the Pre-Flop and did not bet
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478784195 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:03:22 UTC
+Table '10' 8-max Seat #3 is the button
+Seat 1: Stayson22 (99500.00)
+Seat 2: EOBIXXX (60544.00)
+Seat 3: grotle (90358.00)
+Seat 4: NastyNa (141362.00)
+Seat 5: Belatrix35 (173847.00)
+Seat 6: Smithington100 (302645.00)
+Seat 7: dibraldim (86371.00)
+Seat 8: own3dddd (95750.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+NastyNa posts the small blind 1000.00
+Belatrix35 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [As Jh]
+Smithington100 folds
+dibraldim folds
+own3dddd raises 4200.00 to 4200.00
+Stayson22 raises 14400.00 to 14400.00
+EOBIXXX folds
+grotle calls 14400.00
+NastyNa folds
+Belatrix35 folds
+own3dddd folds
+*** FLOP *** [Ts 6d 9h]
+Main pot 38000.00
+Stayson22 bets 8500.00
+grotle calls 8500.00
+*** TURN *** [Ts 6d 9h] [4s]
+Main pot 55000.00
+Stayson22 bets 13750.00
+grotle folds
+Uncalled bet (13750.00) returned to Stayson22
+Stayson22 does not show
+*** SUMMARY ***
+Total pot 55000.00
+Board [Ts 6d 9h 4s]
+Seat 1: Stayson22 did not show and won 55000.00
+Seat 2: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 3: grotle (button) folded on the Turn
+Seat 4: NastyNa (small blind) folded on the Pre-Flop
+Seat 5: Belatrix35 (big blind) folded on the Pre-Flop
+Seat 6: Smithington100 folded on the Pre-Flop and did not bet
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478784546 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:05:02 UTC
+Table '10' 8-max Seat #4 is the button
+Seat 1: Stayson22 (131350.00)
+Seat 2: EOBIXXX (60294.00)
+Seat 3: grotle (67208.00)
+Seat 4: NastyNa (140112.00)
+Seat 5: Belatrix35 (171597.00)
+Seat 6: Smithington100 (302395.00)
+Seat 7: dibraldim (86121.00)
+Seat 8: own3dddd (91300.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+Belatrix35 posts the small blind 1000.00
+Smithington100 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [9h 4h]
+dibraldim folds
+own3dddd folds
+Stayson22 folds
+EOBIXXX folds
+grotle folds
+NastyNa raises 4000.00 to 4000.00
+Belatrix35 raises 15000.00 to 16000.00
+Smithington100 calls 14000.00
+NastyNa calls 12000.00
+*** FLOP *** [3h 2c 5h]
+Main pot 50000.00
+Belatrix35 checks
+Smithington100 bets 10000.00
+NastyNa calls 10000.00
+Belatrix35 folds
+*** TURN *** [3h 2c 5h] [6h]
+Main pot 70000.00
+Smithington100 bets 25000.00
+NastyNa calls 25000.00
+*** RIVER *** [3h 2c 5h 6h] [Td]
+Main pot 120000.00
+Smithington100 bets 90000.00
+NastyNa calls 88862.00 and is all-in
+Uncalled bet (1138.00) returned to Smithington100
+*** SHOW DOWN ***
+Main pot 297724.00
+NastyNa shows [2d 2s] (three of a kind, Set of Deuces [2s 2d 2c Td 6h])
+Smithington100 shows [8h 9d] (a high card, Ten high [Td 9d 8h 6h 5h])
+NastyNa collected 297724.00 from main pot
+*** SUMMARY ***
+Total pot 297724.00
+Board [3h 2c 5h 6h Td]
+Seat 1: Stayson22 folded on the Pre-Flop and did not bet
+Seat 2: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: NastyNa (button) showed [2d 2s] and won 297724.00 with three of a kind, Set of Deuces [2s 2d 2c Td 6h]
+Seat 5: Belatrix35 (small blind) folded on the Flop
+Seat 6: Smithington100 (big blind) showed [8h 9d] and lost with a high card, Ten high [Td 9d 8h 6h 5h]
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478785069 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:06:54 UTC
+Table '10' 8-max Seat #5 is the button
+Seat 1: Stayson22 (131100.00)
+Seat 2: EOBIXXX (60044.00)
+Seat 3: grotle (66958.00)
+Seat 4: NastyNa (297724.00)
+Seat 5: Belatrix35 (155347.00)
+Seat 6: Smithington100 (162283.00)
+Seat 7: dibraldim (85871.00)
+Seat 8: own3dddd (91050.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+Smithington100 posts the small blind 1000.00
+dibraldim posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ts 8s]
+own3dddd folds
+Stayson22 folds
+EOBIXXX raises 4000.00 to 4000.00
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Smithington100 folds
+dibraldim folds
+Uncalled bet (2000.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 7000.00
+Seat 1: Stayson22 folded on the Pre-Flop and did not bet
+Seat 2: EOBIXXX did not show and won 7000.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Belatrix35 (button) folded on the Pre-Flop
+Seat 6: Smithington100 (small blind) folded on the Pre-Flop
+Seat 7: dibraldim (big blind) folded on the Pre-Flop
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478785337 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:07:55 UTC
+Table '10' 8-max Seat #6 is the button
+Seat 1: Stayson22 (130850.00)
+Seat 2: EOBIXXX (64794.00)
+Seat 3: grotle (66708.00)
+Seat 4: NastyNa (297474.00)
+Seat 5: Belatrix35 (155097.00)
+Seat 6: Smithington100 (161033.00)
+Seat 7: dibraldim (83621.00)
+Seat 8: own3dddd (90800.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+dibraldim posts the small blind 1000.00
+own3dddd posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [Ah 6h]
+Stayson22 folds
+EOBIXXX folds
+grotle raises 4000.00 to 4000.00
+NastyNa folds
+Belatrix35 folds
+Smithington100 calls 4000.00
+dibraldim folds
+own3dddd calls 2000.00
+*** FLOP *** [4c 5c Jh]
+Main pot 15000.00
+own3dddd checks
+grotle checks
+Smithington100 checks
+*** TURN *** [4c 5c Jh] [2s]
+Main pot 15000.00
+own3dddd checks
+grotle checks
+Smithington100 checks
+*** RIVER *** [4c 5c Jh 2s] [7d]
+Main pot 15000.00
+own3dddd bets 4950.00
+grotle folds
+Smithington100 calls 4950.00
+*** SHOW DOWN ***
+Main pot 24900.00
+Smithington100 shows [9s Ad] (a high card, Ace high [Ad Jh 9s 7d 5c])
+own3dddd shows [Qs 8s] (a high card, Queen high [Qs Jh 8s 7d 5c])
+Smithington100 collected 24900.00 from main pot
+*** SUMMARY ***
+Total pot 24900.00
+Board [4c 5c Jh 2s 7d]
+Seat 1: Stayson22 folded on the Pre-Flop and did not bet
+Seat 2: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the River
+Seat 4: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 (button) showed [9s Ad] and won 24900.00 with a high card, Ace high [Ad Jh 9s 7d 5c]
+Seat 7: dibraldim (small blind) folded on the Pre-Flop
+Seat 8: own3dddd (big blind) showed [Qs 8s] and lost with a high card, Queen high [Qs Jh 8s 7d 5c]
+
+Game Hand #2478785687 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:09:13 UTC
+Table '10' 8-max Seat #7 is the button
+Seat 1: Stayson22 (130600.00)
+Seat 2: EOBIXXX (64544.00)
+Seat 3: grotle (62458.00)
+Seat 4: NastyNa (297224.00)
+Seat 5: Belatrix35 (154847.00)
+Seat 6: Smithington100 (176733.00)
+Seat 7: dibraldim (82371.00)
+Seat 8: own3dddd (81600.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+own3dddd posts the small blind 1000.00
+Stayson22 posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8h 5s]
+EOBIXXX folds
+grotle folds
+NastyNa raises 6000.00 to 6000.00
+Belatrix35 folds
+Smithington100 folds
+dibraldim folds
+own3dddd calls 5000.00
+Stayson22 folds
+*** FLOP *** [6h Ah 4c]
+Main pot 16000.00
+own3dddd checks
+NastyNa checks
+*** TURN *** [6h Ah 4c] [Js]
+Main pot 16000.00
+own3dddd checks
+NastyNa checks
+*** RIVER *** [6h Ah 4c Js] [Th]
+Main pot 16000.00
+own3dddd bets 9120.00
+NastyNa folds
+Uncalled bet (9120.00) returned to own3dddd
+own3dddd does not show
+*** SUMMARY ***
+Total pot 16000.00
+Board [6h Ah 4c Js Th]
+Seat 1: Stayson22 (big blind) folded on the Pre-Flop
+Seat 2: EOBIXXX folded on the Pre-Flop and did not bet
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: NastyNa folded on the River
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 folded on the Pre-Flop and did not bet
+Seat 7: dibraldim (button) folded on the Pre-Flop
+Seat 8: own3dddd did not show and won 16000.00
+
+Game Hand #2478786101 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:10:38 UTC
+Table '10' 8-max Seat #8 is the button
+Seat 1: Stayson22 (128350.00)
+Seat 2: EOBIXXX (64294.00)
+Seat 3: grotle (62208.00)
+Seat 4: NastyNa (290974.00)
+Seat 5: Belatrix35 (154597.00)
+Seat 6: Smithington100 (176483.00)
+Seat 7: dibraldim (82121.00)
+Seat 8: own3dddd (91350.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+Stayson22 posts the small blind 1000.00
+EOBIXXX posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [3c 7d]
+grotle folds
+NastyNa folds
+Belatrix35 folds
+Smithington100 folds
+dibraldim folds
+own3dddd folds
+Stayson22 raises 6000.00 to 7000.00
+EOBIXXX calls 5000.00
+*** FLOP *** [Ts Ks 2s]
+Main pot 16000.00
+Stayson22 bets 5280.00
+EOBIXXX calls 5280.00
+*** TURN *** [Ts Ks 2s] [Ah]
+Main pot 26560.00
+Stayson22 bets 13280.00
+EOBIXXX calls 13280.00
+*** RIVER *** [Ts Ks 2s Ah] [8s]
+Main pot 53120.00
+Stayson22 checks
+EOBIXXX bets 38484.00 and is all-in
+Stayson22 folds
+Uncalled bet (38484.00) returned to EOBIXXX
+EOBIXXX does not show
+*** SUMMARY ***
+Total pot 53120.00
+Board [Ts Ks 2s Ah 8s]
+Seat 1: Stayson22 (small blind) folded on the River
+Seat 2: EOBIXXX did not show and won 53120.00
+Seat 3: grotle folded on the Pre-Flop and did not bet
+Seat 4: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 folded on the Pre-Flop and did not bet
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd (button) folded on the Pre-Flop
+
+Game Hand #2478786594 - Tournament #33592573 - Holdem (No Limit) - Level 7 (1000.00/2000.00) - 2025/06/11 13:12:25 UTC
+Table '10' 8-max Seat #1 is the button
+Seat 1: Stayson22 (102540.00)
+Seat 2: EOBIXXX (91604.00)
+Seat 3: grotle (61958.00)
+Seat 4: NastyNa (290724.00)
+Seat 5: Belatrix35 (154347.00)
+Seat 6: Smithington100 (176233.00)
+Seat 7: dibraldim (81871.00)
+Seat 8: own3dddd (91100.00)
+Stayson22 posts ante 250.00
+EOBIXXX posts ante 250.00
+grotle posts ante 250.00
+NastyNa posts ante 250.00
+Belatrix35 posts ante 250.00
+Smithington100 posts ante 250.00
+dibraldim posts ante 250.00
+own3dddd posts ante 250.00
+EOBIXXX posts the small blind 1000.00
+grotle posts the big blind 2000.00
+*** HOLE CARDS ***
+Main pot 2000.00
+Dealt to grotle [8s 2d]
+NastyNa folds
+Belatrix35 folds
+Smithington100 raises 4200.00 to 4200.00
+dibraldim calls 4200.00
+own3dddd folds
+Stayson22 folds
+EOBIXXX folds
+grotle folds
+*** FLOP *** [9d Kc 4c]
+Main pot 13400.00
+Smithington100 bets 5360.00
+dibraldim raises 14320.00 to 14320.00
+Smithington100 calls 8960.00
+*** TURN *** [9d Kc 4c] [2h]
+Main pot 42040.00
+Smithington100 checks
+dibraldim bets 13873.00
+Smithington100 calls 13873.00
+*** RIVER *** [9d Kc 4c 2h] [2c]
+Main pot 69786.00
+Smithington100 checks
+dibraldim bets 49228.00 and is all-in
+Smithington100 calls 49228.00
+*** SHOW DOWN ***
+Main pot 168242.00
+Smithington100 shows [Qc 5c] (a flush, King high [Kc Qc 5c 4c 2c])
+dibraldim shows [4h 4d] (a full house, Fours full of Deuces [4h 4d 4c 2h 2c])
+dibraldim collected 168242.00 from main pot
+*** SUMMARY ***
+Total pot 168242.00
+Board [9d Kc 4c 2h 2c]
+Seat 1: Stayson22 (button) folded on the Pre-Flop
+Seat 2: EOBIXXX (small blind) folded on the Pre-Flop
+Seat 3: grotle (big blind) folded on the Pre-Flop
+Seat 4: NastyNa folded on the Pre-Flop and did not bet
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 showed [Qc 5c] and lost with a flush, King high [Kc Qc 5c 4c 2c]
+Seat 7: dibraldim showed [4h 4d] and won 168242.00 with a full house, Fours full of Deuces [4h 4d 4c 2h 2c]
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+
+Game Hand #2478787040 - Tournament #33592573 - Holdem (No Limit) - Level 8 (1200.00/2400.00) - 2025/06/11 13:13:55 UTC
+Table '10' 8-max Seat #2 is the button
+Seat 1: Stayson22 (102290.00)
+Seat 2: EOBIXXX (90354.00)
+Seat 3: grotle (59708.00)
+Seat 4: NastyNa (290474.00)
+Seat 5: Belatrix35 (154097.00)
+Seat 6: Smithington100 (94362.00)
+Seat 7: dibraldim (168242.00)
+Seat 8: own3dddd (90850.00)
+Stayson22 posts ante 300.00
+EOBIXXX posts ante 300.00
+grotle posts ante 300.00
+NastyNa posts ante 300.00
+Belatrix35 posts ante 300.00
+Smithington100 posts ante 300.00
+dibraldim posts ante 300.00
+own3dddd posts ante 300.00
+grotle posts the small blind 1200.00
+NastyNa posts the big blind 2400.00
+*** HOLE CARDS ***
+Main pot 2400.00
+Dealt to grotle [8s 3c]
+Belatrix35 folds
+Smithington100 raises 4800.00 to 4800.00
+dibraldim folds
+own3dddd calls 4800.00
+Stayson22 raises 19200.00 to 19200.00
+EOBIXXX folds
+grotle folds
+NastyNa folds
+Smithington100 calls 14400.00
+own3dddd folds
+*** FLOP *** [8d 6h 2s]
+Main pot 49200.00
+Smithington100 bets 74862.00 and is all-in
+Stayson22 folds
+Uncalled bet (74862.00) returned to Smithington100
+Smithington100 does not show
+*** SUMMARY ***
+Total pot 49200.00
+Board [8d 6h 2s]
+Seat 1: Stayson22 folded on the Flop
+Seat 2: EOBIXXX (button) folded on the Pre-Flop
+Seat 3: grotle (small blind) folded on the Pre-Flop
+Seat 4: NastyNa (big blind) folded on the Pre-Flop
+Seat 5: Belatrix35 folded on the Pre-Flop and did not bet
+Seat 6: Smithington100 did not show and won 49200.00
+Seat 7: dibraldim folded on the Pre-Flop and did not bet
+Seat 8: own3dddd folded on the Pre-Flop and did not bet
+

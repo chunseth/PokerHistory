@@ -189,6 +189,11 @@ async function parseHandHistory(filePath, heroUsername) {
                             hand.level = parseInt(levelMatch[1]);
                             hand.smallBlind = parseFloat(levelMatch[2]);
                             hand.bigBlind = parseFloat(levelMatch[3]);
+                            hand.blindLevel = {
+                                level: parseInt(levelMatch[1]),
+                                smallBlind: parseFloat(levelMatch[2]),
+                                bigBlind: parseFloat(levelMatch[3])
+                            };
                         }
                     }
 
@@ -251,6 +256,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                 if (playerInfo) {
                                     const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                     actionObj = {
+                                        playerId: player,
                                         playerIndex: playerInfo.playerIndex,
                                         position: playerPosition,
                                         action: 'post',
@@ -269,6 +275,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                 if (playerInfo) {
                                     const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                     actionObj = {
+                                        playerId: player,
                                         playerIndex: playerInfo.playerIndex,
                                         position: playerPosition,
                                         action: 'post',
@@ -285,6 +292,7 @@ async function parseHandHistory(filePath, heroUsername) {
                             if (playerInfo) {
                                 const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                 actionObj = {
+                                    playerId: player,
                                     playerIndex: playerInfo.playerIndex,
                                     position: playerPosition,
                                     action: 'fold',
@@ -307,6 +315,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                     if (line.includes('all-in')) {
                                         callAmountBB = Math.min(callAmountBB, heroStackSizeBB);
                                         actionObj = {
+                                            playerId: player,
                                             playerIndex: playerInfo.playerIndex,
                                             position: playerPosition,
                                             action: 'call',
@@ -318,6 +327,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                         };
                                     } else {
                                         actionObj = {
+                                            playerId: player,
                                             playerIndex: playerInfo.playerIndex,
                                             position: playerPosition,
                                             action: 'call',
@@ -348,6 +358,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                     if (line.includes('all-in')) {
                                         raiseToAmountBB = Math.min(raiseToAmountBB, heroStackSizeBB);
                                         actionObj = {
+                                            playerId: player,
                                             playerIndex: playerInfo.playerIndex,
                                             position: playerPosition,
                                             action: 'raise',
@@ -360,6 +371,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                     } else {
                                         raiseToAmountBB = Math.min(raiseToAmountBB, heroStackSizeBB);
                                         actionObj = {
+                                            playerId: player,
                                             playerIndex: playerInfo.playerIndex,
                                             position: playerPosition,
                                             action: 'raise',
@@ -387,6 +399,7 @@ async function parseHandHistory(filePath, heroUsername) {
                                     }
                                     
                                     actionObj = {
+                                        playerId: player,
                                         playerIndex: playerInfo.playerIndex,
                                         position: playerPosition,
                                         action: 'bet',
@@ -404,6 +417,7 @@ async function parseHandHistory(filePath, heroUsername) {
                             if (playerInfo) {
                                 const playerPosition = calculatePosition(buttonPosition, playerInfo.playerIndex, numPlayers, heroPlayerIndex);
                                 actionObj = {
+                                    playerId: player,
                                     playerIndex: playerInfo.playerIndex,
                                     position: playerPosition,
                                     action: 'check',

@@ -1,0 +1,414 @@
+Game Hand #2478772127 - Tournament #33592573 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:01:47 UTC
+Table '6' 8-max Seat #1 is the button
+Seat 1: Dshawzy1515 (100000.00)
+Seat 2: grotle (100000.00)
+Seat 3: shantaram94 (100000.00)
+Seat 4: NUMNUTZ001 (100000.00)
+Seat 5: Tims29 (416195.00)
+Seat 6: EasyLee22 (114952.00)
+Seat 7: Flmatta88 (80273.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+grotle posts the small blind 700.00
+shantaram94 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [Td Js]
+NUMNUTZ001 folds
+Tims29 raises 4200.00 to 4200.00
+EasyLee22 raises 12600.00 to 12600.00
+Flmatta88 folds
+Dshawzy1515 folds
+grotle folds
+shantaram94 folds
+Tims29 calls 8400.00
+*** FLOP *** [Qd 4s Ts]
+Main pot 28525.00
+Tims29 checks
+EasyLee22 bets 11410.00
+Tims29 folds
+Uncalled bet (11410.00) returned to EasyLee22
+EasyLee22 does not show
+*** SUMMARY ***
+Total pot 28525.00
+Board [Qd 4s Ts]
+Seat 1: Dshawzy1515 (button) folded on the Pre-Flop
+Seat 2: grotle (small blind) folded on the Pre-Flop
+Seat 3: shantaram94 (big blind) folded on the Pre-Flop
+Seat 4: NUMNUTZ001 folded on the Pre-Flop and did not bet
+Seat 5: Tims29 folded on the Flop
+Seat 6: EasyLee22 did not show and won 28525.00
+Seat 7: Flmatta88 folded on the Pre-Flop and did not bet
+
+Game Hand #2478772314 - Tournament #33592573 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:02:55 UTC
+Table '6' 8-max Seat #2 is the button
+Seat 1: Dshawzy1515 (99825.00)
+Seat 2: grotle (99125.00)
+Seat 3: shantaram94 (98425.00)
+Seat 4: NUMNUTZ001 (99825.00)
+Seat 5: Tims29 (403420.00)
+Seat 6: EasyLee22 (130702.00)
+Seat 7: Flmatta88 (80098.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+shantaram94 posts the small blind 700.00
+NUMNUTZ001 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1225.00
+Dealt to grotle [3s 9c]
+Tims29 folds
+EasyLee22 folds
+Flmatta88 folds
+Dshawzy1515 folds
+grotle folds
+shantaram94 raises 4900.00 to 5600.00
+NUMNUTZ001 calls 4200.00
+*** FLOP *** [Ts 3d 2h]
+Main pot 12425.00
+shantaram94 bets 4100.00
+NUMNUTZ001 raises 12350.00 to 12350.00
+shantaram94 calls 8250.00
+*** TURN *** [Ts 3d 2h] [4h]
+Main pot 37125.00
+shantaram94 checks
+NUMNUTZ001 bets 18350.00
+shantaram94 folds
+Uncalled bet (18350.00) returned to NUMNUTZ001
+NUMNUTZ001 does not show
+*** SUMMARY ***
+Total pot 37125.00
+Board [Ts 3d 2h 4h]
+Seat 1: Dshawzy1515 folded on the Pre-Flop and did not bet
+Seat 2: grotle (button) folded on the Pre-Flop
+Seat 3: shantaram94 (small blind) folded on the Turn
+Seat 4: NUMNUTZ001 did not show and won 37125.00
+Seat 5: Tims29 folded on the Pre-Flop and did not bet
+Seat 6: EasyLee22 folded on the Pre-Flop and did not bet
+Seat 7: Flmatta88 folded on the Pre-Flop and did not bet
+
+Game Hand #2478772726 - Tournament #33592573 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:05:10 UTC
+Table '6' 8-max Seat #3 is the button
+Seat 1: Dshawzy1515 (99650.00)
+Seat 2: grotle (98950.00)
+Seat 3: shantaram94 (80300.00)
+Seat 4: NUMNUTZ001 (118825.00)
+Seat 5: Tims29 (403245.00)
+Seat 6: EasyLee22 (130527.00)
+Seat 7: Flmatta88 (79923.00)
+Seat 8: javmc (100000.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+NUMNUTZ001 posts the small blind 700.00
+Tims29 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Ac Qc]
+EasyLee22 folds
+Flmatta88 raises 2800.00 to 2800.00
+javmc folds
+Dshawzy1515 folds
+grotle raises 9800.00 to 9800.00
+shantaram94 folds
+NUMNUTZ001 folds
+Tims29 folds
+Flmatta88 calls 7000.00
+*** FLOP *** [4h Kh Qd]
+Main pot 23100.00
+Flmatta88 checks
+grotle bets 17500.00
+Flmatta88 folds
+Uncalled bet (17500.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 23100.00
+Board [4h Kh Qd]
+Seat 1: Dshawzy1515 folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 23100.00
+Seat 3: shantaram94 (button) folded on the Pre-Flop
+Seat 4: NUMNUTZ001 (small blind) folded on the Pre-Flop
+Seat 5: Tims29 (big blind) folded on the Pre-Flop
+Seat 6: EasyLee22 folded on the Pre-Flop and did not bet
+Seat 7: Flmatta88 folded on the Flop
+Seat 8: javmc folded on the Pre-Flop and did not bet
+
+Game Hand #2478772918 - Tournament #33592573 - Holdem (No Limit) - Level 3 (700.00/1400.00) - 2025/06/11 12:06:11 UTC
+Table '6' 8-max Seat #4 is the button
+Seat 1: Dshawzy1515 (99475.00)
+Seat 2: grotle (112075.00)
+Seat 3: shantaram94 (80125.00)
+Seat 4: NUMNUTZ001 (117950.00)
+Seat 5: Tims29 (401670.00)
+Seat 6: EasyLee22 (130352.00)
+Seat 7: Flmatta88 (69948.00)
+Seat 8: javmc (99825.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+Tims29 posts the small blind 700.00
+EasyLee22 posts the big blind 1400.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [9d Qs]
+Flmatta88 folds
+javmc folds
+Dshawzy1515 folds
+grotle folds
+shantaram94 raises 2800.00 to 2800.00
+NUMNUTZ001 folds
+Tims29 folds
+EasyLee22 calls 1400.00
+*** FLOP *** [7c 6h Ah]
+Main pot 7700.00
+EasyLee22 checks
+shantaram94 bets 2541.00
+EasyLee22 calls 2541.00
+*** TURN *** [7c 6h Ah] [8h]
+Main pot 12782.00
+EasyLee22 checks
+shantaram94 bets 8582.00
+EasyLee22 folds
+Uncalled bet (8582.00) returned to shantaram94
+shantaram94 does not show
+*** SUMMARY ***
+Total pot 12782.00
+Board [7c 6h Ah 8h]
+Seat 1: Dshawzy1515 folded on the Pre-Flop and did not bet
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: shantaram94 did not show and won 12782.00
+Seat 4: NUMNUTZ001 (button) folded on the Pre-Flop
+Seat 5: Tims29 (small blind) folded on the Pre-Flop
+Seat 6: EasyLee22 (big blind) folded on the Turn
+Seat 7: Flmatta88 folded on the Pre-Flop and did not bet
+Seat 8: javmc folded on the Pre-Flop and did not bet
+
+Game Hand #2478773187 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:07:42 UTC
+Table '6' 8-max Seat #5 is the button
+Seat 1: Dshawzy1515 (99300.00)
+Seat 2: grotle (111900.00)
+Seat 3: shantaram94 (87391.00)
+Seat 4: NUMNUTZ001 (117775.00)
+Seat 5: Tims29 (400795.00)
+Seat 6: EasyLee22 (124836.00)
+Seat 7: Flmatta88 (69773.00)
+Seat 8: javmc (99650.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+EasyLee22 posts the small blind 750.00
+Flmatta88 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [5s Kc]
+javmc folds
+Dshawzy1515 calls 1500.00
+grotle folds
+shantaram94 folds
+NUMNUTZ001 folds
+Tims29 raises 6000.00 to 6000.00
+EasyLee22 folds
+Flmatta88 folds
+Dshawzy1515 raises 97625.00 to 99125.00 and is all-in
+Tims29 folds
+Uncalled bet (93125.00) returned to Dshawzy1515
+Dshawzy1515 does not show
+*** SUMMARY ***
+Total pot 15650.00
+Seat 1: Dshawzy1515 did not show and won 15650.00
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: shantaram94 folded on the Pre-Flop and did not bet
+Seat 4: NUMNUTZ001 folded on the Pre-Flop and did not bet
+Seat 5: Tims29 (button) folded on the Pre-Flop
+Seat 6: EasyLee22 (small blind) folded on the Pre-Flop
+Seat 7: Flmatta88 (big blind) folded on the Pre-Flop
+Seat 8: javmc folded on the Pre-Flop and did not bet
+
+Game Hand #2478773339 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:08:34 UTC
+Table '6' 8-max Seat #6 is the button
+Seat 1: Dshawzy1515 (108775.00)
+Seat 2: grotle (111725.00)
+Seat 3: shantaram94 (87216.00)
+Seat 4: NUMNUTZ001 (117600.00)
+Seat 5: Tims29 (394620.00)
+Seat 6: EasyLee22 (123911.00)
+Seat 7: Flmatta88 (68098.00)
+Seat 8: javmc (99475.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+Flmatta88 posts the small blind 750.00
+javmc posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Tc Kc]
+Dshawzy1515 folds
+grotle raises 3000.00 to 3000.00
+shantaram94 folds
+NUMNUTZ001 folds
+Tims29 raises 12000.00 to 12000.00
+EasyLee22 folds
+Flmatta88 folds
+javmc calls 10500.00
+grotle calls 9000.00
+*** FLOP *** [4h 9c Kh]
+Main pot 38150.00
+javmc bets 12755.00
+grotle calls 12755.00
+Tims29 folds
+*** TURN *** [4h 9c Kh] [Qs]
+Main pot 63660.00
+javmc bets 31830.00
+grotle raises 86795.00 to 86795.00 and is all-in
+javmc folds
+Uncalled bet (54965.00) returned to grotle
+grotle does not show
+*** SUMMARY ***
+Total pot 127320.00
+Board [4h 9c Kh Qs]
+Seat 1: Dshawzy1515 folded on the Pre-Flop and did not bet
+Seat 2: grotle did not show and won 127320.00
+Seat 3: shantaram94 folded on the Pre-Flop and did not bet
+Seat 4: NUMNUTZ001 folded on the Pre-Flop and did not bet
+Seat 5: Tims29 folded on the Flop
+Seat 6: EasyLee22 (button) folded on the Pre-Flop
+Seat 7: Flmatta88 (small blind) folded on the Pre-Flop
+Seat 8: javmc (big blind) folded on the Turn
+
+Game Hand #2478773641 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:10:17 UTC
+Table '6' 8-max Seat #7 is the button
+Seat 1: Dshawzy1515 (108600.00)
+Seat 2: grotle (182285.00)
+Seat 3: shantaram94 (87041.00)
+Seat 4: NUMNUTZ001 (117425.00)
+Seat 5: Tims29 (382445.00)
+Seat 6: EasyLee22 (123736.00)
+Seat 7: Flmatta88 (67173.00)
+Seat 8: javmc (42715.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+javmc posts the small blind 750.00
+Dshawzy1515 posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Kh 8h]
+grotle folds
+shantaram94 folds
+NUMNUTZ001 raises 3150.00 to 3150.00
+Tims29 folds
+EasyLee22 folds
+Flmatta88 raises 8875.00 to 8875.00
+javmc raises 41790.00 to 42540.00 and is all-in
+Dshawzy1515 folds
+NUMNUTZ001 folds
+Flmatta88 folds
+Uncalled bet (33665.00) returned to javmc
+javmc does not show
+*** SUMMARY ***
+Total pot 23800.00
+Seat 1: Dshawzy1515 (big blind) folded on the Pre-Flop
+Seat 2: grotle folded on the Pre-Flop and did not bet
+Seat 3: shantaram94 folded on the Pre-Flop and did not bet
+Seat 4: NUMNUTZ001 folded on the Pre-Flop and did not bet
+Seat 5: Tims29 folded on the Pre-Flop and did not bet
+Seat 6: EasyLee22 folded on the Pre-Flop and did not bet
+Seat 7: Flmatta88 (button) folded on the Pre-Flop
+Seat 8: javmc did not show and won 23800.00
+
+Game Hand #2478773821 - Tournament #33592573 - Holdem (No Limit) - Level 4 (750.00/1500.00) - 2025/06/11 12:11:01 UTC
+Table '6' 8-max Seat #8 is the button
+Seat 1: Dshawzy1515 (106925.00)
+Seat 2: grotle (182110.00)
+Seat 3: shantaram94 (86866.00)
+Seat 4: NUMNUTZ001 (114100.00)
+Seat 5: Tims29 (382270.00)
+Seat 6: EasyLee22 (123561.00)
+Seat 7: Flmatta88 (58123.00)
+Seat 8: javmc (57465.00)
+Dshawzy1515 posts ante 175.00
+grotle posts ante 175.00
+shantaram94 posts ante 175.00
+NUMNUTZ001 posts ante 175.00
+Tims29 posts ante 175.00
+EasyLee22 posts ante 175.00
+Flmatta88 posts ante 175.00
+javmc posts ante 175.00
+Dshawzy1515 posts the small blind 750.00
+grotle posts the big blind 1500.00
+*** HOLE CARDS ***
+Main pot 1400.00
+Dealt to grotle [Th Qh]
+shantaram94 folds
+NUMNUTZ001 raises 3150.00 to 3150.00
+Tims29 raises 12000.00 to 12000.00
+EasyLee22 folds
+Flmatta88 folds
+javmc folds
+Dshawzy1515 folds
+grotle calls 10500.00
+NUMNUTZ001 folds
+*** FLOP *** [3c Qd 6c]
+Main pot 29300.00
+grotle checks
+Tims29 bets 15000.00
+grotle calls 15000.00
+*** TURN *** [3c Qd 6c] [6d]
+Main pot 59300.00
+grotle bets 30000.00
+Tims29 raises 355095.00 to 355095.00 and is all-in
+grotle calls 124935.00 and is all-in
+Uncalled bet (200160.00) returned to Tims29
+*** RIVER *** [3c Qd 6c 6d] [6s]
+Main pot 369170.00
+*** SHOW DOWN ***
+Main pot 369170.00
+grotle shows [Th Qh] (a full house, Sixs full of Queens [6s 6d 6c Qh Qd])
+Tims29 shows [Ac Ad] (a full house, Sixs full of Aces [6s 6d 6c Ad Ac])
+Tims29 collected 369170.00 from main pot
+*** SUMMARY ***
+Total pot 369170.00
+Board [3c Qd 6c 6d 6s]
+Seat 1: Dshawzy1515 (small blind) folded on the Pre-Flop
+Seat 2: grotle (big blind) showed [Th Qh] and lost with a full house, Sixs full of Queens [6s 6d 6c Qh Qd]
+Seat 3: shantaram94 folded on the Pre-Flop and did not bet
+Seat 4: NUMNUTZ001 folded on the Pre-Flop and did not bet
+Seat 5: Tims29 showed [Ac Ad] and won 369170.00 with a full house, Sixs full of Aces [6s 6d 6c Ad Ac]
+Seat 6: EasyLee22 folded on the Pre-Flop and did not bet
+Seat 7: Flmatta88 folded on the Pre-Flop and did not bet
+Seat 8: javmc (button) folded on the Pre-Flop
+
