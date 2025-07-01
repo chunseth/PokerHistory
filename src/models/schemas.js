@@ -31,7 +31,55 @@ const bettingActionSchema = new Schema({
         required: true,
         enum: ['preflop', 'flop', 'turn', 'river']
     },
-    timestamp: { type: Date, required: true }
+    timestamp: { type: Date, required: true },
+    actionId: { type: String, index: true },
+    responseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 },
+        confidence: { type: Number, min: 0, max: 1 },
+        metadata: { type: Schema.Types.Mixed }
+    },
+    gtoFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 },
+        confidence: { type: Number, min: 0, max: 1 },
+        overrideStrength: { type: Number, min: 0, max: 1 },
+        metadata: { type: Schema.Types.Mixed }
+    }
+}, { _id: false });
+
+// Hero Action Schema (extends betting action with EV analysis fields)
+const heroActionSchema = new Schema({
+    playerId: { type: String, required: true },
+    action: { type: String, required: true, enum: ['fold', 'check', 'call', 'bet', 'raise'] },
+    amount: { type: Number, required: true, min: 0 },
+    street: { type: String, required: true, enum: ['preflop', 'flop', 'turn', 'river'] },
+    timestamp: { type: Date, required: true },
+    actionId: { type: String, index: true },
+    potentialActions: {
+        callEV: { type: [Number], default: undefined },
+        raiseSmallEV: { type: [Number], default: undefined },
+        raiseMediumEV: { type: [Number], default: undefined },
+        raiseLargeEV: { type: [Number], default: undefined },
+        raiseVeryLargeEV: { type: [Number], default: undefined },
+        allInEV: { type: [Number], default: undefined }
+    },
+    heroRange: { type: [[String]], default: undefined },
+    villainRange: { type: [[String]], default: undefined },
+    responseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 }
+    },
+    villainResponseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 }
+    },
+    totalEV: Number,
+    EVClassification: { type: String, enum: ['positive', 'neutral', 'negative'] }
 }, { _id: false });
 
 // Hand Analysis Schema
@@ -110,6 +158,7 @@ const handSchema = new Schema({
         }
     },
     bettingActions: [bettingActionSchema],
+    heroActions: [heroActionSchema],
     potSize: { type: Number, required: true, min: 0 },
     heroHoleCards: { 
         type: [String],
@@ -186,6 +235,7 @@ const userSchema = new Schema({
 module.exports = {
     playerSchema,
     bettingActionSchema,
+    heroActionSchema,
     handAnalysisSchema,
     handSchema,
     sessionSchema,

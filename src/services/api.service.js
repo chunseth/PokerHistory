@@ -126,6 +126,27 @@ const apiService = {
             console.error('Error fetching usernames:', error);
             throw error;
         }
+    },
+
+    // Trigger heroAction identification and track progress
+    processHeroActions: async (username, onProgress) => {
+        try {
+            const response = await axiosInstance.post('/hands/process-hero-actions', { username }, {
+                onDownloadProgress: (progressEvent) => {
+                    // Expect server to stream progress via response body size
+                    if (onProgress && progressEvent.lengthComputable) {
+                        onProgress({
+                            processedHeroActions: progressEvent.loaded,
+                            totalHeroActions: progressEvent.total
+                        });
+                    }
+                }
+            });
+            return response.data;
+        } catch (error) {
+            console.error('Error processing hero actions:', error);
+            throw error;
+        }
     }
 };
 

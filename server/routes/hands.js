@@ -338,4 +338,57 @@ router.get('/debug/:handId', async (req, res) => {
     }
 });
 
+router.post('/process-hero-actions', async (req, res) => {
+    try {
+        const { username } = req.body;
+        if (!username) {
+            return res.status(400).json({ message: 'Username is required' });
+        }
+
+        // Find hands that belong to the user and have missing or empty heroActions
+        const handsToProcess = await Hand.find({
+            username,
+            $or: [
+                { heroActions: { $exists: false } },
+                { heroActions: { $size: 0 } }
+            ]
+        });
+
+        let processedHands = 0;
+        let processedHeroActions = 0;
+
+        for (const hand of handsToProcess) {
+            const heroActions = [];
+
+            hand.bettingActions.forEach((action, idx) => {
+                const id = `${hand.id}-${idx}`;
+
+                if (action.playerId === username) {
+                    const { _id, ...rest } = action.toObject ? action.toObject() : action;
+                    heroActions.push({ ...rest, actionId: id });
+                    processedHeroActions += 1;
+                }
+            });
+
+            // Update heroActions using updateOne to bypass full document validation
+            await Hand.updateOne(
+                { _id: hand._id },
+                { $set: { heroActions } },
+                { runValidators: false }
+            );
+
+            processedHands += 1;
+        }
+
+        res.json({
+            message: 'Hero actions processed successfully',
+            processedHands,
+            processedHeroActions
+        });
+    } catch (error) {
+        console.error('Error processing hero actions:', error);
+        res.status(500).json({ message: 'Error processing hero actions', error: error.message });
+    }
+});
+
 export default router; 

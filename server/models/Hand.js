@@ -22,6 +22,11 @@ const bettingActionSchema = new mongoose.Schema({
         required: true,
         enum: ['fold', 'check', 'call', 'raise', 'post', 'bet']
     },
+    // Stable identifier shared by bettingActions and heroActions
+    actionId: {
+        type: String,
+        index: true
+    },
     amount: { 
         type: Number, 
         required: true,
@@ -40,6 +45,101 @@ const bettingActionSchema = new mongoose.Schema({
     isAllIn: {
         type: Boolean,
         default: false
+    },
+    responseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 },
+        confidence: { type: Number, min: 0, max: 1 },
+        metadata: { type: Object }
+    },
+    gtoFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 },
+        confidence: { type: Number, min: 0, max: 1 },
+        overrideStrength: { type: Number, min: 0, max: 1 },
+        metadata: { type: Object }
+    }
+}, { _id: false });
+
+// Schema for hero actions (mirrors bettingActionSchema with EV analysis fields)
+const heroActionSchema = new mongoose.Schema({
+    // Core action information (mirrors bettingActionSchema)
+    playerId: {
+        type: String,
+        required: true
+    },
+    playerIndex: {
+        type: Number,
+        required: true,
+        min: 0,
+        max: 9
+    },
+    position: {
+        type: String,
+        required: true,
+        enum: ['BTN', 'SB', 'BB', 'UTG', 'UTG+1', 'UTG+2', 'MP', 'LJ', 'HJ', 'CO']
+    },
+    action: {
+        type: String,
+        required: true,
+        enum: ['fold', 'check', 'call', 'raise', 'post', 'bet']
+    },
+    amount: {
+        type: Number,
+        required: true,
+        min: 0
+    },
+    street: {
+        type: String,
+        required: true,
+        enum: ['preflop', 'flop', 'turn', 'river']
+    },
+    timestamp: {
+        type: Date,
+        required: true,
+        default: Date.now
+    },
+    isAllIn: {
+        type: Boolean,
+        default: false
+    },
+
+    // Shared identifier with bettingActions for easy cross-reference
+    actionId: {
+        type: String,
+        index: true
+    },
+
+    // EV analysis extensions
+    potentialActions: {
+        callEV: { type: [Number], default: undefined },
+        raiseSmallEV: { type: [Number], default: undefined },
+        raiseMediumEV: { type: [Number], default: undefined },
+        raiseLargeEV: { type: [Number], default: undefined },
+        raiseVeryLargeEV: { type: [Number], default: undefined },
+        allInEV: { type: [Number], default: undefined }
+    },
+    // 2-D arrays representing ranges across streets/board states
+    heroRange: { type: [[String]], default: undefined },
+    villainRange: { type: [[String]], default: undefined },
+
+    responseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 }
+    },
+    villainResponseFrequencies: {
+        fold: { type: Number, min: 0, max: 1 },
+        call: { type: Number, min: 0, max: 1 },
+        raise: { type: Number, min: 0, max: 1 }
+    },
+
+    totalEV: Number,
+    EVClassification: {
+        type: String,
+        enum: ['positive', 'neutral', 'negative']
     }
 }, { _id: false });
 
@@ -173,6 +273,7 @@ const handSchema = new mongoose.Schema({
     },
     villainCards: [villainCardsSchema],
     bettingActions: [bettingActionSchema],
+    heroActions: [heroActionSchema],
     streetBets: [streetBetsSchema],
     foldedPlayers: [{
         type: Number,

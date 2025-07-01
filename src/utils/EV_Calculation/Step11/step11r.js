@@ -9,73 +9,95 @@ const {
 
 /**
  * Step 11r: Calculate Response Ranges
- * Determines which hands in the opponent's range would fold, call, or raise to a given action.
- * 
- * @param {Object} hand - The hand object from the database
- * @param {Array} actions - Array of all postflop actions
- * @param {string} opponentId - The playerId of the opponent
- * @param {number} actionIndex - Index of the current action
- * @param {Object} responseFrequencies - Object with fold, call, raise probabilities
- * @param {Object} actionAnalysis - Analysis from step 11a
- * @returns {Object} Response ranges object with folding, calling, and raising ranges
+ * -------------------------------------------------------------
+ * Using the opponent's weighted range (combinations + strengths) from earlier
+ * analysis (Step 10 / Step 11c) and the final validated response frequencies
+ * from Step 11p, allocate specific hand combinations into three buckets:
+ *   • foldRange   – hands that will fold to the current action
+ *   • callRange   – hands that will call
+ *   • raiseRange  – hands that will raise (value or bluff)
+ *
+ * Simplifying assumptions for this implementation:
+ *   1. `opponentRange.combos` is an array of objects:
+ *        { hand: ['As','Kd'], strength: Number (0-1), weight: Number }
+ *      where `weight` is the proportion of that combo in the range.
+ *   2. We sort by `strength` (descending). Strong hands go to the raise bucket
+ *      first, then to the call bucket, weakest to the fold bucket, until each
+ *      bucket reaches the target frequency mass.
+ *   3. If the range is smaller than 1.0 total weight, we normalise weights.
+ *
+ * @param {Object} opponentRange – Output of Step 11c, expects `combos` array.
+ * @param {Object} frequencies   – Adjusted frequencies from Step 11p,
+ *                                 shape: { fold, call, raise } (sum ≈ 1).
+ * @returns {Object} { foldRange, callRange, raiseRange, metadata }
  */
-function calculateResponseRanges(hand, actions, opponentId, actionIndex, responseFrequencies, actionAnalysis) {
-    if (!hand || !actions || !opponentId || actionIndex < 0) {
+function calculateResponseRanges(opponentRange = {}, frequencies = { fold: 0.6, call: 0.3, raise: 0.1 }) {
+    if (!opponentRange.combos || opponentRange.combos.length === 0) {
         return {
-            foldingRange: [],
-            callingRange: [],
-            raisingRange: [],
-            confidence: 0,
-            metadata: {
-                error: 'Invalid input parameters'
-            }
+            foldRange: [],
+            callRange: [],
+            raiseRange: [],
+            metadata: { error: 'No opponent range provided' }
         };
     }
 
-    // Get the opponent's current range at this action index
-    const currentRange = getOpponentRangeAtActionIndex(hand, actions, opponentId, actionIndex);
-    
-    if (!currentRange || currentRange.length === 0) {
-        return {
-            foldingRange: [],
-            callingRange: [],
-            raisingRange: [],
-            confidence: 0,
-            metadata: {
-                error: 'No valid range found for opponent'
-            }
-        };
-    }
+    // Clone and sort combos strongest → weakest
+    const combos = [...opponentRange.combos].sort((a, b) => (b.strength || 0.5) - (a.strength || 0.5));
 
-    // Get the board at this action
-    const board = getBoardCardsAtAction(hand, actions[actionIndex]);
-    
-    // Calculate response ranges based on hand strength and context
-    const responseRanges = calculateRangesByStrength(
-        currentRange, 
-        board, 
-        responseFrequencies, 
-        actionAnalysis
-    );
+    // Normalise total weight to 1.0
+    const totalWeight = combos.reduce((sum, c) => sum + (c.weight || 0), 0) || 1;
+    combos.forEach(c => { c.normWeight = (c.weight || 0) / totalWeight; });
 
-    // Validate and normalize the ranges
-    const validatedRanges = validateAndNormalizeRanges(responseRanges, responseFrequencies);
-
-    return {
-        foldingRange: validatedRanges.foldingRange,
-        callingRange: validatedRanges.callingRange,
-        raisingRange: validatedRanges.raisingRange,
-        confidence: calculateRangeConfidence(validatedRanges, responseFrequencies),
-        metadata: {
-            totalCombos: currentRange.length,
-            boardCards: board,
-            actionType: actionAnalysis.actionType,
-            betSizing: actionAnalysis.betSizing,
-            street: actionAnalysis.street,
-            potSize: actionAnalysis.potSize,
-            betSize: actionAnalysis.betSize
-        }
+    const target = {
+        raise: frequencies.raise,
+        call: frequencies.call,
+        fold: frequencies.fold
     };
+
+    const buckets = {
+        raiseRange: [],
+        callRange: [],
+        foldRange: []
+    };
+
+    // Helper to allocate combos until bucket weight >= target
+    const allocate = (bucketName, iterator) => {
+        let acc = 0;
+        for (const combo of iterator()) {
+            if (combo._allocated) continue;
+            if (acc >= target[bucketName.replace('Range', '')] - 1e-6) break;
+            buckets[bucketName].push(combo);
+            acc += combo.normWeight;
+            combo._allocated = true;
+        }
+        return acc;
+    };
+
+    // 1. Allocate raises from top-strength first
+    allocate('raiseRange', () => combos[Symbol.iterator]());
+
+    // 2. Allocate folds from bottom-strength first
+    allocate('foldRange', function* () {
+        for (let i = combos.length - 1; i >= 0; i--) yield combos[i];
+    });
+
+    // 3. Remaining unallocated → call bucket
+    combos.forEach(c => {
+        if (!c._allocated) buckets.callRange.push(c);
+    });
+
+    // Metadata summary
+    const summary = {
+        targetFrequencies: frequencies,
+        achieved: {
+            raise: buckets.raiseRange.reduce((s, c) => s + c.normWeight, 0),
+            call: buckets.callRange.reduce((s, c) => s + c.normWeight, 0),
+            fold: buckets.foldRange.reduce((s, c) => s + c.normWeight, 0)
+        },
+        rangeSize: combos.length
+    };
+
+    return { ...buckets, metadata: summary };
 }
 
 /**

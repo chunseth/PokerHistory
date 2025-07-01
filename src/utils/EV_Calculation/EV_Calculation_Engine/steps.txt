@@ -1,0 +1,41 @@
+1. Schema / data-model gaps
+    Add a heroActions array to the Hand document (mirrors a subset of bettingActions).
+    Decide on a stable action-ID (e.g. ${handId}-${actionIndex}); store it in both arrays.
+    Extend bettingActionSchema / new heroActionSchema with room for:
+        responseFrequencies (fold/call/raise)
+        heroRange & opponentRanges (call / raise)
+        branchEVs { fold, call, raise } and totalEV
+        classification (+EV / –EV) and delta
+2. Hero-action identification pass (after file upload → DB insert)
+    Iterate over bettingActions; select actions where playerId === <username>.
+    Copy minimal info into heroActions and attach the unique action-ID.
+    Persist the updated hand document.
+3. Per-action EV pipeline (one function call per heroActionID)
+    Step-11 pipeline
+        Build hero range at this index (existing utils).
+        Build villain range(s) and response frequencies; finalize with Step 11u.
+    Step 12 & 13
+        Compute equity vs. callRange and raiseRange.
+    Steps 14-17
+        Calculate branch EVs, weight, sum.
+    Steps 19-21 (optional alternatives)
+        If you enumerate alternative hero actions (check, other bet sizes), run Steps 12-17 for each and compare.
+    Store all outputs back into heroActions[action].evAnalysis (and link via ID for quick lookup).
+4. Batch-processing orchestration
+    Script/worker that:
+        Fetches hands needing EV (e.g. where heroActions.evAnalysis is missing).
+        Runs the per-action pipeline asynchronously / with a job queue.
+    Provide progress feedback to the UI (percentage complete after upload).
+5. UI / Replayer integration points
+    Replayer fetches a hand and, for each hero action, pulls evAnalysis to render:
+        Fre quencies pie, range visuals, branch EV table, +EV/-EV badge.
+    Session summary view aggregates delta across hands.
+6. Performance / scalability gaps
+    Equity calculations (Steps 12-13) are expensive → cache by (board, heroRangeHash, oppRangeHash).
+    Use worker threads or a queue (BullMQ, agenda) to off-load heavy sims.
+7. Accuracy & validation tasks
+    Replace placeholder equities / frequencies with real Step-11 outputs.
+    Add integration tests on known hands to assert stored EV matches manual calculations.
+8. Configuration & thresholds
+    Decide default threshold for “small mistake” in Step 21.
+    Configurable number of alternative hero bet sizes per street.

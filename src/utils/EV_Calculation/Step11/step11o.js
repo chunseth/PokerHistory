@@ -1,337 +1,391 @@
 /**
- * Step 11o: Nash Equilibrium-Based GTO Response Frequencies
- * Calculates opponent response frequencies using Nash equilibrium principles
- * and game theory optimal strategies for NLH poker.
+ * Step 11o: Nash Equilibrium GTO Response Frequencies
+ * Applies game theory optimal frequencies based on pot odds, position, and board texture.
+ * Can override weighted probabilities from step 11o1 when GTO principles strongly suggest different frequencies.
  * 
+ * @param {Object} hand - The hand object with bettingActions and board
+ * @param {Array} actions - Array of all postflop actions
+ * @param {number} actionIndex - Index of the current action
+ * @param {string} opponentId - The opponent's player ID
+ * @param {Object} weightedProbabilities - Weighted probabilities from step 11o1
+ * @param {Object} potOdds - Pot odds analysis from step 11b
  * @param {Object} playerAction - The player's action analysis from step 11a
- * @param {Object} potOdds - The pot odds analysis from step 11b
- * @param {Object} opponentRange - The opponent's range analysis from step 11c
- * @param {Object} boardTexture - The board texture analysis from step 11n
- * @returns {Object} Nash equilibrium-based response frequencies
+ * @param {Object} boardTexture - Board texture analysis from step 11n
+ * @param {Object} position - Position information
+ * @param {Object} stackDepth - Stack depth information
+ * @returns {Object} GTO response frequencies with Nash equilibrium validation
  */
-function calculateNashEquilibriumResponseFrequencies(playerAction, potOdds, opponentRange, boardTexture) {
-    if (!playerAction || !potOdds || !opponentRange) {
-        return {
-            nashFoldFrequency: 0.5,
-            nashCallFrequency: 0.3,
-            nashRaiseFrequency: 0.2,
-            equilibriumFound: false,
-            deviationFromNash: 0,
-            explanation: 'Missing input data'
-        };
-    }
-
-    // Calculate Nash equilibrium frequencies
-    const nashFrequencies = calculateNashFrequencies(playerAction, potOdds, opponentRange, boardTexture);
+function calculateNashEquilibriumGTOResponses(
+    hand,
+    actions,
+    actionIndex,
+    opponentId,
+    weightedProbabilities = {},
+    potOdds = {},
+    playerAction = {},
+    boardTexture = {},
+    position = {},
+    stackDepth = {}
+) {
+    // Extract current action context
+    const currentAction = actions[actionIndex];
+    const street = determineStreet(currentAction, hand);
+    const betSize = playerAction.betSize || 0;
+    const potSize = potOdds.potSize || 100;
+    const betToPotRatio = betSize / potSize;
     
-    // Calculate deviation from Nash equilibrium
-    const deviation = calculateDeviationFromNash(nashFrequencies, playerAction, opponentRange);
+    // Get base GTO frequencies based on bet sizing
+    const baseGTOResponses = getBaseGTOResponses(betToPotRatio, street);
     
-    // Apply game theory adjustments
-    const adjustedFrequencies = applyGameTheoryAdjustments(nashFrequencies, deviation, playerAction);
+    // Apply position-based GTO adjustments
+    const positionGTOResponses = applyPositionGTOAdjustments(
+        baseGTOResponses,
+        position,
+        street
+    );
     
-    // Validate Nash equilibrium properties
-    const equilibriumValidation = validateNashEquilibrium(adjustedFrequencies, playerAction, potOdds);
-
-        return {
-        nashFoldFrequency: adjustedFrequencies.fold,
-        nashCallFrequency: adjustedFrequencies.call,
-        nashRaiseFrequency: adjustedFrequencies.raise,
-        equilibriumFound: equilibriumValidation.isValid,
-        deviationFromNash: deviation.totalDeviation,
-        nashProperties: equilibriumValidation.properties,
-        explanation: generateNashExplanation(adjustedFrequencies, deviation, equilibriumValidation)
+    // Apply board texture GTO adjustments
+    const textureGTOResponses = applyBoardTextureGTOAdjustments(
+        positionGTOResponses,
+        boardTexture,
+        street
+    );
+    
+    // Apply stack depth GTO adjustments
+    const stackGTOResponses = applyStackDepthGTOAdjustments(
+        textureGTOResponses,
+        stackDepth,
+        betToPotRatio
+    );
+    
+    // Apply pot odds GTO adjustments
+    const potOddsGTOResponses = applyPotOddsGTOAdjustments(
+        stackGTOResponses,
+        potOdds,
+        street
+    );
+    
+    // Calculate Nash equilibrium validation
+    const nashValidation = validateNashEquilibrium(
+        potOddsGTOResponses,
+        weightedProbabilities,
+        potOdds,
+        boardTexture
+    );
+    
+    // Determine final frequencies (GTO vs weighted)
+    const finalFrequencies = determineFinalFrequencies(
+        potOddsGTOResponses,
+        weightedProbabilities,
+        nashValidation,
+        potOdds,
+        boardTexture,
+        position,
+        stackDepth,
+        street
+    );
+    
+    // Calculate GTO confidence and override strength
+    const gtoConfidence = calculateGTOConfidence(
+        potOdds,
+        boardTexture,
+        position,
+        stackDepth,
+        street
+    );
+    
+    return {
+        frequencies: finalFrequencies,
+        gtoResponses: potOddsGTOResponses,
+        weightedResponses: weightedProbabilities.probabilities || {},
+        nashValidation: nashValidation,
+        gtoConfidence: gtoConfidence,
+        overrideStrength: calculateOverrideStrength(gtoConfidence, nashValidation),
+        metadata: {
+            betToPotRatio: betToPotRatio,
+            street: street,
+            baseGTOResponses: baseGTOResponses,
+            adjustments: {
+                position: positionGTOResponses,
+                texture: textureGTOResponses,
+                stack: stackGTOResponses,
+                potOdds: potOddsGTOResponses
+            }
+        }
     };
 }
 
 /**
- * Calculate Nash equilibrium frequencies using game theory principles
+ * Determine the current street based on action and hand
  */
-function calculateNashFrequencies(playerAction, potOdds, opponentRange, boardTexture) {
-    const betSizing = playerAction.betSizing;
-    const potOddsRatio = potOdds.potOdds || 0.5;
-    const rangeStrength = opponentRange.averageStrength || 0.5;
-    const texture = boardTexture?.boardTexture || 'dry';
+function determineStreet(action, hand) {
+    if (!action || !hand.board) return 'unknown';
     
-    // Base Nash frequencies based on bet sizing and pot odds
-    let nashFold = 0.5;
-    let nashCall = 0.3;
-    let nashRaise = 0.2;
+    const boardLength = hand.board.length;
+    if (boardLength === 3) return 'flop';
+    if (boardLength === 4) return 'turn';
+    if (boardLength === 5) return 'river';
     
-    // Nash equilibrium for different bet sizes
-    switch (betSizing) {
-        case 'small':
-            // Small bets: Nash equilibrium favors calling
-            nashFold = 0.3;
-            nashCall = 0.6;
-            nashRaise = 0.1;
-            break;
-        case 'medium':
-            // Medium bets: Nash equilibrium is more balanced
-            nashFold = 0.5;
-            nashCall = 0.4;
-            nashRaise = 0.1;
-            break;
-        case 'large':
-            // Large bets: Nash equilibrium favors folding
-            nashFold = 0.7;
-            nashCall = 0.25;
-            nashRaise = 0.05;
-            break;
-        case 'very_large':
-            // Very large bets: Nash equilibrium heavily favors folding
-            nashFold = 0.85;
-            nashCall = 0.13;
-            nashRaise = 0.02;
-            break;
-        case 'all_in':
-            // All-in: Nash equilibrium depends heavily on pot odds
-            nashFold = calculateAllInNashFrequency(potOddsRatio);
-            nashCall = 1 - nashFold;
-            nashRaise = 0;
-            break;
-    }
-    
-    // Adjust for pot odds (Nash equilibrium principle)
-    nashFold = adjustNashForPotOdds(nashFold, potOddsRatio);
-    nashCall = adjustNashForPotOdds(nashCall, potOddsRatio);
-    nashRaise = adjustNashForPotOdds(nashRaise, potOddsRatio);
-    
-    // Adjust for range strength (game theory optimal)
-    const rangeAdjustment = calculateRangeStrengthNashAdjustment(rangeStrength, texture);
-    nashFold += rangeAdjustment.fold;
-    nashCall += rangeAdjustment.call;
-    nashRaise += rangeAdjustment.raise;
-    
-    // Normalize to ensure probabilities sum to 1
-    const total = nashFold + nashCall + nashRaise;
-    nashFold /= total;
-    nashCall /= total;
-    nashRaise /= total;
-    
-    return { fold: nashFold, call: nashCall, raise: nashRaise };
+    return 'unknown';
 }
 
 /**
- * Calculate Nash equilibrium frequency for all-in situations
+ * Get base GTO responses based on bet sizing and street
  */
-function calculateAllInNashFrequency(potOddsRatio) {
-    // Nash equilibrium for all-in depends on pot odds
-    // The opponent should call when they have the right pot odds
-    if (potOddsRatio < 0.2) {
-        return 0.1; // Very good pot odds - rarely fold
-    } else if (potOddsRatio < 0.3) {
-        return 0.25; // Good pot odds - some folding
-    } else if (potOddsRatio < 0.4) {
-        return 0.5; // Fair pot odds - balanced
-    } else if (potOddsRatio < 0.5) {
-        return 0.75; // Poor pot odds - mostly fold
-    } else {
-        return 0.9; // Very poor pot odds - almost always fold
-    }
-}
-
-/**
- * Adjust Nash frequencies based on pot odds
- */
-function adjustNashForPotOdds(frequency, potOddsRatio) {
-    // Nash equilibrium principle: better pot odds reduce fold frequency
-    if (potOddsRatio < 0.25) {
-        // Good pot odds - reduce fold frequency
-        return frequency * 0.8;
-    } else if (potOddsRatio > 0.5) {
-        // Poor pot odds - increase fold frequency
-        return frequency * 1.3;
-    }
-    return frequency;
-}
-
-/**
- * Calculate range strength adjustments for Nash equilibrium
- */
-function calculateRangeStrengthNashAdjustment(rangeStrength, texture) {
-    const adjustment = { fold: 0, call: 0, raise: 0 };
-    
-    // Strong ranges in Nash equilibrium
-    if (rangeStrength > 0.7) {
-        adjustment.fold -= 0.15; // Strong ranges fold less
-        adjustment.call += 0.1;  // Strong ranges call more
-        adjustment.raise += 0.05; // Strong ranges raise more
-    }
-    // Weak ranges in Nash equilibrium
-    else if (rangeStrength < 0.3) {
-        adjustment.fold += 0.15; // Weak ranges fold more
-        adjustment.call -= 0.1;  // Weak ranges call less
-        adjustment.raise -= 0.05; // Weak ranges raise less
-    }
-    
-    // Texture-specific Nash adjustments
-    if (texture === 'suited' && rangeStrength > 0.5) {
-        // Strong ranges on suited boards call more in Nash equilibrium
-        adjustment.call += 0.05;
-        adjustment.fold -= 0.05;
-    } else if (texture === 'dry' && rangeStrength < 0.4) {
-        // Weak ranges on dry boards fold more in Nash equilibrium
-        adjustment.fold += 0.1;
-        adjustment.call -= 0.1;
-    }
-    
-    return adjustment;
-}
-
-/**
- * Calculate deviation from Nash equilibrium
- */
-function calculateDeviationFromNash(nashFrequencies, playerAction, opponentRange) {
-    // Calculate how much the current situation deviates from Nash equilibrium
-    const deviation = {
-        fold: 0,
-        call: 0,
-        raise: 0,
-        totalDeviation: 0
+function getBaseGTOResponses(betToPotRatio, street) {
+    // GTO-inspired base frequencies
+    let baseResponses = {
+        fold: 0.5,
+        call: 0.4,
+        raise: 0.1
     };
     
-    // Base deviation based on action type
-    if (playerAction.actionType === 'bet') {
-        // Bets are generally closer to Nash equilibrium
-        deviation.totalDeviation = 0.1;
-    } else if (playerAction.actionType === 'raise') {
-        // Raises may deviate more from Nash
-        deviation.totalDeviation = 0.2;
+    // Adjust based on bet sizing
+    if (betToPotRatio <= 0.33) {
+        // Small bet (33% pot or less)
+        baseResponses = { fold: 0.3, call: 0.6, raise: 0.1 };
+    } else if (betToPotRatio <= 0.66) {
+        // Medium bet (33-66% pot)
+        baseResponses = { fold: 0.5, call: 0.4, raise: 0.1 };
+    } else if (betToPotRatio <= 1.0) {
+        // Large bet (66-100% pot)
+        baseResponses = { fold: 0.7, call: 0.25, raise: 0.05 };
     } else {
-        deviation.totalDeviation = 0.15;
+        // Overbet (100%+ pot)
+        baseResponses = { fold: 0.8, call: 0.15, raise: 0.05 };
     }
     
-    // Adjust deviation based on range strength
-    const rangeStrength = opponentRange.averageStrength || 0.5;
-    if (rangeStrength > 0.7 || rangeStrength < 0.3) {
-        // Extreme ranges may deviate more from Nash
-        deviation.totalDeviation += 0.1;
+    // Adjust based on street
+    if (street === 'flop') {
+        // More calling on flop due to draws
+        baseResponses.call += 0.1;
+        baseResponses.fold -= 0.1;
+    } else if (street === 'river') {
+        // More polarized on river
+        baseResponses.fold += 0.1;
+        baseResponses.call -= 0.1;
     }
     
-    // Adjust deviation based on bet sizing
-    if (playerAction.betSizing === 'very_large') {
-        deviation.totalDeviation += 0.1; // Very large bets may deviate from Nash
-    }
-    
-    return deviation;
+    return baseResponses;
 }
 
 /**
- * Apply game theory adjustments to Nash frequencies
+ * Apply position-based GTO adjustments
  */
-function applyGameTheoryAdjustments(nashFrequencies, deviation, playerAction) {
-    const adjusted = { ...nashFrequencies };
+function applyPositionGTOAdjustments(baseResponses, position, street) {
+    const adjusted = { ...baseResponses };
     
-    // Apply deviation adjustments
-    const deviationFactor = 1 + deviation.totalDeviation;
-    
-    // Adjust based on game theory principles
-    if (playerAction.betSizing === 'small') {
-        // Small bets: Game theory suggests more calling
-        adjusted.call *= 1.1;
-        adjusted.fold *= 0.9;
-    } else if (playerAction.betSizing === 'large') {
-        // Large bets: Game theory suggests more folding
-        adjusted.fold *= 1.1;
-        adjusted.call *= 0.9;
+    if (position.isInPosition) {
+        // In position: more calling, less folding
+        adjusted.call += 0.1;
+        adjusted.fold -= 0.1;
+    } else {
+        // Out of position: more folding, less calling
+        adjusted.fold += 0.1;
+        adjusted.call -= 0.1;
     }
     
-    // Normalize again
-    const total = adjusted.fold + adjusted.call + adjusted.raise;
-    adjusted.fold /= total;
-    adjusted.call /= total;
-    adjusted.raise /= total;
+    // Blind vs blind adjustments
+    if (position.isBlindVsBlind) {
+        adjusted.raise += 0.05;
+        adjusted.call -= 0.05;
+    }
     
     return adjusted;
 }
 
 /**
- * Validate Nash equilibrium properties
+ * Apply board texture GTO adjustments
  */
-function validateNashEquilibrium(frequencies, playerAction, potOdds) {
+function applyBoardTextureGTOAdjustments(baseResponses, boardTexture, street) {
+    const adjusted = { ...baseResponses };
+    
+    if (boardTexture.isWet) {
+        // Wet boards: more calling with draws
+        adjusted.call += 0.15;
+        adjusted.fold -= 0.15;
+    } else if (boardTexture.isDry) {
+        // Dry boards: more polarized
+        adjusted.fold += 0.1;
+        adjusted.raise += 0.05;
+        adjusted.call -= 0.15;
+    }
+    
+    if (boardTexture.isPaired) {
+        // Paired boards: more cautious
+        adjusted.fold += 0.1;
+        adjusted.call -= 0.1;
+    }
+    
+    if (boardTexture.isConnected) {
+        // Connected boards: more calling
+        adjusted.call += 0.1;
+        adjusted.fold -= 0.1;
+    }
+    
+    return adjusted;
+}
+
+/**
+ * Apply stack depth GTO adjustments
+ */
+function applyStackDepthGTOAdjustments(baseResponses, stackDepth, betToPotRatio) {
+    const adjusted = { ...baseResponses };
+    
+    if (stackDepth.isShort) {
+        // Short stack: more all-in or fold
+        adjusted.fold += 0.2;
+        adjusted.call -= 0.2;
+    } else if (stackDepth.isDeep) {
+        // Deep stack: more calling with draws
+        adjusted.call += 0.1;
+        adjusted.fold -= 0.1;
+    }
+    
+    return adjusted;
+}
+
+/**
+ * Apply pot odds GTO adjustments
+ */
+function applyPotOddsGTOAdjustments(baseResponses, potOdds, street) {
+    const adjusted = { ...baseResponses };
+    
+    if (potOdds.potOddsRatio) {
+        const potOddsRatio = potOdds.potOddsRatio;
+        
+        // GTO calling frequency should be roughly equal to pot odds
+        if (potOddsRatio > 0.4) {
+            // Good pot odds: more calling
+            adjusted.call += 0.2;
+            adjusted.fold -= 0.2;
+        } else if (potOddsRatio < 0.2) {
+            // Poor pot odds: more folding
+            adjusted.fold += 0.2;
+            adjusted.call -= 0.2;
+        }
+    }
+    
+    return adjusted;
+}
+
+/**
+ * Validate Nash equilibrium principles
+ */
+function validateNashEquilibrium(gtoResponses, weightedProbabilities, potOdds, boardTexture) {
     const validation = {
         isValid: true,
-        properties: {},
-        violations: []
+        issues: [],
+        recommendations: []
     };
     
-    // Check that probabilities sum to 1
-    const total = frequencies.fold + frequencies.call + frequencies.raise;
+    // Check if frequencies sum to 1.0
+    const total = gtoResponses.fold + gtoResponses.call + gtoResponses.raise;
     if (Math.abs(total - 1.0) > 0.01) {
         validation.isValid = false;
-        validation.violations.push('Probabilities do not sum to 1');
+        validation.issues.push('Frequencies do not sum to 1.0');
     }
     
-    // Check that all probabilities are non-negative
-    if (frequencies.fold < 0 || frequencies.call < 0 || frequencies.raise < 0) {
+    // Check for negative frequencies
+    if (gtoResponses.fold < 0 || gtoResponses.call < 0 || gtoResponses.raise < 0) {
         validation.isValid = false;
-        validation.violations.push('Negative probabilities found');
+        validation.issues.push('Negative frequencies detected');
     }
     
-    // Check Nash equilibrium properties
-    validation.properties = {
-        totalProbability: total,
-        foldRange: frequencies.fold >= 0 && frequencies.fold <= 1,
-        callRange: frequencies.call >= 0 && frequencies.call <= 1,
-        raiseRange: frequencies.raise >= 0 && frequencies.raise <= 1,
-        potOddsConsistency: checkPotOddsConsistency(frequencies, potOdds)
-    };
+    // Check pot odds vs calling frequency
+    if (potOdds.potOddsRatio && gtoResponses.call < potOdds.potOddsRatio * 0.5) {
+        validation.recommendations.push('Consider increasing call frequency for better pot odds');
+    }
+    
+    // Check board texture vs frequency distribution
+    if (boardTexture.isWet && gtoResponses.call < 0.4) {
+        validation.recommendations.push('Consider higher call frequency on wet boards');
+    }
     
     return validation;
 }
 
 /**
- * Check consistency with pot odds
+ * Determine final frequencies (GTO vs weighted)
  */
-function checkPotOddsConsistency(frequencies, potOdds) {
-    const potOddsRatio = potOdds.potOdds || 0.5;
+function determineFinalFrequencies(gtoResponses, weightedProbabilities, nashValidation, potOdds, boardTexture, position, stackDepth, street) {
+    const weighted = weightedProbabilities.probabilities || {};
     
-    // In Nash equilibrium, fold frequency should increase with pot odds
-    if (potOddsRatio > 0.5 && frequencies.fold < 0.6) {
-        return false; // Should fold more with poor pot odds
-    }
-    if (potOddsRatio < 0.25 && frequencies.fold > 0.4) {
-        return false; // Should fold less with good pot odds
+    // If GTO validation fails, use weighted probabilities
+    if (!nashValidation.isValid) {
+        return weighted;
     }
     
-    return true;
+    // Calculate GTO confidence with proper parameters
+    const gtoConfidence = calculateGTOConfidence(potOdds, boardTexture, position, stackDepth, street);
+    
+    // If GTO confidence is high, use GTO responses
+    if (gtoConfidence > 0.8) {
+        return gtoResponses;
+    }
+    
+    // Otherwise, blend GTO and weighted responses
+    const blendFactor = gtoConfidence;
+    return {
+        fold: gtoResponses.fold * blendFactor + (weighted.fold || 0.5) * (1 - blendFactor),
+        call: gtoResponses.call * blendFactor + (weighted.call || 0.3) * (1 - blendFactor),
+        raise: gtoResponses.raise * blendFactor + (weighted.raise || 0.2) * (1 - blendFactor)
+    };
 }
 
 /**
- * Generate explanation for Nash equilibrium calculations
+ * Calculate GTO confidence level
  */
-function generateNashExplanation(frequencies, deviation, validation) {
-    const explanations = [];
+function calculateGTOConfidence(potOdds, boardTexture, position, stackDepth, street) {
+    let confidence = 0.5; // Base confidence
     
-    explanations.push(`Nash equilibrium frequencies: ${(frequencies.fold * 100).toFixed(1)}% fold, ${(frequencies.call * 100).toFixed(1)}% call, ${(frequencies.raise * 100).toFixed(1)}% raise`);
-    
-    if (validation.isValid) {
-        explanations.push('Nash equilibrium properties validated');
-    } else {
-        explanations.push(`Nash equilibrium violations: ${validation.violations.join(', ')}`);
+    // Pot odds confidence
+    if (potOdds && potOdds.potOddsRatio) {
+        confidence += 0.2;
     }
     
-    if (deviation.totalDeviation > 0.2) {
-        explanations.push(`High deviation from Nash equilibrium (${(deviation.totalDeviation * 100).toFixed(1)}%)`);
-    } else if (deviation.totalDeviation < 0.1) {
-        explanations.push('Close to Nash equilibrium');
-    } else {
-        explanations.push(`Moderate deviation from Nash equilibrium (${(deviation.totalDeviation * 100).toFixed(1)}%)`);
+    // Board texture confidence
+    if (boardTexture && (boardTexture.isWet || boardTexture.isDry)) {
+        confidence += 0.15;
     }
     
-    return explanations.join('. ');
+    // Position confidence
+    if (position && (position.isInPosition !== undefined || position.isBlindVsBlind)) {
+        confidence += 0.1;
+    }
+    
+    // Stack depth confidence
+    if (stackDepth && (stackDepth.isShort || stackDepth.isDeep)) {
+        confidence += 0.1;
+    }
+    
+    // Street confidence
+    if (street && street !== 'unknown') {
+        confidence += 0.05;
+    }
+    
+    return Math.min(1.0, confidence);
+}
+
+/**
+ * Calculate override strength for GTO vs weighted
+ */
+function calculateOverrideStrength(gtoConfidence, nashValidation) {
+    let strength = gtoConfidence;
+    
+    // Reduce strength if Nash validation has issues
+    if (!nashValidation.isValid) {
+        strength *= 0.5;
+    }
+    
+    // Increase strength if GTO recommendations align with validation
+    if (nashValidation.recommendations.length > 0) {
+        strength += 0.1;
+    }
+    
+    return Math.min(1.0, strength);
 }
 
 module.exports = {
-    calculateNashEquilibriumResponseFrequencies,
-    calculateNashFrequencies,
-    calculateAllInNashFrequency,
-    adjustNashForPotOdds,
-    calculateRangeStrengthNashAdjustment,
-    calculateDeviationFromNash,
-    applyGameTheoryAdjustments,
-    validateNashEquilibrium,
-    checkPotOddsConsistency,
-    generateNashExplanation
+    calculateNashEquilibriumGTOResponses
 }; 

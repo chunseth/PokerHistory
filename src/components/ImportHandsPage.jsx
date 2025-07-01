@@ -15,8 +15,11 @@ const ImportHandsPage = () => {
         totalFiles: 0,
         processedFiles: 0,
         totalHands: 0,
-        processedHands: 0
+        processedHands: 0,
+        totalHeroActions: 0,
+        processedHeroActions: 0
     });
+    const [parsingHeroActions, setParsingHeroActions] = useState(false);
 
     const handleFileChange = (e) => {
         const selectedFiles = Array.from(e.target.files);
@@ -99,7 +102,9 @@ const ImportHandsPage = () => {
             totalFiles: files.length,
             processedFiles: 0,
             totalHands: 0,
-            processedHands: 0
+            processedHands: 0,
+            totalHeroActions: 0,
+            processedHeroActions: 0
         });
 
         try {
@@ -127,8 +132,25 @@ const ImportHandsPage = () => {
             setFiles([]);
             // Reset file input
             document.getElementById('fileInput').value = '';
-            
-            // Wait for 2 seconds to show success message before redirecting
+
+            // Begin hero-action parsing
+            setParsingHeroActions(true);
+            try {
+                await apiService.processHeroActions(username, (progress) => {
+                    setUploadProgress(prev => ({
+                        ...prev,
+                        processedHeroActions: progress.processedHeroActions,
+                        totalHeroActions: progress.totalHeroActions
+                    }));
+                });
+            } catch (err) {
+                console.error('Error processing hero actions:', err);
+                // Do not override previous error state if exists
+            } finally {
+                setParsingHeroActions(false);
+            }
+
+            // Wait briefly before redirect to hand history
             setTimeout(() => {
                 navigate('/hand-history');
             }, 1000);
@@ -209,7 +231,7 @@ const ImportHandsPage = () => {
                     </button>
                 </div>
 
-                {uploading && (
+                {(uploading || parsingHeroActions) && (
                     <div className="upload-progress">
                         <div className="progress-section">
                             <h3>Files Progress</h3>
@@ -232,12 +254,27 @@ const ImportHandsPage = () => {
                                 <div 
                                     className="progress-fill"
                                     style={{
-                                        width: `${(uploadProgress.processedHands / uploadProgress.totalHands) * 100}%`
+                                        width: `${(uploadProgress.totalHands ? (uploadProgress.processedHands / uploadProgress.totalHands) * 100 : 0)}%`
                                     }}
                                 />
                             </div>
                             <span className="progress-text">
                                 {uploadProgress.processedHands} / {uploadProgress.totalHands} hands
+                            </span>
+                        </div>
+
+                        <div className="progress-section">
+                            <h3>Hero Actions Progress</h3>
+                            <div className="progress-bar">
+                                <div 
+                                    className="progress-fill"
+                                    style={{
+                                        width: `${(uploadProgress.totalHeroActions ? (uploadProgress.processedHeroActions / uploadProgress.totalHeroActions) * 100 : 0)}%`
+                                    }}
+                                />
+                            </div>
+                            <span className="progress-text">
+                                {uploadProgress.processedHeroActions} / {uploadProgress.totalHeroActions} hero actions
                             </span>
                         </div>
                     </div>
