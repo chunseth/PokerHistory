@@ -10,6 +10,9 @@
  * @returns {Object} Range strength adjustment analysis
  */
 
+// Utility to ensure finite numbers
+const safeNum = (v, def = 0) => (Number.isFinite(v) ? v : def);
+
 function adjustForOpponentRangeStrength(rangeStrengthAnalysis, playerAction, potOdds, baseFoldFrequency = 0.5) {
     if (!rangeStrengthAnalysis || !playerAction || !potOdds) {
         return {
@@ -24,20 +27,20 @@ function adjustForOpponentRangeStrength(rangeStrengthAnalysis, playerAction, pot
     }
 
     // Calculate adjustments for different hand types using step11c analysis
-    const strongHandsAdjustment = calculateStrongHandsAdjustment(rangeStrengthAnalysis, playerAction);
-    const weakHandsAdjustment = calculateWeakHandsAdjustment(rangeStrengthAnalysis, playerAction);
-    const drawingHandsAdjustment = calculateDrawingHandsAdjustment(rangeStrengthAnalysis, playerAction, potOdds);
+    const strongHandsAdjustment = safeNum(calculateStrongHandsAdjustment(rangeStrengthAnalysis, playerAction));
+    const weakHandsAdjustment = safeNum(calculateWeakHandsAdjustment(rangeStrengthAnalysis, playerAction));
+    const drawingHandsAdjustment = safeNum(calculateDrawingHandsAdjustment(rangeStrengthAnalysis, playerAction, potOdds));
     
     // Calculate overall adjustment
-    const overallAdjustment = calculateOverallRangeAdjustment({
+    const overallAdjustment = safeNum(calculateOverallRangeAdjustment({
         strongHands: strongHandsAdjustment,
         weakHands: weakHandsAdjustment,
         drawingHands: drawingHandsAdjustment,
         rangeStrength: rangeStrengthAnalysis.averageStrength
-    });
+    }));
 
     // Apply adjustment to base fold frequency
-    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, baseFoldFrequency + overallAdjustment));
+    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, safeNum(baseFoldFrequency) + overallAdjustment));
 
     return {
         rangeStrengthAdjustment: overallAdjustment,
@@ -227,27 +230,31 @@ function generateRangeStrengthExplanation(data) {
     const explanations = [];
 
     // Overall range strength
-    if (analysis.averageStrength > 0.7) {
-        explanations.push(`Strong range (${(analysis.averageStrength * 100).toFixed(1)}% average strength)`);
-    } else if (analysis.averageStrength < 0.3) {
-        explanations.push(`Weak range (${(analysis.averageStrength * 100).toFixed(1)}% average strength)`);
+    const avg = safeNum(analysis.averageStrength);
+    if (avg > 0.7) {
+        explanations.push(`Strong range (${(avg * 100).toFixed(1)}% average strength)`);
+    } else if (avg < 0.3) {
+        explanations.push(`Weak range (${(avg * 100).toFixed(1)}% average strength)`);
     } else {
-        explanations.push(`Medium range (${(analysis.averageStrength * 100).toFixed(1)}% average strength)`);
+        explanations.push(`Medium range (${(avg * 100).toFixed(1)}% average strength)`);
     }
 
     // Strong hands
-    if (analysis.strongHandsPercentage > 30) {
-        explanations.push(`${analysis.strongHandsPercentage.toFixed(1)}% strong hands reduce folds`);
+    const strongPct = safeNum(analysis.strongHandsPercentage);
+    if (strongPct > 30) {
+        explanations.push(`${strongPct.toFixed(1)}% strong hands reduce folds`);
     }
 
     // Weak hands
-    if (analysis.weakHandsPercentage > 40) {
-        explanations.push(`${analysis.weakHandsPercentage.toFixed(1)}% weak hands increase folds`);
+    const weakPct = safeNum(analysis.weakHandsPercentage);
+    if (weakPct > 40) {
+        explanations.push(`${weakPct.toFixed(1)}% weak hands increase folds`);
     }
 
     // Drawing hands
-    if (analysis.drawingHandsPercentage > 25) {
-        explanations.push(`${analysis.drawingHandsPercentage.toFixed(1)}% drawing hands affect call frequency`);
+    const drawPct = safeNum(analysis.drawingHandsPercentage);
+    if (drawPct > 25) {
+        explanations.push(`${drawPct.toFixed(1)}% drawing hands affect call frequency`);
     }
 
     // Range strength category
@@ -256,9 +263,10 @@ function generateRangeStrengthExplanation(data) {
     }
 
     // Overall adjustment
-    if (Math.abs(adjustments.overall) > 0.1) {
-        const direction = adjustments.overall > 0 ? 'increases' : 'decreases';
-        explanations.push(`Overall adjustment ${direction} fold frequency by ${Math.abs(adjustments.overall * 100).toFixed(1)}%`);
+    const overallAdj = safeNum(adjustments.overall);
+    if (Math.abs(overallAdj) > 0.1) {
+        const direction = overallAdj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Overall adjustment ${direction} fold frequency by ${(Math.abs(overallAdj) * 100).toFixed(1)}%`);
     }
 
     return explanations.join('. ');

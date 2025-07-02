@@ -5,99 +5,110 @@ const {
     getOpponentRangeAtActionIndex, 
     getHandStrengthCategory, 
     getDrawTypes 
-} = require('./opponentRange');
+} = require('../opponentRange.js');
+const mongoose = require('mongoose');
+const Hand = mongoose.models.Hand || mongoose.model('Hand');
+
+// --- Utility: map a 2-card combo to canonical key (AA, AKs, AKo, etc.) ---
+const RANK_ORDER = 'AKQJT98765432';
+function canonicalKey(cards) {
+  if (!Array.isArray(cards) || cards.length !== 2) return '';
+  const [c1, c2] = cards;
+  const r1 = c1[0], r2 = c2[0];
+  // Pocket pair
+  if (r1 === r2) return r1 + r2;
+  // Sort ranks high→low for deterministic order
+  const first = RANK_ORDER.indexOf(r1) <= RANK_ORDER.indexOf(r2) ? r1 : r2;
+  const second = first === r1 ? r2 : r1;
+  const suited = c1[1] === c2[1] ? 's' : 'o';
+  return first + second + suited;
+}
 
 /**
- * Step 11r: Calculate Response Ranges
- * -------------------------------------------------------------
- * Using the opponent's weighted range (combinations + strengths) from earlier
- * analysis (Step 10 / Step 11c) and the final validated response frequencies
- * from Step 11p, allocate specific hand combinations into three buckets:
- *   • foldRange   – hands that will fold to the current action
- *   • callRange   – hands that will call
- *   • raiseRange  – hands that will raise (value or bluff)
+ * Step 11r: Calculate Villain Response Ranges
+ * --------------------------------------------------
+ *   Given the weighted response probabilities (11o1) and any available range
+ *   information from previous sub-steps, split the villain's overall range
+ *   into the combos they will fold, call, and raise with.
  *
- * Simplifying assumptions for this implementation:
- *   1. `opponentRange.combos` is an array of objects:
- *        { hand: ['As','Kd'], strength: Number (0-1), weight: Number }
- *      where `weight` is the proportion of that combo in the range.
- *   2. We sort by `strength` (descending). Strong hands go to the raise bucket
- *      first, then to the call bucket, weakest to the fold bucket, until each
- *      bucket reaches the target frequency mass.
- *   3. If the range is smaller than 1.0 total weight, we normalise weights.
+ *   This is a placeholder implementation – once detailed range-evaluation
+ *   logic is available we can replace the naive splits below.
  *
- * @param {Object} opponentRange – Output of Step 11c, expects `combos` array.
- * @param {Object} frequencies   – Adjusted frequencies from Step 11p,
- *                                 shape: { fold, call, raise } (sum ≈ 1).
- * @returns {Object} { foldRange, callRange, raiseRange, metadata }
+ * @param {Object}   params
+ * @param {Object}   params.hand           – Full hand object (plain JS)
+ * @param {Array}    params.actions        – hand.bettingActions array
+ * @param {number}   params.actionIndex    – Index of current hero action
+ * @param {string}   params.opponentId     – PlayerId of the villain
+ * @param {Object}   params.weighted       – Output of 11o1 (probabilities & ranges)
+ * @returns {Object} { foldRange, callRange, raiseRange }
  */
-function calculateResponseRanges(opponentRange = {}, frequencies = { fold: 0.6, call: 0.3, raise: 0.1 }) {
-    if (!opponentRange.combos || opponentRange.combos.length === 0) {
-        return {
-            foldRange: [],
-            callRange: [],
-            raiseRange: [],
-            metadata: { error: 'No opponent range provided' }
-        };
-    }
+function calculateResponseRanges({ hand, actions, actionIndex, opponentId, weighted }) {
+  if (!hand || !actions || actionIndex === undefined) {
+    return { foldRange: [], callRange: [], raiseRange: [] };
+  }
 
-    // Clone and sort combos strongest → weakest
-    const combos = [...opponentRange.combos].sort((a, b) => (b.strength || 0.5) - (a.strength || 0.5));
+  try {
+    // 1. Reconstruct villain range up to this point
+    const opponentRange = getOpponentRangeAtActionIndex(
+      hand,
+      actions,
+      opponentId,
+      actionIndex
+    );
 
-    // Normalise total weight to 1.0
-    const totalWeight = combos.reduce((sum, c) => sum + (c.weight || 0), 0) || 1;
-    combos.forEach(c => { c.normWeight = (c.weight || 0) / totalWeight; });
-
-    const target = {
-        raise: frequencies.raise,
-        call: frequencies.call,
-        fold: frequencies.fold
+    // 2. Determine response frequencies to hit
+    const frequencies = weighted?.probabilities || weighted?.adjustedFrequencies || {
+      fold: 0.6,
+      call: 0.3,
+      raise: 0.1
     };
 
-    const buckets = {
-        raiseRange: [],
-        callRange: [],
-        foldRange: []
+    // 3. Evaluate ranges by strength categories
+    const board = hand.board || [];
+    const actionAnalysis = {};
+    const rangesByStrength = calculateRangesByStrength(
+      opponentRange,
+      board,
+      frequencies,
+      actionAnalysis
+    );
+
+    // 4. Validate and normalize to ensure frequencies match targets
+    const validated = validateAndNormalizeRanges(rangesByStrength, frequencies);
+
+    // 5. Convert to simple string arrays for storage (e.g., 'AhKd')
+    const toStringArray = arr => arr.map(c => canonicalKey(c.hand));
+
+    return {
+      foldRange: toStringArray(validated.foldingRange || []),
+      callRange: toStringArray(validated.callingRange || []),
+      raiseRange: toStringArray(validated.raisingRange || [])
     };
+  } catch (err) {
+    console.error('Step11r calculateResponseRanges error:', err.message);
+    return { foldRange: [], callRange: [], raiseRange: [] };
+  }
+}
 
-    // Helper to allocate combos until bucket weight >= target
-    const allocate = (bucketName, iterator) => {
-        let acc = 0;
-        for (const combo of iterator()) {
-            if (combo._allocated) continue;
-            if (acc >= target[bucketName.replace('Range', '')] - 1e-6) break;
-            buckets[bucketName].push(combo);
-            acc += combo.normWeight;
-            combo._allocated = true;
-        }
-        return acc;
-    };
-
-    // 1. Allocate raises from top-strength first
-    allocate('raiseRange', () => combos[Symbol.iterator]());
-
-    // 2. Allocate folds from bottom-strength first
-    allocate('foldRange', function* () {
-        for (let i = combos.length - 1; i >= 0; i--) yield combos[i];
-    });
-
-    // 3. Remaining unallocated → call bucket
-    combos.forEach(c => {
-        if (!c._allocated) buckets.callRange.push(c);
-    });
-
-    // Metadata summary
-    const summary = {
-        targetFrequencies: frequencies,
-        achieved: {
-            raise: buckets.raiseRange.reduce((s, c) => s + c.normWeight, 0),
-            call: buckets.callRange.reduce((s, c) => s + c.normWeight, 0),
-            fold: buckets.foldRange.reduce((s, c) => s + c.normWeight, 0)
-        },
-        rangeSize: combos.length
-    };
-
-    return { ...buckets, metadata: summary };
+/**
+ * Persist Step-11r ranges into heroActions array.
+ *
+ * @param {String|ObjectId} handId – Mongo _id of the Hand.
+ * @param {Number} actionIndex     – Index inside heroActions array.
+ * @param {Object} ranges         – { foldRange, callRange, raiseRange }
+ * @returns {Promise<Object>} Mongo update result.
+ */
+async function storeResponseRangesToHeroActions(handId, actionIndex, ranges) {
+  if (!handId || actionIndex === undefined || !ranges) {
+    throw new Error('Invalid params for storeResponseRangesToHeroActions');
+  }
+  const basePath = `heroActions.${actionIndex}`;
+  const update = {
+    [`${basePath}.foldRange`]: ranges.foldRange ?? [],
+    [`${basePath}.callRange`]: ranges.callRange ?? [],
+    [`${basePath}.raiseRange`]: ranges.raiseRange ?? []
+  };
+  return Hand.updateOne({ _id: handId }, { $set: update });
 }
 
 /**
@@ -113,8 +124,20 @@ function calculateRangesByStrength(range, board, responseFrequencies, actionAnal
     const callingRange = [];
     const raisingRange = [];
 
+    // Remove any combos that duplicate cards on the board or duplicate internally
+    const isValidCombo = (comboArr, boardArr) => {
+        if (!Array.isArray(comboArr) || comboArr.length !== 2) return false;
+        const [c1, c2] = comboArr;
+        if (c1 === c2) return false; // duplicate hole card
+        // Check overlap with board
+        if (boardArr && boardArr.some(b => b === c1 || b === c2)) return false;
+        return true;
+    };
+
+    const filteredRange = range.filter(c => isValidCombo(c.hand, board));
+
     // Sort range by weight (highest first) for better distribution
-    const sortedRange = [...range].sort((a, b) => b.weight - a.weight);
+    const sortedRange = [...filteredRange].sort((a, b) => b.weight - a.weight);
 
     // Calculate target counts based on frequencies
     const totalWeight = sortedRange.reduce((sum, combo) => sum + combo.weight, 0);
@@ -125,6 +148,9 @@ function calculateRangesByStrength(range, board, responseFrequencies, actionAnal
     let currentFoldWeight = 0;
     let currentCallWeight = 0;
     let currentRaiseWeight = 0;
+
+    // Map canonicalKey → { range: 'fold'|'call'|'raise', comboRef }
+    const usedKeys = new Map();
 
     for (const combo of sortedRange) {
         const strength = getHandStrengthCategory(combo.hand, board);
@@ -149,18 +175,34 @@ function calculateRangesByStrength(range, board, responseFrequencies, actionAnal
             responseType
         };
 
+        const key = canonicalKey(combo.hand);
+
+        if (usedKeys.has(key)) {
+            // Already assigned – aggregate weight into the existing combo
+            const existing = usedKeys.get(key);
+            existing.comboRef.weight += combo.weight;
+            if (existing.range === 'fold') currentFoldWeight += combo.weight;
+            else if (existing.range === 'call') currentCallWeight += combo.weight;
+            else if (existing.range === 'raise') currentRaiseWeight += combo.weight;
+            continue;
+        }
+
+        // First time this key appears – store normally
         switch (responseType) {
             case 'fold':
                 foldingRange.push(comboWithStrength);
                 currentFoldWeight += combo.weight;
+                usedKeys.set(key, { range: 'fold', comboRef: comboWithStrength });
                 break;
             case 'call':
                 callingRange.push(comboWithStrength);
                 currentCallWeight += combo.weight;
+                usedKeys.set(key, { range: 'call', comboRef: comboWithStrength });
                 break;
             case 'raise':
                 raisingRange.push(comboWithStrength);
                 currentRaiseWeight += combo.weight;
+                usedKeys.set(key, { range: 'raise', comboRef: comboWithStrength });
                 break;
         }
     }
@@ -453,5 +495,6 @@ module.exports = {
     validateAndNormalizeRanges,
     adjustRangesToTargets,
     calculateRangeConfidence,
-    getRangeSummary
+    getRangeSummary,
+    storeResponseRangesToHeroActions
 }; 

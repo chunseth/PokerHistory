@@ -1,73 +1,54 @@
 /**
- * Step 11t: Calculate Weighted Average Raise Size
- * -------------------------------------------------------------
- * Consumes the raise sizing catalogue produced in Step 11s together with a
- * probability distribution for each sizing tier (small / medium / large /
- * all-in). It returns a single weighted average size plus helpful breakdowns.
+ * Step 11t: Weight Raise Sizing Options
+ * --------------------------------------------------
+ * Given the sizing catalogue produced by 11s, assign probabilities to each
+ * sizing bucket (small / medium / large / all_in).  The weights should reflect
+ * simple strategic heuristics:
+ *   • At low SPR villain prefers small raises (more flatting)
+ *   • Deep SPR encourages larger raises
+ *   • In tournament situations when short-stacked (< 15bb) all-in weight rises
+ *   • Overbet/2×pot is used sparingly (large bucket)
  *
- * The caller can supply custom probabilities. If the provided distribution is
- * incomplete or does not sum to 1.0, the function normalises it.  Default
- * baseline (if nothing is supplied) is skewed toward small/medium raises:
- *        { small: 0.4, medium: 0.35, large: 0.2, all_in: 0.05 }
+ * For now we approximate with the following logic:
+ *   1. Compute SPR (stack-to-pot ratio after hero bet).
+ *   2. Map SPR → base weights table.
+ *   3. Normalise to ensure weights sum to 1.
  *
- * Pot-odds & implied-odds hooks: optional callbacks allow a parent module to
- * adjust probabilities before weighting.  For now we simply expose the spots
- * where such adjustments can be plugged in.
- *
- * @param {Object} sizingObj – output of estimateRaiseSizing(), keys `small|medium|large|all_in`.
- * @param {Object} sizeProbs – { small, medium, large, all_in } (optional).
- * @param {Function} [adjustFn] – optional callback (potOdds, impliedOdds) => newProbs
- * @returns {Object} {
- *    weightedSize,               // absolute chip amount
- *    weightedPotRatio,           // size / pot
- *    distribution,               // final prob distribution used
- *    breakdown,                  // per tier { amount, prob, contribution }
- *    metadata }
+ * @param {Object} params
+ * @param {Object} params.catalogue     – Output of buildRaiseSizingCatalogue
+ * @param {number} params.potSize       – Pot size before villain acts
+ * @param {number} params.opponentStack – Villain stack before acting
+ * @returns {Object} weighted – { small:{amount, weight}, medium:{...}, large:{...}, all_in:{...} }
  */
-function calculateWeightedAverageRaiseSize(sizingObj = {}, sizeProbs = {}, adjustFn) {
-    // Fallback distribution
-    const defaultProbs = { small: 0.4, medium: 0.35, large: 0.2, all_in: 0.05 };
-    const probs = { ...defaultProbs, ...sizeProbs };
+function weightRaiseSizing({ catalogue = {}, potSize = 0, opponentStack = Infinity }) {
+  const spr = potSize ? opponentStack / potSize : Infinity;
 
-    // Allow external adjustment (e.g., pot-odds / implied-odds)
-    const finalProbs = typeof adjustFn === 'function' ? adjustFn(probs) || probs : probs;
+  // Base weights by SPR bucket
+  let weights;
+  if (spr <= 2) {
+    // Short SPR – shove or small
+    weights = { small: 0.45, medium: 0.25, large: 0.1, all_in: 0.2 };
+  } else if (spr <= 4) {
+    weights = { small: 0.4, medium: 0.35, large: 0.2, all_in: 0.05 };
+  } else if (spr <= 8) {
+    weights = { small: 0.35, medium: 0.4, large: 0.2, all_in: 0.05 };
+  } else {
+    // Deep
+    weights = { small: 0.3, medium: 0.4, large: 0.25, all_in: 0.05 };
+  }
 
-    // Normalise to 1
-    const totalP = Object.values(finalProbs).reduce((s, p) => s + (p || 0), 0) || 1;
-    Object.keys(finalProbs).forEach(k => { finalProbs[k] = (finalProbs[k] || 0) / totalP; });
+  // Attach amounts and normalise
+  const total = Object.values(weights).reduce((s, w) => s + w, 0);
+  const norm = key => ({ amount: catalogue[key] ?? 0, weight: weights[key] / total });
 
-    // Helper
-    const amt = key => (sizingObj[key] ? sizingObj[key].amount : 0);
-
-    const contributions = {
-        small:  amt('small')  * finalProbs.small,
-        medium: amt('medium') * finalProbs.medium,
-        large:  amt('large')  * finalProbs.large,
-        all_in: amt('all_in') * finalProbs.all_in
-    };
-
-    const weightedSize = Object.values(contributions).reduce((s, v) => s + v, 0);
-    const potSize = sizingObj.metadata?.potSize || 1;
-
-    return {
-        weightedSize,
-        weightedPotRatio: weightedSize / potSize,
-        distribution: finalProbs,
-        breakdown: {
-            small:  { amount: amt('small'),  prob: finalProbs.small,  contribution: contributions.small },
-            medium: { amount: amt('medium'), prob: finalProbs.medium, contribution: contributions.medium },
-            large:  { amount: amt('large'),  prob: finalProbs.large,  contribution: contributions.large },
-            all_in: { amount: amt('all_in'), prob: finalProbs.all_in, contribution: contributions.all_in }
-        },
-        metadata: {
-            spr: sizingObj.metadata?.spr,
-            potSize,
-            effectiveStack: sizingObj.metadata?.effectiveStack,
-            currentBet: sizingObj.metadata?.currentBet
-        }
-    };
+  return {
+    small: norm('small'),
+    medium: norm('medium'),
+    large: norm('large'),
+    all_in: norm('all_in')
+  };
 }
 
 module.exports = {
-    calculateWeightedAverageRaiseSize
+  weightRaiseSizing
 }; 

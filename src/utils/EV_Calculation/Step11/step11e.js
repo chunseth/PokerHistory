@@ -34,12 +34,21 @@ function calculateBaseFoldFrequency(playerAction, potOdds, opponentRange, street
     // Calculate range strength based fold frequency
     const rangeStrengthFoldFrequency = calculateRangeStrengthFoldFrequency(opponentRange, playerAction);
     
+    // Helper to guarantee numeric value
+    const safe = (v, d = 0.5) => (Number.isFinite(v) ? v : d);
+
+    // Sanitize inputs before combination
+    const gtoSafe = safe(gtoFoldFrequency);
+    const betSafe = safe(betSizingFoldFrequency);
+    const potSafe = safe(potOddsFoldFrequency);
+    const rangeSafe = safe(rangeStrengthFoldFrequency);
+
     // Combine all factors to get final fold frequency
     const finalFoldFrequency = combineFoldFrequencyFactors({
-        gto: gtoFoldFrequency,
-        betSizing: betSizingFoldFrequency,
-        potOdds: potOddsFoldFrequency,
-        rangeStrength: rangeStrengthFoldFrequency,
+        gto: gtoSafe,
+        betSizing: betSafe,
+        potOdds: potSafe,
+        rangeStrength: rangeSafe,
         streetPatterns: streetPatterns.adjustedFoldFrequency
     });
 
@@ -48,18 +57,18 @@ function calculateBaseFoldFrequency(playerAction, potOdds, opponentRange, street
 
     return {
         baseFoldFrequency: finalFoldFrequency,
-        gtoFoldFrequency,
-        betSizingFoldFrequency,
-        potOddsFoldFrequency,
-        rangeStrengthFoldFrequency,
-        finalFoldFrequency,
+        gtoFoldFrequency: gtoSafe,
+        betSizingFoldFrequency: betSafe,
+        potOddsFoldFrequency: potSafe,
+        rangeStrengthFoldFrequency: rangeSafe,
+        finalFoldFrequency: safe(finalFoldFrequency),
         foldFrequencyFactors,
         explanation: generateFoldFrequencyExplanation({
-            gto: gtoFoldFrequency,
-            betSizing: betSizingFoldFrequency,
-            potOdds: potOddsFoldFrequency,
-            rangeStrength: rangeStrengthFoldFrequency,
-            final: finalFoldFrequency
+            gto: gtoSafe,
+            betSizing: betSafe,
+            potOdds: potSafe,
+            rangeStrength: rangeSafe,
+            final: safe(finalFoldFrequency)
         })
     };
 }

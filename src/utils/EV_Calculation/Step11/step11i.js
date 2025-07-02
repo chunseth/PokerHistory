@@ -39,8 +39,8 @@ function adjustForMultiwayVsHeadsUp(hand, actions, actionIndex, playerAction, st
     });
 
     // Apply adjustment to the fold frequency from previous steps
-    const baseFoldFrequency = 0.5 + (stackDepthAdjustment?.overallStackAdjustment || 0);
-    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, baseFoldFrequency + overallMultiwayAdjustment));
+    const baseFoldFrequency = safeNum(0.5 + (stackDepthAdjustment?.overallStackAdjustment || 0), 0.5);
+    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, baseFoldFrequency + safeNum(overallMultiwayAdjustment)));
 
     return {
         multiwayAdjustment: overallMultiwayAdjustment,
@@ -430,6 +430,7 @@ function calculateOverallMultiwayAdjustment(adjustments) {
 function generateMultiwayExplanation(data) {
     const { multiwayInfo, adjustments } = data;
     const explanations = [];
+    const fmt = (n) => Number.isFinite(n) ? n.toFixed(1) : '--';
 
     // Multiway category
     const categoryNames = {
@@ -446,14 +447,16 @@ function generateMultiwayExplanation(data) {
     }
 
     // Multiway adjustment
-    if (Math.abs(adjustments.overall) > 0.01) {
-        const direction = adjustments.overall > 0 ? 'increases' : 'decreases';
-        explanations.push(`Multiway dynamics ${direction} fold frequency by ${Math.abs(adjustments.overall * 100).toFixed(1)}%`);
+    const overallAdj = safeNum(adjustments.overall);
+    if (Math.abs(overallAdj) > 0.01) {
+        const direction = overallAdj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Multiway dynamics ${direction} fold frequency by ${(Math.abs(overallAdj) * 100).toFixed(1)}%`);
     }
 
     // Pot odds adjustment
-    if (multiwayInfo.multiwayPotOddsAdjustment > 1.0) {
-        explanations.push(`Worse pot odds needed (${multiwayInfo.multiwayPotOddsAdjustment.toFixed(1)}x adjustment)`);
+    const potAdj = safeNum(multiwayInfo.multiwayPotOddsAdjustment, 1);
+    if (potAdj > 1.0) {
+        explanations.push(`Worse pot odds needed (${fmt(potAdj)}x adjustment)`);
     }
 
     // Multiway dynamics
@@ -461,12 +464,16 @@ function generateMultiwayExplanation(data) {
         explanations.push('High continuation bet frequency');
     }
 
-    if (multiwayInfo.multiwayDynamics.checkRaiseFrequency > 0.3) {
+    if (safeNum(multiwayInfo.multiwayDynamics.checkRaiseFrequency) > 0.3) {
         explanations.push('High check-raise frequency');
     }
 
     return explanations.join('. ');
 }
+
+// Numeric guard
+const safeNum = (v, def = 0) => (Number.isFinite(v) ? v : def);
+
 
 module.exports = {
     adjustForMultiwayVsHeadsUp,

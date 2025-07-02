@@ -38,8 +38,8 @@ function adjustForPosition(playerAction, hand, opponentId, rangeStrengthAdjustme
     });
 
     // Apply adjustment to the fold frequency from previous steps
-    const baseFoldFrequency = 0.5 + (rangeStrengthAdjustment?.overallAdjustment || 0);
-    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, baseFoldFrequency + overallPositionAdjustment));
+    const baseFoldFrequency = safeNum(0.5 + (rangeStrengthAdjustment?.overallAdjustment || 0), 0.5);
+    const adjustedFoldFrequency = Math.min(0.95, Math.max(0.05, baseFoldFrequency + safeNum(overallPositionAdjustment)));
 
     return {
         positionAdjustment: overallPositionAdjustment,
@@ -320,31 +320,38 @@ function generatePositionExplanation(data) {
     }
 
     // In-position adjustment
-    if (positionInfo.isOpponentInPosition && Math.abs(adjustments.inPosition) > 0.01) {
-        const direction = adjustments.inPosition > 0 ? 'increases' : 'decreases';
-        explanations.push(`In-position advantage ${direction} fold frequency by ${Math.abs(adjustments.inPosition * 100).toFixed(1)}%`);
+    if (positionInfo.isOpponentInPosition) {
+        const adj = safeNum(adjustments.inPosition);
+        const direction = adj < 0 ? 'decreases' : 'increases';
+        explanations.push(`In-position advantage ${direction} fold frequency by ${(Math.abs(adj) * 100).toFixed(1)}%`);
     }
 
     // Out-of-position adjustment
-    if (positionInfo.isPlayerInPosition && Math.abs(adjustments.outOfPosition) > 0.01) {
-        const direction = adjustments.outOfPosition > 0 ? 'increases' : 'decreases';
-        explanations.push(`Out-of-position disadvantage ${direction} fold frequency by ${Math.abs(adjustments.outOfPosition * 100).toFixed(1)}%`);
+    if (positionInfo.isPlayerInPosition) {
+        const adj = safeNum(adjustments.outOfPosition);
+        const direction = adj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Out-of-position disadvantage ${direction} fold frequency by ${(Math.abs(adj) * 100).toFixed(1)}%`);
     }
 
     // Blind adjustment
-    if (positionInfo.isBlindVsBlind && Math.abs(adjustments.blind) > 0.01) {
-        const direction = adjustments.blind > 0 ? 'increases' : 'decreases';
-        explanations.push(`Blind vs blind dynamics ${direction} fold frequency by ${Math.abs(adjustments.blind * 100).toFixed(1)}%`);
+    if (positionInfo.isBlindVsBlind) {
+        const adj = safeNum(adjustments.blind);
+        const direction = adj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Blind vs blind dynamics ${direction} fold frequency by ${(Math.abs(adj) * 100).toFixed(1)}%`);
     }
 
     // Overall adjustment
-    if (Math.abs(adjustments.overall) > 0.01) {
-        const direction = adjustments.overall > 0 ? 'increases' : 'decreases';
-        explanations.push(`Overall position adjustment ${direction} fold frequency by ${Math.abs(adjustments.overall * 100).toFixed(1)}%`);
+    const overallAdj = safeNum(adjustments.overall);
+    if (Math.abs(overallAdj) > 0.05) {
+        const direction = overallAdj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Overall position adjustment ${direction} fold frequency by ${(Math.abs(overallAdj) * 100).toFixed(1)}%`);
     }
 
     return explanations.join('. ');
 }
+
+// Utility to ensure finite numeric
+const safeNum = (v, def = 0) => (Number.isFinite(v) ? v : def);
 
 module.exports = {
     adjustForPosition,

@@ -155,34 +155,38 @@ function generateCallFrequencyExplanation(data) {
     const explanations = [];
 
     // Base call frequency
-    explanations.push(`Base call frequency from pot odds: ${(base * 100).toFixed(1)}%`);
+    explanations.push(`Base call frequency from pot odds: ${fmtPct(safeNum(base))}%`);
 
     // Stack depth adjustment
-    if (Math.abs(adjustments.stackDepth) > 0.01) {
-        const direction = adjustments.stackDepth > 0 ? 'increases' : 'decreases';
-        explanations.push(`Stack depth (${stackDepthInfo.stackDepthCategory}) ${direction} call frequency by ${Math.abs(adjustments.stackDepth * 100).toFixed(1)}%`);
+    if (Math.abs(safeNum(adjustments.stackDepth)) > 0.01) {
+        const sdAdj = safeNum(adjustments.stackDepth);
+        const direction = sdAdj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Stack depth (${stackDepthInfo.stackDepthCategory}) ${direction} call frequency by ${fmtPct(Math.abs(sdAdj))}%`);
     }
 
     // Multiway adjustment
-    if (Math.abs(adjustments.multiway) > 0.01) {
-        const direction = adjustments.multiway > 0 ? 'increases' : 'decreases';
-        explanations.push(`Multiway dynamics ${direction} call frequency by ${Math.abs(adjustments.multiway * 100).toFixed(1)}%`);
+    if (Math.abs(safeNum(adjustments.multiway)) > 0.01) {
+        const mwAdj = safeNum(adjustments.multiway);
+        const direction = mwAdj > 0 ? 'increases' : 'decreases';
+        explanations.push(`Multiway dynamics ${direction} call frequency by ${fmtPct(Math.abs(mwAdj))}%`);
     }
 
     // Position adjustment
-    if (Math.abs(adjustments.position) > 0.01) {
-        const direction = adjustments.position > 0 ? 'increases' : 'decreases';
+    if (Math.abs(safeNum(adjustments.position)) > 0.01) {
+        const posAdj = safeNum(adjustments.position);
+        const direction = posAdj > 0 ? 'increases' : 'decreases';
         const positionContext = positionInfo.isOpponentInPosition ? 'in position' : 'out of position';
-        explanations.push(`Position (${positionContext}) ${direction} call frequency by ${Math.abs(adjustments.position * 100).toFixed(1)}%`);
+        explanations.push(`Position (${positionContext}) ${direction} call frequency by ${fmtPct(Math.abs(posAdj))}%`);
     }
 
     // Pot context
     if (potOdds.callAmount > 0) {
-        explanations.push(`Call amount: ${potOdds.callAmount}BB (${(potOdds.potOdds * 100).toFixed(1)}% of pot)`);
+        explanations.push(`Call amount: ${potOdds.callAmount}BB (${fmtPct(safeNum(potOdds.potOdds))}% of pot)`);
     }
 
     // Stack depth context
-    explanations.push(`Stack depth: ${stackDepthInfo.stackToPotRatio.toFixed(1)}x pot` + 
+    const sprVal = safeNum(stackDepthInfo.stackToPotRatio, 1);
+    explanations.push(`Stack depth: ${sprVal.toFixed(1)}x pot` + 
         (stackDepthInfo.isTournament ? ' (tournament)' : ' (cash game)'));
 
     // Multiway context
@@ -205,10 +209,14 @@ function generateCallFrequencyExplanation(data) {
     }
 
     // Overall call frequency
-    explanations.push(`Overall call frequency: ${(overall * 100).toFixed(1)}%`);
+    explanations.push(`Overall call frequency: ${fmtPct(safeNum(overall))}%`);
 
     return explanations.join('. ');
 }
+
+// Utility guard for numeric values
+const safeNum = (v, def = 0) => (Number.isFinite(v) ? v : def);
+const fmtPct = (v) => Number.isFinite(v) ? (v * 100).toFixed(1) : '--';
 
 module.exports = {
     calculateCallFrequency,

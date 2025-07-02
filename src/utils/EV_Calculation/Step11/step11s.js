@@ -108,6 +108,71 @@ function estimateRaiseSizing(context = {}) {
     };
 }
 
+/**
+ * Step 11s: Build Raise-Sizing Catalogue
+ * --------------------------------------------------
+ * For a given hero betting action we need a catalogue of reasonable raise (or
+ * re-raise) sizes that the opponent might choose if they respond with a raise.
+ * Later steps (11t) will assign weights to these sizes; Mid-EV steps (14+)
+ * will calculate EV for each.  For now we derive a handful of canonical
+ * fractions of the pot plus the opponent's all-in sizing.
+ *
+ * NOTE: This is an initial heuristic implementation – it does not account for
+ * stack depth constraints beyond a simple min(stack, size) clamp.
+ *
+ * @param {Object} params
+ * @param {Object} params.hand          – Full hand object (Mongoose plain obj)
+ * @param {number} params.actionIndex   – Index of hero action within bettingActions
+ * @param {Object} params.playerAction  – Analysis object from Step 11a
+ * @param {number} params.potBefore     – Pot size before the hero action
+ * @param {number} params.betSize       – Hero's bet/raise size
+ * @param {number} params.opponentStack – Villain's remaining stack before acting
+ * @returns {Object} catalogue – { minRaise, halfPot, pot, twoPot, allIn }
+ */
+function buildRaiseSizingCatalogue({
+  hand,
+  actionIndex,
+  playerAction = {},
+  potBefore = 0,
+  betSize = 0,
+  opponentStack = Infinity
+}) {
+  // Minimum legal raise in no-limit: previous bet + (bet – last raise size).
+  // For simplicity assume twice the hero bet.
+  const minRaise = clamp(betSize * 2, 0, opponentStack);
+
+  const halfPot = clamp(potBefore * 0.5 + betSize * 2, 0, opponentStack); // raise to half-pot total
+  const pot = clamp(potBefore + betSize * 2, 0, opponentStack);            // raise to pot
+  const twoPot = clamp((potBefore + betSize) * 2, 0, opponentStack);       // approx 2× pot (overbet)
+  const allIn = opponentStack;                                             // shove
+
+  // Map to size buckets expected by 11t so that amounts aren't 0
+  const sizeBuckets = {
+    // For most spots villain's "small" raise is the minimum legal raise
+    small: minRaise,
+    // "medium" ≈ raise-to-pot (or half-pot if that exceeds stack)
+    medium: pot,
+    // "large" ≈ over-bet / two-pot (capped at stack)
+    large: twoPot,
+    // All-in bucket
+    all_in: allIn
+  };
+
+  return {
+    minRaise,
+    halfPot,
+    pot,
+    twoPot,
+    allIn,
+    ...sizeBuckets
+  };
+}
+
+function clamp(x, low, high) {
+  return Math.max(low, Math.min(high, x));
+}
+
 module.exports = {
-    estimateRaiseSizing
+    estimateRaiseSizing,
+    buildRaiseSizingCatalogue
 }; 

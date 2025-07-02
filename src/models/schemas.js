@@ -68,6 +68,10 @@ const heroActionSchema = new Schema({
     },
     heroRange: { type: [[String]], default: undefined },
     villainRange: { type: [[String]], default: undefined },
+    foldRange: { type: [String], default: undefined },
+    callRange: { type: [String], default: undefined },
+    raiseRange: { type: [String], default: undefined },
+    responseModel: { type: Schema.Types.Mixed },
     responseFrequencies: {
         fold: { type: Number, min: 0, max: 1 },
         call: { type: Number, min: 0, max: 1 },
@@ -157,6 +161,8 @@ const handSchema = new Schema({
             }
         }
     },
+    // Flat array version of the board (flop + turn + river)
+    board: { type: [String] },
     bettingActions: [bettingActionSchema],
     heroActions: [heroActionSchema],
     potSize: { type: Number, required: true, min: 0 },

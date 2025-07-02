@@ -384,6 +384,7 @@ function calculateOverallStackAdjustment(adjustments) {
 function generateStackDepthExplanation(data) {
     const { stackDepthInfo, adjustments } = data;
     const explanations = [];
+    const fmt = (n) => Number.isFinite(n) ? n.toFixed(1) : '--';
 
     // Stack depth category
     const categoryNames = {
@@ -393,17 +394,18 @@ function generateStackDepthExplanation(data) {
         'all_in': 'All-in situation'
     };
     
-    explanations.push(`${categoryNames[stackDepthInfo.stackDepthCategory]} (${stackDepthInfo.stackToPotRatio.toFixed(1)}:1 SPR)`);
+    const spr = safeNum(stackDepthInfo.stackToPotRatio);
+    explanations.push(`${categoryNames[stackDepthInfo.stackDepthCategory]} (${fmt(spr)}:1 SPR)`);
 
     // Stack depth adjustment
-    if (Math.abs(adjustments.overall) > 0.01) {
-        const direction = adjustments.overall > 0 ? 'increases' : 'decreases';
-        explanations.push(`Stack depth ${direction} fold frequency by ${Math.abs(adjustments.overall * 100).toFixed(1)}%`);
-    }
+    const overallAdj = safeNum(adjustments.overall);
+    const direction = overallAdj > 0 ? 'increases' : 'decreases';
+    explanations.push(`Stack depth ${direction} fold frequency by ${(Math.abs(overallAdj) * 100).toFixed(1)}%`);
 
     // Implied odds
-    if (stackDepthInfo.impliedOddsPotential > 1.5) {
-        explanations.push(`Good implied odds potential (${stackDepthInfo.impliedOddsPotential.toFixed(1)}x)`);
+    const implied = safeNum(stackDepthInfo.impliedOddsPotential);
+    if (implied > 1.5) {
+        explanations.push(`Good implied odds potential (${fmt(implied)}x)`);
     }
 
     // Tournament considerations
@@ -418,6 +420,9 @@ function generateStackDepthExplanation(data) {
 
     return explanations.join('. ');
 }
+
+// Utility
+const safeNum = (v, def = 0) => (Number.isFinite(v) ? v : def);
 
 module.exports = {
     adjustForStackDepth,

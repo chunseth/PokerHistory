@@ -125,6 +125,14 @@ const heroActionSchema = new mongoose.Schema({
     heroRange: { type: [[String]], default: undefined },
     villainRange: { type: [[String]], default: undefined },
 
+    // Villain's split ranges for Step-11r output
+    foldRange: { type: [String], default: undefined },   // combos villain folds
+    callRange: { type: [String], default: undefined },   // combos villain calls with
+    raiseRange: { type: [String], default: undefined },  // combos villain raises with
+
+    // Aggregated Step-11 response model (u)
+    responseModel: { type: Object },
+
     responseFrequencies: {
         fold: { type: Number, min: 0, max: 1 },
         call: { type: Number, min: 0, max: 1 },
@@ -405,6 +413,47 @@ handSchema.methods.getActivePlayers = function() {
 handSchema.methods.getPlayerBet = function(playerIndex) {
     const streetBet = this.streetBets.find(bet => bet.playerIndex === playerIndex);
     return streetBet ? streetBet.amount : 0;
+};
+
+handSchema.virtual('board').get(function() {
+    const board = [];
+    if (this.communityCards?.flop?.length === 3) {
+        board.push(...this.communityCards.flop);
+    }
+    if (this.communityCards?.turn) {
+        board.push(this.communityCards.turn);
+    }
+    if (this.communityCards?.river) {
+        board.push(this.communityCards.river);
+    }
+    return board;
+});
+
+// Utility: pot size accumulated up to (but not including) a bettingAction index
+handSchema.methods.getPotSizeBeforeActionIndex = function(actionIndex) {
+    if (!Array.isArray(this.bettingActions)) return 0;
+    return this.bettingActions
+        .slice(0, actionIndex)
+        .reduce((total, a) => {
+            if (['bet', 'raise', 'call', 'post'].includes(a.action)) {
+                return total + (a.amount || 0);
+            }
+            return total;
+        }, 0);
+};
+
+// Utility: snapshot of each player's stack size before a given action index
+handSchema.methods.getPlayerStacksBeforeActionIndex = function(actionIndex) {
+    const startingStacks = { ...Object.fromEntries(this.playerStacks) };
+    const stacks = { ...startingStacks };
+    for (let i = 0; i < actionIndex; i++) {
+        const a = this.bettingActions[i];
+        if (!stacks[a.playerId]) continue;
+        if (['bet', 'raise', 'call', 'post'].includes(a.action)) {
+            stacks[a.playerId] -= a.amount || 0;
+        }
+    }
+    return stacks;
 };
 
 const Hand = mongoose.model('Hand', handSchema);
